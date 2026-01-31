@@ -1415,21 +1415,21 @@ Kedua-dua manual hardcopy (dicetak dan dijilid) dan softcopy (PDF, boleh cari) a
 | **M/O** | M |
 | **Compliance** | FULLY COMPLY |
 
-**Remarks & Evidence:**
+**Ulasan & Bukti:**
 
-**Complete Training Program:**
+**Program Latihan Lengkap:**
 
-**a. User Training:** Hands-on sessions for applicants and Urus Setia on system usage
+**a. Latihan Pengguna:** Sesi hands-on untuk pemohon dan Urus Setia tentang penggunaan sistem
 
-**b. Administrator Training:** In-depth training on system configuration, user management, and troubleshooting
+**b. Latihan Pentadbir:** Latihan mendalam tentang konfigurasi sistem, pengurusan pengguna, dan penyelesaian masalah
 
-**c. Transfer of Technology:** Knowledge transfer to PSUK technical staff on system maintenance
+**c. Pemindahan Teknologi:** Pemindahan pengetahuan kepada kakitangan teknikal PSUK tentang penyelenggaraan sistem
 
-**Training Methods:** Classroom sessions, hands-on labs, video tutorials, and reference materials.
+**Kaedah Latihan:** Sesi bilik darjah, makmal hands-on, tutorial video, dan bahan rujukan.
 
-**🚀 VALUE-ADD ENHANCEMENT:** **Train-the-Trainer** program certifies PSUK staff to train future users. **Training Portal** provides ongoing access to materials and e-learning modules. **Competency Assessment** validates learning with certificates. **Refresher Training** sessions included during warranty period. **Video Recording** of all training for future reference.
+**🚀 PENAMBAHBAIKAN NILAI TAMBAH:** Program **Latih-Jurulatih** mensijilkan kakitangan PSUK untuk melatih pengguna masa hadapan. **Portal Latihan** menyediakan akses berterusan kepada bahan dan modul e-pembelajaran. **Penilaian Kecekapan** mengesahkan pembelajaran dengan sijil. **Latihan Penyegar** sesi termasuk semasa tempoh waranti. **Rakaman Video** semua latihan untuk rujukan masa hadapan.
 
-*Evidence: Annex F.15 - Training Plan; Annex F.16 - Training Materials*
+*Bukti: Lampiran F.15 - Pelan Latihan; Lampiran F.16 - Bahan Latihan*
 
 ---
 
@@ -1441,21 +1441,21 @@ Kedua-dua manual hardcopy (dicetak dan dijilid) dan softcopy (PDF, boleh cari) a
 | **M/O** | M |
 | **Compliance** | FULLY COMPLY |
 
-**Remarks & Evidence:**
+**Ulasan & Bukti:**
 
-**Transfer of Technology (TOT) Program:**
+**Program Pemindahan Teknologi (TOT):**
 
-**Location:** PSUK Selangor training room or SESB training facility (based on PSUK preference)
+**Lokasi:** Bilik latihan PSUK Selangor atau kemudahan latihan SESB (berdasarkan pilihan PSUK)
 
-**Duration:** 5-day intensive program
+**Tempoh:** Program intensif 5 hari
 
-**Topics:** System architecture, database management, troubleshooting, backup/restore, security management, performance tuning
+**Topik:** Arkitektur sistem, pengurusan pangkalan data, penyelesaian masalah, sandaran/pemulihan, pengurusan keselamatan, penalaan prestasi
 
-Training includes hands-on exercises with actual system components.
+Latihan merangkumi latihan hands-on dengan komponen sistem sebenar.
 
-**🚀 VALUE-ADD ENHANCEMENT:** **TOT Lab Environment** dedicated training environment for hands-on practice without risk. **TOT Mentorship** 3-month post-training support with assigned mentor. **Technical Runbook** comprehensive operational guide. **Certification Exam** validates competency. **Emergency Escalation** direct line to SESB senior engineers during transition period.
+**🚀 PENAMBAHBAIKAN NILAI TAMBAH:** **Persekitaran Makmal TOT** persekitaran latihan khusus untuk latihan hands-on tanpa risiko. **Bimbingan TOT** sokongan 3 bulan pasca-latihan dengan mentor yang ditugaskan. **Buku Panduan Teknikal** panduan operasi komprehensif. **Peperiksaan Pensijilan** mengesahkan kecekapan. **Peningkatan Kecemasan** talian langsung ke jurutera kanan SESB semasa tempoh peralihan.
 
-*Evidence: Annex F.17 - TOT Curriculum; Annex F.18 - Training Facilities*
+*Bukti: Lampiran F.17 - Kurikulum TOT; Lampiran F.18 - Kemudahan Latihan*
 
 ---
 
@@ -1467,15 +1467,15 @@ Training includes hands-on exercises with actual system components.
 | **M/O** | M |
 | **Compliance** | FULLY COMPLY |
 
-**Remarks & Evidence:**
+**Ulasan & Bukti:**
 
-Complete inventory of all system files, modules, and server components will be provided including: File/module name and location, purpose description, dependencies, configuration parameters, and maintenance procedures.
+Inventori lengkap semua fail sistem, modul, dan komponen pelayan akan disediakan termasuk: Nama dan lokasi fail/modul, perihalan tujuan, kebergantungan, parameter konfigurasi, dan prosedur penyelenggaraan.
 
-**Inventory Format:** Spreadsheet and technical documentation with diagrams.
+**Format Inventori:** Helaian hamparan dan dokumentasi teknikal dengan gambarajah.
 
-**🚀 VALUE-ADD ENHANCEMENT:** **Interactive System Map** visual explorer showing all components and relationships. **Dependency Graph** illustrates how modules interact. **Change History** tracks modifications to each component. **Health Indicators** show status of each module.
+**🚀 PENAMBAHBAIKAN NILAI TAMBAH:** **Peta Sistem Interaktif** peneroka visual menunjukkan semua komponen dan hubungan. **Graf Kebergantungan** menggambarkan bagaimana modul berinteraksi. **Sejarah Perubahan** mengesan pengubahsuaian kepada setiap komponen. **Penunjuk Kesihatan** menunjukkan status setiap modul.
 
-*Evidence: Annex F.19 - System Inventory*
+*Bukti: Lampiran F.19 - Inventori Sistem*
 
 ---
 
@@ -1487,15 +1487,15 @@ Complete inventory of all system files, modules, and server components will be p
 | **M/O** | M |
 | **Compliance** | FULLY COMPLY |
 
-**Remarks & Evidence:**
+**Ulasan & Bukti:**
 
-Complete training documentation includes: Training agenda and schedule, attendance records, training materials (slides, handouts, exercises), video recordings, assessment results, and feedback forms.
+Dokumentasi latihan lengkap merangkumi: Agenda dan jadual latihan, rekod kehadiran, bahan latihan (slaid, risalah, latihan), rakaman video, keputusan penilaian, dan borang maklum balas.
 
-**Documentation Standards:** Professional formatting, version control, and searchable content.
+**Piawaian Dokumentasi:** Format profesional, kawalan versi, dan kandungan boleh cari.
 
-**🚀 VALUE-ADD ENHANCEMENT:** **Training Analytics** tracks completion rates and competency scores. **Feedback Analysis** identifies training improvement opportunities. **Certification Records** maintains database of trained personnel. **Training ROI Report** measures effectiveness.
+**🚀 PENAMBAHBAIKAN NILAI TAMBAH:** **Analitik Latihan** mengesan kadar penyiapan dan skor kecekapan. **Analisis Maklum Balas** mengenal pasti peluang penambahbaikan latihan. **Rekod Pensijilan** mengekalkan pangkalan data kakitangan yang dilatih. **Laporan ROI Latihan** mengukur keberkesanan.
 
-*Evidence: Annex F.20 - Training Documentation Standards*
+*Bukti: Lampiran F.20 - Piawaian Dokumentasi Latihan*
 
 ---
 
@@ -1507,15 +1507,15 @@ Complete training documentation includes: Training agenda and schedule, attendan
 | **M/O** | M |
 | **Compliance** | FULLY COMPLY |
 
-**Remarks & Evidence:**
+**Ulasan & Bukti:**
 
-Proposed training schedule provided in Annex F including: Training courses list, target audience, duration, prerequisites, learning objectives, and delivery method.
+Jadual latihan yang dicadangkan disediakan dalam Lampiran F termasuk: Senarai kursus latihan, sasaran audiens, tempoh, prasyarat, objektif pembelajaran, dan kaedah penghantaran.
 
-**Training Categories:** End-user training, administrator training, technical training, and TOT.
+**Kategori Latihan:** Latihan pengguna akhir, latihan pentadbir, latihan teknikal, dan TOT.
 
-**🚀 VALUE-ADD ENHANCEMENT:** **Training Needs Assessment** conducted before training to customize content. **Role-Based Learning Paths** tailored to different user types. **Microlearning Modules** 5-10 minute videos for specific tasks. **Gamification Elements** to increase engagement. **Community Forum** for peer-to-peer learning.
+**🚀 PENAMBAHBAIKAN NILAI TAMBAH:** **Penilaian Keperluan Latihan** dijalankan sebelum latihan untuk menyesuaikan kandungan. **Laluan Pembelajaran Berasaskan Peranan** disesuaikan untuk jenis pengguna yang berbeza. **Modul Mikropembelajaran** video 5-10 minit untuk tugas khusus. **Elemen Gamifikasi** untuk meningkatkan penglibatan. **Forum Komuniti** untuk pembelajaran rakan-ke-rakan.
 
-*Evidence: Annex F.15 - Training Plan; Annex F.21 - Training Calendar*
+*Bukti: Lampiran F.15 - Pelan Latihan; Lampiran F.21 - Kalendar Latihan*
 
 ---
 
@@ -1527,19 +1527,19 @@ Proposed training schedule provided in Annex F including: Training courses list,
 | **M/O** | M |
 | **Compliance** | FULLY COMPLY |
 
-**Remarks & Evidence:**
+**Ulasan & Bukti:**
 
-**Project Reporting Schedule:**
+**Jadual Pelaporan Projek:**
 
-**Progress Reports:** Minimum 3 reports (Month 2, Month 4, Month 6)
+**Laporan Kemajuan:** Minimum 3 laporan (Bulan 2, Bulan 4, Bulan 6)
 
-**Final Report:** Comprehensive project completion report including lessons learned, as-built documentation, and handover materials
+**Laporan Akhir:** Laporan penyiapan projek komprehensif termasuk pengajaran yang dipelajari, dokumentasi seperti-dibina, dan bahan penyerahan
 
-**Report Contents:** Executive summary, progress against plan, deliverables status, issues and risks, financial summary, and next steps.
+**Kandungan Laporan:** Ringkasan eksekutif, kemajuan berbanding pelan, status hasil kerja, isu dan risiko, ringkasan kewangan, dan langkah seterusnya.
 
-**🚀 VALUE-ADD ENHANCEMENT:** **Real-Time Project Dashboard** available 24/7 showing current status. **Predictive Analytics** forecasts completion dates based on actual progress. **Automated Report Generation** reduces preparation time. **Stakeholder-Specific Views** tailored reports for different audiences. **Benchmarking** compares project performance against industry standards.
+**🚀 PENAMBAHBAIKAN NILAI TAMBAH:** **Papan Pemuka Projek Masa Nyata** tersedia 24/7 menunjukkan status semasa. **Analitik Ramalan** meramalkan tarikh penyiapan berdasarkan kemajuan sebenar. **Penjanaan Laporan Automatik** mengurangkan masa penyediaan. **Pandangan Khusus Pemegang Kepentingan** laporan yang disesuaikan untuk audiens yang berbeza. **Penanda Aras** membandingkan prestasi projek dengan piawaian industri.
 
-*Evidence: Annex F.22 - Reporting Schedule; Annex F.23 - Report Templates*
+*Bukti: Lampiran F.22 - Jadual Pelaporan; Lampiran F.23 - Templat Laporan*
 
 ---
 
@@ -1553,19 +1553,19 @@ Proposed training schedule provided in Annex F including: Training courses list,
 | **M/O** | M |
 | **Compliance** | FULLY COMPLY |
 
-**Remarks & Evidence:**
+**Ulasan & Bukti:**
 
-SESB fully accepts the intellectual property terms:
+SESB menerima sepenuhnya terma harta intelek:
 
-**i. Source Code Ownership:** Complete source code delivered to Kerajaan Negeri Selangor upon project completion including all scripts, configurations, and documentation
+**i. Pemilikan Kod Sumber:** Kod sumber lengkap diserahkan kepada Kerajaan Negeri Selangor sebaik sahaja projek siap termasuk semua skrip, konfigurasi, dan dokumentasi
 
-**ii. Usage Restrictions:** SESB commits to no commercial use, distribution, or reuse of the specific ePingat system without written permission
+**ii. Sekatan Penggunaan:** SESB komited untuk tiada penggunaan komersial, pengedaran, atau penggunaan semula sistem ePingat tertentu tanpa kebenaran bertulis
 
-**Delivery Format:** Organized repository with documentation, build instructions, and dependency manifest.
+**Format Penghantaran:** Repositori teratur dengan dokumentasi, arahan pembinaan, dan manifest kebergantungan.
 
-**🚀 VALUE-ADD ENHANCEMENT:** **Code Documentation** comprehensive inline comments and external documentation. **Developer Onboarding Guide** helps future developers understand the codebase. **Architecture Decision Records** explain key technical choices. **Knowledge Transfer Sessions** walkthrough of critical code sections.
+**🚀 PENAMBAHBAIKAN NILAI TAMBAH:** **Dokumentasi Kod** komen inline komprehensif dan dokumentasi luaran. **Panduan Onboarding Pembangun** membantu pembangun masa hadapan memahami kod. **Rekod Keputusan Arkitektur** menerangkan pilihan teknikal utama. **Sesi Pemindahan Ilmu** ulasan bahagian kod kritikal.
 
-*Evidence: Annex F.24 - Source Code Handover; Annex F.25 - IP Assignment Agreement*
+*Bukti: Lampiran F.24 - Penyerahan Kod Sumber; Lampiran F.25 - Perjanjian Pemberian IP*
 
 ---
 
@@ -1579,15 +1579,15 @@ SESB fully accepts the intellectual property terms:
 | **M/O** | M |
 | **Compliance** | FULLY COMPLY |
 
-**Remarks & Evidence:**
+**Ulasan & Bukti:**
 
-SESB confirms no additional charges beyond the contract amount. All costs including testing, training, documentation, travel, and warranty support are included in the quoted price.
+SESB mengesahkan tiada caj tambahan melebihi jumlah kontrak. Semua kos termasuk ujian, latihan, dokumentasi, perjalanan, dan sokongan waranti termasuk dalam harga yang dikutip.
 
-**Fixed Price Commitment:** Scope changes will be handled through formal change control process with prior written approval.
+**Komitmen Harga Tetap:** Perubahan skop akan dikendalikan melalui proses kawalan perubahan formal dengan kelulusan bertulis terlebih dahulu.
 
-**🚀 VALUE-ADD ENHANCEMENT:** **Price Lock Guarantee**—no price increases for 12 months post-contract even if project extends. **Value Assurance** regular reviews ensure PSUK receives full contracted value.
+**🚀 PENAMBAHBAIKAN NILAI TAMBAH:** **Jaminan Kunci Harga**—tiada kenaikan harga untuk 12 bulan pasca-kontrak walaupun projek dilanjutkan. **Jaminan Nilai** semakan berkala memastikan PSUK menerima nilai kontrak penuh.
 
-*Evidence: Contract Terms*
+*Bukti: Terma Kontrak*
 
 ---
 
