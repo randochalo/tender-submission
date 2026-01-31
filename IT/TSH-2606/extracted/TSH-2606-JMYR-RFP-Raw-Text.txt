@@ -1,0 +1,537 @@
+JMYR
+
+Request for Proposal (RFP)
+
+A Tokenised Ringgit Settlement Rail for Payments, Cross-Border Transactions and
+Productive Capital
+
+Rev 1.0.1
+
+This document is intended for public release.
+
+JMYR
+
+Table of Content
+
+. Purpose and Objective
+. Scope of Work.
+. Timeline.
+. Confidentiality and Legal Term:
+. Risk and Constraints
+. Proposal Submission Instruction
+. Evaluation Criteria and Selection Process.............cccccesessesssseseseeeseseseeeeeseeeeesessssenneneesasseseee 1
+
+NOOR WD A
+CAND ANN
+
+JMYR
+
+1. Purpose and Objective
+
+1.1.
+
+1.2.
+
+1.3.
+
+JMYR Sdn. Bhd. is a Malaysia-based issuer of a MYR-denominated stablecoin,
+operating as a settlement provider and programmable payment rail. As part of its next
+phase of growth, JMYR is expanding beyond issuance into real-world use cases,
+ecosystem integrations, and market adoption.
+
+The stablecoin and tokenized payments landscape is evolving rapidly, driven by demand
+for faster cross-border settlement, improved transparency, and compliance-aligned
+digital payment infrastructure. In Malaysia, regulatory sandbox initiatives and ongoing
+policy developments related to JMYR indicate a clear regulatory direction toward
+compliant, fiat-backed digital settlement solutions.
+
+In this context, JMYR Sdn. Bhd. is issuing this Request for Proposal (RFP) to identify
+qualified partners for use cases, integrations, and collaborations involving the JMYR
+Stablecoin. This includes, but is not limited to, cross-border payment gateway
+implementation, audit and attestation services for reserve backing, and marketing or
+go-to-market partnerships. The objective is to support rapid cross-border settlement,
+regulatory-compliant operations, and user experiences suitable for both institutional and
+retail partners.
+
+This RFP is intended to provide a high-level overview of JMYR's objectives and
+requirements and does not purport to contain all information that may be relevant to
+respondents.
+
+2. Scope of Work
+
+2.1.
+
+The appointed partner(s) shall be expected to support the following scope areas.
+Proposals may address individual scope components or a combination thereof, subject
+to clear definition of responsibilities and dependencies.
+
+Scope Details
+Settlement and Payment Bank Interfacing
+The proposed solution shall Integration with domestic and/or international
+support settlement and payment banking systems to enable fiat on-ramp and
+capabilities involving the JMYR off-ramp flows, subject to applicable regulatory
+Stablecoin, including but not and operational requirements.
+
+limited to:
+Cross-border payment rails
+
+Support for cross-border settlement mechanisms
+that enable efficient transfer of value across
+jurisdictions, including interoperability with
+external payment networks, wallets, or financial
+
+JMYR
+
+institutions where applicable.
+
+Fiat liquidity provision
+
+Mechanisms to support fiat liquidity management,
+including funding, redemption, and settlement
+flows necessary to maintain stablecoin operations
+and payment continuity.
+
+Remittance
+
+Enablement of remittance-related payment flows
+using the JMYR Stablecoin, with appropriate
+controls for transaction processing, reconciliation,
+and reporting.
+
+Security & Compliance
+
+The proposed solution shall
+address security, compliance, and
+assurance requirements,
+including:
+
+Custody solution
+Secure storage and management of digital
+
+assets, including private key protection, access
+controls, and operational safeguards, whether on
+behalf of JMYR or its partners.
+
+AML/KYC integration
+Integration with AML and KYC systems or
+
+processes to support customer due diligence,
+transaction monitoring, and regulatory reporting
+obligations.
+
+Audit requirements (attestation reports)
+
+Support for independent audit and attestation
+activities, including generation of reports related
+to reserve backing, system controls, and
+compliance with applicable regulatory standards.
+
+JMYR
+
+3. Timeline
+
+The key dates and indicative timeline are outlined below.
+
+Activities
+
+Dates
+
+RFP issuance
+
+16 January 2026
+
+Confirmation of participants
+
+2 February 2026
+
+RFP proposal submission deadline
+
+6 March 2026
+
+RFP evaluation and presentation
+
+20 March 2026
+
+Partnership and Awards announcement
+
+30 March 2026
+
+JMYR
+
+4. Confidentiality and Legal Terms
+
+4.1.
+
+4.2.
+
+4.3.
+
+44.
+
+Use and Handling of Information
+
+Information shared by JMYR Sdn. Bhd. (“JMYR”) in connection with this Request for
+Proposal (“RFP”) is provided solely to support respondents’ evaluation of potential
+collaboration or participation opportunities within the JMYR ecosystem.
+
+Respondents are expected to apply reasonable safeguards to prevent unauthorised use
+or disclosure of such information and to ensure it is used only for purposes directly
+related to this RFP. Disclosure may be made only where required by applicable law or
+regulatory obligation, and where legally permissible, respondents should notify JMYR
+prior to such disclosure.
+
+Where a respondent is not appointed or does not proceed beyond the RFP stage, JMYR
+may request that materials or information shared as part of this process be returned or
+securely disposed of, subject to any retention obligations imposed by law, regulation, or
+internal governance requirements.
+
+No Offer. No Obligation
+This RFP is issued as an exploratory and engagement mechanism and does not
+
+constitute an offer, agreement, or commitment by JMYR to enter into any commercial,
+technical, or partnership arrangement.
+
+JMYR reserves the right, at its discretion, to amend, suspend, withdraw, reissue, or
+otherwise modify this RFP process, to engage with one or more respondents, or to
+decide not to proceed with any appointment or collaboration, without incurring liability to
+any respondent.
+
+Reliance on Proposal Content
+Information, statements, or proposals submitted by respondents may be referenced
+
+during subsequent discussions or negotiations should JMYR elect to progress with a
+respondent. Any such reliance shall be subject to mutual agreement and the execution
+of definitive documentation.
+
+No aspect of a respondent’s proposal shall be deemed contractually binding unless
+expressly agreed in writing by the parties.
+
+Authority and Accuracy
+Each proposal must be submitted by an individual authorised to represent and bind the
+
+respondent organisation for the purposes of this RFP. Submission of a proposal
+constitutes confirmation that the information provided is accurate, complete, and made in
+good faith at the time of submission.
+
+JMYR
+
+4.5.
+
+46.
+
+4.7.
+
+Costs and Participation
+All costs, expenses, and resources incurred by respondents in connection with the
+
+preparation and submission of proposals, participation in discussions, presentations, or
+clarification sessions shall be borne solely by the respondents.
+
+JMYR shall not be responsible for any costs or losses incurred by respondents arising
+from or related to this RFP process, regardless of outcome.
+
+Non-Exclusivity
+
+JMYR may appoint one or multiple respondents across different scope areas described
+in this RFP. Participation in this RFP or any subsequent appointment shall not be
+construed as exclusive unless expressly agreed in writing.
+
+Governing Law
+This RFP and any matters arising in connection with it shall be governed by and
+
+construed in accordance with the laws of Malaysia.
+
+JMYR
+
+5. Risk and Constraints
+
+This section outlines key risks and constraints that vendors must consider when preparing their
+
+proposals.
+
+Risk
+
+Constraints
+
+Operational Readiness
+Limited internal expertise or
+resource availability may
+impact implementation
+timelines, partner onboarding,
+or ongoing operational support.
+
+Technology partners must provide sufficient training,
+documentation, and operational support to enable
+JMYR’s teams to operate the solution effectively.
+
+Project timelines must account for internal readiness
+and resource availability. Integration readiness
+requirements that may be deferred during a sandbox
+phase are expected to be fully addressed prior to
+commercial deployment.
+
+Third-Party Lock-In
+Over-reliance on a single
+technology provider may
+reduce flexibility and increase
+switching costs in the future.
+
+The proposed solution must be designed for portability
+and scalability from the outset. This includes the use of
+standards-based interfaces, avoidance of
+vendor-exclusive infrastructure or nodes, and support
+for multi-region or multi-operator deployment.
+
+Proposals for commercialisation must include
+contractual safeguards such as exit provisions, escrow
+arrangements for critical assets, and defined migration
+support within service level agreements (SLAs).
+
+Timeline
+
+Delays in delivery may result in
+the project exceeding
+regulator-approved timelines.
+
+The project is intended to support potential submission
+to the Securities Commission Malaysia’s Regulatory
+Sandbox and/or Bank Negara Malaysia’s Digital Asset
+Innovation Hub (DAIH), subject to regulatory
+assessment and approval.
+
+Vendors must be prepared to support testing and
+delivery within timelines approved by the relevant
+regulators, which may include accelerated schedules.
+
+Regulatory Interpretation &
+Change
+
+Differences in regulatory
+interpretation or changes in
+regulatory requirements may
+impact solution design, delivery
+scope, or implementation
+timelines.
+
+The proposed solution must be designed with flexibility
+to accommodate evolving regulatory requirements.
+Vendors are expected to support updates, configuration
+changes, or control enhancements required by
+regulators during sandbox testing and prior to
+commercial deployment, without fundamental redesign
+of the solution.
+
+JMYR
+
+6. Proposal Submission Instructions
+
+6.1
+
+6.2
+
+6.3
+
+6.4
+
+6.5
+
+Proposal Format and Submission
+
+Respondents are required to submit their proposals in accordance with the instructions
+outlined in this section. Proposals should be clear, concise, and sufficiently detailed to
+enable JMYR to conduct a fair and comprehensive evaluation.
+
+Submission format
+
+i. Proposals shall be submitted in electronic format (PDF).
+
+ii. All documents must be provided in English.
+
+iii. | Any supporting materials including appendices, diagrams, certifications, must be
+clearly referenced in the main proposal and included as annexures.
+
+iv. Where applicable, respondents may submit a presentation deck in addition to the
+written proposal.The written proposal shall remain the primary submission for
+evaluation purposes
+
+Deadline for Submission
+
+The proposal submission deadline shall be as specified in Section 3: Timeline of this
+RFP. Proposals received after the stated deadline may be rejected at JMYR’s sole
+discretion.
+
+Point of Contact
+
+All communications relating to this RFP, including requests for clarification, must be
+directed to the designated contact person(s) appointed by JMYR. Respondents must not
+contact any other JMYR personnel in relation to this RFP unless expressly authorised in
+writing by JMYR. Failure to comply with this requirement may result in disqualification of
+the proposal.
+
+Presentation Requirements
+Shortlisted respondents may be invited to deliver a presentation to JMYR as part of the
+
+evaluation process. The presentation is intended to clarify and expand upon the
+submitted proposal and must not introduce material changes to the scope, pricing, or
+commercial assumptions unless explicitly requested by JMYR.
+
+Ata minimum, the presentation is expected to cover the following areas:
+
+i. | Overview of the proposed solution and its relevance to JMYR’s objectives
+ii. | Solution architecture, technology stack, and implementation approach
+iii. | Regulatory considerations and compliance alignment
+iv. Security, operational resilience, and risk management
+v. Commercial model, cost structure, and scalability
+
+JMYR
+
+6.6
+
+During or following the presentation, JMYR may raise additional questions, including but
+not limited to:
+
+i. | Whether the respondent is regulated by Bank Negara Malaysia (BNM), the
+Securities Commission Malaysia (SC), or an equivalent regulatory authority in
+another jurisdiction
+
+ii. Whether any component of the proposed solution constitutes a regulated activity,
+and if so, details of the proposed regulatory treatment and compliance approach
+
+Proposal and Presentation Content Guidelines
+
+To support a consistent and effective evaluation, respondents must structure their
+proposals and any related presentations to address the areas outlined below.
+Submissions should be factual, specific, and directly relevant to JMYR’s objectives.
+
+i. Company Profile and Background
+Corporate overview, ownership structure, relevant experience, and track record
+
+ii. | Problem Statement and Solution Fit
+Clear articulation of the problem(s) addressed and how the proposed solution
+delivers meaningful value to JMYR
+
+iii. | Product and Technology Overview
+Description of the solution, architecture, key features, and integration approach
+
+iv. Regulatory Scope and Compliance
+Identification of any regulatory implications, licences, approvals, or compliance
+obligations, including alignment with Malaysian regulatory frameworks where
+applicable
+
+v. Scalability and Growth Potential
+Ability of the solution to scale with increased transaction volume, users, and
+geographic expansion
+
+vi. Expansion and Cost Considerations
+Cost structure, pricing model, and anticipated costs for future expansion or
+additional functionalities
+
+vii. | Security and Safety Measures
+Cybersecurity controls, data protection, operational safeguards, and resilience
+measures
+
+vii. Risk Assessment
+
+Identification of potential technical, operational, regulatory, and business risks,
+together with mitigation strategies
+
+ix. Business and Commercial Model
+Commercial terms, partnership model, revenue or fee structure, and long-term
+sustainability
+
+JMYR
+
+6.7
+
+6.8
+
+Proposal Submission and Contact Details
+All proposals and formal communications relating to this RFP must be submitted
+electronically to the following official email address:
+
+rfp@jmyr.com.my
+
+Proposals submitted via any other channel or to any other email address may not be
+considered. Respondents are responsible for ensuring that their submissions are
+complete, properly labelled, and received by JMYR by the stated submission deadline.
+
+Any requests for clarification relating to this RFP must also be directed to the same email
+address, unless otherwise specified by JMYR.
+
+General Notes
+
+JMYR reserves the right to request additional information, conduct follow-up discussions,
+or seek clarification from any respondent as part of the evaluation process. Any
+information provided in response to such requests shall form part of the respondent's
+overall proposal.
+
+7. Evaluation Criteria and Selection Process
+
+7.1.
+
+7.2.
+
+Evaluation Overview
+
+All proposals submitted in response to this RFP will be evaluated by JMYR based on the
+criteria outlined in this section. The evaluation process is designed to ensure a fair,
+consistent, and transparent assessment of each proposal, taking into account JMYR’s
+strategic objectives, regulatory considerations, and long-term operational requirements.
+
+JMYR may conduct the evaluation in one or more stages, which may include initial
+screening, detailed technical and commercial assessment, presentations, clarification
+sessions, and due diligence, as deemed appropriate.
+
+Evaluation Criteria
+
+Proposals will be assessed holistically across the following non-exhaustive criteria. The
+relative importance of each criterion may vary depending on the scope and nature of the
+proposal. The criteria that we are looking into:
+
+i. Technical Capability and Solution Design
+ii. | Regulatory Alignment and Compliance Readiness
+iii. | Security, Risk Management, and Operational Resilience
+iv. _ Commercial and Financial Considerations
+v. Scalability and Long-Term Viability
+vi. | Organisational Experience and Capability
+
+10
+JMYR
+
+7.3.
+
+7A.
+
+75.
+
+Clarifications and Further Information
+
+As part of the evaluation process, JMYR may request additional information, written
+clarifications, or follow-up discussions with respondents. Respondents may also be
+invited to refine or explain aspects of their proposals, provided that such clarifications do
+not materially alter the scope, pricing, or commercial assumptions unless expressly
+requested by JMYR.
+
+Any information provided in response to such requests shall form part of the
+respondent's proposal for evaluation purposes.
+
+Selection and Appointment
+The selection of one or more respondents will be based on the overall assessment of
+
+proposals against the evaluation criteria and JMYR’s internal requirements. JMYR may
+appoint:
+
+i. A single partner covering multiple scope areas; or
+ii. | Multiple partners for different components of the scope described in this RFP.
+
+Appointment of any respondent shall be subject to the completion of internal approvals,
+regulatory considerations where applicable, and the successful negotiation and
+execution of definitive engagement documentation.
+
+No Obligation to Award
+Participation in this RFP does not guarantee selection or appointment. JMYR reserves
+
+the right not to appoint any respondent, even where proposals meet the evaluation
+criteria, if it determines that doing so is in its best interests.
+
+11
