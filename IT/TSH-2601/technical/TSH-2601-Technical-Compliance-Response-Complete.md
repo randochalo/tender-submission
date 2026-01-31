@@ -1216,18 +1216,18 @@ Pemasangan termasuk konfigurasi semua pelayan web, penyeimbang beban, dan titik 
 | **M/O** | M |
 | **Compliance** | FULLY COMPLY |
 
-**Remarks & Evidence:**
+**Ulasan & Bukti:**
 
-**Multi-Channel Notification System:**
-- SMS: Integration with Malaysian SMS gateway (supports all telcos)
-- WhatsApp: Official WhatsApp Business API integration
-- Email: SMTP integration with PSUK mail server, HTML templates
+**Sistem Pemberitahuan Pelbagai Saluran:**
+- SMS: Integrasi dengan gerbang SMS Malaysia (menyokong semua telco)
+- WhatsApp: Integrasi rasmi API WhatsApp Business
+- E-mel: Integrasi SMTP dengan pelayan mel PSUK, templat HTML
 
-**Notification Triggers:** Application submitted, status changes, approval required, offer ready, ceremony reminders.
+**Pemicu Pemberitahuan:** Permohonan dihantar, perubahan status, kelulusan diperlukan, tawaran sedia, peringatan majlis.
 
-**🚀 VALUE-ADD ENHANCEMENT:** **Notification Preferences** allow users to choose preferred channels. **Delivery Tracking** shows notification status (sent, delivered, read). **Template Designer** enables PSUK to customize messages without coding. **Notification Analytics** tracks delivery rates and engagement. **Fallback Chain** automatically tries alternative channels if primary fails.
+**🚀 PENAMBAHBAIKAN NILAI TAMBAH:** **Keutamaan Pemberitahuan** membolehkan pengguna memilih saluran keutamaan. **Pengesanan Penghantaran** menunjukkan status pemberitahuan (dihantar, disampaikan, dibaca). **Pereka Templat** membolehkan PSUK menyesuaikan mesej tanpa pengaturcaraan. **Analitik Pemberitahuan** mengesan kadar penghantaran dan penglibatan. **Rantaian Sandaran** automatik mencuba saluran alternatif jika utama gagal.
 
-*Evidence: Annex E.60 - Notification Architecture; Annex E.61 - Message Templates*
+*Bukti: Lampiran E.60 - Arkitektur Pemberitahuan; Lampiran E.61 - Templat Mesej*
 
 ---
 
@@ -1239,15 +1239,15 @@ Pemasangan termasuk konfigurasi semua pelayan web, penyeimbang beban, dan titik 
 | **M/O** | M |
 | **Compliance** | FULLY COMPLY |
 
-**Remarks & Evidence:**
+**Ulasan & Bukti:**
 
-Administrator configuration settings include: User management, role management, workflow configuration, notification settings, integration settings, system parameters, audit log access, and backup management.
+Tetapan konfigurasi pentadbir merangkumi: Pengurusan pengguna, pengurusan peranan, konfigurasi aliran kerja, tetapan pemberitahuan, tetapan integrasi, parameter sistem, akses log audit, dan pengurusan sandaran.
 
-**Configuration Interface:** User-friendly web interface with validation, help text, and change tracking.
+**Antara Muka Konfigurasi:** Antara muka web mesra pengguna dengan pengesahan, teks bantuan, dan pengesanan perubahan.
 
-**🚀 VALUE-ADD ENHANCEMENT:** **Configuration Wizards** guide administrators through complex setups. **Configuration Templates** provide starting points for common configurations. **Bulk Configuration** allows importing settings from spreadsheets. **Configuration Audit** tracks all changes with before/after comparison.
+**🚀 PENAMBAHBAIKAN NILAI TAMBAH:** **Pendeta Konfigurasi** membimbing pentadbir melalui persediaan kompleks. **Templat Konfigurasi** menyediakan titik permulaan untuk konfigurasi umum. **Konfigurasi Pukal** membolehkan import tetapan dari helaian hamparan. **Audit Konfigurasi** mengesan semua perubahan dengan perbandingan sebelum/selepas.
 
-*Evidence: Annex E.62 - Admin Configuration Guide*
+*Bukti: Lampiran E.62 - Panduan Konfigurasi Pentadbir*
 
 ---
 
@@ -1259,23 +1259,23 @@ Administrator configuration settings include: User management, role management, 
 | **M/O** | M |
 | **Compliance** | FULLY COMPLY |
 
-**Remarks & Evidence:**
+**Ulasan & Bukti:**
 
-**Technical Configuration Features:**
+**Ciri Konfigurasi Teknikal:**
 
-**a. Access & Logs:** Configure log levels, retention periods, and log forwarding
+**a. Akses & Log:** Konfigurasi tahap log, tempoh pengekalan, dan penghantaran log
 
-**b. Notification Settings:** Configure gateway credentials, rate limits, and default templates
+**b. Tetapan Pemberitahuan:** Konfigurasi kelayakan gerbang, had kadar, dan templat lalai
 
-**c. Masquerade Function:** Secure user impersonation for support with full audit trail
+**c. Fungsi Menyamar:** Penyamaran pengguna selamat untuk sokongan dengan jejak audit penuh
 
-**d. Extended Settings:** API rate limiting, cache configuration, queue settings
+**d. Tetapan Lanjutan:** Had kadar API, konfigurasi cache, tetapan baris gilir
 
-All technical settings include validation and rollback capability.
+Semua tetapan teknikal termasuk pengesahan dan keupayaan rollback.
 
-**🚀 VALUE-ADD ENHANCEMENT:** **Configuration Validation** prevents invalid settings that could break the system. **Environment Diff** compares configurations across environments. **Configuration as Code** allows version-controlled configuration changes.
+**🚀 PENAMBAHBAIKAN NILAI TAMBAH:** **Pengesahan Konfigurasi** mencegah tetapan tidak sah yang boleh merosakkan sistem. **Perbezaan Persekitaran** membandingkan konfigurasi merentasi persekitaran. **Konfigurasi sebagai Kod** membolehkan perubahan konfigurasi dikawal versi.
 
-*Evidence: Annex E.63 - Technical Configuration; Annex E.64 - System Settings*
+*Bukti: Lampiran E.63 - Konfigurasi Teknikal; Lampiran E.64 - Tetapan Sistem*
 
 ---
 
@@ -1287,25 +1287,25 @@ All technical settings include validation and rollback capability.
 | **M/O** | M |
 | **Compliance** | FULLY COMPLY |
 
-**Remarks & Evidence:**
+**Ulasan & Bukti:**
 
-**Comprehensive Audit Logging:**
+**Log Audit Komprehensif:**
 
-**a. Process Logs:** Business process execution with timestamps and outcomes
+**a. Log Proses:** Pelaksanaan proses perniagaan dengan cap masa dan hasil
 
-**b. Activity Logs:** User actions (login, view, create, update, delete) with before/after values
+**b. Log Aktiviti:** Tindakan pengguna (log masuk, lihat, cipta, kemas kini, padam) dengan nilai sebelum/selepas
 
-**c. Service Logs:** API calls, integrations, background jobs
+**c. Log Perkhidmatan:** Panggilan API, integrasi, kerja latar belakang
 
-**d. Email Logs:** All emails sent with delivery status and opens
+**d. Log E-mel:** Semua e-mel dihantar dengan status penghantaran dan pembukaan
 
-**e. SMS/WhatsApp Logs:** All messages with delivery confirmation
+**e. Log SMS/WhatsApp:** Semua mesej dengan pengesahan penghantaran
 
-**Log Features:** Immutable storage, advanced search, export capability, retention management, and tamper detection.
+**Ciri Log:** Storan tidak berubah, carian lanjutan, keupayaan eksport, pengurusan pengekalan, dan pengesanan gangguan.
 
-**🚀 VALUE-ADD ENHANCEMENT:** **Blockchain-Based Audit Trail** option for tamper-proof records. **Anomaly Detection** identifies unusual activity patterns. **Audit Dashboard** provides visual analytics of system activity. **Compliance Reports** pre-formatted for audit purposes. **Log Integration** with SIEM for centralized security monitoring.
+**🚀 PENAMBAHBAIKAN NILAI TAMBAH:** Pilihan **Jejak Audit Berasaskan Blockchain** untuk rekod tahan gangguan. **Pengesanan Anomali** mengenal pasti corak aktiviti luar biasa. **Papan Pemuka Audit** menyediakan analitik visual aktiviti sistem. **Laporan Pematuhan** praformat untuk tujuan audit. **Integrasi Log** dengan SIEM untuk pemantauan keselamatan berpusat.
 
-*Evidence: Annex I.12 - Audit Trail Architecture; Annex I.13 - Log Retention Policy*
+*Bukti: Lampiran I.12 - Arkitektur Jejak Audit; Lampiran I.13 - Dasar Pengekalan Log*
 
 ---
 
@@ -1317,23 +1317,23 @@ All technical settings include validation and rollback capability.
 | **M/O** | M |
 | **Compliance** | FULLY COMPLY |
 
-**Remarks & Evidence:**
+**Ulasan & Bukti:**
 
-**Data History & Archiving:**
+**Sejarah Data & Pengarkiban:**
 
-**User Level:** Users can view their historical applications and status changes
+**Peringkat Pengguna:** Pengguna boleh melihat permohonan sejarah dan perubahan status mereka
 
-**Administrator Level:** Complete archive access with advanced search and filtering
+**Peringkat Pentadbir:** Akses arkib lengkap dengan carian dan penapisan lanjutan
 
-**Automatic Archiving:** Old data automatically archived after defined retention periods
+**Pengarkiban Automatik:** Data lama diarkibkan secara automatik selepas tempoh pengekalan ditakrifkan
 
-**Archive Storage:** Separate storage tier for historical data with compression
+**Storan Arkib:** Peringkat storan berasingan untuk data sejarah dengan mampatan
 
-**Archive Features:** Read-only access, export capability, and audit trail of archive access.
+**Ciri Arkib:** Akses baca-sahaja, keupayaan eksport, dan jejak audit akses arkib.
 
-**🚀 VALUE-ADD ENHANCEMENT:** **Time Machine View** shows system state at any historical point. **Archive Analytics** provides insights from historical data trends. **Smart Archiving** automatically determines optimal archive timing based on data usage patterns. **Archive Search** full-text search across all archived records.
+**🚀 PENAMBAHBAIKAN NILAI TAMBAH:** **Pandangan Mesin Masa** menunjukkan keadaan sistem pada mana-mana titik sejarah. **Analitik Arkib** menyediakan pandangan dari trend data sejarah. **Pengarkiban Pintar** automatik menentukan masa pengarkiban optimum berdasarkan corak penggunaan data. **Carian Arkib** carian teks penuh merentasi semua rekod diarkib.
 
-*Evidence: Annex E.65 - Data Archiving Strategy; Annex E.66 - Historical Data Access*
+*Bukti: Lampiran E.65 - Strategi Pengarkiban Data; Lampiran E.66 - Akses Data Sejarah*
 
 ---
 
@@ -1347,21 +1347,21 @@ All technical settings include validation and rollback capability.
 | **M/O** | M |
 | **Compliance** | FULLY COMPLY |
 
-**Remarks & Evidence:**
+**Ulasan & Bukti:**
 
-**Complete Documentation Set (Bahasa Malaysia):**
+**Set Dokumentasi Lengkap (Bahasa Malaysia):**
 
-**a. User Manual:** Step-by-step guides for applicants and Urus Setia with screenshots and FAQs
+**a. Manual Pengguna:** Panduan langkah-demi-langkah untuk pemohon dan Urus Setia dengan tangkapan skrin dan FAQ
 
-**b. Administrator Manual:** System configuration, user management, troubleshooting
+**b. Manual Pentadbir:** Konfigurasi sistem, pengurusan pengguna, penyelesaian masalah
 
-**c. Technical/Operations Manual:** Installation, maintenance, backup/restore, API reference
+**c. Manual Teknikal/Operasi:** Pemasangan, penyelenggaraan, sandaran/pemulihan, rujukan API
 
-All manuals professionally formatted with table of contents, index, and searchable PDF.
+Semua manual diformat secara profesional dengan kandungan, indeks, dan PDF boleh cari.
 
-**🚀 VALUE-ADD ENHANCEMENT:** **Video Manuals** provide screen recordings of key procedures. **Interactive Help** embedded in the application with contextual guidance. **Documentation Portal** searchable online knowledge base. **Quarterly Updates** keep documentation current with system changes. **Feedback Integration** allows users to suggest documentation improvements.
+**🚀 PENAMBAHBAIKAN NILAI TAMBAH:** **Manual Video** menyediakan rakaman skrin prosedur utama. **Bantuan Interaktif** terbenam dalam aplikasi dengan panduan kontekstual. **Portal Dokumentasi** pangkalan pengetahuan dalam talian boleh cari. **Kemas Kini Suku Tahunan** mengekalkan dokumentasi terkini dengan perubahan sistem. **Integrasi Maklum Balas** membolehkan pengguna mencadangkan penambahbaikan dokumentasi.
 
-*Evidence: Annex F.11 - Documentation Plan; Annex F.12 - Manual Templates*
+*Bukti: Lampiran F.11 - Pelan Dokumentasi; Lampiran F.12 - Templat Manual*
 
 ---
 
@@ -1373,15 +1373,15 @@ All manuals professionally formatted with table of contents, index, and searchab
 | **M/O** | M |
 | **Compliance** | FULLY COMPLY |
 
-**Remarks & Evidence:**
+**Ulasan & Bukti:**
 
-SESB will document all Working Team and Technical Committee meetings including: Agenda, attendance, discussion points, decisions made, action items with owners and deadlines, and status updates.
+SESB akan mendokumenkan semua mesyuarat Pasukan Kerja dan Jawatankuasa Teknikal termasuk: Agenda, kehadiran, titik perbincangan, keputusan yang dibuat, item tindakan dengan pemilik dan tarikh akhir, dan kemas kini status.
 
-**Meeting Cadence:** Weekly Working Team meetings, monthly Technical Committee meetings, and ad-hoc meetings as needed.
+**Kekerapan Mesyuarat:** Mesyuarat Pasukan Kerja mingguan, mesyuarat Jawatankuasa Teknikal bulanan, dan mesyuarat ad-hoc mengikut keperluan.
 
-**🚀 VALUE-ADD ENHANCEMENT:** **Meeting Portal** provides online access to all meeting materials. **Action Item Tracker** sends automatic reminders for pending actions. **Decision Log** maintains searchable record of all project decisions. **Meeting Analytics** tracks meeting effectiveness and follow-up rates.
+**🚀 PENAMBAHBAIKAN NILAI TAMBAH:** **Portal Mesyuarat** menyediakan akses dalam talian kepada semua bahan mesyuarat. **Pengesan Item Tindakan** menghantar peringatan automatik untuk tindakan tertangguh. **Log Keputusan** mengekalkan rekod boleh cari semua keputusan projek. **Analitik Mesyuarat** mengesan keberkesanan mesyuarat dan kadar susulan.
 
-*Evidence: Annex F.13 - Meeting Management Plan*
+*Bukti: Lampiran F.13 - Pelan Pengurusan Mesyuarat*
 
 ---
 
@@ -1393,15 +1393,15 @@ SESB will document all Working Team and Technical Committee meetings including: 
 | **M/O** | M |
 | **Compliance** | FULLY COMPLY |
 
-**Remarks & Evidence:**
+**Ulasan & Bukti:**
 
-Both hardcopy (printed and bound) and softcopy (PDF, searchable) manuals will be provided to all users and administrators. Distribution list maintained with sign-off confirmation.
+Kedua-dua manual hardcopy (dicetak dan dijilid) dan softcopy (PDF, boleh cari) akan disediakan kepada semua pengguna dan pentadbir. Senarai edaran dikekalkan dengan pengesahan tandatangan.
 
-**Quantity:** 50 hardcopy user manuals, 10 hardcopy admin manuals, unlimited softcopy distribution.
+**Kuantiti:** 50 manual pengguna hardcopy, 10 manual pentadbir hardcopy, edaran softcopy tanpa had.
 
-**🚀 VALUE-ADD ENHANCEMENT:** **Quick Start Cards** laminated one-page guides for common tasks. **QR Codes in Manuals** link to video demonstrations. **E-Book Format** for mobile-friendly reading. **Accessibility Versions** screen-reader compatible formats.
+**🚀 PENAMBAHBAIKAN NILAI TAMBAH:** **Kad Permulaan Pantas** panduan satu muka surat dilaminate untuk tugas biasa. **Kod QR dalam Manual** dipautkan kepada demonstrasi video. **Format E-Book** untuk bacaan mesra mudah alih. **Versi Kebolehcapaian** format serasi pembaca skrin.
 
-*Evidence: Annex F.14 - Distribution Plan*
+*Bukti: Lampiran F.14 - Pelan Edaran*
 
 ---
 
