@@ -1035,18 +1035,18 @@ Tiada caj tambahan akan diinvois untuk perbelanjaan berkaitan ujian.
 | **M/O** | M |
 | **Compliance** | FULLY COMPLY |
 
-**Remarks & Evidence:**
+**Ulasan & Bukti:**
 
-SESB will configure three separate environments:
-- **Development:** For ongoing development and unit testing
-- **Production A (Staging):** For UAT and pre-production validation
-- **Production B (Live):** Live production environment
+SESB akan mengkonfigurasi tiga persekitaran berasingan:
+- **Pembangunan:** Untuk pembangunan berterusan dan ujian unit
+- **Pengeluaran A (Peringkat):** Untuk UAT dan pengesahan pra-pengeluaran
+- **Pengeluaran B (Langsung):** Persekitaran pengeluaran langsung
 
-Each environment includes dedicated Application Server and Database Server with appropriate resource allocation. Environment isolation ensures testing does not impact production.
+Setiap persekitaran termasuk Pelayan Aplikasi dan Pelayan Pangkalan Data khusus dengan peruntukan sumber yang sesuai. Pengasingan persekitaran memastikan ujian tidak memberi kesan kepada pengeluaran.
 
-**🚀 VALUE-ADD ENHANCEMENT:** **Environment Synchronization Tool** quickly clones production data to staging (with anonymization) for realistic testing. **Blue-Green Deployment** capability enables zero-downtime releases. **Environment Health Dashboard** monitors all environments from a single view. **Automated Environment Provisioning** using Infrastructure as Code enables rapid environment creation.
+**🚀 PENAMBAHBAIKAN NILAI TAMBAH:** **Alat Penyegerakan Persekitaran** mengklon data pengeluaran ke peringkat dengan pantas (dengan pengenalan tidak bermaya) untuk ujian realistik. Keupayaan **Pelaksanaan Biru-Hijau** membolehkan keluaran tanpa tempoh tidak berfungsi. **Papan Pemuka Kesihatan Persekitaran** memantau semua persekitaran dari pandangan tunggal. **Peruntukan Persekitaran Automatik** menggunakan Infrastructure as Code membolehkan penciptaan persekitaran pantas.
 
-*Evidence: Annex E.50 - Environment Architecture; Annex E.51 - Deployment Pipeline*
+*Bukti: Lampiran E.50 - Arkitektur Persekitaran; Lampiran E.51 - Aliran Kerja Pelaksanaan*
 
 ---
 
@@ -1058,15 +1058,15 @@ Each environment includes dedicated Application Server and Database Server with 
 | **M/O** | M |
 | **Compliance** | FULLY COMPLY |
 
-**Remarks & Evidence:**
+**Ulasan & Bukti:**
 
-SESB will perform complete installation and configuration on cloud servers hosted at BPM Data Center, SSAAS. Our team has prior experience with BPM infrastructure and security requirements.
+SESB akan melaksanakan pemasangan dan konfigurasi lengkap pada pelayan awan yang dihoskan di Pusat Data BPM, SSAAS. Pasukan kami mempunyai pengalaman terdahulu dengan infrastruktur dan keperluan keselamatan BPM.
 
-**Installation Process:** Pre-installation checklist → Server preparation → Software installation → Configuration → Security hardening → Testing → Sign-off.
+**Proses Pemasangan:** Senarai semak pra-pemasangan → Persediaan pelayan → Pemasangan perisian → Konfigurasi → Pengerasan keselamatan → Ujian → Pengesahan.
 
-**🚀 VALUE-ADD ENHANCEMENT:** **Installation Documentation** provides PSUK with complete setup instructions for future reference. **Configuration Backup** exports all settings for disaster recovery. **As-Built Documentation** records final system state with all customizations. **BPM Integration Support** assists with network, DNS, and security configuration specific to BPM requirements.
+**🚀 PENAMBAHBAIKAN NILAI TAMBAH:** **Dokumentasi Pemasangan** menyediakan PSUK dengan arahan persediaan lengkap untuk rujukan masa hadapan. **Sandaran Konfigurasi** mengeksport semua tetapan untuk pemulihan bencana. **Dokumentasi Seperti-Dibina** merekod keadaan sistem akhir dengan semua penyesuaian. **Sokongan Integrasi BPM** membantu dengan konfigurasi rangkaian, DNS, dan keselamatan khusus untuk BPM.
 
-*Evidence: Annex E.52 - Installation Guide; Annex E.53 - BPM Integration Checklist*
+*Bukti: Lampiran E.52 - Panduan Pemasangan; Lampiran E.53 - Senarai Semak Integrasi BPM*
 
 ---
 
@@ -1078,20 +1078,20 @@ SESB will perform complete installation and configuration on cloud servers hoste
 | **M/O** | M |
 | **Compliance** | FULLY COMPLY |
 
-**Remarks & Evidence:**
+**Ulasan & Bukti:**
 
-**System Specifications & Capacity Planning:**
-- Application Server: 4 vCPU, 16GB RAM, 100GB SSD minimum
-- Database Server: 8 vCPU, 32GB RAM, 500GB SSD (expandable)
-- Storage: 1TB initial with 20% annual growth projection
-- Backup Storage: 2TB for 30-day retention
-- Network: 100Mbps dedicated bandwidth
+**Spesifikasi Sistem & Perancangan Kapasiti:**
+- Pelayan Aplikasi: 4 vCPU, 16GB RAM, 100GB SSD minimum
+- Pelayan Pangkalan Data: 8 vCPU, 32GB RAM, 500GB SSD (boleh kembang)
+- Storan: 1TB permulaan dengan unjuran pertumbuhan tahunan 20%
+- Storan Sandaran: 2TB untuk pengekalan 30 hari
+- Rangkaian: Jalur lebar berdedikasi 100Mbps
 
-**Capacity Planning:** Based on 10,000 annual applications, 500 concurrent users, and 5-year data retention. Includes growth projections and scaling triggers.
+**Perancangan Kapasiti:** Berdasarkan 10,000 permohonan tahunan, 500 pengguna serentak, dan pengekalan data 5 tahun. Merangkumi unjuran pertumbuhan dan pemicu penskalaan.
 
-**🚀 VALUE-ADD ENHANCEMENT:** **Capacity Forecasting Model** predicts when additional resources will be needed based on usage trends. **Right-Sizing Analysis** ensures optimal resource allocation without over-provisioning. **Storage Optimization** includes compression and archival strategies to minimize costs.
+**🚀 PENAMBAHBAIKAN NILAI TAMBAH:** **Model Ramalan Kapasiti** meramalkan bila sumber tambahan diperlukan berdasarkan trend penggunaan. **Analisis Saiz Tepat** memastikan peruntukan sumber optimum tanpa peruntukan berlebihan. **Pengoptimuman Storan** termasuk strategi mampatan dan arkib untuk meminimumkan kos.
 
-*Evidence: Annex E.54 - Capacity Planning; Annex E.55 - Resource Sizing*
+*Bukti: Lampiran E.54 - Perancangan Kapasiti; Lampiran E.55 - Pensizing Sumber*
 
 ---
 
@@ -1103,15 +1103,15 @@ SESB will perform complete installation and configuration on cloud servers hoste
 | **M/O** | M |
 | **Compliance** | FULLY COMPLY |
 
-**Remarks & Evidence:**
+**Ulasan & Bukti:**
 
-SESB will use the repository service provided by BPM for source code management, following PSUK's Git workflow and branching strategy.
+SESB akan menggunakan perkhidmatan repositori yang disediakan oleh BPM untuk pengurusan kod sumber, mengikut aliran kerja Git PSUK dan strategi percabangan.
 
-**Repository Practices:** Feature branching → Code review → Merge approval → Automated builds. All code commits linked to requirements.
+**Amalan Repositori:** Percabangan ciri → Semakan kod → Kelulusan gabung → Pembinaan automatik. Semua komit kod dipautkan kepada keperluan.
 
-**🚀 VALUE-ADD ENHANCEMENT:** **Code Quality Gates** ensure only high-quality code enters the repository. **Automated Documentation Generation** from code comments. **Repository Hygiene** training for PSUK staff on Git best practices. **Source Code Handover Package** at project completion with complete repository export.
+**🚀 PENAMBAHBAIKAN NILAI TAMBAH:** **Pintu Kualiti Kod** memastikan hanya kod berkualiti tinggi memasuki repositori. **Penjanaan Dokumentasi Automatik** dari komen kod. Latihan **Kebersihan Repositori** untuk kakitangan PSUK tentang amalan terbaik Git. **Pakej Penyerahan Kod Sumber** semasa penyiapan projek dengan eksport repositori lengkap.
 
-*Evidence: Annex E.56 - Repository Workflow; Annex E.57 - Git Standards*
+*Bukti: Lampiran E.56 - Aliran Kerja Repositori; Lampiran E.57 - Piawaian Git*
 
 ---
 
@@ -1123,15 +1123,15 @@ SESB will use the repository service provided by BPM for source code management,
 | **M/O** | M |
 | **Compliance** | FULLY COMPLY |
 
-**Remarks & Evidence:**
+**Ulasan & Bukti:**
 
-SESB commits to successful completion of all implementation phases: installation, integration with external systems, data migration, and software deployment. Success criteria defined for each phase with PSUK sign-off required.
+SESB komited untuk menyiapkan semua fasa pelaksanaan: pemasangan, integrasi dengan sistem luar, migrasi data, dan pelaksanaan perisian. Kriteria kejayaan ditakrifkan untuk setiap fasa dengan pengesahan PSUK diperlukan.
 
-**Success Metrics:** 100% feature completion, zero critical defects, 99.9% uptime, successful data migration with zero loss, user acceptance.
+**Metrik Kejayaan:** 100% penyiapan ciri, sifar kecacatan kritikal, 99.9% uptime, migrasi data berjaya dengan sifar kehilangan, penerimaan pengguna.
 
-**🚀 VALUE-ADD ENHANCEMENT:** **Implementation War Room** setup for critical deployment phases with dedicated team. **Hypercare Support** intensive support period (2 weeks post go-live) with on-site presence. **Success Guarantee**—if go-live criteria not met, we continue at no cost until achieved.
+**🚀 PENAMBAHBAIKAN NILAI TAMBAH:** **Bilik Perang Pelaksanaan** untuk fasa pelaksanaan kritikal dengan pasukan berdedikasi. **Sokongan Hypercare** tempoh sokongan intensif (2 minggu selepas go-live) dengan kehadiran di lokasi. **Jaminan Kejayaan**—jika kriteria go-live tidak dipenuhi, kami teruskan tanpa kos sehingga dicapai.
 
-*Evidence: Annex F.9 - Implementation Plan; Annex F.10 - Success Criteria*
+*Bukti: Lampiran F.9 - Pelan Pelaksanaan; Lampiran F.10 - Kriteria Kejayaan*
 
 ---
 
@@ -1143,18 +1143,18 @@ SESB commits to successful completion of all implementation phases: installation
 | **M/O** | M |
 | **Compliance** | FULLY COMPLY |
 
-**Remarks & Evidence:**
+**Ulasan & Bukti:**
 
-**Backup Schedule:**
-- Daily: Incremental backup at 2:00 AM, retained for 7 days
-- Weekly: Full backup every Sunday at 2:00 AM, retained for 4 weeks
-- Monthly: Full backup on 1st of month, retained for 12 months
+**Jadual Sandaran:**
+- Harian: Sandaran tambahan pada 2:00 pagi, dikekalkan selama 7 hari
+- Mingguan: Sandaran penuh setiap Ahad pada 2:00 pagi, dikekalkan selama 4 minggu
+- Bulanan: Sandaran penuh pada 1hb setiap bulan, dikekalkan selama 12 bulan
 
-All backups encrypted and stored off-site with periodic restore testing.
+Semua sandaran disulitkan dan disimpan di luar tapak dengan ujian pemulihan berkala.
 
-**🚀 VALUE-ADD ENHANCEMENT:** **Point-in-Time Recovery** allows restoration to any moment in the past 30 days. **Backup Verification** automatically tests backup integrity daily. **Instant Clone** creates development environments from backups in minutes. **Backup Analytics Dashboard** shows backup status, storage usage, and compliance.
+**🚀 PENAMBAHBAIKAN NILAI TAMBAH:** **Pemulihan Titik-dalam-Masa** membolehkan pemulihan ke mana-mana saat dalam 30 hari lepas. **Pengesahan Sandaran** menguji integriti sandaran secara automatik setiap hari. **Klon Segera** mencipta persekitaran pembangunan dari sandaran dalam beberapa minit. **Papan Pemuka Analitik Sandaran** menunjukkan status sandaran, penggunaan storan, dan pematuhan.
 
-*Evidence: Annex E.58 - Backup Configuration; Annex E.59 - Restore Procedures*
+*Bukti: Lampiran E.58 - Konfigurasi Sandaran; Lampiran E.59 - Prosedur Pemulihan*
 
 ---
 
@@ -1166,19 +1166,19 @@ All backups encrypted and stored off-site with periodic restore testing.
 | **M/O** | M |
 | **Compliance** | FULLY COMPLY |
 
-**Remarks & Evidence:**
+**Ulasan & Bukti:**
 
-SESB will configure SSL certificates provided by BPM ensuring:
-- HTTPS-only access
-- TLS 1.3 encryption
-- HSTS (HTTP Strict Transport Security) enabled
-- SSL certificate monitoring and renewal alerts
+SESB akan mengkonfigurasi sijil SSL yang disediakan oleh BPM memastikan:
+- Akses HTTPS-sahaja
+- Penyulitan TLS 1.3
+- HSTS (HTTP Strict Transport Security) didayakan
+- Pemantauan sijil SSL dan amaran pembaharuan
 
-Installation includes configuration of all web servers, load balancers, and API endpoints.
+Pemasangan termasuk konfigurasi semua pelayan web, penyeimbang beban, dan titik akhir API.
 
-**🚀 VALUE-ADD ENHANCEMENT:** **SSL Health Monitoring** alerts before certificate expiry. **A+ SSL Rating** achieved through optimized cipher configuration. **Certificate Transparency Monitoring** detects unauthorized certificates issued for the domain.
+**🚀 PENAMBAHBAIKAN NILAI TAMBAH:** **Pemantauan Kesihatan SSL** memberi amaran sebelum tamat tempoh sijil. **Penarafan SSL A+** dicapai melalui konfigurasi cipher dioptimumkan. **Pemantauan Ketelusan Sijil** mengesan sijil tidak dibenarkan yang dikeluarkan untuk domain.
 
-*Evidence: Annex I.8 - SSL Configuration; Annex I.9 - Security Headers*
+*Bukti: Lampiran I.8 - Konfigurasi SSL; Lampiran I.9 - Pengepala Keselamatan*
 
 ---
 
@@ -1190,21 +1190,21 @@ Installation includes configuration of all web servers, load balancers, and API 
 | **M/O** | M |
 | **Compliance** | FULLY COMPLY |
 
-**Remarks & Evidence:**
+**Ulasan & Bukti:**
 
-**Code Hardening Implementation:**
-- Input Validation: Whitelist validation on all inputs, parameterized queries
-- Output Encoding: Context-aware encoding to prevent XSS
-- CSRF Protection: Token-based CSRF protection on all forms
-- Authentication: Secure session management, password hashing (bcrypt)
-- Authorization: Principle of least privilege, role-based access
-- Error Handling: Generic error messages, detailed logging
-- Security Headers: CSP, X-Frame-Options, X-Content-Type-Options
-- Dependency Management: Regular security scanning of libraries
+**Pelaksanaan Pengerasan Kod:**
+- Pengesahan Input: Pengesahan senarai putih pada semua input, pertanyaan berparameter
+- Pengekodan Output: Pengekodan berasaskan konteks untuk mencegah XSS
+- Perlindungan CSRF: Perlindungan CSRF berasaskan token pada semua borang
+- Pengesahan: Pengurusan sesi selamat, penghashan kata laluan (bcrypt)
+- Kebenaran: Prinsip keistimewaan minimum, akses berasaskan peranan
+- Pengendalian Ralat: Mesej ralat umum, log terperinci
+- Pengepala Keselamatan: CSP, X-Frame-Options, X-Content-Type-Options
+- Pengurusan Kebergantungan: Pengimbasan keselamatan berkala ke atas perpustakaan
 
-**🚀 VALUE-ADD ENHANCEMENT:** **Static Application Security Testing (SAST)** runs on every code commit. **Software Composition Analysis (SCA)** identifies vulnerable dependencies. **Security Code Review** by certified security professionals before release. **Secure Coding Training** provided to PSUK developers.
+**🚀 PENAMBAHBAIKAN NILAI TAMBAH:** **Ujian Keselamatan Aplikasi Statik (SAST)** dijalankan pada setiap komit kod. **Analisis Komposisi Perisian (SCA)** mengenal pasti kebergantungan terdedah. **Semakan Kod Keselamatan** oleh profesional keselamatan bertauliah sebelum keluaran. **Latihan Pengaturcaraan Selamat** disediakan kepada pembangun PSUK.
 
-*Evidence: Annex I.10 - Secure Coding Standards; Annex I.11 - Code Review Checklist*
+*Bukti: Lampiran I.10 - Piawaian Pengaturcaraan Selamat; Lampiran I.11 - Senarai Semak Semakan Kod*
 
 ---
 
