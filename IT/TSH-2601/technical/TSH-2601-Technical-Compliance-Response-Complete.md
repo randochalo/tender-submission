@@ -1599,15 +1599,15 @@ SESB mengesahkan tiada caj tambahan melebihi jumlah kontrak. Semua kos termasuk 
 | **M/O** | M |
 | **Compliance** | FULLY COMPLY |
 
-**Remarks & Evidence:**
+**Ulasan & Bukti:**
 
-SESB agrees to execute contract within 4 months from project start date. Our legal team is prepared to review and sign the agreement promptly.
+SESB bersetuju untuk melaksanakan kontrak dalam tempoh 4 bulan dari tarikh mula projek. Pasukan undang-undang kami sedia untuk menyemak dan menandatangani perjanjian dengan segera.
 
-**Contract Readiness:** Standard company documents (SSM, financials, insurance) are current and available.
+**Kesediaan Kontrak:** Dokumen syarikat standard (SSM, kewangan, insurans) adalah semasa dan tersedia.
 
-**🚀 VALUE-ADD ENHANCEMENT:** **Contract Compliance Tracking** ensures all contractual obligations are met. **Relationship Management** dedicated account manager for ongoing PSUK relationship.
+**🚀 PENAMBAHBAIKAN NILAI TAMBAH:** **Pengesanan Pematuhan Kontrak** memastikan semua obligasi kontrak dipenuhi. **Pengurusan Hubungan** pengurus akaun khusus untuk hubungan PSUK berterusan.
 
-*Evidence: Contract Documentation*
+*Bukti: Dokumentasi Kontrak*
 
 ---
 
@@ -1621,28 +1621,28 @@ SESB agrees to execute contract within 4 months from project start date. Our leg
 | **M/O** | M |
 | **Compliance** | FULLY COMPLY |
 
-**Remarks & Evidence:**
+**Ulasan & Bukti:**
 
-**Comprehensive 1-Year Warranty Support:**
+**Sokongan Waranti 1 Tahun Komprehensif:**
 
-**a. Warranty Coverage:** Full support from FAT signing, all costs included
+**a. Liputan Waranti:** Sokongan penuh dari penandatanganan FAT, semua kos termasuk
 
-**b. Recovery Responsibility:** Complete responsibility for system recovery with defined RTO/RPO targets
+**b. Tanggungjawab Pemulihan:** Tanggungjawab penuh untuk pemulihan sistem dengan sasaran RTO/RPO yang ditakrifkan
 
-**c. SLA Commitment:** Response times (Critical: 4 hours, High: 8 hours, Medium: 24 hours, Low: 48 hours); Resolution times (Critical: 24 hours, High: 72 hours, Medium: 5 days, Low: 10 days)
+**c. Komitmen SLA:** Masa respons (Kritikal: 4 jam, Tinggi: 8 jam, Sederhana: 24 jam, Rendah: 48 jam); Masa penyelesaian (Kritikal: 24 jam, Tinggi: 72 jam, Sederhana: 5 hari, Rendah: 10 hari)
 
-**d. Unlimited Support:** No limit on number of support requests
+**d. Sokongan Tanpa Had:** Tiada had untuk bilangan permintaan sokongan
 
-**e. Helpdesk Operations:**
-- i. 24/7 Helpdesk via phone, email, and ticketing system
-- ii. 8x5 Technical Support for complex issues
-- iii. 4-hour response, 3-day maximum resolution commitment
+**e. Operasi Meja Bantuan:**
+- i. Meja Bantuan 24/7 melalui telefon, e-mel, dan sistem tiket
+- ii. Sokongan Teknikal 8x5 untuk isu kompleks
+- iii. Komitmen respons 4 jam, penyelesaian maksimum 3 hari
 
-**f. User Guidance:** Ongoing training and best practice advice
+**f. Panduan Pengguna:** Latihan berterusan dan nasihat amalan terbaik
 
-**🚀 VALUE-ADD ENHANCEMENT:** **Proactive Monitoring** identifies issues before PSUK reports them. **Monthly Health Checks** review system performance and recommend optimizations. **User Satisfaction Surveys** continuously improve support quality. **Escalation Management** ensures timely resolution of stuck issues. **Knowledge Base** self-service articles reduce ticket volume. **WhatsApp Support** instant messaging for quick queries.
+**🚀 PENAMBAHBAIKAN NILAI TAMBAH:** **Pemantauan Proaktif** mengenal pasti isu sebelum PSUK melaporkannya. **Pemeriksaan Kesihatan Bulanan** menyemak prestasi sistem dan mencadangkan pengoptimuman. **Tinjauan Kepuasan Pengguna** sentiasa meningkatkan kualiti sokongan. **Pengurusan Peningkatan** memastikan penyelesaian tepat masa untuk isu yang tersekat. **Pangkalan Pengetahuan** artikel swa-bantuan mengurangkan jumlah tiket. **Sokongan WhatsApp** pemesejan segera untuk pertanyaan pantas.
 
-*Evidence: Annex H - Service Level Agreement; Annex H.6 - Warranty Terms; Annex H.7 - Support Procedures*
+*Bukti: Lampiran H - Perjanjian Tahap Perkhidmatan; Lampiran H.6 - Terma Waranti; Lampiran H.7 - Prosedur Sokongan*
 
 ---
 
@@ -1654,19 +1654,19 @@ SESB agrees to execute contract within 4 months from project start date. Our leg
 | **M/O** | M |
 | **Compliance** | FULLY COMPLY |
 
-**Remarks & Evidence:**
+**Ulasan & Bukti:**
 
-**1-Year Warranty from FAT Signing:**
+**Waranti 1 Tahun dari Penandatanganan FAT:**
 
-**a. Support Coverage:** Both on-site (when required) and remote support available throughout warranty period
+**a. Liputan Sokongan:** Kedua-dua di lokasi (apabila diperlukan) dan sokongan jarak jauh tersedia sepanjang tempoh waranti
 
-**b. Bug Fixes:** All system defects and hardware issues corrected at no additional cost
+**b. Pembetulan Kecacatan:** Semua kecacatan sistem dan isu perkakasan dibetulkan tanpa kos tambahan
 
-**Warranty Extensions:** Available at competitive rates beyond the initial year.
+**Lanjuhan Waranti:** Tersedia dengan kadar kompetitif selepas tahun awal.
 
-**🚀 VALUE-ADD ENHANCEMENT:** **Extended Warranty Options** 2nd and 3rd year at discounted rates. **Hardware Replacement** spares kept on-site for critical components. **Performance Guarantee** uptime commitment with service credits for breaches.
+**🚀 PENAMBAHBAIKAN NILAI TAMBAH:** **Pilihan Waranti Lanjutan** tahun ke-2 dan ke-3 dengan kadar diskaun. **Penggantian Perkakasan** alat ganti disimpan di lokasi untuk komponen kritikal. **Jaminan Prestasi** komitmen uptime dengan kredit perkhidmatan untuk pelanggaran.
 
-*Evidence: Annex H.8 - Warranty Coverage*
+*Bukti: Lampiran H.8 - Liputan Waranti*
 
 ---
 
@@ -1678,15 +1678,15 @@ SESB agrees to execute contract within 4 months from project start date. Our leg
 | **M/O** | M |
 | **Compliance** | FULLY COMPLY |
 
-**Remarks & Evidence:**
+**Ulasan & Bukti:**
 
-Complete project handover documentation including: As-built documentation, source code, database schemas, configuration files, administrator credentials, warranty certificate, training completion certificates, and final project report.
+Dokumentasi penyerahan projek lengkap termasuk: Dokumentasi seperti-dibina, kod sumber, skema pangkalan data, fail konfigurasi, kelayakan pentadbir, sijil waranti, sijil penyiapan latihan, dan laporan projek akhir.
 
-**Handover Process:** Formal handover meeting, document review, system demonstration, and sign-off.
+**Proses Penyerahan:** Mesyuarat penyerahan formal, semakan dokumen, demonstrasi sistem, dan pengesahan.
 
-**🚀 VALUE-ADD ENHANCEMENT:** **Handover Checklist** ensures nothing is missed. **30-Day Support Buffer** intensive support period immediately after handover. **Exit Interview** captures lessons learned and improvement suggestions. **Future Roadmap** recommendations for system enhancements.
+**🚀 PENAMBAHBAIKAN NILAI TAMBAH:** **Senarai Semak Penyerahan** memastikan tiada yang terlepas. **Penampan Sokongan 30 Hari** tempoh sokongan intensif sebaik sahaja selepas penyerahan. **Temuduga Keluar** menangkap pengajaran yang dipelajari dan cadangan penambahbaikan. **Hala Tuju Masa Depan** cadangan untuk penambahbaikan sistem.
 
-*Evidence: Annex F.26 - Handover Checklist; Annex F.27 - Project Closure Procedure*
+*Bukti: Lampiran F.26 - Senarai Semak Penyerahan; Lampiran F.27 - Prosedur Penutupan Projek*
 
 ---
 
@@ -1698,15 +1698,15 @@ Complete project handover documentation including: As-built documentation, sourc
 | **M/O** | M |
 | **Compliance** | FULLY COMPLY |
 
-**Remarks & Evidence:**
+**Ulasan & Bukti:**
 
-SESB agrees to perform any additional work necessary for successful project completion, including: Additional integrations discovered during URS, process adjustments based on stakeholder feedback, additional training sessions if needed, supplementary documentation, and out-of-scope items reasonably required for project success.
+SESB bersetuju untuk melaksanakan sebarang kerja tambahan yang diperlukan untuk penyiapan projek yang berjaya, termasuk: Integrasi tambahan yang ditemui semasa URS, pelarasan proses berdasarkan maklum balas pihak berkepentingan, sesi latihan tambahan jika diperlukan, dokumentasi tambahan, dan item di luar skop yang munasabah diperlukan untuk kejayaan projek.
 
-**Change Control:** Items identified will be documented and agreed upon before implementation.
+**Kawalan Perubahan:** Item yang dikenal pasti akan didokumenkan dan dipersetujui sebelum pelaksanaan.
 
-**🚀 VALUE-ADD ENHANCEMENT:** **Project Success Guarantee**—we do whatever it takes to ensure PSUK's objectives are met. **Continuous Improvement** proactively suggest enhancements during implementation. **Flexibility Commitment** up to 10% effort variance accommodated without change request for minor scope adjustments.
+**🚀 PENAMBAHBAIKAN NILAI TAMBAH:** **Jaminan Kejayaan Projek**—kami melakukan apa sahaja yang diperlukan untuk memastikan objektif PSUK tercapai. **Penambahbaikan Berterusan** mencadangkan penambahbaikan secara proaktif semasa pelaksanaan. **Komitmen Fleksibiliti** sehingga 10% variasi usaha ditampung tanpa permintaan perubahan untuk pelarasan skop kecil.
 
-*Evidence: Project Management Plan*
+*Bukti: Pelan Pengurusan Projek*
 
 ---
 
@@ -1720,21 +1720,21 @@ SESB agrees to perform any additional work necessary for successful project comp
 | **M/O** | M |
 | **Compliance** | FULLY COMPLY |
 
-**Remarks & Evidence:**
+**Ulasan & Bukti:**
 
-**Data Security Commitments:**
+**Komitmen Keselamatan Data:**
 
-**a. Data Responsibility:** SESB accepts full accountability for data security throughout the project lifecycle. All data handled according to government security classifications.
+**a. Tanggungjawab Data:** SESB menerima akauntabiliti penuh untuk keselamatan data sepanjang kitar hayat projek. Semua data dikendalikan mengikut klasifikasi keselamatan kerajaan.
 
-**b. Confidentiality Agreements:** All SESB personnel sign Statutory Declarations (Akuan Sumpah) and NDAs before accessing any PSUK data or premises.
+**b. Perjanjian Kerahsiaan:** Semua kakitangan SESB menandatangani Akuan Sumpah dan NDA sebelum mengakses sebarang data atau premis PSUK.
 
-**c. Policy Compliance:** Full compliance with PSUK ICT Security Policy, including access controls, encryption, audit logging, and incident reporting.
+**c. Pematuhan Dasar:** Pematuhan penuh dengan Dasar Keselamatan ICT PSUK, termasuk kawalan akses, penyulitan, log audit, dan pelaporan insiden.
 
-**Security Measures:** Encrypted devices, secure development environment, data minimization, secure disposal of test data, and regular security training.
+**Langkah Keselamatan:** Peranti disulitkan, persekitaran pembangunan selamat, penminiman data, pelupusan selamat data ujian, dan latihan keselamatan berkala.
 
-**🚀 VALUE-ADD ENHANCEMENT:** **Security Certification** all team members complete PSUK security clearance. **Data Handling Protocol** documented procedures for every data interaction. **Breach Response Plan** immediate notification and containment procedures. **Quarterly Security Reviews** ongoing assessment of security controls. **Insurance Coverage** cyber liability insurance for additional protection.
+**🚀 PENAMBAHBAIKAN NILAI TAMBAH:** **Pensijilan Keselamatan** semua ahli pasukan melengkapkan kebenaran keselamatan PSUK. **Protokol Pengendalian Data** prosedur didokumenkan untuk setiap interaksi data. **Pelan Respons Pelanggaran** pemberitahuan segera dan prosedur pengurungan. **Semakan Keselamatan Suku Tahunan** penilaian berterusan kawalan keselamatan. **Liputan Insurans** insurans liabiliti siber untuk perlindungan tambahan.
 
-*Evidence: Annex I.14 - Data Security Policy; Annex I.15 - Confidentiality Agreements; Annex I.16 - Security Training Records*
+*Bukti: Lampiran I.14 - Dasar Keselamatan Data; Lampiran I.15 - Perjanjian Kerahsiaan; Lampiran I.16 - Rekod Latihan Keselamatan*
 
 ---
 
@@ -1748,11 +1748,11 @@ SESB agrees to perform any additional work necessary for successful project comp
 | **M/O** | O |
 | **Compliance** | FULLY COMPLY |
 
-**Remarks & Evidence:**
+**Ulasan & Bukti:**
 
-**Value-Added Services (VAS) Framework:**
+**Rangka Kerja Perkhidmatan Nilai Tambah (VAS):**
 
-**Part 1: Software & Innovation (5 Items)**
+**Bahagian 1: Perisian & Inovasi (5 Item)**
 
 1. AI-Powered Application Pre-Screening - Market Value: RM 150,000
 2. Advanced Analytics & Predictive Reporting - Market Value: RM 120,000
@@ -1760,9 +1760,9 @@ SESB agrees to perform any additional work necessary for successful project comp
 4. Document Intelligence (OCR/AI) - Market Value: RM 100,000
 5. API Developer Portal - Market Value: RM 50,000
 
-**Part 1 Subtotal: RM 500,000**
+**Jumlah Bahagian 1: RM 500,000**
 
-**Part 2: Support & Consultative (5 Items)**
+**Bahagian 2: Sokongan & Perundingan (5 Item)**
 
 1. Extended Warranty (Year 2) - Market Value: RM 150,000
 2. Quarterly System Health Reviews - Market Value: RM 60,000
@@ -1770,17 +1770,17 @@ SESB agrees to perform any additional work necessary for successful project comp
 4. User Experience Optimization - Market Value: RM 70,000
 5. Knowledge Transfer Deep-Dive - Market Value: RM 40,000
 
-**Part 2 Subtotal: RM 400,000**
+**Jumlah Bahagian 2: RM 400,000**
 
-**TOTAL VAS VALUE: RM 900,000** included at no additional cost.
+**JUMLAH NILAI VAS: RM 900,000** disertakan tanpa kos tambahan.
 
-**Additional Innovation:**
-- Mobile App for Recipients - allows award recipients to manage their profile and ceremony attendance
-- Social Media Integration - for official announcements
-- Multi-Year Data Analysis - identifies trends in award applications
-- Digital Signature Integration - for fully paperless workflows
+**Inovasi Tambahan:**
+- Aplikasi Mudah Alih untuk Penerima - membolehkan penerima anugerah mengurus profil dan kehadiran majlis mereka
+- Integrasi Media Sosial - untuk pengumuman rasmi
+- Analisis Data Berbilang Tahun - mengenal pasti trend dalam permohonan anugerah
+- Integrasi Tandatangan Digital - untuk aliran kerja tanpa kertas sepenuhnya
 
-*Evidence: Section 7 - Value Added Services*
+*Bukti: Seksyen 7 - Perkhidmatan Nilai Tambah*
 
 ---
 
