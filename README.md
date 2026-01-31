@@ -14,9 +14,11 @@ This repository contains all tender submission documents, organized by category 
 
 ```
 tender-submission/
-├── index.md              # This file - main navigation
+├── README.md             # This file - main navigation
 ├── IT/                   # IT-related tenders
 │   ├── TSH-001/         # Tender Submission #001
+│   │   ├── README.md    # Tender details
+│   │   └── Docs/        # Documents folder
 │   ├── TSH-002/         # Tender Submission #002
 │   ├── TSH-003/         # Tender Submission #003
 │   ├── TSH-004/         # Tender Submission #004
@@ -24,15 +26,15 @@ tender-submission/
 └── [future categories]/  # Additional categories as needed
 ```
 
-## IT Tenders
+## IT Tenders Summary
 
-| ID | Tender Reference | Agency | Title | Status | Deadline |
-|----|------------------|--------|-------|--------|----------|
-| TSH-001 | - | - | - | 🟡 Draft | - |
-| TSH-002 | - | - | - | 🟡 Draft | - |
-| TSH-003 | - | - | - | 🟡 Draft | - |
-| TSH-004 | - | - | - | 🟡 Draft | - |
-| TSH-005 | - | - | - | 🟡 Draft | - |
+| ID | Tender Reference | Agency | Title | Status | Deadline | Progress |
+|----|------------------|--------|-------|--------|----------|----------|
+| TSH-001 | - | - | - | 🟡 Draft | - | 0% |
+| TSH-002 | - | - | - | 🟡 Draft | - | 0% |
+| TSH-003 | - | - | - | 🟡 Draft | - | 0% |
+| TSH-004 | - | - | - | 🟡 Draft | - | 0% |
+| TSH-005 | - | - | - | 🟡 Draft | - | 0% |
 
 **Status Legend:**
 - 🟡 Draft - Initial preparation
@@ -41,6 +43,20 @@ tender-submission/
 - 🟢 Won - Tender awarded
 - 🔴 Lost - Tender not awarded
 - ⚫ Cancelled - Submission cancelled
+
+---
+
+## Work Progress Overview
+
+| Task | Status | Completion | Notes |
+|------|--------|------------|-------|
+| Repository Setup | ✅ Complete | 100% | Structure created |
+| Tender Documentation | 🟡 In Progress | 20% | Templates ready |
+| Company Profile Update | ⚪ Not Started | 0% | Pending |
+| Certifications | ⚪ Not Started | 0% | Pending |
+| Technical Proposals | ⚪ Not Started | 0% | Pending |
+| Price Quotations | ⚪ Not Started | 0% | Pending |
+| Submission Packages | ⚪ Not Started | 0% | Pending |
 
 ---
 
@@ -61,8 +77,8 @@ tender-submission/
 1. Create a new folder under the appropriate category (e.g., `IT/TSH-XXX/`)
 2. Use the next available number in sequence
 3. Create a `README.md` inside the folder with tender details
-4. Add all relevant documents (PDFs, images, spreadsheets)
-5. Update this index.md with the new tender information
+4. Add all relevant documents to the `Docs/` subfolder
+5. Update this README.md with the new tender information
 
 ### Folder Template
 
@@ -71,11 +87,12 @@ Each TSH-XXX folder should contain:
 ```
 TSH-XXX/
 ├── README.md           # Tender details and summary
-├── documents/          # Official tender documents
-├── quotations/         # Price quotations and BOQ
-├── technical/          # Technical proposals and specs
-├── company/            # Company profile and certifications
-└── submission/         # Final submission documents
+└── Docs/               # All tender documents
+    ├── documents/      # Official tender documents
+    ├── quotations/     # Price quotations and BOQ
+    ├── technical/      # Technical proposals and specs
+    ├── company/        # Company profile and certifications
+    └── submission/     # Final submission documents
 ```
 
 ---
@@ -84,9 +101,18 @@ TSH-XXX/
 
 1. **Naming Convention:** Use TSH-XXX format (Tender Submission #XXX)
 2. **Documentation:** Always include a README.md in each submission folder
-3. **File Organization:** Keep documents in appropriate subfolders
+3. **File Organization:** Keep documents in the `Docs/` subfolder
 4. **Version Control:** Use Git commits to track changes
 5. **Confidentiality:** Do not commit sensitive pricing in plain text
+
+---
+
+## Recent Activity
+
+| Date | Action | Tender ID |
+|------|--------|-----------|
+| 2026-01-31 | Repository created | - |
+| 2026-01-31 | Templates added | TSH-001 to TSH-005 |
 
 ---
 
