@@ -96,7 +96,9 @@ The Tenderer will be responsible for:
 
 ⚠️ **URGENT**: This tender closes on 05 February 2026 at 12:00 noon. Document preparation and submission must be completed urgently.
 
-**Document Reference:** See `Tender-Document.md` for full 78-page OCR text of the tender document.
+**Document Reference:**
+- 📄 **Formatted Document:** See `documents/Tender-Document-Formatted.md` for structured, readable tender information
+- 📑 **Raw OCR:** See `documents/Tender-Document.md` for original 78-page OCR text
 
 **Submission Address:**
 Multimodal Freight Sdn Bhd (Procurement Unit)

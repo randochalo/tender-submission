@@ -94,7 +94,9 @@ The Tenderer will be responsible for:
 
 **Related Tender:** This is companion tender to TSH-2604 (Business Operating and Finance System). Both tenders have the same deadline and submission location.
 
-**Document Reference:** See `Tender-Document.md` for full 60-page OCR text of the tender document.
+**Document Reference:**
+- 📄 **Formatted Document:** See `documents/Tender-Document-Formatted.md` for structured, readable tender information
+- 📑 **Raw OCR:** See `documents/Tender-Document.md` for original 60-page OCR text
 
 **Submission Address:**
 Multimodal Freight Sdn Bhd (Procurement Unit)
