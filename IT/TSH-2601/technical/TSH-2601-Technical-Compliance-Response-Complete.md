@@ -811,25 +811,25 @@ Modul Papan Pemuka menyediakan analitik berasaskan peranan dan gambaran keseluru
 | **M/O** | M |
 | **Compliance** | FULLY COMPLY |
 
-**Remarks & Evidence:**
+**Ulasan & Bukti:**
 
-**Complete API Integration Module:**
+**Modul Integrasi API Lengkap:**
 
-**i. External System Integration:** RESTful APIs with OAuth 2.0 + PKCE authentication for secure integration with:
-- SPRM: Integrity verification API for applicant screening
-- Jabatan Insolvensi: Bankruptcy status verification
-- Laman Web Darjah Kebesaran: Recipient list publication and website content sync
-- ROS (Registrar of Societies): Organization verification for society-based nominations
-- myIDENTITY: National identity verification and authentication
-- HRMIS: Employee data synchronization for government officers
+**i. Integrasi Sistem Luar:** API RESTful dengan pengesahan OAuth 2.0 + PKCE untuk integrasi selamat dengan:
+- SPRM: API pengesahan integriti untuk tapisan pemohon
+- Jabatan Insolvensi: Pengesahan status kebankrapan
+- Laman Web Darjah Kebesaran: Penerbitan senarai penerima dan penyegerakan kandungan laman web
+- ROS (Pendaftar Pertubuhan): Pengesahan pertubuhan untuk pencalonan berasaskan pertubuhan
+- myIDENTITY: Pengesahan dan pengesahan identiti kebangsaan
+- HRMIS: Penyegerakan data pekerja untuk pegawai kerajaan
 
-**ii. myDigital ID Login:** Full OAuth 2.0 integration supporting PKCE flow, enabling secure passwordless login for government users
+**ii. Log Masuk myDigital ID:** Integrasi OAuth 2.0 penuh menyokong aliran PKCE, membolehkan log masuk tanpa kata laluan yang selamat untuk pengguna kerajaan
 
-**API Security:** API rate limiting, request signing, IP whitelisting, and comprehensive audit logging.
+**Keselamatan API:** Had kadar API, penandatanganan permintaan, senarai putih IP, dan log audit komprehensif.
 
-**🚀 VALUE-ADD ENHANCEMENT:** **API Management Portal** provides documentation, sandbox testing, and usage analytics. **Integration Health Monitor** displays real-time status of all external connections. **Failover Mechanism** gracefully handles external service outages with queue-and-retry logic. **API Versioning** ensures backward compatibility during system upgrades. **Webhook Support** enables real-time notifications to external systems.
+**🚀 PENAMBAHBAIKAN NILAI TAMBAH:** **Portal Pengurusan API** menyediakan dokumentasi, ujian kotak pasir, dan analitik penggunaan. **Pemantau Kesihatan Integrasi** memaparkan status masa nyata semua sambungan luar. **Mekanisme Failover** mengendalikan gangguan perkhidmatan luar dengan logik baris gilir-dan-cuba semula. **Pengversian API** memastikan keserasian ke belakang semasa naik taraf sistem. **Sokongan Webhook** membolehkan pemberitahuan masa nyata kepada sistem luar.
 
-*Evidence: Annex E.39 - API Architecture; Annex E.40 - Integration Specifications; Annex E.41 - API Security*
+*Bukti: Lampiran E.39 - Arkitektur API; Lampiran E.40 - Spesifikasi Integrasi; Lampiran E.41 - Keselamatan API*
 
 ---
 
@@ -841,23 +841,23 @@ Modul Papan Pemuka menyediakan analitik berasaskan peranan dan gambaran keseluru
 | **M/O** | M |
 | **Compliance** | FULLY COMPLY |
 
-**Remarks & Evidence:**
+**Ulasan & Bukti:**
 
-**Complete Backup & Migration Functions:**
+**Fungsi Sandaran & Migrasi Lengkap:**
 
-**i. Data Backup:** Automated daily incremental and weekly full backups to encrypted storage with 30-day retention
+**i. Sandaran Data:** Sandaran tambahan harian automatik dan sandaran penuh mingguan ke storan disulitkan dengan pengekalan 30 hari
 
-**ii. System Migration:** Complete migration plan covering application, database, and configuration migration
+**ii. Migrasi Sistem:** Pelan migrasi lengkap merangkumi aplikasi, pangkalan data, dan migrasi konfigurasi
 
-**iii. Legacy Data Migration:** ETL (Extract, Transform, Load) process for migrating historical applications and recipient data from Lotus Notes system, including data cleansing and validation
+**iii. Migrasi Data Warisan:** Proses ETL (Ekstrak, Transformasi, Muat) untuk memigrasi permohonan sejarah dan data penerima dari sistem Lotus Notes, termasuk pembersihan dan pengesahan data
 
-**iv. Data Integrity:** Post-migration verification ensures 100% data accuracy and system functionality
+**iv. Integriti Data:** Pengesahan pasca-migrasi memastikan ketepatan data 100% dan kefungsian sistem
 
-**Migration Process:** Data profiling → Cleansing rules → Test migration → Validation → Production migration → Verification → Rollback plan.
+**Proses Migrasi:** Profil data → Peraturan pembersihan → Ujian migrasi → Pengesahan → Migrasi pengeluaran → Pengesahan → Pelan rollback.
 
-**🚀 VALUE-ADD ENHANCEMENT:** **Migration Simulator** allows testing the migration process multiple times before go-live. **Data Quality Dashboard** shows completeness and accuracy metrics before and after migration. **Parallel Running Period** allows comparison between old and new systems for verification. **Historical Archive Access** provides read-only access to legacy system data for audit purposes. **Zero-Downtime Migration** minimizes system unavailability during cutover.
+**🚀 PENAMBAHBAIKAN NILAI TAMBAH:** **Simulator Migrasi** membolehkan ujian proses migrasi berbilang kali sebelum go-live. **Papan Pemuka Kualiti Data** menunjukkan metrik kelengkapan dan ketepatan sebelum dan selepas migrasi. **Tempoh Berjalan Selari** membolehkan perbandingan antara sistem lama dan baharu untuk pengesahan. **Akses Arkib Sejarah** menyediakan akses baca-sahaja kepada data sistem warisan untuk tujuan audit. **Migrasi Sifar-Tempoh Tidup** meminimumkan ketidaksesuaian sistem semasa cutover.
 
-*Evidence: Annex E.42 - Migration Plan; Annex E.43 - Backup Architecture; Annex E.44 - Data Mapping*
+*Bukti: Lampiran E.42 - Pelan Migrasi; Lampiran E.43 - Arkitektur Sandaran; Lampiran E.44 - Pemetaan Data*
 
 ---
 
@@ -871,21 +871,21 @@ Modul Papan Pemuka menyediakan analitik berasaskan peranan dan gambaran keseluru
 | **M/O** | M |
 | **Compliance** | FULLY COMPLY |
 
-**Remarks & Evidence:**
+**Ulasan & Bukti:**
 
-**Proposed Barcode Scanner:**
+**Pengimbas Barcode yang Dicadangkan:**
 
-**Primary Option:** Honeywell Voyager 1250g - High-performance laser scanner with 1D/2D capability, USB connectivity, ergonomic design, and included stand
+**Pilihan Utama:** Honeywell Voyager 1250g - Pengimbas laser berprestasi tinggi dengan keupayaan 1D/2D, sambungan USB, reka bentuk ergonomik, dan disertakan landasan
 
-**Alternative Option:** Zebra DS2208 - 2D area imager, omni-directional scanning, durable construction, 5-year warranty available
+**Pilihan Alternatif:** Zebra DS2208 - Pengimej kawasan 2D, pengimbasan berbilang arah, pembinaan tahan lasak, waranti 5 tahun tersedia
 
-**Specifications:** USB wired connection, compatible with Windows/Ubuntu, reads all standard 1D and 2D barcodes including QR codes, plug-and-play installation.
+**Spesifikasi:** Sambungan USB berwayar, serasi dengan Windows/Ubuntu, membaca semua barcode 1D dan 2D standard termasuk kod QR, pemasangan plug-and-play.
 
-**Warranty:** 1-year manufacturer warranty with on-site support option.
+**Waranti:** Waranti pengeluar 1 tahun dengan pilihan sokongan di lokasi.
 
-**🚀 VALUE-ADD ENHANCEMENT:** We include **Barcode Generator Integration** within the ePingat system for creating standardized QR codes. **Mobile Scanner App** turns any smartphone into a backup scanning device. **Scanner Health Monitoring** alerts when scanner issues are detected. **Bulk Testing** validates scanner functionality with sample documents before deployment.
+**🚀 PENAMBAHBAIKAN NILAI TAMBAH:** Kami termasuk **Integrasi Penjana Barcode** dalam sistem ePingat untuk mencipta kod QR standard. **Aplikasi Pengimbas Mudah Alih** menjadikan mana-mana telefon pintar sebagai peranti pengimbasan sandaran. **Pemantauan Kesihatan Pengimbas** memberi amaran apabila isu pengimbas dikesan. **Ujian Pukal** mengesahkan kefungsian pengimbas dengan dokumen sampel sebelum pelaksanaan.
 
-*Evidence: Annex E.45 - Hardware Specifications; Annex E.46 - Scanner Comparison*
+*Bukti: Lampiran E.45 - Spesifikasi Perkakasan; Lampiran E.46 - Perbandingan Pengimbas*
 
 ---
 
@@ -899,23 +899,23 @@ Modul Papan Pemuka menyediakan analitik berasaskan peranan dan gambaran keseluru
 | **M/O** | M |
 | **Compliance** | FULLY COMPLY |
 
-**Remarks & Evidence:**
+**Ulasan & Bukti:**
 
-**Complete Migration & Data Cleaning Services:**
+**Perkhidmatan Migrasi & Pembersihan Data Lengkap:**
 
-**i. Full Migration:** Extract all data from existing Lotus Notes system and official Darjah Kebesaran website portal
+**i. Migrasi Penuh:** Ekstrak semua data dari sistem Lotus Notes sedia ada dan portal laman web rasmi Darjah Kebesaran
 
-**ii. Data Reusability:** Transform and load legacy data into new system ensuring all historical records remain accessible and functional
+**ii. Kebolehgunaan Semula Data:** Transformasi dan muat data warisan ke sistem baharu memastikan semua rekod sejarah kekal boleh diakses dan berfungsi
 
-**iii. Thorough Testing:** Multiple test migration cycles with data validation, integrity checks, and user acceptance verification
+**iii. Ujian Menyeluruh:** Berbilang kitar ujian migrasi dengan pengesahan data, pemeriksaan integriti, dan pengesahan penerimaan pengguna
 
-**iv. Migration Plan:** Comprehensive migration strategy document including timeline, resources, risk mitigation, and rollback procedures
+**iv. Pelan Migrasi:** Dokumen strategi migrasi komprehensif termasuk jadual masa, sumber, pengurangan risiko, dan prosedur rollback
 
-**Data Cleaning Process:** Duplicate detection → Data standardization → Missing data handling → Validation rules → Quality scoring.
+**Proses Pembersihan Data:** Pengesanan pendua → Penukaran standard data → Pengendalian data hilang → Peraturan pengesahan → Penilaian kualiti.
 
-**🚀 VALUE-ADD ENHANCEMENT:** **Data Profiling Report** provides analysis of legacy data quality before migration begins. **Migration Rehearsal** runs the full migration process in a staging environment 3 times before production. **Data Archive Strategy** preserves original data in read-only format for long-term audit requirements. **User Training on Clean Data** educates PSUK staff on maintaining data quality going forward. **Post-Migration Data Quality Dashboard** monitors ongoing data integrity.
+**🚀 PENAMBAHBAIKAN NILAI TAMBAH:** **Laporan Profil Data** menyediakan analisis kualiti data warisan sebelum migrasi bermula. **Ujian Raptai Migrasi** menjalankan proses migrasi penuh dalam persekitaran peringkat 3 kali sebelum pengeluaran. **Strategi Arkib Data** memelihara data asal dalam format baca-sahaja untuk keperluan audit jangka panjang. **Latihan Pengguna tentang Data Bersih** mendidik kakitangan PSUK mengekalkan kualiti data untuk masa hadapan. **Papan Pemuka Kualiti Data Pasca-Migrasi** memantau integriti data berterusan.
 
-*Evidence: Annex E.47 - Migration Methodology; Annex E.48 - Data Cleaning Procedures; Annex E.49 - Migration Test Plan*
+*Bukti: Lampiran E.47 - Metodologi Migrasi; Lampiran E.48 - Prosedur Pembersihan Data; Lampiran E.49 - Pelan Ujian Migrasi*
 
 ---
 
@@ -929,25 +929,25 @@ Modul Papan Pemuka menyediakan analitik berasaskan peranan dan gambaran keseluru
 | **M/O** | M |
 | **Compliance** | FULLY COMPLY |
 
-**Remarks & Evidence:**
+**Ulasan & Bukti:**
 
-**Complete Testing Framework:**
+**Rangka Kerja Ujian Lengkap:**
 
-**a. UAT:** End-user testing with real-world scenarios, test scripts covering all requirements, defect tracking and resolution
+**a. UAT:** Ujian pengguna akhir dengan senario dunia sebenar, skrip ujian merangkumi semua keperluan, pengesanan dan penyelesaian kecacatan
 
-**b. PAT:** System stability testing in production-like environment, integration verification, data migration validation
+**b. PAT:** Ujian kestabilan sistem dalam persekitaran seperti pengeluaran, pengesahan integrasi, pengesahan migrasi data
 
-**c. EAT:** Hardware testing including barcode scanner compatibility, performance, and reliability
+**c. EAT:** Ujian perkakasan termasuk keserasian pengimbas barcode, prestasi, dan kebolehpercayaan
 
-**d. FAT:** Final comprehensive testing before project closure including all components
+**d. FAT:** Ujian komprehensif akhir sebelum penutupan projek termasuk semua komponen
 
-**e. PT & WASA:** Load testing (500+ concurrent users), stress testing, and CREST-accredited security penetration testing
+**e. PT & WASA:** Ujian beban (500+ pengguna serentak), ujian tekanan, dan ujian penembusan keselamatan diiktiraf CREST
 
-**Testing Documentation:** Test plans, test scripts, test data, execution reports, and defect logs provided for all phases.
+**Dokumentasi Ujian:** Pelan ujian, skrip ujian, data ujian, laporan pelaksanaan, dan log kecacatan disediakan untuk semua fasa.
 
-**🚀 VALUE-ADD ENHANCEMENT:** **Automated Test Suite** provides regression testing for all future releases. **User Testing Workshops** train PSUK staff to conduct ongoing UAT for future enhancements. **Performance Baseline Report** establishes system performance metrics for ongoing monitoring. **Security Test Retest** includes one retest after remediation at no additional cost.
+**🚀 PENAMBAHBAIKAN NILAI TAMBAH:** **Suite Ujian Automatik** menyediakan ujian regresi untuk semua keluaran masa hadapan. **Bengkel Ujian Pengguna** melatih kakitangan PSUK menjalankan UAT berterusan untuk penambahbaikan masa hadapan. **Laporan Garis Dasar Prestasi** menetapkan metrik prestasi sistem untuk pemantauan berterusan. **Ujian Semula Keselamatan** termasuk satu ujian semula selepas pemulihan tanpa kos tambahan.
 
-*Evidence: Annex G - Testing Documentation; Annex G.1 - UAT Test Scripts; Annex G.2 - Performance Test Plan; Annex G.3 - WASA Scope*
+*Bukti: Lampiran G - Dokumentasi Ujian; Lampiran G.1 - Skrip Ujian UAT; Lampiran G.2 - Pelan Ujian Prestasi; Lampiran G.3 - Skop WASA*
 
 ---
 
@@ -959,19 +959,19 @@ Modul Papan Pemuka menyediakan analitik berasaskan peranan dan gambaran keseluru
 | **M/O** | M |
 | **Compliance** | FULLY COMPLY |
 
-**Remarks & Evidence:**
+**Ulasan & Bukti:**
 
-SESB commits to fixing all defects identified during testing phases at no additional cost. This includes:
-- Critical defects (system crashes, data loss): Fixed within 24 hours
-- High priority (major feature issues): Fixed within 72 hours
-- Medium priority (minor issues): Fixed within 5 working days
-- Low priority (cosmetic): Fixed within 10 working days
+SESB komited untuk memperbaiki semua kecacatan yang dikenal pasti semasa fasa ujian tanpa kos tambahan. Ini merangkumi:
+- Kecacatan kritikal (sistem ranap, kehilangan data): Diperbaiki dalam masa 24 jam
+- Keutamaan tinggi (isu ciri utama): Diperbaiki dalam masa 72 jam
+- Keutamaan sederhana (isu kecil): Diperbaiki dalam masa 5 hari bekerja
+- Keutamaan rendah (kosmetik): Diperbaiki dalam masa 10 hari bekerja
 
-**Defect Management:** Centralized defect tracking with PSUK access, severity classification, root cause analysis, and prevention measures.
+**Pengurusan Kecacatan:** Pengesanan kecacatan berpusat dengan akses PSUK, klasifikasi keseriusan, analisis punca akar, dan langkah pencegahan.
 
-**🚀 VALUE-ADD ENHANCEMENT:** **Zero-Defect Guarantee**—if critical defects exceed 5 during UAT, we extend warranty period by 3 months at no cost. **Defect Trend Analysis** identifies systemic issues and process improvements. **Post-Release Defect Prediction** uses AI to identify high-risk areas before they fail.
+**🚀 PENAMBAHBAIKAN NILAI TAMBAH:** **Jaminan Sifar-Kecacatan**—jika kecacatan kritikal melebihi 5 semasa UAT, kami memanjangkan tempoh waranti sebanyak 3 bulan tanpa kos. **Analisis Trend Kecacatan** mengenal pasti isu sistemik dan penambahbaikan proses. **Ramalan Kecacatan Pasca-Keluaran** menggunakan AI untuk mengenal pasti kawasan berisiko tinggi sebelum mereka gagal.
 
-*Evidence: Annex G.4 - Defect Management Process; Annex H.5 - Warranty Terms*
+*Bukti: Lampiran G.4 - Proses Pengurusan Kecacatan; Lampiran H.5 - Terma Waranti*
 
 ---
 
@@ -983,20 +983,20 @@ SESB commits to fixing all defects identified during testing phases at no additi
 | **M/O** | M |
 | **Compliance** | FULLY COMPLY |
 
-**Remarks & Evidence:**
+**Ulasan & Bukti:**
 
-Complete testing documentation package includes:
-- Master Test Plan covering all testing phases
-- Detailed test scripts with expected results and pass/fail criteria
-- Test execution reports with evidence (screenshots, logs)
-- Defect reports with resolution verification
-- Acceptance certificates for each testing phase
+Pakej dokumentasi ujian lengkap merangkumi:
+- Pelan Ujian Induk merangkumi semua fasa ujian
+- Skrip ujian terperinci dengan keputusan jangkaan dan kriteria lulus/gagal
+- Laporan pelaksanaan ujian dengan bukti (tangkapan skrin, log)
+- Laporan kecacatan dengan pengesahan penyelesaian
+- Sijil penerimaan untuk setiap fasa ujian
 
-All documents follow IEEE 829 standard format and are provided in both softcopy and hardcopy.
+Semua dokumen mengikut format piawaian IEEE 829 dan disediakan dalam softcopy dan hardcopy.
 
-**🚀 VALUE-ADD ENHANCEMENT:** **Interactive Test Dashboard** allows PSUK to monitor test progress in real-time. **Test Coverage Analysis** maps every test to requirements ensuring complete coverage. **Automated Test Report Generation** reduces documentation time and errors. **Knowledge Transfer Session** on testing best practices for PSUK technical staff.
+**🚀 PENAMBAHBAIKAN NILAI TAMBAH:** **Papan Pemuka Ujian Interaktif** membolehkan PSUK memantau kemajuan ujian dalam masa nyata. **Analisis Liputan Ujian** memetakan setiap ujian kepada keperluan memastikan liputan lengkap. **Penjanaan Laporan Ujian Automatik** mengurangkan masa dokumentasi dan kesilapan. **Sesi Pemindahan Ilmu** tentang amalan terbaik ujian untuk kakitangan teknikal PSUK.
 
-*Evidence: Annex G.5 - Documentation Templates; Annex G.6 - Acceptance Certificate Templates*
+*Bukti: Lampiran G.5 - Templat Dokumentasi; Lampiran G.6 - Templat Sijil Penerimaan*
 
 ---
 
@@ -1008,20 +1008,20 @@ All documents follow IEEE 829 standard format and are provided in both softcopy 
 | **M/O** | M |
 | **Compliance** | FULLY COMPLY |
 
-**Remarks & Evidence:**
+**Ulasan & Bukti:**
 
-SESB will bear all costs related to testing activities including:
-- Testing environment setup and infrastructure
-- Test data preparation and anonymization
-- Testing tools and licenses
-- Travel and accommodation for on-site testing support
-- Hardware for EAT testing
+SESB akan menanggung semua kos berkaitan aktiviti ujian termasuk:
+- Persediaan persekitaran ujian dan infrastruktur
+- Penyediaan data ujian dan pengenalan tidak bermaya
+- Alat ujian dan lesen
+- Perjalanan dan penginapan untuk sokongan ujian di lokasi
+- Perkakasan untuk ujian EAT
 
-No additional charges will be invoiced for testing-related expenses.
+Tiada caj tambahan akan diinvois untuk perbelanjaan berkaitan ujian.
 
-**🚀 VALUE-ADD ENHANCEMENT:** **Testing Environment Mirroring** ensures test environment exactly matches production for accurate results. **Test Data Generator** creates realistic synthetic data for testing without privacy concerns. **Mobile Device Testing Lab** with multiple device types for compatibility testing.
+**🚀 PENAMBAHBAIKAN NILAI TAMBAH:** **Pencerminan Persekitaran Ujian** memastikan persekitaran ujian sepadan dengan pengeluaran untuk keputusan yang tepat. **Penjana Data Ujian** mencipta data sintetik realistik untuk ujian tanpa kebimbangan privasi. **Makmal Ujian Peranti Mudah Alih** dengan pelbagai jenis peranti untuk ujian keserasian.
 
-*Evidence: Annex G.7 - Testing Cost Breakdown*
+*Bukti: Lampiran G.7 - Pecahan Kos Ujian*
 
 ---
 
