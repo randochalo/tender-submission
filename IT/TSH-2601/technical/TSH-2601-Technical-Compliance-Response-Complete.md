@@ -71,15 +71,15 @@ For every requirement, we provide:
 | **M/O** | M |
 | **Compliance** | FULLY COMPLY |
 
-**Remarks & Evidence:**
+**Ulasan & Bukti:**
 
-SESB will develop all 10 core modules as specified, using a modular microservices architecture that ensures each component can be developed, tested, and deployed independently. Our development team has extensive experience with similar award management systems for government agencies.
+SESB akan membangunkan kesemua 10 modul utama seperti yang diperlukan, menggunakan arkitektur mikroservis modular yang memastikan setiap komponen boleh dibangunkan, diuji, dan dilaksanakan secara berasingan. Pasukan pembangunan kami mempunyai pengalaman meluas dengan sistem pengurusan anugerah yang serupa untuk agensi kerajaan.
 
-**Technical Architecture:** The system will be built on Laravel 10.x framework with Vue.js frontend, following MVC architecture patterns. Each module will have its own service layer, ensuring loose coupling and high cohesion.
+**Arkitektur Teknikal:** Sistem akan dibina pada rangka kerja Laravel 10.x dengan frontend Vue.js, mengikut corak arkitektur MVC. Setiap modul akan mempunyai lapisan servisnya sendiri, memastikan ikatan longgar dan kohesi tinggi.
 
-**🚀 VALUE-ADD ENHANCEMENT:** We provide a **Modular Plugin Architecture** that allows future modules to be added without disrupting existing functionality. The system includes an **API Gateway** that standardizes all integrations, making it easy to connect with future systems like myIDENTITY, HRMIS, or any new government platforms.
+**🚀 PENAMBAHBAIKAN NILAI TAMBAH:** Kami menyediakan **Arkitektur Plugin Modular** yang membolehkan modul masa depan ditambah tanpa mengganggu fungsi sedia ada. Sistem termasuk **API Gateway** yang menstandardkan semua integrasi, memudahkan sambungan dengan sistem masa depan seperti myIDENTITY, HRMIS, atau platform kerajaan baharu.
 
-*Evidence: Annex E.1 - System Architecture Diagram; Annex E.2 - Module Specifications*
+*Bukti: Lampiran E.1 - Gambarajah Arkitektur Sistem; Lampiran E.2 - Spesifikasi Modul*
 
 ---
 
@@ -91,13 +91,13 @@ SESB will develop all 10 core modules as specified, using a modular microservice
 | **M/O** | M |
 | **Compliance** | FULLY COMPLY |
 
-**Remarks & Evidence:**
+**Ulasan & Bukti:**
 
-SESB implements defense-in-depth security with multiple layers: network security (firewall, WAF), application security (OWASP Top 10 compliance, input validation), data security (AES-256 encryption, field-level encryption for sensitive data), and access security (MFA, RBAC). All security controls are audited quarterly.
+SESB melaksanakan keselamatan pertahanan mendalam dengan pelbagai lapisan: keselamatan rangkaian (firewall, WAF), keselamatan aplikasi (pematuhan OWASP Top 10, pengesahan input), keselamatan data (penyulitan AES-256, penyulitan peringkat medan untuk data sensitif), dan keselamatan akses (MFA, RBAC). Semua kawalan keselamatan diaudit suku tahunan.
 
-**Security Framework:** We follow ISO 27001 and MS ISO/IEC 27001 standards. The application undergoes VAPT before each major release. All data transmissions use TLS 1.3 encryption.
+**Rangka Kerja Keselamatan:** Kami mengikut piawaian ISO 27001 dan MS ISO/IEC 27001. Aplikasi menjalani VAPT sebelum setiap keluaran utama. Semua penghantaran data menggunakan penyulitan TLS 1.3.
 
-**🚀 VALUE-ADD ENHANCEMENT:** Our **Zero-Trust Security Model** implements continuous authentication using behavioral biometrics (typing patterns, device posture). We also provide a **Security Operations Center (SOC)** dashboard that monitors threats in real-time, with automated incident response for common attack patterns.
+**🚀 PENAMBAHBAIKAN NILAI TAMBAH:** **Model Keselamatan Zero-Trust** kami melaksanakan pengesahan berterusan menggunakan biometrik tingkah laku (corak menaip, postur peranti). Kami juga menyediakan papan pemuka **Pusat Operasi Keselamatan (SOC)** yang memantau ancaman dalam masa nyata, dengan tindak balas insiden automatik untuk corak serangan biasa.
 
 *Evidence: Annex I - Security Assessment; Annex I.2 - VAPT Report; Annex I.3 - Security Architecture*
 
@@ -111,13 +111,13 @@ SESB implements defense-in-depth security with multiple layers: network security
 | **M/O** | M |
 | **Compliance** | FULLY COMPLY |
 
-**Remarks & Evidence:**
+**Ulasan & Bukti:**
 
-The system uses responsive design with mobile-first approach, ensuring optimal experience across desktop, tablet, and mobile devices. We follow Government Digital Services (GDS) design principles and Malaysian Government Design System (MGDS) guidelines. The UI is designed for accessibility (WCAG 2.1 AA compliance).
+Sistem menggunakan reka bentuk responsif dengan pendekatan mobile-first, memastikan pengalaman optimum merentasi desktop, tablet, dan peranti mudah alih. Kami mengikut prinsip reka bentuk Perkhidmatan Digital Kerajaan (GDS) dan Sistem Reka Bentuk Kerajaan Malaysia (MGDS). UI direka untuk kebolehcapaian (pematuhan WCAG 2.1 AA).
 
-**Technology Stack:** Vue.js 3 with Tailwind CSS for responsive UI, supporting all modern browsers (Chrome, Firefox, Safari, Edge). Progressive Web App (PWA) capabilities enable offline functionality for field officers.
+**Timbal Teknologi:** Vue.js 3 dengan Tailwind CSS untuk UI responsif, menyokong semua pelayar moden (Chrome, Firefox, Safari, Edge). Keupayaan Progressive Web App (PWA) membolehkan fungsi luar talian untuk pegawai lapangan.
 
-**🚀 VALUE-ADD ENHANCEMENT:** We implement **AI-Powered UX Optimization** that analyzes user behavior to suggest interface improvements. The system includes a **Voice Interface** for accessibility (text-to-speech and speech-to-text), enabling visually impaired users to navigate the system. Our **Personalized Dashboard** adapts to each user's role, showing only relevant information and tasks.
+**🚀 PENAMBAHBAIKAN NILAI TAMBAH:** Kami melaksanakan **Pengoptimuman UX Berkuasa AI** yang menganalisis tingkah laku pengguna untuk mencadangkan penambahbaikan antara muka. Sistem termasuk **Antara Muka Suara** untuk kebolehcapaian (teks-kepada-sastera dan sastera-kepada-teks), membolehkan pengguna kurang upaya mengemudi sistem. **Papan Pemuka Peribadi** kami menyesuaikan dengan peranan setiap pengguna, memaparkan hanya maklumat dan tugas yang relevan.
 
 *Evidence: Annex E.4 - UI/UX Design; Annex E.5 - Responsive Design Specifications*
 
@@ -135,13 +135,13 @@ The system uses responsive design with mobile-first approach, ensuring optimal e
 | **M/O** | M |
 | **Compliance** | FULLY COMPLY |
 
-**Remarks & Evidence:**
+**Ulasan & Bukti:**
 
-SESB will conduct comprehensive URS and SRS workshops in Month 1-2, involving all stakeholders (Urus Setia, Pentadbir, technical teams). We use structured interview techniques, JAD (Joint Application Development) sessions, and system analysis of the existing Lotus Notes system to capture all functional and non-functional requirements.
+SESB akan menjalankan bengkel URS dan SRS komprehensif dalam Bulan 1-2, melibatkan semua pihak berkepentingan (Urus Setia, Pentadbir, pasukan teknikal). Kami menggunakan teknik temubual berstruktur, sesi JAD (Joint Application Development), dan analisis sistem Lotus Notes sedia ada untuk menangkap semua keperluan fungsian dan bukan fungsian.
 
-**Methodology:** Our business analysts will shadow users for 3-5 days to understand current workflows, pain points, and improvement opportunities. We document AS-IS and TO-BE process flows using BPMN notation.
+**Metodologi:** Penganalisis perniagaan kami akan mengiringi pengguna selama 3-5 hari untuk memahami aliran kerja semasa, titik kesakitan, dan peluang penambahbaikan. Kami mendokumenkan aliran proses AS-IS dan TO-BE menggunakan notasi BPMN.
 
-**🚀 VALUE-ADD ENHANCEMENT:** We provide **Process Mining Analysis** of existing system logs to identify actual usage patterns, bottlenecks, and optimization opportunities. This data-driven approach often reveals requirements users don't articulate explicitly. We also conduct **User Experience Research** including card sorting and usability testing of early prototypes to validate design decisions.
+**🚀 PENAMBAHBAIKAN NILAI TAMBAH:** Kami menyediakan **Analisis Perlombongan Proses** log sistem sedia ada untuk mengenal pasti corak penggunaan sebenar, kesesakan, dan peluang pengoptimuman. Pendekatan berasaskan data ini sering mendedahkan keperluan yang pengguna tidak nyatakan secara eksplisit. Kami juga menjalankan **Kajian Pengalaman Pengguna** termasuk pengisihan kad dan ujian kebolehgunaan prototaip awal untuk mengesahkan keputusan reka bentuk.
 
 *Evidence: Annex F.1 - URS/SRS Timeline; Annex F.2 - Stakeholder Engagement Plan*
 
@@ -155,13 +155,13 @@ SESB will conduct comprehensive URS and SRS workshops in Month 1-2, involving al
 | **M/O** | M |
 | **Compliance** | FULLY COMPLY |
 
-**Remarks & Evidence:**
+**Ulasan & Bukti:**
 
-Complete URS and SRS documents will be delivered as Phase 1 deliverables, including: Business Requirements Specification (BRS), User Requirements Specification (URS), System Requirements Specification (SRS), Interface Requirements, Security Requirements, and Data Migration Requirements. All documents follow IEEE 830 standard format.
+Dokumen URS dan SRS lengkap akan diserahkan sebagai hasil Fasa 1, termasuk: Spesifikasi Keperluan Perniagaan (BRS), Spesifikasi Keperluan Pengguna (URS), Spesifikasi Keperluan Sistem (SRS), Keperluan Antara Muka, Keperluan Keselamatan, dan Keperluan Migrasi Data. Semua dokumen mengikut format piawaian IEEE 830.
 
-**Traceability:** Each requirement is uniquely identified and traceable through design, development, and testing phases using a Requirements Traceability Matrix (RTM).
+**Ketelusan:** Setiap keperluan dikenal pasti secara unik dan boleh dikesan merentasi reka bentuk, pembangunan, dan fasa ujian menggunakan Matriks Keterusan Keperluan (RTM).
 
-**🚀 VALUE-ADD ENHANCEMENT:** We provide **Interactive Requirements Portal** where stakeholders can review, comment, and approve requirements online with version control. The system automatically generates **Impact Analysis Reports** showing which modules/tests are affected when requirements change. We also include **Video User Stories**—short recorded scenarios demonstrating how each requirement will work in the final system.
+**🚀 PENAMBAHBAIKAN NILAI TAMBAH:** Kami menyediakan **Portal Keperluan Interaktif** di mana pihak berkepentingan boleh menyemak, mengulas, dan meluluskan keperluan dalam talian dengan kawalan versi. Sistem menjana secara automatik **Laporan Analisis Impak** menunjukkan modul/ujian mana yang terjejas apabila keperluan berubah. Kami juga termasuk **Kisah Pengguna Video**—senario dirakam pendek yang menunjukkan bagaimana setiap keperluan akan berfungsi dalam sistem akhir.
 
 *Evidence: Annex F.3 - Documentation Templates; Annex F.4 - Requirements Traceability Matrix*
 
@@ -177,13 +177,13 @@ Complete URS and SRS documents will be delivered as Phase 1 deliverables, includ
 | **M/O** | M |
 | **Compliance** | FULLY COMPLY |
 
-**Remarks & Evidence:**
+**Ulasan & Bukti:**
 
-SESB will conduct comprehensive business process analysis and software architecture design in Month 3-4. This includes AS-IS process documentation, TO-BE process design, gap analysis, and complete software architecture design following TOGAF framework.
+SESB akan menjalankan analisis proses perniagaan komprehensif dan reka bentuk arkitektur perisian dalam Bulan 3-4. Ini termasuk dokumentasi proses AS-IS, reka bentuk proses TO-BE, analisis jurang, dan reka bentuk arkitektur perisian lengkap mengikut rangka kerja TOGAF.
 
-**Architecture Documentation:** We provide C4 model diagrams (Context, Container, Component, Code), API specifications, data architecture, security architecture, and deployment architecture. All architecture decisions are recorded in an Architecture Decision Record (ADR).
+**Dokumentasi Arkitektur:** Kami menyediakan gambarajah model C4 (Konteks, Kontena, Komponen, Kod), spesifikasi API, arkitektur data, arkitektur keselamatan, dan arkitektur pelaksanaan. Semua keputusan arkitektur direkodkan dalam Rekod Keputusan Arkitektur (ADR).
 
-**🚀 VALUE-ADD ENHANCEMENT:** We use **Domain-Driven Design (DDD)** methodology to ensure the software model accurately reflects the ePingat business domain. This includes **Event Storming** workshops with domain experts to identify bounded contexts, aggregates, and domain events. The result is a system architecture that naturally supports business evolution.
+**🚀 PENAMBAHBAIKAN NILAI TAMBAH:** Kami menggunakan metodologi **Reka Bentuk Berasaskan Domain (DDD)** untuk memastikan model perisian mencerminkan domain perniagaan ePingat dengan tepat. Ini termasuk bengkel **Event Storming** dengan pakar domain untuk mengenal pasti konteks terikat, agregat, dan peristiwa domain. Hasilnya adalah arkitektur sistem yang secara semula jadi menyokong evolusi perniagaan.
 
 *Evidence: Annex E.6 - Software Architecture Document (SAD); Annex E.7 - Architecture Decision Records*
 
@@ -197,13 +197,13 @@ SESB will conduct comprehensive business process analysis and software architect
 | **M/O** | M |
 | **Compliance** | FULLY COMPLY |
 
-**Remarks & Evidence:**
+**Ulasan & Bukti:**
 
-Complete system diagrams will be provided: ERD showing all entities, relationships, cardinality, and constraints; Data Dictionary with 200+ data elements including field types, lengths, validation rules, and descriptions; DFD Level 0-2 showing system boundaries, processes, data stores, and data flows.
+Gambarajah sistem lengkap akan disediakan: ERD menunjukkan semua entiti, hubungan, kardinaliti, dan kekangan; Kamus Data dengan 200+ elemen data termasuk jenis medan, panjang, peraturan pengesahan, dan perihalan; DFD Peringkat 0-2 menunjukkan sempadan sistem, proses, storan data, dan aliran data.
 
-**Database Design:** We use normalization (3NF) to ensure data integrity while maintaining query performance. All tables include audit columns (created_by, created_at, updated_by, updated_at).
+**Reka Bentuk Pangkalan Data:** Kami menggunakan normalisasi (3NF) untuk memastikan integriti data sambil mengekalkan prestasi pertanyaan. Semua jadual termasuk lajur audit (created_by, created_at, updated_by, updated_at).
 
-**🚀 VALUE-ADD ENHANCEMENT:** We provide **Interactive Data Model Explorer**—a web-based tool where stakeholders can browse the data model, view sample data, and understand relationships visually. We also include **Data Quality Rules Documentation** specifying validation rules, referential integrity constraints, and data cleansing procedures for migration.
+**🚀 PENAMBAHBAIKAN NILAI TAMBAH:** Kami menyediakan **Peneroka Model Data Interaktif**—alat berasaskan web di mana pihak berkepentingan boleh melayari model data, melihat data sampel, dan memahami hubungan secara visual. Kami juga termasuk **Dokumentasi Peraturan Kualiti Data** menentukan peraturan pengesahan, kekangan integriti rujukan, dan prosedur pembersihan data untuk migrasi.
 
 *Evidence: Annex E.8 - ERD Diagrams; Annex E.9 - Data Dictionary; Annex E.10 - DFD Diagrams*
 
@@ -219,19 +219,19 @@ Complete system diagrams will be provided: ERD showing all entities, relationshi
 | **M/O** | M |
 | **Compliance** | FULLY COMPLY |
 
-**Remarks & Evidence:**
+**Ulasan & Bukti:**
 
-**Proposed Technology Stack:**
-- OS: Ubuntu 22.04 LTS (Long Term Support until 2027)
-- Language: PHP 8.2 (latest stable with JIT compilation)
-- Framework: Laravel 10.x (enterprise-grade, PSUK-approved)
-- Database: MySQL 8.0 (with JSON support, window functions)
-- Web Server: Nginx with PHP-FPM
-- Cache: Redis for session and application caching
+**Timbal Teknologi yang Dicadangkan:**
+- OS: Ubuntu 22.04 LTS (Sokongan Jangka Panjang sehingga 2027)
+- Bahasa: PHP 8.2 (stabil terkini dengan pengkompilan JIT)
+- Rangka Kerja: Laravel 10.x (gred perusahaan, diluluskan PSUK)
+- Pangkalan Data: MySQL 8.0 (dengan sokongan JSON, fungsi tetingkap)
+- Pelayan Web: Nginx dengan PHP-FPM
+- Cache: Redis untuk sesi dan cache aplikasi
 
-**Rationale:** This stack is proven in Malaysian government projects, has strong security track record, and extensive community support. Laravel's built-in security features (CSRF protection, SQL injection prevention, XSS filtering) accelerate secure development.
+**Justifikasi:** Timbal ini terbukti dalam projek kerajaan Malaysia, mempunyai rekod keselamatan kukuh, dan sokongan komuniti yang meluas. Ciri keselamatan terbina Laravel (perlindungan CSRF, pencegahan suntikan SQL, penapisan XSS) mempercepat pembangunan selamat.
 
-**🚀 VALUE-ADD ENHANCEMENT:** We include **Container Orchestration** using Docker and Kubernetes for simplified deployment, scaling, and disaster recovery. Our **Infrastructure as Code (IaC)** approach using Terraform ensures all environments are consistently configured and reproducible. We also provide **Performance Monitoring Stack** (Prometheus + Grafana) for real-time system health visibility.
+**🚀 PENAMBAHBAIKAN NILAI TAMBAH:** Kami termasuk **Orkestrasi Kontena** menggunakan Docker dan Kubernetes untuk pelaksanaan, penskalaan, dan pemulihan bencana yang dipermudah. Pendekatan **Infrastructure as Code (IaC)** kami menggunakan Terraform memastikan semua persekitaran dikonfigurasi secara konsisten dan boleh diulang. Kami juga menyediakan **Timbal Pemantauan Prestasi** (Prometheus + Grafana) untuk keterlihatan kesihatan sistem dalam masa nyata.
 
 *Evidence: Annex E.11 - Technology Stack; Annex E.12 - Infrastructure Architecture*
 
