@@ -14,27 +14,30 @@ This repository contains all tender submission documents, organized by category 
 
 ```
 tender-submission/
-├── README.md             # This file - main navigation
-├── IT/                   # IT-related tenders
-│   ├── TSH-001/         # Tender Submission #001
-│   │   ├── README.md    # Tender details
-│   │   └── Docs/        # Documents folder
-│   ├── TSH-002/         # Tender Submission #002
-│   ├── TSH-003/         # Tender Submission #003
-│   ├── TSH-004/         # Tender Submission #004
-│   └── TSH-005/         # Tender Submission #005
-└── [future categories]/  # Additional categories as needed
+├── README.md              # This file - main navigation
+└── IT/                    # IT-related tenders
+    ├── TSH-001/          # Tender Submission #001
+    │   ├── README.md     # Tender details and progress
+    │   ├── documents/    # Official tender documents
+    │   ├── quotations/   # Price quotations and BOQ
+    │   ├── technical/    # Technical proposals and specs
+    │   ├── company/      # Company profile and certifications
+    │   └── submission/   # Final submission package
+    ├── TSH-002/          # Tender Submission #002
+    ├── TSH-003/          # Tender Submission #003
+    ├── TSH-004/          # Tender Submission #004
+    └── TSH-005/          # Tender Submission #005
 ```
 
 ## IT Tenders Summary
 
 | ID | Tender Reference | Agency | Title | Status | Deadline | Progress |
 |----|------------------|--------|-------|--------|----------|----------|
-| TSH-001 | - | - | - | 🟡 Draft | - | 0% |
-| TSH-002 | - | - | - | 🟡 Draft | - | 0% |
-| TSH-003 | - | - | - | 🟡 Draft | - | 0% |
-| TSH-004 | - | - | - | 🟡 Draft | - | 0% |
-| TSH-005 | - | - | - | 🟡 Draft | - | 0% |
+| [TSH-001](./IT/TSH-001/) | - | - | - | 🟡 Draft | - | 0% |
+| [TSH-002](./IT/TSH-002/) | - | - | - | 🟡 Draft | - | 0% |
+| [TSH-003](./IT/TSH-003/) | - | - | - | 🟡 Draft | - | 0% |
+| [TSH-004](./IT/TSH-004/) | - | - | - | 🟡 Draft | - | 0% |
+| [TSH-005](./IT/TSH-005/) | - | - | - | 🟡 Draft | - | 0% |
 
 **Status Legend:**
 - 🟡 Draft - Initial preparation
@@ -77,22 +80,31 @@ tender-submission/
 1. Create a new folder under the appropriate category (e.g., `IT/TSH-XXX/`)
 2. Use the next available number in sequence
 3. Create a `README.md` inside the folder with tender details
-4. Add all relevant documents to the `Docs/` subfolder
+4. Add documents to the appropriate subfolders:
+   - `documents/` - Official tender notice, addendums
+   - `quotations/` - Price quotations, BOQ, financial proposals
+   - `technical/` - Technical specifications, drawings, proposals
+   - `company/` - Company profile, certifications, financial statements
+   - `submission/` - Final compiled submission package
 5. Update this README.md with the new tender information
 
-### Folder Template
+### Folder Structure per Tender
 
-Each TSH-XXX folder should contain:
+Each TSH-XXX folder contains:
 
 ```
 TSH-XXX/
-├── README.md           # Tender details and summary
-└── Docs/               # All tender documents
-    ├── documents/      # Official tender documents
-    ├── quotations/     # Price quotations and BOQ
-    ├── technical/      # Technical proposals and specs
-    ├── company/        # Company profile and certifications
-    └── submission/     # Final submission documents
+├── README.md           # Tender details, checklist, progress
+├── documents/          # Official tender documents
+│   └── .gitkeep
+├── quotations/         # Price quotations and BOQ
+│   └── .gitkeep
+├── technical/          # Technical proposals and specs
+│   └── .gitkeep
+├── company/            # Company profile and certifications
+│   └── .gitkeep
+└── submission/         # Final submission documents
+    └── .gitkeep
 ```
 
 ---
@@ -101,9 +113,14 @@ TSH-XXX/
 
 1. **Naming Convention:** Use TSH-XXX format (Tender Submission #XXX)
 2. **Documentation:** Always include a README.md in each submission folder
-3. **File Organization:** Keep documents in the `Docs/` subfolder
+3. **File Organization:** Store documents in the appropriate subfolder:
+   - Official documents → `documents/`
+   - Pricing/BOQ → `quotations/`
+   - Technical specs → `technical/`
+   - Company info → `company/`
+   - Final package → `submission/`
 4. **Version Control:** Use Git commits to track changes
-5. **Confidentiality:** Do not commit sensitive pricing in plain text
+5. **Confidentiality:** Do not commit sensitive pricing in plain text (use password-protected PDFs)
 
 ---
 
@@ -113,6 +130,7 @@ TSH-XXX/
 |------|--------|-----------|
 | 2026-01-31 | Repository created | - |
 | 2026-01-31 | Templates added | TSH-001 to TSH-005 |
+| 2026-01-31 | Folder structure updated | All TSH folders |
 
 ---
 
