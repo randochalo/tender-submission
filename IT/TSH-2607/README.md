@@ -1,10 +1,10 @@
-# TSH-001: Tender Submission #001
+# TSH-2607: Tender Submission #2607
 
 ## Tender Information
 
 | Field | Details |
 |-------|---------|
-| **Submission ID** | TSH-001 |
+| **Submission ID** | TSH-2607 |
 | **Tender Reference** | [To be filled] |
 | **Agency** | [To be filled] |
 | **Tender Title** | [To be filled] |
@@ -35,7 +35,7 @@
 
 - `documents/` - Official tender documents
 - `quotations/` - Price quotations and BOQ
-- `technical/` - Technical proposals
+- `technical/` - Technical proposals and specs
 - `company/` - Company profile and certifications
 - `submission/` - Final submission package
 

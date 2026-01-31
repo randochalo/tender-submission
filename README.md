@@ -16,28 +16,32 @@ This repository contains all tender submission documents, organized by category 
 tender-submission/
 ├── README.md              # This file - main navigation
 └── IT/                    # IT-related tenders
-    ├── TSH-001/          # Tender Submission #001
+    ├── TSH-2601/         # Tender Submission #2601
     │   ├── README.md     # Tender details and progress
     │   ├── documents/    # Official tender documents
     │   ├── quotations/   # Price quotations and BOQ
     │   ├── technical/    # Technical proposals and specs
     │   ├── company/      # Company profile and certifications
     │   └── submission/   # Final submission package
-    ├── TSH-002/          # Tender Submission #002
-    ├── TSH-003/          # Tender Submission #003
-    ├── TSH-004/          # Tender Submission #004
-    └── TSH-005/          # Tender Submission #005
+    ├── TSH-2602/         # Tender Submission #2602
+    ├── TSH-2603/         # Tender Submission #2603
+    ├── TSH-2604/         # Tender Submission #2604
+    ├── TSH-2605/         # Tender Submission #2605
+    ├── TSH-2606/         # Tender Submission #2606
+    └── TSH-2607/         # Tender Submission #2607
 ```
 
 ## IT Tenders Summary
 
 | ID | Tender Reference | Agency | Title | Status | Deadline | Progress |
 |----|------------------|--------|-------|--------|----------|----------|
-| [TSH-001](./IT/TSH-001/) | - | - | - | 🟡 Draft | - | 0% |
-| [TSH-002](./IT/TSH-002/) | - | - | - | 🟡 Draft | - | 0% |
-| [TSH-003](./IT/TSH-003/) | - | - | - | 🟡 Draft | - | 0% |
-| [TSH-004](./IT/TSH-004/) | - | - | - | 🟡 Draft | - | 0% |
-| [TSH-005](./IT/TSH-005/) | - | - | - | 🟡 Draft | - | 0% |
+| [TSH-2601](./IT/TSH-2601/) | - | - | - | 🟡 Draft | - | 0% |
+| [TSH-2602](./IT/TSH-2602/) | - | - | - | 🟡 Draft | - | 0% |
+| [TSH-2603](./IT/TSH-2603/) | - | - | - | 🟡 Draft | - | 0% |
+| [TSH-2604](./IT/TSH-2604/) | - | - | - | 🟡 Draft | - | 0% |
+| [TSH-2605](./IT/TSH-2605/) | - | - | - | 🟡 Draft | - | 0% |
+| [TSH-2606](./IT/TSH-2606/) | - | - | - | 🟡 Draft | - | 0% |
+| [TSH-2607](./IT/TSH-2607/) | - | - | - | 🟡 Draft | - | 0% |
 
 **Status Legend:**
 - 🟡 Draft - Initial preparation
@@ -65,11 +69,13 @@ tender-submission/
 
 ## Quick Links
 
-- [IT/TSH-001](./IT/TSH-001/) - Tender Submission #001
-- [IT/TSH-002](./IT/TSH-002/) - Tender Submission #002
-- [IT/TSH-003](./IT/TSH-003/) - Tender Submission #003
-- [IT/TSH-004](./IT/TSH-004/) - Tender Submission #004
-- [IT/TSH-005](./IT/TSH-005/) - Tender Submission #005
+- [IT/TSH-2601](./IT/TSH-2601/) - Tender Submission #2601
+- [IT/TSH-2602](./IT/TSH-2602/) - Tender Submission #2602
+- [IT/TSH-2603](./IT/TSH-2603/) - Tender Submission #2603
+- [IT/TSH-2604](./IT/TSH-2604/) - Tender Submission #2604
+- [IT/TSH-2605](./IT/TSH-2605/) - Tender Submission #2605
+- [IT/TSH-2606](./IT/TSH-2606/) - Tender Submission #2606
+- [IT/TSH-2607](./IT/TSH-2607/) - Tender Submission #2607
 
 ---
 
