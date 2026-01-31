@@ -745,29 +745,29 @@ Modul Papan Pemuka menyediakan analitik berasaskan peranan dan gambaran keseluru
 | **M/O** | M |
 | **Compliance** | FULLY COMPLY |
 
-**Remarks & Evidence:**
+**Ulasan & Bukti:**
 
-**Complete System Administration Module:**
+**Modul Pentadbiran Sistem Lengkap:**
 
-**i. System Configuration:** Manage all lookup tables, dropdown values, and reference data through user-friendly interfaces
+**i. Konfigurasi Sistem:** Urus semua jadual rujukan, nilai dropdown, dan data rujukan melalui antara muka mesra pengguna
 
-**ii. Audit Trail:** Immutable logs of all system activities with advanced search and filtering
+**ii. Jejak Audit:** Log tidak berubah semua aktiviti sistem dengan carian dan penapisan lanjutan
 
-**iii. Email Notifications:** Configure notification templates, triggers, and recipient rules
+**iii. Pemberitahuan E-mel:** Konfigurasi templat pemberitahuan, pemicu, dan peraturan penerima
 
-**iv. AD Integration:** Configure Active Directory connection for administrator authentication
+**iv. Integrasi AD:** Konfigurasi sambungan Active Directory untuk pengesahan pentadbir
 
-**v. myDigital ID Setup:** Configure and test myDigital ID integration settings
+**v. Persediaan myDigital ID:** Konfigurasi dan uji tetapan integrasi myDigital ID
 
-**vi. Email Verification:** Configure email verification workflows and templates
+**vi. Pengesahan E-mel:** Konfigurasi aliran kerja dan templat pengesahan e-mel
 
-**vii. Masquerade Function:** Secure "login as" capability for user support with full audit logging
+**vii. Fungsi Menyamar:** Keupayaan "log masuk sebagai" yang selamat untuk sokongan pengguna dengan log audit penuh
 
-**viii. Additional Settings:** Extensible configuration framework for URS-identified requirements
+**viii. Tetapan Tambahan:** Rangka kerja konfigurasi boleh kembang untuk keperluan yang dikenal pasti URS
 
-**🚀 VALUE-ADD ENHANCEMENT:** **Configuration Version Control** tracks all configuration changes with rollback capability. **System Health Dashboard** monitors all integrations and alerts on failures. **Bulk Configuration Import/Export** simplifies environment setup and disaster recovery. **Role Simulator** allows testing user experiences without actually logging in as them.
+**🚀 PENAMBAHBAIKAN NILAI TAMBAH:** **Kawalan Versi Konfigurasi** mengesan semua perubahan konfigurasi dengan keupayaan rollback. **Papan Pemuka Kesihatan Sistem** memantau semua integrasi dan memberi amaran kegagalan. **Import/Eksport Konfigurasi Pukal** memudahkan persediaan persekitaran dan pemulihan bencana. **Simulator Peranan** membolehkan pengalaman pengguna diuji tanpa log masuk sebenar sebagai mereka.
 
-*Evidence: Annex E.34 - Admin Configuration Screens; Annex E.35 - Audit Trail Interface*
+*Bukti: Lampiran E.34 - Skrin Konfigurasi Pentadbir; Lampiran E.35 - Antara Muka Jejak Audit*
 
 ---
 
@@ -779,27 +779,27 @@ Modul Papan Pemuka menyediakan analitik berasaskan peranan dan gambaran keseluru
 | **M/O** | M |
 | **Compliance** | FULLY COMPLY |
 
-**Remarks & Evidence:**
+**Ulasan & Bukti:**
 
-**Comprehensive Reporting Module with All Required Reports:**
+**Modul Pelaporan Komprehensif dengan Semua Laporan yang Diperlukan:**
 
-**i-iii. Application Statistics:** Annual reports by session, category, and evaluation stage with trend analysis
+**i-iii. Statistik Permohonan:** Laporan tahunan mengikut sesi, kategori, dan peringkat penilaian dengan analisis trend
 
-**iv-vi. Recipient Statistics:** Annual recipient reports by session, category, and evaluation stage
+**iv-vi. Statistik Penerima:** Laporan penerima tahunan mengikut sesi, kategori, dan peringkat penilaian
 
-**vii. Historical Statistics:** Cumulative statistics from system inception to current year
+**vii. Statistik Sejarah:** Statistik terkumpul dari permulaan sistem hingga tahun semasa
 
-**viii. Custom Reports:** Report builder for URS-defined requirements
+**viii. Laporan Tersuai:** Pembina laporan untuk keperluan yang ditakrifkan URS
 
-**ix. Warta Display:** Digital gazette with statistics and searchable content
+**ix. Paparan Warta:** Warta digital dengan statistik dan kandungan boleh cari
 
-**Infographic Display:** All reports include visual charts, graphs, and infographics
+**Paparan Infografik:** Semua laporan termasuk carta visual, graf, dan infografik
 
-**Report Features:** Export to PDF, Excel, Word; scheduled email delivery; interactive filtering; drill-down capability; and print-optimized layouts.
+**Ciri Laporan:** Eksport ke PDF, Excel, Word; penghantaran e-mel terjadual; penapisan interaktif; keupayaan drill-down; dan susun atur dioptimumkan untuk cetakan.
 
-**🚀 VALUE-ADD ENHANCEMENT:** **Natural Language Queries** allow users to ask questions like "Show me applications from Shah Alam approved in 2025" and get instant visual answers. **Predictive Reports** forecast future application volumes and resource needs. **Comparative Analysis** enables year-over-year and category comparisons. **Automated Report Distribution** sends scheduled reports to stakeholders without manual intervention. **Data Storytelling Mode** generates narrative summaries alongside visualizations for executive presentations.
+**🚀 PENAMBAHBAIKAN NILAI TAMBAH:** **Pertanyaan Bahasa Semula Jadi** membolehkan pengguna bertanya seperti "Tunjukkan permohonan dari Shah Alam yang diluluskan pada 2025" dan mendapat jawapan visual segera. **Laporan Ramalan** meramalkan jumlah permohonan masa depan dan keperluan sumber. **Analisis Perbandingan** membolehkan perbandingan tahun-ke-tahun dan mengikut kategori. **Pengagihan Laporan Automatik** menghantar laporan terjadual kepada pihak berkepentingan tanpa campur tangan manual. **Modul Penceritaan Data** menjana ringkasan naratif bersama visualisasi untuk pembentangan eksekutif.
 
-*Evidence: Annex E.36 - Report Library; Annex E.37 - Infographic Examples; Annex E.38 - Report Builder*
+*Bukti: Lampiran E.36 - Perpustakaan Laporan; Lampiran E.37 - Contoh Infografik; Lampiran E.38 - Pembina Laporan*
 
 ---
 
