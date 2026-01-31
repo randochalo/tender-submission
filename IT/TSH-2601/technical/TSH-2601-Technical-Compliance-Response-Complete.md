@@ -453,15 +453,15 @@ Sistem ini melibatkan aliran kerja kelulusan kompleks, pengesahan berbilang peri
 | **M/O** | M |
 | **Compliance** | FULLY COMPLY |
 
-**Remarks & Evidence:**
+**Ulasan & Bukti:**
 
-SESB proposes a dedicated project team of 12 members including: Project Manager (PRINCE2 certified), Lead Business Analyst, Solution Architect, 4 Senior Developers, 2 QA Engineers, DevOps Engineer, UI/UX Designer, and Technical Writer. All key personnel are full-time SESB employees with minimum 5 years relevant experience.
+SESB mencadangkan pasukan projek khas 12 ahli termasuk: Pengurus Projek (bersijil PRINCE2), Ketua Penganalisis Perniagaan, Arkitek Penyelesaian, 4 Pembangun Kanan, 2 Jurutera QA, Jurutera DevOps, Pereka UI/UX, dan Penulis Teknikal. Semua kakitangan utama adalah pekerja SESB sepenuh masa dengan minimum 5 tahun pengalaman berkaitan.
 
-**Governance Structure:** Clear escalation paths, defined roles and responsibilities (RACI matrix), and dedicated PSUK liaison officer for daily coordination.
+**Struktur Tadbir Urus:** Laluan peningkatan jelas, peranan dan tanggungjawab yang ditakrifkan (matriks RACI), dan pegawai perhubungan PSUK khusus untuk koordinasi harian.
 
-**🚀 VALUE-ADD ENHANCEMENT:** We assign a **Technical Account Manager** who remains with PSUK throughout the project lifecycle and beyond warranty period. Our **Shadow Team Approach** ensures no single point of failure—each key role has a backup trained on the project.
+**🚀 PENAMBAHBAIKAN NILAI TAMBAH:** Kami melantik **Pengurus Akaun Teknikal** yang kekal dengan PSUK sepanjang kitar hayat projek dan selepas tempoh waranti. **Pendekatan Pasukan Bayangan** kami memastikan tiada titik kegagalan tunggal—setiap peranan utama mempunyai sandaran yang dilatih untuk projek.
 
-*Evidence: Jadual 3 - Project Organization Chart; Annex D - Team CVs; Annex D.1 - Team Experience Matrix*
+*Bukti: Jadual 3 - Carta Organisasi Projek; Lampiran D - CV Pasukan; Lampiran D.1 - Matriks Pengalaman Pasukan*
 
 ---
 
@@ -473,19 +473,19 @@ SESB proposes a dedicated project team of 12 members including: Project Manager 
 | **M/O** | M |
 | **Compliance** | FULLY COMPLY |
 
-**Remarks & Evidence:**
+**Ulasan & Bukti:**
 
-All technical staff CVs and certifications provided in Annex D, Jadual 4. Key certifications include:
-- Project Manager: PRINCE2 Practitioner, PMP
-- Solution Architect: AWS/Terraform certifications, TOGAF
-- Developers: Laravel certification, PHP certification
-- Security: CISSP, CEH for security specialists
+Semua CV dan sijil kakitangan teknikal disediakan dalam Lampiran D, Jadual 4. Sijil utama termasuk:
+- Pengurus Projek: PRINCE2 Practitioner, PMP
+- Arkitek Penyelesaian: Sijil AWS/Terraform, TOGAF
+- Pembangun: Sijil Laravel, Sijil PHP
+- Keselamatan: CISSP, CEH untuk pakar keselamatan
 
-Total combined experience: 150+ person-years in government IT projects.
+Jumlah pengalaman gabungan: 150+ tahun-person dalam projek IT kerajaan.
 
-**🚀 VALUE-ADD ENHANCEMENT:** We provide **Team Stability Guarantee**—core team members are committed for the entire project duration. Our **Continuous Professional Development** ensures the team receives additional training relevant to the ePingat project during implementation.
+**🚀 PENAMBAHBAIKAN NILAI TAMBAH:** Kami menyediakan **Jaminan Kestabilan Pasukan**—ahli teras pasukan komited untuk sepanjang tempoh projek. **Pembangunan Profesional Berterusan** kami memastikan pasukan menerima latihan tambahan yang berkaitan dengan projek ePingat semasa pelaksanaan.
 
-*Evidence: Jadual 4 - Technical Staff Details; Annex D.2 - Certification Copies; Annex D.3 - Staff Profiles*
+*Bukti: Jadual 4 - Butiran Kakitangan Teknikal; Lampiran D.2 - Salinan Sijil; Lampiran D.3 - Profil Kakitangan*
 
 ---
 
@@ -497,15 +497,15 @@ Total combined experience: 150+ person-years in government IT projects.
 | **M/O** | M |
 | **Compliance** | FULLY COMPLY |
 
-**Remarks & Evidence:**
+**Ulasan & Bukti:**
 
-Detailed Gantt Chart provided in Annex F, Jadual 5, created in Microsoft Project. The 6-month timeline includes: Phase 1 - Requirements (Month 1-2), Phase 2 - Design (Month 3), Phase 3 - Development (Month 4-5), Phase 4 - Testing & Deployment (Month 6).
+Carta Gantt terperinci disediakan dalam Lampiran F, Jadual 5, dicipta dalam Microsoft Project. Jadual 6 bulan merangkumi: Fasa 1 - Keperluan (Bulan 1-2), Fasa 2 - Reka Bentuk (Bulan 3), Fasa 3 - Pembangunan (Bulan 4-5), Fasa 4 - Ujian & Pelaksanaan (Bulan 6).
 
-**Milestone Tracking:** 12 major milestones with defined acceptance criteria. Critical path analysis identifies dependencies and float time.
+**Pengesanan Tanda Aras:** 12 tanda aras utama dengan kriteria penerimaan yang ditakrifkan. Analisis laluan kritikal mengenal pasti kebergantungan dan masa float.
 
-**🚀 VALUE-ADD ENHANCEMENT:** We provide **Interactive Project Portal** where PSUK can view real-time progress, track deliverables, and communicate with the project team. **Automated Progress Reporting** generates weekly status reports with burn-down charts and risk indicators.
+**🚀 PENAMBAHBAIKAN NILAI TAMBAH:** Kami menyediakan **Portal Projek Interaktif** di mana PSUK boleh melihat kemajuan masa nyata, mengesan hasil kerja, dan berkomunikasi dengan pasukan projek. **Pelaporan Kemajuan Automatik** menjana laporan status mingguan dengan carta burn-down dan penunjuk risiko.
 
-*Evidence: Jadual 5 - Gantt Chart; Annex F.7 - Project Schedule; Annex F.8 - Milestone Definitions*
+*Bukti: Jadual 5 - Carta Gantt; Lampiran F.7 - Jadual Projek; Lampiran F.8 - Definisi Tanda Aras*
 
 ---
 
@@ -517,17 +517,17 @@ Detailed Gantt Chart provided in Annex F, Jadual 5, created in Microsoft Project
 | **M/O** | M |
 | **Compliance** | FULLY COMPLY |
 
-**Remarks & Evidence:**
+**Ulasan & Bukti:**
 
-Technical support methodology detailed in Annex H (SLA):
-- Helpdesk: 24/7 phone, email, and ticketing system support
-- Response Times: Critical issues (4 hours), High priority (8 hours), Medium (24 hours), Low (48 hours)
-- Resolution Times: Critical (24 hours), High (72 hours), Medium (5 days), Low (10 days)
-- Support Channels: Phone hotline, email, web portal, and on-site when required
+Metodologi sokongan teknikal terperinci dalam Lampiran H (SLA):
+- Meja Bantuan: Sokongan telefon, e-mel, dan sistem tiket 24/7
+- Masa Respons: Isu kritikal (4 jam), Keutamaan tinggi (8 jam), Sederhana (24 jam), Rendah (48 jam)
+- Masa Penyelesaian: Kritikal (24 jam), Tinggi (72 jam), Sederhana (5 hari), Rendah (10 hari)
+- Saluran Sokongan: Talian bebas tol telefon, e-mel, portal web, dan di lokasi apabila diperlukan
 
-**🚀 VALUE-ADD ENHANCEMENT:** We provide **Dedicated WhatsApp Support Line** for urgent PSUK contacts. Our **Proactive Monitoring** identifies and resolves issues before PSUK reports them. We include **Monthly Health Check Reports** analyzing system performance and recommending optimizations.
+**🚀 PENAMBAHBAIKAN NILAI TAMBAH:** Kami menyediakan **Talian Sokongan WhatsApp Khusus** untuk kenalan PSUK yang mendesak. **Pemantauan Proaktif** kami mengenal pasti dan menyelesaikan isu sebelum PSUK melaporkannya. Kami termasuk **Laporan Pemeriksaan Kesihatan Bulanan** menganalisis prestasi sistem dan mencadangkan pengoptimuman.
 
-*Evidence: Annex H - Service Level Agreement; Annex H.1 - Support Procedures; Annex H.2 - Escalation Matrix*
+*Bukti: Lampiran H - Perjanjian Tahap Perkhidmatan; Lampiran H.1 - Prosedur Sokongan; Lampiran H.2 - Matriks Peningkatan*
 
 ---
 
@@ -539,21 +539,21 @@ Technical support methodology detailed in Annex H (SLA):
 | **M/O** | M |
 | **Compliance** | FULLY COMPLY |
 
-**Remarks & Evidence:**
+**Ulasan & Bukti:**
 
-SESB fully agrees to on-site attendance requirements:
+SESB bersetuju sepenuhnya dengan keperluan kehadiran di lokasi:
 
-**a. Data Security:** SESB accepts full responsibility for data security. All data handling follows PSUK ICT Security Policy with encryption during transit and storage.
+**a. Keselamatan Data:** SESB menerima tanggungjawab penuh untuk keselamatan data. Semua pengendalian data mengikut Dasar Keselamatan ICT PSUK dengan penyulitan semasa transit dan storan.
 
-**b. Confidentiality:** All SESB staff will sign Statutory Declarations (Akuan Sumpah) and Non-Disclosure Agreements before project commencement.
+**b. Kerahsiaan:** Semua kakitangan SESB akan menandatangani Akuan Sumpah dan Perjanjian Kerahsiaan sebelum permulaan projek.
 
-**c. Policy Compliance:** All team members will complete PSUK ICT Security Policy training and acknowledge understanding before accessing PSUK premises or systems.
+**c. Pematuhan Dasar:** Semua ahli pasukan akan melengkapkan latihan Dasar Keselamatan ICT PSUK dan mengesahkan pemahaman sebelum mengakses premis atau sistem PSUK.
 
-**On-Site Protocol:** SESB team will wear visible identification, sign in/out daily, and only access authorized areas. All devices are encrypted and comply with PSUK BYOD policy.
+**Protokol Di Lokasi:** Pasukan SESB akan memakai pengenalan yang boleh dilihat, daftar masuk/keluar setiap hari, dan hanya mengakses kawasan yang dibenarkan. Semua peranti disulitkan dan mematuhi dasar BYOD PSUK.
 
-**🚀 VALUE-ADD ENHANCEMENT:** We provide **Background-Checked Team**—all members have undergone police clearance checks. Our **Secure Development Environment** ensures no PSUK data leaves authorized environments. We include **Ceremony Support Package** with on-site technical support during Majlis Penganugerahan events.
+**🚀 PENAMBAHBAIKAN NILAI TAMBAH:** Kami menyediakan **Pasukan Telah Disemak Latar Belakang**—semua ahli telah menjalani pemeriksaan polis. **Persekitaran Pembangunan Selamat** kami memastikan tiada data PSUK meninggalkan persekitaran yang dibenarkan. Kami termasuk **Pakej Sokongan Majlis** dengan sokongan teknikal di lokasi semasa acara Majlis Penganugerahan.
 
-*Evidence: Annex H.3 - On-Site Support Terms; Annex H.4 - Confidentiality Agreements; Annex I.7 - Security Clearances*
+*Bukti: Lampiran H.3 - Terma Sokongan Di Lokasi; Lampiran H.4 - Perjanjian Kerahsiaan; Lampiran I.7 - Kebenaran Keselamatan*
 
 ---
 
@@ -567,30 +567,30 @@ SESB fully agrees to on-site attendance requirements:
 | **M/O** | M |
 | **Compliance** | FULLY COMPLY |
 
-**Remarks & Evidence:**
+**Ulasan & Bukti:**
 
-**Complete Laman Utama Implementation:**
+**Pelaksanaan Laman Utama Lengkap:**
 
-**i. Dynamic Design:** CMS-driven homepage with configurable banners, news sections, and featured content. Drag-and-drop content management for administrators.
+**i. Reka Bentuk Dinamik:** Laman utama berkuasa CMS dengan sepanduk boleh konfigurasi, bahagian berita, dan kandungan unggulan. Pengurusan kandungan seret-dan-letak untuk pentadbir.
 
-**ii. Responsive:** Mobile-first design ensuring optimal experience on all devices.
+**ii. Responsif:** Reka bentuk mobile-first memastikan pengalaman optimum pada semua peranti.
 
-**iii. Content Features:**
-- a. Award catalog with detailed descriptions, eligibility criteria, and past recipient statistics
-- b. Searchable recipient database with filtering by year, award type, and location
-- c. Digital warta display with PDF download and print options
-- d. Advanced search with autocomplete, filters, and faceted navigation
-- e. Announcement carousel and notification banners
+**iii. Ciri Kandungan:**
+- a. Katalog anugerah dengan perihalan terperinci, kriteria kelayakan, dan statistik penerima lepas
+- b. Pangkalan data penerima yang boleh dicari dengan penapisan mengikut tahun, jenis anugerah, dan lokasi
+- c. Paparan warta digital dengan pilihan muat turun dan cetak PDF
+- d. Carian lanjutan dengan autolengkap, penapis, dan navigasi berfacet
+- e. Tetingkar pengumuman dan sepanduk pemberitahuan
 
-**iv. Help Menu:**
-- a. FAQ section with categorized questions and expandable answers
-- b. Information pages about the award system and processes
-- c. Guidelines and eligibility requirements in downloadable PDF format
-- d. Contact form with department directory and map integration
+**iv. Menu Bantuan:**
+- a. Bahagian FAQ dengan soalan dikategorikan dan jawapan boleh kembang
+- b. Halaman maklumat tentang sistem anugerah dan proses
+- c. Garis panduan dan keperluan kelayakan dalam format PDF boleh muat turun
+- d. Borang hubungan dengan direktori jabatan dan integrasi peta
 
-**🚀 VALUE-ADD ENHANCEMENT:** We include **Chatbot Assistant** for instant answers to common questions. **Virtual Tour** feature guides first-time visitors through the award application process. **Multi-language Support** (Bahasa Malaysia, English, Mandarin, Tamil) ensures accessibility for all Selangor residents. **Accessibility Compliance** with screen reader support and keyboard navigation.
+**🚀 PENAMBAHBAIKAN NILAI TAMBAH:** Kami termasuk **Pembantu Chatbot** untuk jawapan segera kepada soalan umum. Ciri **Lawatan Maya** membimbing pelawat pertama melalui proses permohonan anugerah. **Sokongan Pelbagai Bahasa** (Bahasa Malaysia, English, Mandarin, Tamil) memastikan kebolehcapaian untuk semua penduduk Selangor. **Pematuhan Kebolehcapaian** dengan sokongan pembaca skrin dan navigasi papan kekunci.
 
-*Evidence: Annex E.22 - Laman Utama Wireframes; Annex E.23 - CMS Specifications*
+*Bukti: Lampiran E.22 - Wireframe Laman Utama; Lampiran E.23 - Spesifikasi CMS*
 
 ---
 
@@ -602,20 +602,20 @@ SESB fully agrees to on-site attendance requirements:
 | **M/O** | M |
 | **Compliance** | FULLY COMPLY |
 
-**Remarks & Evidence:**
+**Ulasan & Bukti:**
 
-The Dashboard module provides role-based analytics and operational overview:
+Modul Papan Pemuka menyediakan analitik berasaskan peranan dan gambaran keseluruhan operasi:
 
-- **Application Lists:** Real-time view of all applications with filtering by status, date range, category, and assignee
-- **Statistics:** Visual charts showing application volumes, approval rates, processing times, and trends
-- **Status Tracking:** Color-coded status indicators (Pending, Under Review, Approved, Rejected) with drill-down capability
-- **Action Items:** Task list showing applications requiring user action with priority indicators
+- **Senarai Permohonan:** Pandangan masa nyata semua permohonan dengan penapisan mengikut status, julat tarikh, kategori, dan penerima tugas
+- **Statistik:** Carta visual menunjukkan jumlah permohonan, kadar kelulusan, masa pemprosesan, dan trend
+- **Pengesanan Status:** Penunjuk status berkod warna (Tertangguh, Dalam Semakan, Diluluskan, Ditolak) dengan keupayaan drill-down
+- **Item Tindakan:** Senarai tugas menunjukkan permohonan yang memerlukan tindakan pengguna dengan penunjuk keutamaan
 
-**Dashboard Features:** Export to Excel/PDF, scheduled email reports, and customizable widget layout.
+**Ciri Papan Pemuka:** Eksport ke Excel/PDF, laporan e-mel terjadual, dan susun atur widget boleh suai.
 
-**🚀 VALUE-ADD ENHANCEMENT:** Our **AI-Powered Insights** identifies bottlenecks in the approval process and suggests optimization. **Predictive Analytics** forecasts application volumes based on historical patterns, enabling resource planning. **Gamification Elements** encourage timely processing by showing team performance rankings (internal only). **Executive Summary View** provides high-level KPIs for senior management.
+**🚀 PENAMBAHBAIKAN NILAI TAMBAH:** **Pandangan Berkuasa AI** kami mengenal pasti kesesakan dalam proses kelulusan dan mencadangkan pengoptimuman. **Analitik Ramalan** meramalkan jumlah permohonan berdasarkan corak sejarah, membolehkan perancangan sumber. **Elemen Gamifikasi** menggalakkan pemprosesan tepat masa dengan menunjukkan kedudukan prestasi pasukan (dalaman sahaja). **Paparan Ringkasan Eksekutif** menyediakan KPI peringkat tinggi untuk pengurusan kanan.
 
-*Evidence: Annex E.24 - Dashboard Designs; Annex E.25 - Analytics Specifications*
+*Bukti: Lampiran E.24 - Reka Bentuk Papan Pemuka; Lampiran E.25 - Spesifikasi Analitik*
 
 ---
 
@@ -627,35 +627,35 @@ The Dashboard module provides role-based analytics and operational overview:
 | **M/O** | M |
 | **Compliance** | FULLY COMPLY |
 
-**Remarks & Evidence:**
+**Ulasan & Bukti:**
 
-**Complete Nomination Module Features:**
+**Ciri Modul Pencalonan Lengkap:**
 
-**i. User Registration & Login:** Secure registration with email/phone verification, password recovery via SMS/email, and seamless myDigital ID integration for government officers
+**i. Pendaftaran & Log Masuk Pengguna:** Pendaftaran selamat dengan pengesahan e-mel/telefon, pemulihan kata laluan melalui SMS/e-mel, dan integrasi myDigital ID yang lancar untuk pegawai kerajaan
 
-**ii. Online Application Form:** Multi-step wizard with auto-save, field validation, and contextual help. Progress indicator shows completion status.
+**ii. Borang Permohonan Atas Talian:** Wizard multi-langkah dengan auto-save, pengesahan medan, dan bantuan kontekstual. Penunjuk kemajuan menunjukkan status penyelesaian.
 
-**iii. Document Upload:** Support for PDF, JPG, PNG up to 10MB per file. Automatic virus scanning and document classification. Integration with Insolvensi status verification.
+**iii. Muat Naik Dokumen:** Sokongan untuk PDF, JPG, PNG sehingga 10MB setiap fail. Pengimbasan virus automatik dan pengelasan dokumen. Integrasi dengan pengesahan status Insolvensi.
 
-**iv. Ketua Jabatan Confirmation Slip:** Auto-generated PDF with application summary, QR code for verification, and digital signature capability
+**iv. Slip Pengesahan Ketua Jabatan:** PDF auto-jana dengan ringkasan permohonan, kod QR untuk pengesahan, dan keupayaan tandatangan digital
 
-**v. Application Summary Slip:** Printable summary with unique QR code for tracking
+**v. Slip Ringkasan Permohonan:** Ringkasan boleh cetak dengan kod QR unik untuk pengesanan
 
-**vi. Status Notifications:** Real-time SMS, WhatsApp, and email alerts at each milestone
+**vi. Pemberitahuan Status:** Makluman SMS, WhatsApp, dan e-mel masa nyata pada setiap tanda aras
 
-**vii. Status Checking:** Online tracking with detailed progress view
+**vii. Semakan Status:** Pengesanan atas talian dengan pandangan kemajuan terperinci
 
-**viii. Eligibility Checking:** Automated eligibility verification against award criteria
+**viii. Semakan Kelayakan:** Pengesahan kelayakan automatik terhadap kriteria anugerah
 
-**ix. Award Information:** Detailed display of eligible awards with descriptions and requirements
+**ix. Maklumat Anugerah:** Paparan terperinci anugerah yang layak dengan perihalan dan keperluan
 
-**x. Preliminary Security Screening:** Initial automated checks against integrated systems
+**x. Tapisan Keselamatan Awal:** Pemeriksaan automatik awal terhadap sistem bersepadu
 
-**xi. Recipient Confirmation:** Digital acceptance of award and ceremony attendance confirmation
+**xi. Pengesahan Penerima:** Penerimaan digital anugerah dan pengesahan kehadiran majlis
 
-**🚀 VALUE-ADD ENHANCEMENT:** **Smart Form** pre-fills data from myDigital ID and HRMIS, reducing data entry by 70%. **Document Intelligence** uses OCR to extract and validate information from uploaded documents. **Eligibility Advisor** provides personalized recommendations on which awards to apply for based on applicant profile. **Video Guide** embedded in each form section explains requirements.
+**🚀 PENAMBAHBAIKAN NILAI TAMBAH:** **Borang Pintar** autolengkap data dari myDigital ID dan HRMIS, mengurangkan kemasukan data sebanyak 70%. **Kepintaran Dokumen** menggunakan OCR untuk mengekstrak dan mengesahkan maklumat dari dokumen yang dimuat naik. **Penasihat Kelayakan** menyediakan cadangan peribadi tentang anugerah mana yang perlu dipohon berdasarkan profil pemohon. **Panduan Video** terbenam dalam setiap bahagian borang menjelaskan keperluan.
 
-*Evidence: Annex E.26 - Application Module Flow; Annex E.27 - Form Designs; Annex E.28 - Integration Specifications*
+*Bukti: Lampiran E.26 - Aliran Modul Permohonan; Lampiran E.27 - Reka Bentuk Borang; Lampiran E.28 - Spesifikasi Integrasi*
 
 ---
 
@@ -667,35 +667,35 @@ The Dashboard module provides role-based analytics and operational overview:
 | **M/O** | M |
 | **Compliance** | FULLY COMPLY |
 
-**Remarks & Evidence:**
+**Ulasan & Bukti:**
 
-**Complete Administration Module for Urus Setia:**
+**Modul Pentadbiran Lengkap untuk Urus Setia:**
 
-**i. Category Configuration:** Manage award categories, descriptions, and display order through intuitive admin interface
+**i. Konfigurasi Kategori:** Urus kategori anugerah, perihalan, dan susunan paparan melalui antara muka pentadbir intuitif
 
-**ii. Eligibility Rules:** Configure eligibility criteria with conditional logic (e.g., "minimum 10 years service AND no disciplinary record")
+**ii. Peraturan Kelayakan:** Konfigurasi kriteria kelayakan dengan logik bersyarat (cth., "minimum 10 tahun perkhidmatan DAN tiada rekod disiplin")
 
-**iii. Application Sessions:** Open/close application periods with automatic notifications and deadline reminders
+**iii. Sesi Permohonan:** Buka/tutup tempoh permohonan dengan pemberitahuan automatik dan peringatan tarikh akhir
 
-**iv. QR Scanning:** Mobile app integration for scanning applicant QR codes to quickly retrieve applications
+**iv. Pengimbasan QR:** Integrasi aplikasi mudah alih untuk mengimbas kod QR pemohon untuk mengambil permohonan dengan cepat
 
-**v. Application Review:** Side-by-side view of application form and supporting documents with annotation tools
+**v. Semakan Permohonan:** Pandangan sisi-demi-sisi borang permohonan dan dokumen sokongan dengan alat anotasi
 
-**vi. Application Editing:** Secure amendment capability with full audit trail of changes
+**vi. Pengeditan Permohonan:** Keupayaan pindaan selamat dengan jejak audit penuh perubahan
 
-**vii. Approval Workflow:** Multi-level approval with digital signatures and approval history
+**vii. Aliran Kerja Kelulusan:** Kelulusan berbilang peringkat dengan tandatangan digital dan sejarah kelulusan
 
-**viii. Proxy Application:** Enter applications on behalf of applicants with clear attribution
+**viii. Permohonan Proksi:** Masukkan permohonan bagi pihak pemohon dengan atribusi jelas
 
-**ix. Printing:** Generate professional PDF outputs with official letterheads
+**ix. Pencetakan:** Jana output PDF profesional dengan kepala surat rasmi
 
-**x. Nominee Lists:** Export filtered lists by category, status, or demographics
+**x. Senarai Pencalon:** Eksport senarai tertapiskan mengikut kategori, status, atau demografi
 
-**xi. Reports:** Comprehensive reporting with charts and data tables
+**xi. Laporan:** Pelaporan komprehensif dengan carta dan jadual data
 
-**🚀 VALUE-ADD ENHANCEMENT:** **Batch Processing** allows bulk approval of similar applications. **AI Document Verification** automatically checks document authenticity and completeness. **Duplicate Detection** identifies potential duplicate applications. **Audit Trail Visualization** shows complete application journey with timestamps and actor identification.
+**🚀 PENAMBAHBAIKAN NILAI TAMBAH:** **Pemprosesan Kelompok** membolehkan kelulusan pukal permohonan yang serupa. **Pengesahan Dokumen AI** memeriksa secara automatik kesahihan dan kelengkapan dokumen. **Pengesanan Pendua** mengenal pasti permohonan pendua yang berpotensi. **Visualisasi Jejak Audit** menunjukkan perjalanan permohonan lengkap dengan cap masa dan pengenalan pelaku.
 
-*Evidence: Annex E.29 - Admin Module Screens; Annex E.30 - Workflow Configuration*
+*Bukti: Lampiran E.29 - Skrin Modul Pentadbir; Lampiran E.30 - Konfigurasi Aliran Kerja*
 
 ---
 
@@ -707,33 +707,33 @@ The Dashboard module provides role-based analytics and operational overview:
 | **M/O** | M |
 | **Compliance** | FULLY COMPLY |
 
-**Remarks & Evidence:**
+**Ulasan & Bukti:**
 
-**Complete Evaluation & Screening Module:**
+**Modul Penilaian & Tapisan Lengkap:**
 
-**i & ii. Printing:** Generate meeting packs with applicant summaries and nominee lists
+**i & ii. Pencetakan:** Jana pakej mesyuarat dengan ringkasan pemohon dan senarai pencalon
 
-**iii. Meeting Results:** Record decisions from 4 evaluation meetings with configurable outcome types
+**iii. Keputusan Mesyuarat:** Rekod keputusan dari 4 mesyuarat penilaian dengan jenis hasil boleh konfigurasi
 
-**iv. Evaluation Status:** Track applications through 4 evaluation stages with status updates
+**iv. Status Penilaian:** Kesan permohonan melalui 4 peringkat penilaian dengan kemas kini status
 
-**v. Offer Letters:** Auto-generated official offer letters with year-locked QR codes for verification
+**v. Surat Tawaran:** Surat tawaran rasmi auto-jana dengan kod QR terkunci tahun untuk pengesahan
 
-**vi. Statutory Declaration Letters:** Generate Statutory Declaration forms with unique QR codes
+**vi. Surat Akuan Sumpah:** Jana borang Akuan Sumpah dengan kod QR unik
 
-**vii. Return Forms:** Generate return forms for recipients who cannot attend
+**vii. Borang Pemulangan:** Jana borang pemulangan untuk penerima yang tidak boleh hadir
 
-**viii. Notifications:** Automated notifications for offer collection with scheduling
+**viii. Pemberitahuan:** Pemberitahuan automatik untuk pengumpulan tawaran dengan penjadualan
 
-**ix. Security Screening Lists:** Generate lists for 3 security screening categories with integration to screening agencies
+**ix. Senarai Tapisan Keselamatan:** Jana senarai untuk 3 kategori tapisan keselamatan dengan integrasi kepada agensi penapisan
 
-**x. Website Integration:** Export formatted lists for Darjah Kebesaran website publication
+**x. Integrasi Laman Web:** Eksport senarai berformat untuk penerbitan laman web Darjah Kebesaran
 
-**xi & xii. Proxy Confirmation:** Record confirmations on behalf of recipients with proper authorization
+**xi & xii. Pengesahan Proksi:** Rekod pengesahan bagi pihak penerima dengan kebenaran yang sewajarnya
 
-**🚀 VALUE-ADD ENHANCEMENT:** **Digital Meeting Workspace** provides paperless meeting experience with tablets for committee members. **Voting Module** supports secure electronic voting during evaluation meetings. **Conflict of Interest Detection** flags applications where evaluators have relationships with applicants. **Ceremony Planning Integration** automatically adds confirmed recipients to ceremony logistics planning.
+**🚀 PENAMBAHBAIKAN NILAI TAMBAH:** **Ruang Kerja Mesyuarat Digital** menyediakan pengalaman mesyuarat tanpa kertas dengan tablet untuk ahli jawatankuasa. **Modul Undian** menyokong undian elektronik selamat semasa mesyuarat penilaian. **Pengesanan Konflik Kepentingan** menanda permohonan di mana penilai mempunyai hubungan dengan pemohon. **Integrasi Perancangan Majlis** secara automatik menambah penerima yang disahkan kepada perancangan logistik majlis.
 
-*Evidence: Annex E.31 - Evaluation Workflow; Annex E.32 - Meeting Module; Annex E.33 - Letter Templates*
+*Bukti: Lampiran E.31 - Aliran Kerja Penilaian; Lampiran E.32 - Modul Mesyuarat; Lampiran E.33 - Templat Surat*
 
 ---
 
