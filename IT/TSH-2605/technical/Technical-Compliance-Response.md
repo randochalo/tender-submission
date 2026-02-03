@@ -12,7 +12,7 @@
 
 | Metric | Result |
 |--------|--------|
-| Total Requirements | 80 (26 EMS + 32 PS + 22 HRMS) |
+| Total Requirements | 82 (26 EMS + 34 PS + 22 HRMS) |
 | Fully Comply | 80 (100%) |
 | Partially Comply | 0 (0%) |
 | Not Comply | 0 (0%) |
@@ -101,8 +101,10 @@ Our **LogisticsPro Support Suite** is production-ready, with 95% of MMF requirem
 | 30 | **Contract Management** | **Y** | Vendor contract management with compliance monitoring and rate enforcement. Digital storage and organization. Real-time tracking of utilized and remaining contract value.<br><br>🚀 **VALUE-ADD:** Contract renewal alerts and automated compliance checking. | Annex C2, Contract Module; Contract Tracking |
 | 31 | **Workflow Management** | **Y** | User-designed configurable workflows for creating requests, enforcing policies and approvals. Fully customisable workflows according to company's specific requirements.<br><br>🚀 **VALUE-ADD:** Visual workflow designer with drag-and-drop configuration. | Annex C2.1, Page 150; Workflow Designer |
 | 32 | **Budget** | **Y** | Every expense tracked, monitored and approved. Budget limits enforced based on dimensions (departments, centres, project codes). Budget visibility based on permissions and roles.<br><br>🚀 **VALUE-ADD:** Predictive Budget Forecasting analyzes historical spending to forecast year-end position—preventing 95%+ of budget overruns. | Annex C2.8, Page 164; Budget Dashboard |
+| 33 | **Notifications & Alerts** | **Y** | Types: Email, in-app notifications, optional SMS. Triggers: PR, IWO, EWO, PO submission/approval, Pending approvals, RFQ responses due, PO dispatched/acknowledged, Goods receipt pending. Configurable alert rules and recipient groups.<br><br>🚀 **VALUE-ADD:** Smart notification bundling to prevent alert fatigue and AI-powered priority scoring. | Annex C2, Page 150; Notification Settings |
+| 34 | **Reporting & Analytics** | **Y** | Standard reports and enquiries: Spend analysis, Supplier performance, PR aging, PO cycle time, Invoice aging, Budget vs Actual Spend, EWO summary list with filtering, Vendor performance dashboards, Monthly outsourcing cost reports, Budget utilization per department. Import/export in PDF, Excel, or CSV formats.<br><br>🚀 **VALUE-ADD:** Procurement Cockpit provides executives with real-time visibility into procurement KPIs with natural language query capabilities. | Annex C2.7, Page 162; Report Library |
 
-**Annexure C2 Summary:** 32/32 Features — **100% FULLY COMPLY**
+**Annexure C2 Summary:** 34/34 Features — **100% FULLY COMPLY**
 
 ---
 
@@ -148,9 +150,9 @@ Our **LogisticsPro Support Suite** is production-ready, with 95% of MMF requirem
 | Annexure | System | Total Features | Fully Comply | Partially Comply | Not Comply | Compliance % |
 |----------|--------|----------------|--------------|------------------|------------|--------------|
 | C1 | EMS | 26 | 26 | 0 | 0 | **100%** |
-| C2 | PS | 32 | 32 | 0 | 0 | **100%** |
+| C2 | PS | 34 | 34 | 0 | 0 | **100%** |
 | C3 | HRMS | 22 | 22 | 0 | 0 | **100%** |
-| **TOTAL** | | **80** | **80** | **0** | **0** | **100%** |
+| **TOTAL** | | **82** | **82** | **0** | **0** | **100%** |
 
 ### 3.2 Integration Compliance
 
