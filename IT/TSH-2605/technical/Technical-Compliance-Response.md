@@ -8,179 +8,149 @@
 
 ---
 
-## EXECUTIVE GUIDE TO EVIDENCE
+## EXECUTIVE SUMMARY
 
-| What You Need | Where to Find It | Section |
-|---------------|------------------|---------|
-| System Architecture Overview | Annex A - Technical Architecture | Page 15 |
-| Compliance Proof by System | Annex C1-C3 - Compliance Matrices | Page 25 |
-| Security & VAPT Certification | Annex D - Security Assessment | Page 95 |
-| Live System Screenshots | Annex E - System Evidence | Page 120 |
-| API Integration Specs | Annex F - Integration Guide | Page 165 |
-| UAT Test Scripts | Annex G - Testing Documentation | Page 200 |
-| PRINCE2 Project Plan | Annex H - Project Methodology | Page 250 |
-| 10+10 VAS Framework | Section 7 - Value Added Services | Page 12 |
+| Metric | Result |
+|--------|--------|
+| Total Requirements | 80 (26 EMS + 32 PS + 22 HRMS) |
+| Fully Comply | 80 (100%) |
+| Partially Comply | 0 (0%) |
+| Not Comply | 0 (0%) |
+| **Overall Compliance** | **100%** |
 
----
-
-## OUR VALUE PROPOSITION
-
-### The Accelerated Baseline Advantage
-
-Our **LogisticsPro Support Suite** is **production-ready today**, not a promise for tomorrow:
-
-| Metric | Our Solution | Industry Standard |
-|--------|--------------|-------------------|
-| Pre-built Functionality | 95% of MMF requirements | 40-60% |
-| Go-Live Timeline | 8-10 weeks | 6-9 months |
-| Successful Deployments | 15+ logistics enterprises | N/A |
-| UAT Pass Rate | 98%+ first attempt | 60-70% |
-
-### Risk Mitigation
-
-- ✅ **Zero High/Critical VAPT findings** — CREST-accredited penetration test completed (Annex D)
-- ✅ **PRINCE2 methodology** — Stage gates for MMF control at each phase
-- ✅ **99.9% uptime SLA** — Awan Kita sovereign cloud infrastructure
-- ✅ **Awan Kita Compliant** — Data residency in Malaysia with local encryption keys
-
-### Value Beyond Price
-
-**RM 2.5 Million** in Value-Added Services included at **NO ADDITIONAL COST** (see Section 7).
-
----
-
-## 1. SCOPE & TRACEABILITY MATRIX
-
-### 1.1 System Coverage
-
-| System | Annexure | Locations | Features | Status |
-|--------|----------|-----------|----------|--------|
-| Equipment Management System (EMS) | C1 | ALL Branches | 12 | ✅ FULLY COMPLY |
-| Procurement System (PS) | C2 | ALL Branches | 13 | ✅ FULLY COMPLY |
-| HR Management System (HRMS) | C3 | ALL Branches | 12 | ✅ FULLY COMPLY |
-| **TOTAL** | | **6 Branches** | **37** | **✅ 100%** |
-
-### 1.2 Branch Deployment Matrix
-
-| Branch | EMS | PS | HRMS |
-|--------|-----|-----|------|
-| Headquarters (HQ) | ✅ | ✅ | ✅ |
-| Global Logistics Dept (GLD) | ✅ | ✅ | ✅ |
-| Port Klang (PK) | ✅ | ✅ | ✅ |
-| Pasir Gudang (PGD) | ✅ | ✅ | ✅ |
-| Butterworth (BTW) | ✅ | ✅ | ✅ |
-| Padang Besar | ✅ | ✅ | ✅ |
-
-### 1.3 Integration with TSH-2604 Systems
-
-| TSH-2604 System | Integration Point | Data Exchange |
-|-----------------|-------------------|---------------|
-| **HMS** | EMS ↔ HMS | Vehicle maintenance schedules, PM status |
-| **FMS** | EMS ↔ FMS | Asset depreciation, maintenance costs |
-| **FMS** | PS ↔ FMS | 3-way matching, AP invoice processing |
-| **FMS** | HRMS ↔ FMS | Payroll processing, claims reimbursement |
-| **All** | HRMS ↔ All | User authentication, role-based access |
-
----
-
-## 2. COMPLIANCE-PLUS RESPONSE
-
-### Compliance Philosophy
-
-For every requirement, we provide:
-1. **FULLY COMPLY** declaration — Never just "Yes"
-2. **2-Sentence Technical Justification** — Specific functionality explanation
-3. **Evidence Cross-Reference** — Link to Annex/Section/Page
-4. **🚀 Value-Add Enhancement** — Beyond baseline capability
+Our **LogisticsPro Support Suite** is production-ready, with 95% of MMF requirements already engineered and deployed across 15+ logistics enterprises.
 
 ---
 
 ## ANNEXURE C1: EQUIPMENT MANAGEMENT SYSTEM (EMS)
 
-**Location:** ALL Branches  
-**System Version:** LogisticsPro EMS v4.2  
-**Asset Types:** Prime Movers, Trailers, Forklifts, Cranes, Container Handling Equipment
+**System:** LogisticsPro EMS v4.2  
+**Location:** PK, PGD (Port Klang, Pasir Gudang)  
+**Total Requirements:** 26
 
-| No | Features | Comply | Comments | Evidence Ref |
-|----|----------|--------|----------|--------------|
-| 1. | **Asset Register & Tracking** | **FULLY COMPLY** | Our EMS maintains a comprehensive centralized asset registry with unique asset IDs, QR/barcode tagging, and RFID support for all MMF equipment. Real-time location tracking shows current assignment, status, and custody chain for each asset across all 6 branches.<br><br>**🚀 VALUE-ADD ENHANCEMENT:** Beyond basic tracking, we provide **IoT Sensor Integration** that monitors equipment health in real-time (engine temperature, hydraulic pressure, brake wear). Our **Asset Performance Scoring** algorithm analyzes utilization patterns to recommend optimal fleet sizing—typically identifying 10-15% overcapacity that can be redeployed or retired. | Annex C1.1, Page 120; IoT Dashboard |
-| 2. | **Maintenance Scheduling** | **FULLY COMPLY** | The Preventive Maintenance Module supports time-based (calendar) and usage-based (hour/mileage/km) scheduling with automatic work order generation. Maintenance calendars provide visibility across all assets with drag-and-drop rescheduling and resource allocation.<br><br>**🚀 VALUE-ADD ENHANCEMENT:** Our **AI-Powered Predictive Maintenance** analyzes 50+ telemetry data points to predict failures 7-14 days in advance with 89% accuracy. This shifts maintenance from reactive/fix to predictive/prevent, reducing unexpected breakdowns by 40% and extending asset lifespan by 15-20%. | Annex C1.2, Page 122; PM Calendar |
-| 3. | **Repair History & Costs** | **FULLY COMPLY** | Complete repair history tracks all maintenance activities, parts replaced, labor hours, and costs with full audit trail. Cost analysis reports show total cost of ownership (TCO) per asset, enabling data-driven replacement decisions based on maintenance cost trends.<br><br>**🚀 VALUE-ADD ENHANCEMENT:** Our **Total Cost of Ownership Analytics** provides 5-year TCO projections considering depreciation, maintenance, fuel, insurance, and downtime costs. The system automatically flags assets approaching the "replace vs repair" crossover point, typically saving 15-20% on lifecycle costs. | Annex C1.3, Page 124; Cost Analysis |
-| 4. | **Asset Depreciation Tracking** | **FULLY COMPLY** | Depreciation engine supports multiple methods (straight-line, declining balance, sum-of-years) with automatic monthly calculations. Asset values are automatically posted to FMS General Ledger ensuring financial reporting accuracy.<br><br>**🚀 VALUE-ADD ENHANCEMENT:** Our **Tax Optimization Engine** automatically determines the most tax-efficient depreciation method and timing to maximize capital allowances while ensuring MFRS compliance. For MMF's fleet, this typically defers RM 200K-300K in tax liabilities annually. | Annex C1.4, Page 126; Depreciation Report |
-| 5. | **Warranty Management** | **FULLY COMPLY** | Warranty tracker maintains all warranty information with automated alerts at 90/60/30 days before expiry. Warranty claims history is logged with claim status and reimbursement tracking.<br><br>**🚀 VALUE-ADD ENHANCEMENT:** Our **Warranty Intelligence** module analyzes warranty claim patterns across similar assets to identify manufacturer defects early. It also tracks extended warranty options with ROI calculations—typically saving 8-12% on warranty costs through optimized coverage decisions. | Annex C1.5, Page 128; Warranty Dashboard |
-| 6. | **Equipment Utilization Reports** | **FULLY COMPLY** | Utilization tracking monitors operating hours, idle time, and productivity metrics per asset. Reports identify underutilized assets and peak demand periods to support capacity planning and resource allocation decisions.<br><br>**🚀 VALUE-ADD ENHANCEMENT:** Our **Fleet Right-Sizing Analytics** uses utilization patterns to recommend optimal fleet composition. The system identifies opportunities for asset sharing between branches and predicts future capacity needs based on business growth—typically uncovering 15-20% efficiency gains. | Annex C1.6, Page 130; Utilization Heat Map |
-| 7. | **Spare Parts Inventory** | **FULLY COMPLY** | Spare parts module manages inventory with reorder level alerts, ABC classification, and automatic reorder suggestions. Parts usage is tracked against specific assets enabling failure pattern analysis.<br><br>**🚀 VALUE-ADD ENHANCEMENT:** Our **Smart Inventory Optimization** uses machine learning to predict parts demand based on scheduled maintenance, seasonal patterns, and failure rates. This reduces parts stockholding by 25-30% while maintaining 99%+ parts availability—freeing up RM 150K-200K in working capital. | Annex C1.7, Page 132; Parts Inventory |
-| 8. | **Multi platform interface** | **FULLY COMPLY** | EMS is accessible via web browsers (Chrome, Edge, Safari), native mobile apps (iOS/Android), and responsive design for tablets. Field technicians can update maintenance records via mobile devices even in areas with poor connectivity using offline-first architecture.<br><br>**🚀 VALUE-ADD ENHANCEMENT:** Our **Progressive Web App (PWA)** enables "add to home screen" functionality without app store approval delays. Technicians receive push notifications for urgent maintenance alerts even when not actively using the app—ensuring critical issues are addressed within minutes. | Annex C1.8, Page 134; Mobile App Screens |
-| 9. | **User-friendly interface** | **FULLY COMPLY** | Intuitive UI follows Nielsen's usability heuristics with role-based navigation, contextual help, and consistent design language. Equipment operators can log issues with photo capture in under 30 seconds.<br><br>**🚀 VALUE-ADD ENHANCEMENT:** Our **Voice Command Interface** allows technicians to update maintenance status hands-free while working on equipment. Natural language processing understands commands like "Log repair for PM-047, replaced brake pads, job complete"—improving technician productivity by 20%. | Annex C1.9, Page 135; UI Walkthrough |
-| 10. | **Audit Trail & History** | **FULLY COMPLY** | Immutable audit logs capture all asset modifications with before/after values, user identity, timestamp, and IP address. Full history viewable via Audit Inquiry screen with export capability for compliance reporting.<br><br>**🚀 VALUE-ADD ENHANCEMENT:** Our **Blockchain-Based Audit Trail** creates cryptographically-verifiable records that prevent tampering even by database administrators. This provides audit-proof evidence for insurance claims, warranty disputes, and regulatory compliance—reducing audit preparation time by 60%. | Annex D.2, Page 98; Audit Trail Sample |
-| 11. | **Comprehensive security features** | **FULLY COMPLY** | Security framework implements MFA, RBAC with granular permissions (50+), password policy enforcement (NIST 800-63B), AES-256 encryption, and continuous monitoring. Annual VAPT with zero critical/high findings.<br><br>**🚀 VALUE-ADD ENHANCEMENT:** We implement **Zero-Trust Security** with behavioral biometrics that continuously authenticate users based on typing patterns and device posture. AI-powered threat detection identifies anomalous access patterns in real-time with automatic account suspension. | Annex D, Pages 95-110; Security Certificate |
-| 12. | **Reporting and Enquiries** | **FULLY COMPLY** | Comprehensive report library includes asset listings, maintenance schedules, repair history, cost analysis, depreciation, warranty status, and utilization reports. Ad-hoc query builder enables custom analysis without IT assistance.<br><br>**🚀 VALUE-ADD ENHANCEMENT:** Our **Natural Language Reporting** allows managers to ask questions like "Show me equipment with maintenance cost exceeding 30% of book value" and receive instant visual answers. Predictive analytics forecast which assets will need major repairs in the next quarter. | Annex C1.12, Pages 140-145; Report Library |
+| No | Features | Comply (Y/N) | Comments | Evidence Ref |
+|----|----------|--------------|----------|--------------|
+| 1 | **Dashboards & Analytics (Online report including Management Dashboard)** | **Y** | Our EMS Command Centre provides a comprehensive nerve centre for fleet operations. Management dashboards display real-time KPIs including total assets (247), active utilization (80%), maintenance status, warranty expiry alerts, and YTD maintenance costs. Reports vary by user level—management receives performance analysis by prime movers/trailers/drivers, contribution analysis by customers, fuel consumption, tyre usage, and maintenance reports. Operation staff receive fuel reports, PM schedules, and repair tracking.<br><br>🚀 **VALUE-ADD:** AI-powered predictive analytics forecast equipment failures 7-14 days in advance with 89% accuracy. | Annex C1.1, Page 1; EMS Dashboard |
+| 2 | **Multi platform interface** | **Y** | EMS is accessible via web browsers (Chrome, Edge, Safari), native mobile apps (iOS/Android), and responsive tablet design. Field technicians can update maintenance records via mobile devices with offline-first architecture for areas with poor connectivity. Progressive Web App (PWA) enables "add to home screen" functionality without app store delays.<br><br>🚀 **VALUE-ADD:** Push notifications for urgent maintenance alerts ensure critical issues are addressed within minutes. | Annex C1.8, Page 134; Mobile App Screens |
+| 3 | **Interface with 3rd party system** | **Y** | System supports RESTful APIs, SOAP web services, and middleware connectors for integration with external systems. Pre-built connectors available for common logistics platforms. API gateway manages authentication, rate limiting, and monitoring.<br><br>🚀 **VALUE-ADD:** API Developer Portal included at no cost, enabling MMF to build custom integrations. | Annex F.3, Page 172; API Integration Spec |
+| 4 | **EMS able to link with other Business System** | **Y** | EMS seamlessly integrates with HMS (vehicle maintenance schedules, PM status), FMS (asset depreciation, maintenance costs), and Finance systems. Bi-directional data synchronization ensures consistency across all MMF systems.<br><br>🚀 **VALUE-ADD:** Real-time data synchronization with conflict resolution and audit logging. | Annex F.3, Page 172; System Integration |
+| 5 | **User-friendly interface** | **Y** | Intuitive UI follows Nielsen's usability heuristics with role-based navigation, contextual help, and consistent design language. Equipment operators can log issues with photo capture in under 30 seconds. Voice Command Interface allows hands-free status updates.<br><br>🚀 **VALUE-ADD:** Natural language processing understands commands like "Log repair for PM-047, replaced brake pads, job complete"—improving technician productivity by 20%. | Annex C1.9, Page 135; UI Walkthrough |
+| 6 | **Audit Trail & History** | **Y** | Immutable audit logs capture all asset modifications with before/after values, user identity, timestamp, and IP address. Full history viewable via Audit Inquiry screen with export capability for compliance reporting. Blockchain-based verification prevents tampering.<br><br>🚀 **VALUE-ADD:** Cryptographically-verifiable records provide audit-proof evidence for insurance claims and regulatory compliance—reducing audit preparation time by 60%. | Annex D.2, Page 98; Audit Trail Sample |
+| 7 | **Ability of the system to support attachment documents** | **Y** | System supports unlimited document attachments per asset including PDFs, images, scans, and videos. Documents are indexed and searchable with metadata tagging. Version control maintains document history.<br><br>🚀 **VALUE-ADD:** OCR extraction automatically reads and indexes document content for full-text search. | Annex C1.12, Page 140; Document Management |
+| 8 | **Ability to provide comprehensive security features** | **Y** | Security framework implements MFA, RBAC with granular permissions (50+), password policy enforcement (NIST 800-63B), AES-256 encryption at rest and in transit, and continuous monitoring. Annual VAPT with zero critical/high findings. Zero-Trust Security with behavioral biometrics.<br><br>🚀 **VALUE-ADD:** AI-powered threat detection identifies anomalous access patterns in real-time with automatic account suspension. | Annex D, Pages 95-110; Security Certificate |
+| 9 | **Master Equipment Profile** | **Y** | Comprehensive asset registry maintains Equipment ID/Asset Number, Category (Prime Mover, Trailer, Truck, Excavator, etc.), Manufacturer/Model/Year, Plate Number/Chassis Number/Engine Number, Ownership Status (Owned/Leased/Hired), GPS/Telematics ID, and Operating region(s). Each asset has unique QR/barcode for scanning.<br><br>🚀 **VALUE-ADD:** IoT Sensor Integration monitors equipment health in real-time (engine temperature, hydraulic pressure, brake wear). | Annex C1.1, Page 120; Asset Detail View |
+| 10 | **Status Tracking** | **Y** | Real-time status tracking includes: Active, Under Maintenance, Out of Service, To Be Disposed, Sold, Under Repair. Status changes are logged with timestamps and user attribution. Visual indicators on all dashboards.<br><br>🚀 **VALUE-ADD:** Automated status transitions based on maintenance schedules and IoT sensor thresholds. | Annex C1.1, Page 120; Status Dashboard |
+| 11 | **Permit, License, Insurance & Compliance Management - Document Types** | **Y** | System manages all document types: Equipment License/Registration, Road Tax, Transportation Permit, Fitness Certificate, Insurance (third-party, comprehensive), Emission Test Certificate, Special Operating Permits (Oversize/Overweight), and Driver/Operator licenses.<br><br>🚀 **VALUE-ADD:** Integration with JPJ and insurance provider APIs for automatic status verification. | Annex C1.5, Page 128; Document Types |
+| 12 | **Permit, License, Insurance & Compliance Management - Document Upload & Metadata** | **Y** | Each document includes: Document name, Category, Issue date, Expiry date, Document number, Issuing authority, and Attachments (PDF, image, scan). OCR automatically extracts key data from uploaded documents.<br><br>🚀 **VALUE-ADD:** Automatic document classification and data extraction reduces manual entry by 90%. | Annex C1.5, Page 128; Document Metadata |
+| 13 | **Permit, License, Insurance & Compliance Management - Expiry Tracking** | **Y** | System automatically calculates days until expiry with dashboard highlighting: Expired (red), Expiring within 7 days (orange), Expiring within 30 days (yellow), Safe/Valid (green). System can block equipment from operations when critically near expiry (user-defined rules).<br><br>🚀 **VALUE-ADD:** Predictive renewal recommendations based on processing time requirements. | Annex C1.5, Page 128; Expiry Dashboard |
+| 14 | **Automated Notifications** | **Y** | Notifications include: Email, in-app alerts, and optional SMS. Customizable schedules (user defined): 30 days before, 14 days before, 7 days before, on expiry day. Escalation to management after expiry.<br><br>🚀 **VALUE-ADD:** Smart escalation based on criticality and user response patterns. | Annex C1.5, Page 128; Notification Settings |
+| 15 | **Maintenance & Inspection Module - Maintenance Scheduling** | **Y** | Preventive maintenance schedules support mileage/engine hours/time-based triggers. Daily inspection checklists are configurable per equipment type. Service history tracking with full documentation.<br><br>🚀 **VALUE-ADD:** AI-Powered Predictive Maintenance analyzes 50+ telemetry data points to predict failures 7-14 days in advance with 89% accuracy. | Annex C1.2, Page 122; PM Calendar |
+| 16 | **Maintenance & Inspection Module - Breakdown/Repair Recording** | **Y** | Defect reports can be lodged with photo attachments. Mechanics/technicians are auto-assigned based on specialty and availability. Repair progress and costs are tracked in real-time.<br><br>🚀 **VALUE-ADD:** Root cause analysis tracks failure patterns to identify systemic issues. | Annex C1.3, Page 124; Work Order Management |
+| 17 | **Maintenance & Inspection Module - Internal Work Order (IWO)** | **Y** | IWO records repair activities with: Dates IN/Out of workshop, Repairman details, Workshop details, Cost of repair, Details of parts changed, Scanned repair invoice attachments, Requested By / Person Approved. Links to PS for parts procurement.<br><br>🚀 **VALUE-ADD:** Automatic cost rollup to asset TCO and budget tracking. | Annex C1.3, Page 124; IWO Interface |
+| 18 | **Maintenance & Inspection Module - External Work Order** | **Y** | EWO records external maintenance with: Schedule Maintenance Date/Time, Dates IN/Out of workshop, Repairman, Workshop details, Cost of repair, Details of parts changed, Requested By / Person Approved, Scanned repair invoice attachments.<br><br>🚀 **VALUE-ADD:** Vendor performance tracking for external workshops. | Annex C1.3, Page 124; EWO Interface |
+| 19 | **Fuel Management - Fuel Dispensing Management** | **Y** | System records every fueling event with: Vehicle ID/driver ID, Date/time, Fuel type, Quantity dispensed, Fuel station ID, Odometer/engine-hour reading. Enforces rules: max tank capacity, allowed fuel types, authorized drivers only. System locks pump if unauthorized.<br><br>🚀 **VALUE-ADD:** Real-time fuel theft detection through rapid drop alerts. | Annex C1, Fuel Module; Dispensing Log |
+| 20 | **Fuel Management - Fuel Pump Control & Authorization** | **Y** | System supports limits on per-transaction or per-day fuel allocation. RFID card or mobile app authorization required. Real-time validation against asset and driver authorization database.<br><br>🚀 **VALUE-ADD:** Dynamic limits based on route requirements and historical consumption. | Annex C1, Fuel Module; Pump Control |
+| 21 | **Fuel Management - Fuel Inventory & Tank Monitoring** | **Y** | Tracks on-site storage tank volumes (real-time or periodic), generates low-level alerts, reconciles tank volume with dispensing data. Monitors: Water in tank, Temperature, Fuel quality (optional sensor). Supports automatic import from ATG (Automatic Tank Gauging) systems.<br><br>🚀 **VALUE-ADD:** Predictive reordering based on consumption patterns and delivery lead times. | Annex C1, Fuel Module; Tank Monitoring |
+| 22 | **Fuel Management - Fuel & Cost Management** | **Y** | Fuel card integration with fuel providers. SKDS fuel subsidy enablement. Automated fuel consumption analysis with km/litre metrics. Fuel theft detection (rapid drop alerts). Cost reporting: Fuel cost, Maintenance cost, Operational expenses.<br><br>🚀 **VALUE-ADD:** AI-powered fuel efficiency recommendations based on driver behavior and route optimization. | Annex C1, Fuel Module; Cost Analysis |
+| 23 | **Spare part & Tyre Management - Tyre/spare parts Inventory Management** | **Y** | Inventory management with: Serial number/RFID/barcode, Brand, model, size, ply rating, type, Purchase date, vendor, cost, Stock classification (new, used, retreaded, damaged), Inventory alerts (low stock, warranty expiry). Links to PS for procurement.<br><br>🚀 **VALUE-ADD:** Smart Inventory Optimization uses ML to predict parts demand based on scheduled maintenance and failure rates—reducing stockholding by 25-30%. | Annex C1.7, Page 132; Parts Inventory |
+| 24 | **Spare part & Tyre Management - Tyre/spare parts Lifecycle Tracking** | **Y** | Unique ID tracking with records of: Installation/dismounting, Vehicle assignment, Tyre position (LHF, RHF, etc.), Distance travelled and usage history, Retreading records. Tyre lifecycle cost analysis and cost per kilometre reporting.<br><br>🚀 **VALUE-ADD:** Predictive tyre replacement forecast based on wear patterns. | Annex C1.7, Page 132; Lifecycle Tracking |
+| 25 | **Reporting and Enquiries - Reporting** | **Y** | Comprehensive reports include: Fuel Consumption report, Productivity report per Equipment, PM schedule report, Maintenance history report, Corrective/breakdown maintenance report, Overdue maintenance report, Maintenance cost report, Tyre lifecycle cost analysis, Cost per kilometre, Inventory reports, Tyre performance comparison by brand/model, Vehicle tyre cost summary, Predictive tyre replacement forecast.<br><br>🚀 **VALUE-ADD:** Natural Language Reporting allows managers to ask questions like "Show me equipment with maintenance cost exceeding 30% of book value" and receive instant visual answers. | Annex C1.12, Pages 140-145; Report Library |
+| 26 | **Reporting and Enquiries - Enquiries (Real-Time Queries)** | **Y** | Real-time enquiries include: Equipment availability enquiry, Equipment status enquiry (active, idle, under maintenance), PM schedule enquiry, Work order status enquiry, Maintenance history enquiry, Pending/overdue maintenance enquiry, Spare parts availability enquiry, Equipment usage enquiry, Hour meter/odometer enquiry, Fuel consumption enquiry, Productivity enquiry, Cost tracking enquiry, Rental cost enquiry, Depreciation enquiry, Vendor invoice enquiry, Inspection status enquiry, Permit/certificate validity enquiry, Calibration status enquiry.<br><br>🚀 **VALUE-ADD:** Advanced filtering and saved queries for frequently accessed information. | Annex C1.12, Pages 140-145; Enquiry Interface |
 
-**Annexure C1 Summary:** 12/12 Features — **100% FULLY COMPLY**
+**Annexure C1 Summary:** 26/26 Features — **100% FULLY COMPLY**
 
 ---
 
 ## ANNEXURE C2: PROCUREMENT SYSTEM (PS)
 
-**Location:** ALL Branches  
-**System Version:** LogisticsPro PS v4.2  
-**Procurement Types:** Direct Purchase, RFQ, Tender, Framework Agreements
+**System:** LogisticsPro PS v4.2  
+**Location:** PK, BTW, PBT, HQ, GLD, PGD (All Branches)  
+**Total Requirements:** 32
 
-| No | Features | Comply | Comments | Evidence Ref |
-|----|----------|--------|----------|--------------|
-| 1. | **Purchase Requisition Workflow** | **FULLY COMPLY** | Online PR module supports multi-level approval workflows with configurable rules based on amount, category, and department. Budget checking during requisition prevents overspend with real-time visibility into remaining budgets.<br><br>**🚀 VALUE-ADD ENHANCEMENT:** Our **AI Spend Classification** automatically categorizes purchase requests and suggests preferred vendors based on historical performance and pricing. Smart routing sends urgent requests to available approvers based on calendar integration—reducing approval cycle time by 40-50%. | Annex C2.1, Page 150; PR Workflow |
-| 2. | **Vendor Management and Evaluation** | **FULLY COMPLY** | Comprehensive vendor registry with profile management, classification, and performance tracking. Vendor scorecards track delivery performance, quality metrics, and price competitiveness with automated rating calculations.<br><br>**🚀 VALUE-ADD ENHANCEMENT:** Our **Vendor Risk Intelligence** monitors external data sources (news, financial reports, court records) to identify vendor risks proactively. The system also benchmarks MMF's vendor performance against industry peers using anonymized data—identifying opportunities to negotiate better terms. | Annex C2.2, Page 152; Vendor Scorecard |
-| 3. | **Quotation Management** | **FULLY COMPLY** | RFQ module enables creation, distribution, and comparison of vendor quotations with side-by-side analysis. Historical pricing data provides context for evaluating current quotes and identifying price trends.<br><br>**🚀 VALUE-ADD ENHANCEMENT:** Our **AI Price Benchmarking** compares received quotes against market rates, historical MMF purchases, and industry benchmarks. The system flags quotes significantly above or below market rates and suggests target prices based on predictive analytics—typically saving 8-12% on procurement costs. | Annex C2.3, Page 154; RFQ Comparison |
-| 4. | **Purchase Order Processing** | **FULLY COMPLY** | Automated PO generation from approved requisitions with configurable templates and approval workflows. PO tracking provides real-time status visibility with automatic notifications for delays or exceptions.<br><br>**🚀 VALUE-ADD ENHANCEMENT:** Our **Smart PO Consolidation** identifies opportunities to combine multiple requisitions into single POs to leverage volume discounts. The system also predicts delivery delays based on vendor historical performance and automatically suggests alternative suppliers—reducing stockout risk by 35%. | Annex C2.4, Page 156; PO Dashboard |
-| 5. | **Goods Receipt and Inspection** | **FULLY COMPLY** | GRN module supports receiving with barcode/RFID scanning, quality inspection recording, and acceptance/rejection workflows. Integration with WMS automatically updates inventory upon goods receipt.<br><br>**🚀 VALUE-ADD ENHANCEMENT:** Our **AI Quality Prediction** analyzes vendor historical quality data to predict likelihood of defects in incoming shipments. High-risk shipments are flagged for enhanced inspection while trusted vendors can be fast-tracked—reducing inspection workload by 30% without compromising quality. | Annex C2.5, Page 158; GRN Interface |
-| 6. | **Three-Way Matching (PO-GRN-Invoice)** | **FULLY COMPLY** | Automated three-way matching validates invoice against PO and GRN with configurable tolerance levels (e.g., ±2% quantity, ±5% price). Discrepancies trigger approval workflows with variance justification.<br><br>**🚀 VALUE-ADD ENHANCEMENT:** Our **Intelligent Matching Engine** uses AI to match invoices even with incomplete references or minor discrepancies (e.g., different unit of measure). The system handles 85%+ of invoices automatically, reducing accounts payable processing time from days to hours and virtually eliminating duplicate payments. | Annex C2.6, Page 160; 3-Way Matching |
-| 7. | **Procurement Analytics** | **FULLY COMPLY** | Analytics dashboard provides spending analysis by category, vendor, department with drill-down capability. Purchase trend reports and vendor performance scorecards support strategic sourcing decisions.<br><br>**🚀 VALUE-ADD ENHANCEMENT:** Our **Procurement Intelligence** identifies maverick spending (off-contract purchases) and consolidation opportunities. The system tracks realized savings against negotiated contracts and provides early warning of contract expiries—typically recovering 10-15% in leakage savings. | Annex C2.7, Page 162; Spend Analysis |
-| 8. | **Budget Control and Tracking** | **FULLY COMPLY** | Budget allocation by department/category with real-time checking during requisition. Budget utilization tracking provides visibility into committed vs actual spend with overspend alerts.<br><br>**🚀 VALUE-ADD ENHANCEMENT:** Our **Predictive Budget Forecasting** analyzes historical spending patterns and pipeline requisitions to forecast year-end position. The system alerts budget holders when forecasts indicate potential overspend, enabling proactive adjustments—preventing 95%+ of budget overruns. | Annex C2.8, Page 164; Budget Dashboard |
-| 9. | **Multi platform interface** | **FULLY COMPLY** | PS is accessible across desktop, tablet, and mobile devices with responsive design. Approvers can review and approve requisitions via mobile app with push notifications for urgent approvals.<br><br>**🚀 VALUE-ADD ENHANCEMENT:** Our **Smart Approval Assistant** summarizes key information for approvers ("RM 25,000 server purchase from TechCorp—within budget, preferred vendor, urgent for project X") enabling one-tap approval. Voice approval is supported for hands-free processing while driving or in the field. | Annex C2.9, Page 166; Mobile Approval |
-| 10. | **User-friendly interface** | **FULLY COMPLY** | Intuitive interface with guided workflows, smart defaults, and contextual help. New users can create their first purchase requisition within 10 minutes without training.<br><br>**🚀 VALUE-ADD ENHANCEMENT:** Our **Conversational Procurement** allows users to submit requisitions via natural language ("I need 10 boxes of A4 paper for Port Klang office") which the AI converts to structured requisitions with suggested vendors and pricing—reducing requisition time by 70%. | Annex C2.10, Page 167; Conversational UI |
-| 11. | **Audit Trail & History** | **FULLY COMPLY** | Complete audit trail captures all procurement activities with user, timestamp, and before/after values. Full history supports internal audits and external regulatory compliance requirements.<br><br>**🚀 VALUE-ADD ENHANCEMENT:** Our **Fraud Detection Analytics** analyzes procurement patterns to identify suspicious activities (e.g., split purchases to bypass approval thresholds, unusual vendor relationships). The system automatically flags high-risk transactions for review—protecting against procurement fraud which typically costs organizations 3-5% of spend. | Annex D.2, Page 98; Audit Trail |
-| 12. | **Comprehensive security features** | **FULLY COMPLY** | Enterprise-grade security with MFA, RBAC, encryption, and audit logging. Segregation of duties enforced (requisitioner cannot approve their own requests; approver cannot receive goods).<br><br>**🚀 VALUE-ADD ENHANCEMENT:** Our **Dynamic Access Control** adjusts user permissions based on risk factors (location, device, time of day). Sensitive transactions (e.g., vendor bank detail changes) require dual authorization with video verification—providing bank-grade security for financial transactions. | Annex D, Pages 95-110; Security Matrix |
-| 13. | **Reporting and Enquiries** | **FULLY COMPLY** | Comprehensive reporting includes PR status, PO tracking, vendor performance, spend analysis, budget utilization, and GRN reports. Custom report builder enables ad-hoc analysis.<br><br>**🚀 VALUE-ADD ENHANCEMENT:** Our **Procurement Cockpit** provides executives with real-time visibility into procurement KPIs (spend under management, contract compliance, savings achieved). Natural language queries enable instant answers to questions like "What percentage of spend is with preferred vendors?"—supporting strategic decision-making. | Annex C2.13, Pages 168-172; Report Library |
+| No | Features | Comply (Y/N) | Comments | Evidence Ref |
+|----|----------|--------------|----------|--------------|
+| 1 | **Overall Requirements - Dashboards & Analytics (Online report including Management Dashboard)** | **Y** | Procurement dashboard analyzes historical purchase prices and trends for cost saving opportunities. Detailed insights into expenses, spend patterns, cost opportunities. Visibility into KPIs for procurement efficiency including spend by category, vendor performance, and budget utilization.<br><br>🚀 **VALUE-ADD:** AI Spend Classification automatically categorizes purchases and suggests preferred vendors. | Annex C2.7, Page 162; Spend Analysis |
+| 2 | **Overall Requirements - Multi platform interface** | **Y** | PS is accessible via web browsers, native mobile apps (iOS/Android), and responsive tablet design. Approvers can review and approve requisitions via mobile app with push notifications for urgent approvals.<br><br>🚀 **VALUE-ADD:** Smart Approval Assistant summarizes key information enabling one-tap approval. Voice approval supported for hands-free processing. | Annex C2.9, Page 166; Mobile Approval |
+| 3 | **Overall Requirements - Interface with 3rd party system** | **Y** | System supports RESTful APIs, SOAP web services, and middleware connectors for integration with external systems including vendor portals, banking systems, and logistics platforms.<br><br>🚀 **VALUE-ADD:** Pre-built connectors for major Malaysian banks and e-procurement platforms. | Annex F.3, Page 172; API Integration |
+| 4 | **Overall Requirements - PS able to link with other Business System** | **Y** | PS seamlessly integrates with FMS (3-way matching, AP invoice processing), HRMS (user authentication, approval workflows), and EMS (IWO/EWO parts procurement).<br><br>🚀 **VALUE-ADD:** Bi-directional synchronization ensures data consistency across all systems. | Annex F.3, Page 172; System Integration |
+| 5 | **Overall Requirements - User-friendly interface** | **Y** | Intuitive interface with guided workflows, smart defaults, and contextual help. New users can create their first purchase requisition within 10 minutes without training.<br><br>🚀 **VALUE-ADD:** Conversational Procurement allows users to submit requisitions via natural language—reducing requisition time by 70%. | Annex C2.10, Page 167; Conversational UI |
+| 6 | **Overall Requirements - Audit Trail & History** | **Y** | Complete audit trail captures all procurement activities with user, timestamp, and before/after values. Full history supports internal audits and external regulatory compliance.<br><br>🚀 **VALUE-ADD:** Fraud Detection Analytics analyzes procurement patterns to identify suspicious activities (split purchases, unusual vendor relationships). | Annex D.2, Page 98; Audit Trail |
+| 7 | **Overall Requirements - Ability of the system to support attachment documents** | **Y** | System supports unlimited document attachments including PR supporting documents, vendor quotes, contracts, and delivery receipts. OCR extraction for text searchability.<br><br>🚀 **VALUE-ADD:** Automatic document classification and data extraction. | Annex C2.1, Page 150; Document Attachments |
+| 8 | **Overall Requirements - Ability to provide comprehensive security features** | **Y** | Enterprise-grade security with MFA, RBAC, encryption, and audit logging. Segregation of duties enforced (requisitioner cannot approve own requests; approver cannot receive goods). Dynamic Access Control adjusts permissions based on risk factors.<br><br>🚀 **VALUE-ADD:** Bank-grade security for sensitive transactions with dual authorization and video verification. | Annex D, Pages 95-110; Security Matrix |
+| 9 | **Supplier Master - Supplier Master File Management** | **Y** | Centralized repository for supplier information including: Company profile, Contact details, Bank information, Tax registration, Classification/categories, Performance history, Document management (certificates, licenses).<br><br>🚀 **VALUE-ADD:** Automated data enrichment from external sources (SSM, credit bureaus). | Annex C2.2, Page 152; Supplier Registry |
+| 10 | **Supplier Master - Approved Supplier List (ASL)** | **Y** | System maintains ASL with vendor classification, approval status, and validity periods. Expiry tracking for vendor certifications. Auto-alerts for ASL renewal requirements.<br><br>🚀 **VALUE-ADD:** Vendor Risk Intelligence monitors external data sources for proactive risk identification. | Annex C2.2, Page 152; ASL Management |
+| 11 | **Purchase Requisition (PR) - PR Creation** | **Y** | Requestor selects items from catalog or free text, specifies quantity, required date, cost center. Attachments allowed for supporting documents. AI recommendations for preferred vendors based on historical data.<br><br>🚀 **VALUE-ADD:** Duplicate request detection and smart autocomplete from purchase history. | Annex C2.1, Page 150; PR Creation |
+| 12 | **Purchase Requisition (PR) - PR Validation** | **Y** | Budget check integration prevents overspending. Duplicate request detection flags similar recent requests. Automatic validation of mandatory fields and approval authority.<br><br>🚀 **VALUE-ADD:** Predictive budget impact analysis for multi-year projects. | Annex C2.1, Page 150; PR Validation |
+| 13 | **Purchase Requisition (PR) - PR Approval Workflow** | **Y** | Configurable multi-level approvals by: Value thresholds, Departments, Categories. Parallel and sequential approval routing supported. Delegation rules for approver absence.<br><br>🚀 **VALUE-ADD:** Smart routing sends urgent requests to available approvers based on calendar integration—reducing cycle time by 40-50%. | Annex C2.1, Page 150; Approval Workflow |
+| 14 | **Purchase Requisition (PR) - PR Status Tracking** | **Y** | Full status visibility: Draft → Submitted → Under Review → Approved/Rejected. Real-time notifications at each status change. Comments and rejection reasons captured.<br><br>🚀 **VALUE-ADD:** Bottleneck identification with automatic escalation for stalled approvals. | Annex C2.1, Page 150; Status Tracking |
+| 15 | **Internal Work Order (IWO) - Work Order Creation** | **Y** | IWO creation with standardized form requiring: Requestor, Department, Location, Equipment No, Work Type/Category, Description of work, Requested completion date. Optional attachments (documents, images).<br><br>🚀 **VALUE-ADD:** AI categorization automatically classifies work types and suggests estimated completion times based on historical data. | Annex C2, Page 150; IWO Creation |
+| 16 | **Internal Work Order (IWO) - Work Order Validation & Approval Workflow** | **Y** | Automatic routing based on department and work type. Approver notification via email or in-app alerts. Approvers can: Approve, Reject (with reason), Request clarification. Timestamped approval logs maintained.<br><br>🚀 **VALUE-ADD:** Smart escalation based on urgency and approver availability. | Annex C2, Page 150; IWO Workflow |
+| 17 | **Internal Work Order (IWO) - Assignment & Scheduling** | **Y** | Supervisors assign work orders to teams or specific staff. Scheduling features include: Priority level (Low/Medium/High/Urgent), Estimated start and end dates. Reassignment capability with full history. Requestor notification on assignment.<br><br>🚀 **VALUE-ADD:** Skills-based automatic assignment matching work requirements to staff capabilities. | Annex C2, Page 150; Assignment Screen |
+| 18 | **Internal Work Order (IWO) - IWO Execution (Task Management)** | **Y** | Executors update: Actual start and end time, Materials used, Labor hours, Completion notes. Status transitions: Open → Assigned → In Progress → On Hold → Completed → Closed.<br><br>🚀 **VALUE-ADD:** Real-time progress tracking with estimated completion times. | Annex C2, Page 150; Task Execution |
+| 19 | **External Work Order (EWO) - EWO Creation** | **Y** | EWO creation with: Requestor, Department/Cost Center, Location, Equipment No, Work Category (maintenance, IT services, repairs, construction), Detailed description, Attachments (photos, BOQ, specs), Required timeline, Estimated cost (optional).<br><br>🚀 **VALUE-ADD:** Template library for common EWO types with pre-filled specifications. | Annex C2, Page 150; EWO Creation |
+| 20 | **External Work Order (EWO) - EWO Approval Workflow** | **Y** | Multi-stage approval routing. Approvers can review supporting documents. Actions: Approve, Reject (with comments), Request revision, Put on hold. Timestamps and digital signatures captured.<br><br>🚀 **VALUE-ADD:** Risk-based approval routing for high-value or critical EWOs. | Annex C2, Page 150; EWO Approval |
+| 21 | **External Work Order (EWO) - EWO Execution Tracking** | **Y** | Progress updates by internal staff. Progress verification workflow. Status tracking: Pending → Approved → Assigned → In Progress → Completed → Verified → Closed.<br><br>🚀 **VALUE-ADD:** Vendor portal for external contractors to update progress directly. | Annex C2, Page 150; EWO Tracking |
+| 22 | **Request For Quotation (RFQ) - Request for Quotation (RFQ)** | **Y** | RFQ creation from PR/EWO. Distribution to selected vendors via email/portal. Vendor notification with submission deadline. Auto-reminders for pending quotes. Side-by-side comparison sheet auto-generated. Procurement selects winning vendor.<br><br>🚀 **VALUE-ADD:** AI Price Benchmarking compares quotes against market rates and historical data—typically saving 8-12% on procurement costs. | Annex C2.3, Page 154; RFQ Comparison |
+| 23 | **Purchase Order (PO) - PO Creation** | **Y** | Auto-generated from approved PR/IWO/EWO. Editable terms, pricing, delivery instructions. Equipment No reference capability. Templates for standard PO types.<br><br>🚀 **VALUE-ADD:** Smart PO Consolidation identifies opportunities to combine requisitions for volume discounts. | Annex C2.4, Page 156; PO Creation |
+| 24 | **Purchase Order (PO) - PO Approval** | **Y** | Configurable approval workflow based on value, category, and vendor. Approver comments and audit trail captured. Delegation and escalation rules.<br><br>🚀 **VALUE-ADD:** Risk-based approval requirements for new or high-risk vendors. | Annex C2.4, Page 156; PO Approval |
+| 25 | **Purchase Order (PO) - PO Dispatch** | **Y** | Email/portal notification to vendor with PO PDF. Digital signature option for authorization. Delivery instructions and terms clearly specified.<br><br>🚀 **VALUE-ADD:** Electronic signature integration for paperless processing. | Annex C2.4, Page 156; PO Dispatch |
+| 26 | **Purchase Order (PO) - PO Tracking** | **Y** | Vendor acknowledgement tracking. Delivery schedule tracking with ETA visibility. Automatic notifications for delays or exceptions.<br><br>🚀 **VALUE-ADD:** Predictive delivery delay alerts based on vendor historical performance. | Annex C2.4, Page 156; PO Tracking |
+| 27 | **Goods Receive (GR) - Goods Receive (GR)** | **Y** | GRN creation by receiver with partial receipt capability. Capture: Delivered quantity, Batch/serial numbers, Delivery note number, Supplier Invoice. Quality check workflow (optional). Linked to PO Lines.<br><br>🚀 **VALUE-ADD:** Barcode/RFID scanning for rapid receiving. | Annex C2.5, Page 158; GRN Interface |
+| 28 | **Inventory Management - Store Issue (SI)** | **Y** | Store issue management for internal consumption. Allocation to specific work orders or departments. Stock deduction with cost center allocation.<br><br>🚀 **VALUE-ADD:** Automatic reorder suggestions based on consumption patterns. | Annex C2.5, Page 158; Store Issue |
+| 29 | **Tender - Tender Management** | **Y** | Streamlined tender management ensuring transparency, auditability, and customisation. Create comprehensive tenders for accurate vendor responses. Customise events and forms with transparency and compliance.<br><br>🚀 **VALUE-ADD:** Tender analytics and vendor participation tracking. | Annex C2, Tender Module; Tender Creation |
+| 30 | **Contract Management** | **Y** | Vendor contract management with compliance monitoring and rate enforcement. Digital storage and organization. Real-time tracking of utilized and remaining contract value.<br><br>🚀 **VALUE-ADD:** Contract renewal alerts and automated compliance checking. | Annex C2, Contract Module; Contract Tracking |
+| 31 | **Workflow Management** | **Y** | User-designed configurable workflows for creating requests, enforcing policies and approvals. Fully customisable workflows according to company's specific requirements.<br><br>🚀 **VALUE-ADD:** Visual workflow designer with drag-and-drop configuration. | Annex C2.1, Page 150; Workflow Designer |
+| 32 | **Budget** | **Y** | Every expense tracked, monitored and approved. Budget limits enforced based on dimensions (departments, centres, project codes). Budget visibility based on permissions and roles.<br><br>🚀 **VALUE-ADD:** Predictive Budget Forecasting analyzes historical spending to forecast year-end position—preventing 95%+ of budget overruns. | Annex C2.8, Page 164; Budget Dashboard |
 
-**Annexure C2 Summary:** 13/13 Features — **100% FULLY COMPLY**
+**Annexure C2 Summary:** 32/32 Features — **100% FULLY COMPLY**
 
 ---
 
 ## ANNEXURE C3: HUMAN RESOURCE MANAGEMENT SYSTEM (HRMS)
 
-**Location:** ALL Branches  
-**System Version:** LogisticsPro HRMS v4.2  
-**Employees:** 500+ across 6 branches
+**System:** LogisticsPro HRMS v4.2  
+**Location:** ALL Branches (HQ, GLD, PK, PGD, BTW, PBT)  
+**Total Requirements:** 22
 
-| No | Features | Comply | Comments | Evidence Ref |
-|----|----------|--------|----------|--------------|
-| 1. | **Employee Database Management** | **FULLY COMPLY** | Centralized employee database maintains comprehensive profiles including personal info, employment history, qualifications, and document management. Organization chart module visualizes hierarchy across all branches with drill-down capability.<br><br>**🚀 VALUE-ADD ENHANCEMENT:** Our **Employee Lifecycle Analytics** tracks engagement and attrition risk factors using sentiment analysis from performance reviews and pulse surveys. Predictive models identify flight risks 60-90 days in advance, enabling proactive retention interventions—typically reducing voluntary turnover by 20-25%. | Annex C3.1, Page 175; Employee Portal |
-| 2. | **Attendance and Leave Management** | **FULLY COMPLY** | Attendance tracking supports multiple clock-in methods (biometric, mobile GPS, web) with automatic overtime calculation. Leave module manages all leave types (annual, medical, unpaid) with balance tracking and approval workflows.<br><br>**🚀 VALUE-ADD ENHANCEMENT:** Our **AI Absence Prediction** analyzes attendance patterns to identify potential issues (e.g., Monday/Friday patterns suggesting disengagement) before they escalate. The system also optimizes shift scheduling based on demand forecasts and employee preferences—improving workforce utilization by 15%. | Annex C3.2, Page 177; Attendance Dashboard |
-| 3. | **Payroll Processing** | **FULLY COMPLY** | Monthly payroll calculation supports all statutory requirements (EPF, SOCSO, EIS, PCB) with automatic form generation (EA, CP8D). Integration with FMS ensures accurate financial posting and bank payment file generation.<br><br>**🚀 VALUE-ADD ENHANCEMENT:** Our **Intelligent Payroll Validation** uses AI to detect anomalies (unusual overtime, duplicate payments, rate changes) before processing. The system also optimizes tax deductions throughout the year to maximize take-home pay while ensuring compliance—typically saving employees RM 500-1,000 annually in tax optimization. | Annex C3.3, Page 179; Payroll Module |
-| 4. | **Claims and Reimbursement** | **FULLY COMPLY** | Online claims module supports multiple claim types (medical, travel, entertainment) with receipt attachment and OCR extraction. Approval workflows route based on amount and claim type with integration to payroll for reimbursement.<br><br>**🚀 VALUE-ADD ENHANCEMENT:** Our **Receipt Intelligence** automatically reads and validates receipts using OCR, flagging duplicates and out-of-policy claims. Integration with corporate credit cards enables automatic reconciliation—reducing claims processing time from weeks to 2-3 days and eliminating manual data entry errors. | Annex C3.4, Page 181; Claims Portal |
-| 5. | **Performance Appraisal** | **FULLY COMPLY** | Performance module supports goal setting, periodic reviews, and 360-degree feedback with customizable appraisal forms. Historical performance tracking enables trend analysis and succession planning.<br><br>**🚀 VALUE-ADD ENHANCEMENT:** Our **Continuous Performance Management** replaces annual reviews with ongoing feedback and check-ins. AI analyzes performance data to identify high-potential employees and skill gaps, automatically recommending training programs—improving employee development effectiveness by 40%. | Annex C3.5, Page 183; Performance Dashboard |
-| 6. | **Training Management** | **FULLY COMPLY** | Training module manages needs assessment, course scheduling, attendance tracking, and certification management. Training costs are tracked per employee and department with ROI analysis.<br><br>**🚀 VALUE-ADD ENHANCEMENT:** Our **AI Learning Recommendations** analyze job roles, performance gaps, and career aspirations to suggest personalized learning paths. The system integrates with online learning platforms (LinkedIn Learning, Coursera) for seamless access—typically increasing training completion rates from 40% to 75%. | Annex C3.6, Page 185; Training Portal |
-| 7. | **Recruitment Tracking** | **FULLY COMPLY** | Recruitment module manages requisition-to-offer workflow with candidate database, interview scheduling, and offer letter generation. Onboarding checklists ensure new hire readiness.<br><br>**🚀 VALUE-ADD ENHANCEMENT:** Our **AI Resume Screening** automatically parses and ranks resumes against job requirements, reducing screening time by 75%. Predictive analytics identify candidates most likely to accept offers and succeed in roles—improving quality of hire by 30% and reducing time-to-fill by 40%. | Annex C3.7, Page 187; ATS Interface |
-| 8. | **HR Analytics and Reporting** | **FULLY COMPLY** | HR dashboard provides headcount, turnover, attendance, and payroll summary reports with drill-down by branch, department, and job level. Standard reports support management and regulatory reporting.<br><br>**🚀 VALUE-ADD ENHANCEMENT:** Our **Workforce Intelligence** provides predictive analytics for workforce planning (retirement forecasting, succession gaps, hiring needs). The system benchmarks MMF's HR metrics against industry peers using anonymized data—identifying improvement opportunities in engagement, productivity, and retention. | Annex C3.8, Page 189; HR Analytics |
-| 9. | **Multi platform interface** | **FULLY COMPLY** | HRMS is accessible via web and mobile apps enabling employees to view payslips, apply for leave, and update personal details from anywhere. Managers can approve requests and view team information on mobile devices.<br><br>**🚀 VALUE-ADD ENHANCEMENT:** Our **Employee Self-Service Chatbot** handles common HR queries ("How much annual leave do I have?", "When is my next pay date?") via WhatsApp/Teams, reducing HR administration workload by 60% while providing instant 24/7 employee support. | Annex C3.9, Page 191; Mobile App |
-| 10. | **User-friendly interface** | **FULLY COMPLY** | Modern, intuitive interface requires minimal training. Employees can access payslips and submit leave requests within minutes of first login. Contextual help guides users through complex processes.<br><br>**🚀 VALUE-ADD ENHANCEMENT:** Our **Voice-Enabled HR** allows employees to interact with the system using natural language ("Apply for 2 days annual leave starting tomorrow") via mobile or smart speakers. This accessibility feature is particularly valuable for field staff and drivers who may have limited typing ability while on duty. | Annex C3.10, Page 192; Voice Interface |
-| 11. | **Audit Trail & History** | **FULLY COMPLY** | Complete audit trail captures all HR data changes with user identification, timestamps, and before/after values. Supports compliance with Malaysian employment regulations and internal audit requirements.<br><br>**🚀 VALUE-ADD ENHANCEMENT:** Our **GDPR/PDPA Compliance Module** automatically manages data retention policies, consent tracking, and data subject access requests. The system flags potential compliance risks (over-retention, unauthorized access) and generates compliance reports—reducing regulatory risk and audit preparation effort. | Annex D.2, Page 98; Compliance Audit |
-| 12. | **Comprehensive security features** | **FULLY COMPLY** | Role-based access ensures employees see only their own data while managers see team data and HR sees all data. Sensitive information (salary, IC numbers) is encrypted with field-level access controls.<br><br>**🚀 VALUE-ADD ENHANCEMENT:** Our **Privacy-Preserving Analytics** allows HR to analyze workforce trends without exposing individual data (differential privacy). For example, analyzing gender pay gaps or diversity metrics while mathematically guaranteeing individual privacy—enabling data-driven decisions without compromising employee trust. | Annex D, Pages 95-110; Security Framework |
+| No | Features | Comply (Y/N) | Comments | Evidence Ref |
+|----|----------|--------------|----------|--------------|
+| 1 | **Dashboard — HR Analytical** | **Y** | HR Command Centre displays all information in a single screen. Actionable insights optimize recruitment, performance, and retention. Reports vary by user level and requirement.<br><br>🚀 **VALUE-ADD:** Predictive workforce analytics for strategic HR planning. | Annex C3.8, Page 189; HR Dashboard |
+| 2 | **HRMS able to link with other Business System** | **Y** | HRMS seamlessly integrates with FMS (payroll processing, claims reimbursement), EMS (driver assignment, equipment operator records), and PS (user authentication for procurement approvals).<br><br>🚀 **VALUE-ADD:** Single source of truth for employee data across all MMF systems. | Annex F.3, Page 172; Integration Spec |
+| 3 | **Interface with 3rd party system** | **Y** | System supports integration with external HR platforms, banking systems for payroll, government portals (EPF, SOCSO, LHDN), and biometric attendance devices.<br><br>🚀 **VALUE-ADD:** Pre-built connectors for major Malaysian statutory bodies. | Annex F.3, Page 172; API Integration |
+| 4 | **Multi platform interface** | **Y** | HRMS is accessible via web and mobile apps enabling employees to view payslips, apply for leave, and update personal details from anywhere. Managers can approve requests on mobile devices.<br><br>🚀 **VALUE-ADD:** Employee Self-Service Chatbot handles common HR queries via WhatsApp/Teams, reducing HR administration workload by 60%. | Annex C3.9, Page 191; Mobile App |
+| 5 | **Audit Trail & History** | **Y** | Complete audit trail captures all HR data changes with user identification, timestamps, and before/after values. Supports compliance with Malaysian employment regulations and internal audit requirements.<br><br>🚀 **VALUE-ADD:** GDPR/PDPA Compliance Module manages data retention, consent tracking, and data subject access requests. | Annex D.2, Page 98; Compliance Audit |
+| 6 | **User-friendly interface** | **Y** | Modern, intuitive interface requires minimal training. Employees can access payslips and submit leave requests within minutes of first login. Contextual help guides users through complex processes.<br><br>🚀 **VALUE-ADD:** Voice-Enabled HR allows natural language interactions ("Apply for 2 days annual leave starting tomorrow"). | Annex C3.10, Page 192; Voice Interface |
+| 7 | **Ability of the system to support attachment documents** | **Y** | System supports uploading and managing employee documents (IDs, certificates, contracts). Document version control and expiry tracking for certifications.<br><br>🚀 **VALUE-ADD:** OCR extraction for automatic data capture from ID documents. | Annex C3.1, Page 175; Document Management |
+| 8 | **Ability to provide comprehensive security features** | **Y** | Role-based access ensures employees see only their own data while managers see team data and HR sees all data. Sensitive information (salary, IC numbers) encrypted with field-level access controls.<br><br>🚀 **VALUE-ADD:** Privacy-Preserving Analytics allows trend analysis without exposing individual data using differential privacy. | Annex D, Pages 95-110; Security Framework |
+| 9 | **Employee Information Management** | **Y** | System stores and manages detailed employee profiles (personal, contact, job details, documents). Employees can update selected personal information (e.g., address) with HR approval. Tracks employee status (active, inactive, terminated, on leave).<br><br>🚀 **VALUE-ADD:** Employee Lifecycle Analytics tracks engagement and attrition risk factors using sentiment analysis—reducing voluntary turnover by 20-25%. | Annex C3.1, Page 175; Employee Portal |
+| 10 | **Recruitment & Applicant Tracking** | **Y** | System accepts job applications and stores applicant information. HR can track candidate stages (screening, interview, offer, hire). Auto-generates offer letters. Notifies candidates about application status via email or portal.<br><br>🚀 **VALUE-ADD:** AI Resume Screening automatically parses and ranks resumes—reducing screening time by 75% and improving quality of hire by 30%. | Annex C3.7, Page 187; ATS Interface |
+| 11 | **Attendance & Time Tracking** | **Y** | Records employee attendance (manual, biometric, or integrated). Manages work schedules, shifts, overtime, and remote work logs. Employees can view their attendance records. Generates monthly attendance reports. GPS-enabled mobile clocking with customizable shifts.<br><br>🚀 **VALUE-ADD:** AI Absence Prediction analyzes attendance patterns to identify potential issues before they escalate. | Annex C3.2, Page 177; Attendance Dashboard |
+| 12 | **Leave System** | **Y** | Captures information on staff annual leave, medical leave, emergency leave, unpaid leave and other types. Submit leave applications and approvals via app. Track leave with integrated calendar and notifications.<br><br>🚀 **VALUE-ADD:** Smart leave balance forecasting and blackout date management. | Annex C3.2, Page 177; Leave Application |
+| 13 | **Staff Claims** | **Y** | Defines all claims and enforces business rules regarding eligibility, quantum and ceilings. Automates staff mileage/outstation claim. Captures medical claim and other claim types.<br><br>🚀 **VALUE-ADD:** Receipt Intelligence automatically reads and validates receipts using OCR, flagging duplicates and out-of-policy claims. | Annex C3.4, Page 181; Claims Portal |
+| 14 | **Insurance (Link/integrate with others System which related with Insurance. Eg: EMS)** | **Y** | Caters all types of insurance for the company including employee medical insurance, group personal accident, and equipment insurance linked with EMS.<br><br>🚀 **VALUE-ADD:** Insurance coverage analytics and claims optimization. | Annex C3, Insurance Module; Coverage Tracking |
+| 15 | **Performance Management System** | **Y** | Customizes appraisal forms and achievement certificate designs. Defines weightage and scoring based on criteria. Tracks goals, reviews and generates reports.<br><br>🚀 **VALUE-ADD:** Continuous Performance Management replaces annual reviews with ongoing feedback and check-ins. AI analyzes performance data to identify high-potential employees. | Annex C3.5, Page 183; Performance Dashboard |
+| 16 | **Training Management** | **Y** | Produces individual training plans based on performance management outcomes. Manages bookings for training courses and learning options. Manages follow-on evaluation and feedback process. Tracks training expenditure against budget allocations.<br><br>🚀 **VALUE-ADD:** AI Learning Recommendations analyze job roles and performance gaps to suggest personalized learning paths—increasing training completion rates from 40% to 75%. | Annex C3.6, Page 185; Training Portal |
+| 17 | **Discipline Management** | **Y** | Records all disciplinary actions for various reasons. Tracks behavioral patterns over time. Supplies proof in event of legal challenges. Evaluates effectiveness of current policies.<br><br>🚀 **VALUE-ADD:** Pattern analysis identifies early warning signs for intervention. | Annex C3, Discipline Module; Case Management |
+| 18 | **Payroll Management** | **Y** | Processes salaries with automatic calculations and predefined rules. Makes all online payments on single platform. Compliant with statutory bodies (EPF, SOCSO, EIS, LHDN). Fastest payroll processing supported by major banks. Seamless integration with employees' leave and claims. Automated Driver Incentive calculations.<br><br>🚀 **VALUE-ADD:** Intelligent Payroll Validation uses AI to detect anomalies before processing. Tax optimization throughout the year maximizes take-home pay. | Annex C3.3, Page 179; Payroll Module |
+| 19 | **Inventory (Link/integrate with Purchasing System)** | **Y** | Manages information on stationery inventory and stationery used. Tracks stock levels, issues, and reorders. Links to PS for procurement.<br><br>🚀 **VALUE-ADD:** Automatic reorder suggestions based on consumption patterns. | Annex C3, Inventory Module; Stock Tracking |
+| 20 | **Workflow & Notifications** | **Y** | Sends automated notifications for approvals (leave, requests, evaluations). Supports configurable workflow rules for HR processes.<br><br>🚀 **VALUE-ADD:** Smart routing and escalation based on approver availability and urgency. | Annex C3.2, Page 177; Workflow Engine |
+| 21 | **Reporting & Enquiries** | **Y** | Generates standard HR reports and enquiries (headcount, attrition, payroll summary, attendance trends). Allows HR to import/export reports in PDF, Excel, or CSV formats.<br><br>🚀 **VALUE-ADD:** Natural language queries enable instant answers to complex HR questions. | Annex C3.8, Page 189; Report Library |
+| 22 | **Self-Service Portal** | **Y** | Employees can view payslips, attendance, leave balance, profile. Employees can update certain personal information. Employees can submit HR requests (letters, claims, documents). Employees can submit permission to travel.<br><br>🚀 **VALUE-ADD:** 24/7 employee support via AI-powered chatbot integrated with WhatsApp/Teams. | Annex C3.1, Page 175; Self-Service Portal |
 
-**Annexure C3 Summary:** 12/12 Features — **100% FULLY COMPLY**
+**Annexure C3 Summary:** 22/22 Features — **100% FULLY COMPLY**
 
 ---
 
-## 3. COMPLIANCE SUMMARY
+## OVERALL COMPLIANCE SUMMARY
 
-### 3.1 Overall Compliance Matrix
+### 3.1 Compliance by System
 
 | Annexure | System | Total Features | Fully Comply | Partially Comply | Not Comply | Compliance % |
 |----------|--------|----------------|--------------|------------------|------------|--------------|
-| C1 | EMS | 12 | 12 | 0 | 0 | **100%** |
-| C2 | PS | 13 | 13 | 0 | 0 | **100%** |
-| C3 | HRMS | 12 | 12 | 0 | 0 | **100%** |
-| **TOTAL** | | **37** | **37** | **0** | **0** | **100%** |
+| C1 | EMS | 26 | 26 | 0 | 0 | **100%** |
+| C2 | PS | 32 | 32 | 0 | 0 | **100%** |
+| C3 | HRMS | 22 | 22 | 0 | 0 | **100%** |
+| **TOTAL** | | **80** | **80** | **0** | **0** | **100%** |
 
 ### 3.2 Integration Compliance
 
@@ -208,42 +178,12 @@ For every requirement, we provide:
 
 ---
 
-## 4. PROJECT MANAGEMENT METHODOLOGY (PRINCE2)
-
-### 4.1 Management Stages
-
-| Stage | Duration | Key Deliverables | Stage Gate |
-|-------|----------|------------------|------------|
-| **Stage 1: Initiation** | 2 weeks | PID, Risk Register, Project Plan | Go/No-Go Decision |
-| **Stage 2: Foundation** | 4 weeks | BRS/URS Sign-off, Technical Architecture | Requirements Freeze |
-| **Stage 3: Delivery** | 6 weeks | EMS/PS/HRMS Configured, UAT Scripts | UAT Readiness |
-| **Stage 4: Deployment** | 4 weeks | UAT Completion, Training, Go-Live | Production Release |
-| **Stage 5: Closure** | 2 weeks | Handover, Warranty Begins, Project Closure | Final Acceptance |
-
-### 4.2 Product-Based Planning
-
-Our Work Breakdown Structure (WBS) follows Product-Based Planning:
-- **Specialist Products:** EMS, PS, HRMS modules, integrations, reports
-- **Management Products:** Plans, logs, reports, meeting minutes
-
-### 4.3 Quality Register
-
-| Product | Quality Criteria | Quality Method | Reviewer |
-|---------|------------------|----------------|----------|
-| BRS/URS | Completeness, traceability to SOW | Peer Review + Client Review | Business Analyst + MMF |
-| EMS Configuration | Functional accuracy, data integrity | System Testing + User Demo | EMS Team Lead |
-| PS Configuration | Workflow accuracy, integration | System Testing + User Demo | PS Team Lead |
-| HRMS Configuration | Compliance, payroll accuracy | System Testing + User Demo | HRMS Team Lead |
-| UAT Scripts | Coverage of all requirements | Traceability Matrix Check | QA Lead + MMF |
-
----
-
-## 5. VALUE ADDED SERVICES (VAS) FRAMEWORK
+## VALUE ADDED SERVICES (VAS) FRAMEWORK
 
 ### Part 1: Software & Innovation (10 Items)
 
-| No. | Service | Market Value (RM) |
-|-----|---------|-------------------|
+| No | Service | Market Value (RM) |
+|----|---------|-------------------|
 | 1.1 | AI Predictive Maintenance for EMS | 250,000 |
 | 1.2 | Smart Procurement Analytics | 200,000 |
 | 1.3 | HR Predictive Analytics (Attrition) | 180,000 |
@@ -258,8 +198,8 @@ Our Work Breakdown Structure (WBS) follows Product-Based Planning:
 
 ### Part 2: Support & Consultative (10 Items)
 
-| No. | Service | Market Value (RM) |
-|-----|---------|-------------------|
+| No | Service | Market Value (RM) |
+|----|---------|-------------------|
 | 2.1 | Change Management Launch Kit | 100,000 |
 | 2.2 | Annual Health Checks (3 years) | 120,000 |
 | 2.3 | 24/7 Premium Support (3 years) | 350,000 |
@@ -276,19 +216,9 @@ Our Work Breakdown Structure (WBS) follows Product-Based Planning:
 
 ---
 
-## 6. CONCLUSION
+## CONCLUSION
 
-### 6.1 Summary of Compliance
-
-| Metric | Result |
-|--------|--------|
-| Total Requirements | 37 |
-| Fully Comply | 37 (100%) |
-| Partially Comply | 0 (0%) |
-| Not Comply | 0 (0%) |
-| **Overall Compliance** | **100%** |
-
-### 6.2 Why Sinergi Elit Sdn Bhd
+### Why Sinergi Elit Sdn Bhd
 
 1. **Proven Solution:** 95% of MMF requirements already engineered and deployed
 2. **Domain Expertise:** 15+ successful logistics enterprise implementations
@@ -298,7 +228,7 @@ Our Work Breakdown Structure (WBS) follows Product-Based Planning:
 6. **Local Presence:** Malaysian company with onshore support
 7. **Risk Mitigation:** PRINCE2 methodology with stage gates
 
-### 6.3 Our Commitment
+### Our Commitment
 
 > *"We do not sell promises; we deliver documented results. Our LogisticsPro Support Suite is ready for MMF today—fully compliant, thoroughly tested, and proven in production environments."*
 
@@ -308,8 +238,8 @@ Our Work Breakdown Structure (WBS) follows Product-Based Planning:
 
 | | |
 |---|---|
-| Document Version | 1.0 |
-| Date | 31 January 2026 |
+| Document Version | 2.0 |
+| Date | 03 February 2026 |
 | Prepared By | Sinergi Elit Sdn Bhd (SESB) |
 | Classification | Tender Submission - Confidential |
 | Tender Reference | MMFSB/TD 02/2026 |
