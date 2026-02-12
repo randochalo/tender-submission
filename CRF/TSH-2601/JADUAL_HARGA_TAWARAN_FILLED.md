@@ -42,12 +42,11 @@ Semua harga yang dinyatakan mestilah dalam **Ringgit Malaysia (RM)**.
 
 | Komponen | Kos (RM) | Peratusan |
 |----------|----------|-----------|
-| **Bahan Pemulih Tanah (Dolomit)** | RM 95.00 | 63.3% |
+| **Bahan Pemulih Tanah (Dolomit)** | RM 49.50 | 33.0% |
 | **Kos Pengangkutan** | RM 18.00 | 12.0% |
-| **Kos Aplikasi (Buruh + Peralatan)** | RM 22.00 | 14.7% |
-| **Penyeliaan & Koordinasi** | RM 5.00 | 3.3% |
-| **Caj Overhead & Pentadbiran** | RM 4.00 | 2.7% |
-| **Keuntungan** | RM 6.00 | 4.0% |
+| **Kos Aplikasi (Buruh + Peralatan)** | RM 45.00 | 30.0% |
+| **Caj Overhead & Pentadbiran** | RM 15.00 | 10.0% |
+| **Keuntungan** | RM 22.50 | 15.0% |
 | **JUMLAH** | **RM 150.00** | **100%** |
 
 ---
