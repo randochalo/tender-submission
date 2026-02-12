@@ -30,11 +30,11 @@ Semua harga yang dinyatakan mestilah dalam **Ringgit Malaysia (RM)**.
 
 | Bil. | Perkara | Wilayah | Keluasan (Hektar) | Kuantiti (Beg/Hektar @ 25kg) | Jumlah Beg (a) | Harga Tawaran Sebeg (RM) (b) | Jumlah Harga (RM) (a × b) |
 |------|---------|---------|-------------------|------------------------------|----------------|------------------------------|---------------------------|
-| 1 | Membekal, Menghantar dan Mengaplikasikan Bahan Pemulih Tanah di Pertubuhan Peladang Kawasan (PPK) Lembaga Kemajuan Pertanian Muda (MADA) Negeri Kedah dan Perlis Tahun 2026 | **I (Perlis)** | 350 | 8 | 2,800 | RM 150.00 | **RM 420,000.00** |
-| | | **II (Jitra)** | 610 | 8 | 4,880 | RM 150.00 | **RM 732,000.00** |
-| | | **III (Pendang)** | 420 | 8 | 3,360 | RM 150.00 | **RM 504,000.00** |
-| | | **IV (Kota Sarang Semut)** | 470 | 8 | 3,760 | RM 150.00 | **RM 564,000.00** |
-| | | **JUMLAH BESAR** | **1,850** | **8** | **14,800** | | **RM 2,220,000.00** |
+| 1 | Membekal, Menghantar dan Mengaplikasikan Bahan Pemulih Tanah di Pertubuhan Peladang Kawasan (PPK) Lembaga Kemajuan Pertanian Muda (MADA) Negeri Kedah dan Perlis Tahun 2026 | **I (Perlis)** | 350 | 8 | 2,800 | RM 175.00 | **RM 490,000.00** |
+| | | **II (Jitra)** | 610 | 8 | 4,880 | RM 175.00 | **RM 854,000.00** |
+| | | **III (Pendang)** | 420 | 8 | 3,360 | RM 175.00 | **RM 588,000.00** |
+| | | **IV (Kota Sarang Semut)** | 470 | 8 | 3,760 | RM 175.00 | **RM 658,000.00** |
+| | | **JUMLAH BESAR** | **1,850** | **8** | **14,800** | | **RM 2,590,000.00** |
 
 ---
 
@@ -42,12 +42,13 @@ Semua harga yang dinyatakan mestilah dalam **Ringgit Malaysia (RM)**.
 
 | Komponen | Kos (RM) | Peratusan |
 |----------|----------|-----------|
-| **Bahan Pemulih Tanah (Dolomit)** | RM 49.50 | 33.0% |
-| **Kos Pengangkutan** | RM 18.00 | 12.0% |
-| **Kos Aplikasi (Buruh + Peralatan)** | RM 45.00 | 30.0% |
-| **Caj Overhead & Pentadbiran** | RM 15.00 | 10.0% |
-| **Keuntungan** | RM 22.50 | 15.0% |
-| **JUMLAH** | **RM 150.00** | **100%** |
+| **Bahan Pemulih Tanah (Dolomit)** | RM 52.50 | 30.0% |
+| **Kos Pengangkutan** | RM 21.00 | 12.0% |
+| **Kos Aplikasi (Buruh + Peralatan)** | RM 52.50 | 30.0% |
+| **Caj Overhead & Pentadbiran** | RM 17.50 | 10.0% |
+| **Keuntungan** | RM 26.25 | 15.0% |
+| **Rizab/Buffer (Kos tidak dijangka)** | RM 5.25 | 3.0% |
+| **JUMLAH** | **RM 175.00** | **100%** |
 
 ---
 
@@ -55,15 +56,15 @@ Semua harga yang dinyatakan mestilah dalam **Ringgit Malaysia (RM)**.
 
 | Perkara | Nilai |
 |---------|-------|
-| **Jumlah Harga Tawaran** (termasuk cukai sekiranya berkaitan) | **RM 2,220,000.00** |
+| **Jumlah Harga Tawaran** (termasuk cukai sekiranya berkaitan) | **RM 2,590,000.00** |
 | **Diskaun** (sekiranya ada) | RM 0.00 |
-| **Jumlah Harga Tawaran Akhir** | **RM 2,220,000.00** |
+| **Jumlah Harga Tawaran Akhir** | **RM 2,590,000.00** |
 
 ---
 
 ## JUMLAH HARGA TAWARAN DALAM PERKATAAN
 
-**Dua Juta Dua Ratus Dua Puluh Ribu Ringgit Malaysia Sahaja**
+**Dua Juta Lima Ratus Sembilan Puluh Ribu Ringgit Malaysia Sahaja**
 
 *(termasuk cukai sekiranya berkaitan)*
 
