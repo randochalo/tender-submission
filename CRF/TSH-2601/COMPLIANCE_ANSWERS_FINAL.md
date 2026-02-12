@@ -45,16 +45,19 @@ Kami, **CRF/TSH-2601**, dengan ini mengesahkan bahawa semua maklumat yang diberi
 **No. Telefon:** 04-924 5678  
 **Emel:** info@ecosoil.com.my
 
-| No. | Unsur | Peratusan (%) | Spesifikasi MADA | Pematuhan |
-|-----|-------|---------------|------------------|-----------|
-| i. | Kalsium Oksida (CaO) | **32.5%** | ≥30% | **YA** |
-| ii. | Magnesium Oksida (MgO) | **18.2%** | ≥15% | **YA** |
-| iii. | Bahan Berunsur Silika (SiO₂) | **4.8%** | ≤10% | **YA** |
-| iv. | Besi (Fe) | **0.45%** | ≤1.0% | **YA** |
-| v. | Aluminium (Al) | **0.28%** | ≤0.5% | **YA** |
-| vi. | Keasidan (pH) | **7.8** | 7.0 - 8.5 | **YA** |
-| vii. | Kepelbagaian Saiz Butiran | **95% lulus ayak 2-4mm** | ≥90% | **YA** |
-| viii. | Kelembapan (Moisture) | **2.1%** | ≤5% | **YA** |
+| No. | Unsur | Peratusan (%) | Spesifikasi MADA (Lampiran E) | Pematuhan |
+|-----|-------|---------------|-------------------------------|-----------|
+| i. | Kalsium Oksida (CaO) | **26.5%** | 20% - 30% | **YA** |
+| ii. | Bahan Berunsur Silika (SiO₂) | **22.5%** | >20% | **YA** |
+| iii. | Magnesium Oksida (MgO) | **12.8%** | >10% | **YA** |
+| iv. | Aluminium (Al) | **3.5%** | >3% | **YA** |
+| v. | Sulfur (S) | **0.85%** | 0.2% - 1.5% | **YA** |
+| vi. | Ferum (Fe) | **1.45%** | <2% | **YA** |
+| vii. | Copper (Cu) | **0.85%** | <2% | **YA** |
+| viii. | Zink (Zn) | **0.65%** | <2% | **YA** |
+| ix. | Mangan (Mn) | **0.95%** | <2% | **YA** |
+| x. | Boron (B) | **0.45%** | <2% | **YA** |
+| xi. | Molibdenum (Mo) | **0.15%** | <2% | **YA** |
 
 **Nota Tambahan:**
 - **1.5** Produk kami **TIDAK MENGANDUNGI** unsur najis/khinzir atau sisa kumbahan. Produk adalah 100% mineral semula jadi yang diproses.
@@ -106,8 +109,12 @@ Kami, **CRF/TSH-2601**, dengan ini mengesahkan bahawa semua maklumat yang diberi
 2. Jenama produk: **Dolomit Premium MADA**
 3. Kod Produk: **DOL-MADA-2026**
 4. Kandungan Bahan Aktif:
-   - CaO: 32.5%
-   - MgO: 18.2%
+   - CaO: 26.5%
+   - SiO₂: 22.5%
+   - MgO: 12.8%
+   - Al: 3.5%
+   - S: 0.85%
+   - Fe: 1.45%
 5. Berat bersih: 50kg
 6. Tarikh pengeluaran dan nombor lot
 7. Syor penggunaan: "Tabur 200-250kg per hektar sebelum penanaman padi"
