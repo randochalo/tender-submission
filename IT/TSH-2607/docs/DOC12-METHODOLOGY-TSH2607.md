@@ -1,262 +1,546 @@
-# DOC12: Project Methodology Statement
-## TSH-2607 MCMC UCMS Tender
+# DOCUMENT 12: PROJECT METHODOLOGY STATEMENT
 
-**Tender Reference:** MCMC/FD/UFMD(01)/UCMS/TC/01/2026(02)  
-**Date:** February 2026
-
----
-
-## 1. METHODOLOGY OVERVIEW
-
-### 1.1 Hybrid Approach: PRINCE2 + Agile SCRUM
-
-We employ a **hybrid project methodology** combining the governance and control of PRINCE2 with the flexibility and iterative delivery of Agile SCRUM.
-
-```
-┌─ HYBRID METHODOLOGY FRAMEWORK ────────────────────────────────────────────┐
-│                                                                           │
-│  STRATEGIC LAYER (PRINCE2)                                                │
-│  ├── Project Board oversight                                              │
-│  ├── Stage Gate approvals                                                 │
-│  ├── Business case management                                             │
-│  └── Risk and issue escalation                                            │
-│                                                                           │
-│  TACTICAL LAYER (Agile SCRUM)                                             │
-│  ├── 2-week Sprints                                                       │
-│  ├── Daily stand-ups                                                      │
-│  ├── Sprint planning/reviews                                              │
-│  └── Continuous delivery                                                  │
-│                                                                           │
-└───────────────────────────────────────────────────────────────────────────┘
-```
-
-### 1.2 Why This Approach?
-
-| Aspect | PRINCE2 Benefit | SCRUM Benefit |
-|--------|-----------------|---------------|
-| Governance | Clear accountability | Team empowerment |
-| Documentation | Comprehensive records | Just-enough docs |
-| Change Control | Formal process | Adaptive planning |
-| Delivery | Stage-wise releases | Continuous value |
-| Stakeholder Engagement | Board-level updates | Sprint demos |
+## TSH-2607: USP Claims Management System (UCMS)
+### Tender Reference: MCMC/FD/UFMD(01)/UCMS/TC/01/2026(02)
 
 ---
 
-## 2. PROJECT PHASES
+## 1.0 EXECUTIVE SUMMARY
 
-### 2.1 Phase Overview
+This document outlines the comprehensive project methodology that will be employed for the successful delivery of the USP Claims Management System (UCMS) for MCMC. Our approach combines the governance rigor of PRINCE2 with the flexibility and responsiveness of Scrum Agile methodology.
 
-| Phase | Duration | Methodology Focus | Key Deliverables |
-|-------|----------|-------------------|------------------|
-| Inception | 2 months | PRINCE2 | Charter, detailed plan |
-| Elaboration | 2 months | Hybrid | Architecture, POCs |
-| Construction | 12 months | SCRUM | Working software |
-| Transition | 3 months | PRINCE2 | UAT, training, deployment |
-| Warranty | 12 months | PRINCE2 | Support, fixes |
-| Support | 36 months | ITIL | Maintenance |
+**Key Methodology Highlights:**
+- Hybrid PRINCE2-Scrum approach for optimal governance and agility
+- 2-week sprint cycles with continuous MCMC engagement
+- Comprehensive change management and risk management frameworks
+- Quality gates at every stage ensuring KRISA compliance
+- Proven project governance structure with clear accountability
 
-### 2.2 Inception Phase (PRINCE2)
+---
+
+## 2.0 METHODOLOGY FRAMEWORK
+
+### 2.1 Hybrid Approach Overview
+
+```
+┌─────────────────────────────────────────────────────────────┐
+│           HYBRID PRINCE2-SCRUM FRAMEWORK                     │
+├─────────────────────────────────────────────────────────────┤
+│                                                              │
+│  PRINCE2 GOVERNANCE LAYER                                    │
+│  ┌─────────┐ ┌─────────┐ ┌─────────┐ ┌─────────┐          │
+│  │ Starting│ │ Directing│ │ Managing│ │ Closing │          │
+│  │  Up     │ │  Change │ │  Stage  │ │  Project│          │
+│  └────┬────┘ └────┬────┘ └────┬────┘ └────┬────┘          │
+│       └─────────────┴───────────┴───────────┘               │
+│                   │                                          │
+│                   ▼                                          │
+│  SCRUM DELIVERY LAYER                                        │
+│  ┌─────────────────────────────────────────────────────┐    │
+│  │  Sprint Cycle (2 weeks)                              │    │
+│  │  ┌─────────┐ ┌─────────┐ ┌─────────┐ ┌─────────┐   │    │
+│  │  │  Plan   │ │ Develop │ │  Test   │ │ Review  │   │    │
+│  │  │         │ │         │ │         │ │         │   │    │
+│  │  └─────────┘ └─────────┘ └─────────┘ └─────────┘   │    │
+│  └─────────────────────────────────────────────────────┘    │
+│                                                              │
+└─────────────────────────────────────────────────────────────┘
+```
+
+### 2.2 Why Hybrid PRINCE2-Scrum?
+
+| Aspect | PRINCE2 Benefits | Scrum Benefits | Combined Value |
+|--------|------------------|----------------|----------------|
+| **Governance** | Clear accountability, stage gates | Self-organizing teams | Structured yet flexible |
+| **Stakeholder Management** | Formal communication | Daily collaboration | Continuous engagement |
+| **Change Control** | Structured change board | Embraces change | Controlled flexibility |
+| **Risk Management** | Comprehensive risk register | Iterative risk assessment | Proactive risk mitigation |
+| **Quality** | Quality gates | Continuous testing | Built-in quality |
+| **Delivery** | Stage-based | Sprint-based | Incremental value delivery |
+
+---
+
+## 3.0 PROJECT PHASES
+
+### 3.1 Phase Overview
+
+```
+┌─────────────────────────────────────────────────────────────────────┐
+│                    67-MONTH PROJECT TIMELINE                         │
+├─────────────────────────────────────────────────────────────────────┤
+│                                                                      │
+│  PHASE 1: INCEPTION (Months 1-2)                                    │
+│  ├── Kick-off and Team Mobilization                                 │
+│  ├── Requirements Gathering Workshops                               │
+│  ├── Current State Analysis                                         │
+│  └── Project Initiation Documentation                               │
+│                                                                      │
+│  PHASE 2: ELABORATION (Months 3-4)                                  │
+│  ├── Solution Architecture Design                                   │
+│  ├── System Design Document                                         │
+│  ├── Prototype Development                                          │
+│  └── Technical Environment Setup                                    │
+│                                                                      │
+│  PHASE 3: CONSTRUCTION (Months 5-18)                                │
+│  ├── Sprint Development (28 Sprints)                                │
+│  ├── Continuous Integration/Deployment                              │
+│  ├── Module-by-Module Delivery                                      │
+│  └── Regular Sprint Reviews                                         │
+│                                                                      │
+│  PHASE 4: TESTING (Months 17-19)                                    │
+│  ├── System Integration Testing (SIT)                               │
+│  ├── User Acceptance Testing (UAT)                                  │
+│  ├── Factory Acceptance Testing (FAT)                               │
+│  └── Security Penetration Testing                                   │
+│                                                                      │
+│  PHASE 5: DEPLOYMENT (Months 19-20)                                 │
+│  ├── Data Migration                                                 │
+│  ├── Production Deployment                                          │
+│  ├── Go-Live Support                                                │
+│  └── Hypercare Period                                               │
+│                                                                      │
+│  PHASE 6: WARRANTY (Months 20-31)                                   │
+│  ├── Bug Fixes and Enhancements                                     │
+│  ├── Performance Optimization                                       │
+│  ├── Training and Documentation                                     │
+│  └── Continuous Improvement                                         │
+│                                                                      │
+│  PHASE 7: EXTENDED SUPPORT (Months 32-67)                           │
+│  ├── Maintenance and Support                                        │
+│  ├── System Enhancements                                            │
+│  ├── Performance Monitoring                                         │
+│  └── Disaster Recovery Testing                                      │
+│                                                                      │
+└─────────────────────────────────────────────────────────────────────┘
+```
+
+### 3.2 Detailed Phase Descriptions
+
+#### Phase 1: Inception (Months 1-2)
 
 **Objectives:**
-- Establish project governance
-- Define detailed requirements
-- Confirm technical architecture
-- Set up development environment
+- Establish project foundation
+- Complete comprehensive requirements gathering
+- Define project scope and success criteria
+- Set up project infrastructure
 
-**Activities:**
-- Project initiation
-- Stakeholder identification
-- Requirements workshops
-- Technical POCs
-- Infrastructure setup
+**Key Activities:**
+
+| Week | Activity | Deliverable |
+|------|----------|-------------|
+| 1 | Project Kick-off Meeting | Kick-off Meeting Minutes |
+| 2-3 | Requirements Workshops | Requirements Workshop Reports |
+| 4 | Current State Analysis | As-Is Process Documentation |
+| 5-6 | To-Be Process Design | To-Be Process Documentation |
+| 7 | Scope Definition | Scope Statement |
+| 8 | PID Approval | Project Initiation Document |
 
 **Deliverables:**
 - Project Initiation Document (PID)
-- Detailed SRS and SDS
-- Approved architecture
-- Development environment ready
+- Requirements Workshop Reports
+- As-Is and To-Be Process Documentation
+- Risk Register (Initial)
+- Communication Plan
+- Project Schedule (Baseline)
 
-### 2.3 Elaboration Phase (Hybrid)
+#### Phase 2: Elaboration (Months 3-4)
 
 **Objectives:**
-- Validate architecture
-- Develop proof-of-concepts
+- Define comprehensive solution architecture
 - Establish development standards
-- Plan construction sprints
+- Complete detailed design documentation
+- Set up technical environments
 
-**Activities:**
-- Architecture validation
-- Integration POCs (USPFS)
-- Security framework setup
-- CI/CD pipeline establishment
+**Key Activities:**
 
-### 2.4 Construction Phase (SCRUM)
+| Week | Activity | Deliverable |
+|------|----------|-------------|
+| 9-10 | Architecture Design | System Architecture Document |
+| 11-12 | Database Design | Database Design Document |
+| 13-14 | Interface Design | Interface Design Document |
+| 15-16 | Prototype Development | Working Prototype |
+
+**Deliverables:**
+- System Requirements Specification (SRS)
+- System Design Document (SDD)
+- Database Design Document
+- Interface Design Document
+- Security Design Document
+- Test Strategy Document
+- Working Prototype (Key Screens)
+
+#### Phase 3: Construction (Months 5-18)
 
 **Objectives:**
-- Deliver working software iteratively
-- Continuous stakeholder feedback
-- Adapt to changing requirements
+- Build all 10 UCMS modules through iterative sprints
+- Continuous integration and testing
+- Regular stakeholder engagement
+- Incremental feature delivery
 
 **Sprint Structure:**
 
-| Ceremony | Frequency | Duration | Participants |
-|----------|-----------|----------|--------------|
-| Sprint Planning | Bi-weekly | 4 hours | Team + PO |
-| Daily Stand-up | Daily | 15 min | Team |
-| Sprint Review | Bi-weekly | 2 hours | Team + Stakeholders |
-| Sprint Retrospective | Bi-weekly | 1 hour | Team |
-| Backlog Refinement | Weekly | 2 hours | Team + PO |
-
-**Sprint Deliverables:**
-- Working software (potentially shippable)
-- Updated documentation
-- Test results
-- Sprint report
-
-### 2.5 Transition Phase (PRINCE2)
-
-**Objectives:**
-- Ensure production readiness
-- Train users and administrators
-- Deploy to production
-- Knowledge transfer
-
-**Activities:**
-- UAT execution
-- Performance testing
-- Security hardening
-- Training delivery
-- Go-live support
-
----
-
-## 3. GOVERNANCE STRUCTURE
-
-### 3.1 Project Organization
-
 ```
-                    ┌─ PROJECT BOARD ─┐
-                    │  (Steering)     │
-                    │  MCMC Directors │
-                    └────────┬────────┘
-                             │
-                    ┌────────▼────────┐
-                    │ PROJECT MANAGER │
-                    │  (PRINCE2 PM)   │
-                    └────────┬────────┘
-                             │
-         ┌───────────────────┼───────────────────┐
-         │                   │                   │
-┌────────▼────────┐ ┌────────▼────────┐ ┌────────▼────────┐
-│ SCRUM MASTER     │ │ TECH LEAD        │ │ BUSINESS ANALYST│
-│ (Delivery)       │ │ (Architecture)   │ │ (Requirements)  │
-└────────┬────────┘ └────────┬────────┘ └────────┬────────┘
-         │                   │                   │
-    ┌────┴────┐         ┌───┴───┐         ┌────┴────┐
-    │ DEV TEAM│         │ QA/SEC│         │ TRAINERS│
-    └─────────┘         └───────┘         └─────────┘
+┌─────────────────────────────────────────────────────────────┐
+│                2-WEEK SPRINT CYCLE                           │
+├─────────────────────────────────────────────────────────────┤
+│                                                              │
+│  Week 1                                                      │
+│  ├── Day 1-2: Sprint Planning                                │
+│  │   └── Define sprint goals and task assignments           │
+│  ├── Day 2-5: Development                                    │
+│  │   └── Feature development and unit testing               │
+│  └── Daily: Stand-up Meeting (15 min)                        │
+│                                                              │
+│  Week 2                                                      │
+│  ├── Day 6-8: Development & Code Review                      │
+│  ├── Day 9: Testing & Bug Fixes                              │
+│  ├── Day 10: Sprint Review (Demo to MCMC)                   │
+│  └── Day 10: Sprint Retrospective                           │
+│                                                              │
+└─────────────────────────────────────────────────────────────┘
 ```
 
-### 3.2 RACI Matrix
+**Sprint Backlog Distribution:**
 
-| Activity | PM | SM | Tech Lead | BA | Dev Team |
-|----------|:--:|:--:|:---------:|:--:|:--------:|
-| Sprint Planning | A | R | C | C | R |
-| Architecture Decisions | A | C | R | I | C |
-| Requirements Sign-off | R | I | C | R | I |
-| Code Reviews | I | C | A | I | R |
-| UAT Coordination | R | C | C | R | I |
-| Deployment | A | C | R | I | C |
+| Sprint Range | Focus Area | Modules |
+|--------------|------------|---------|
+| 1-4 | Foundation | Master Data, User Management |
+| 5-8 | Core Financial | Budget Management |
+| 9-16 | Claims Processing | Claims, Payment Processing |
+| 17-20 | Reporting | Reports, Dashboards |
+| 21-24 | Advanced Features | Self-Service, Value-Added |
+| 25-28 | Integration & Polish | System Integration, Audit Trail |
+
+#### Phase 4: Testing (Months 17-19)
+
+**Testing Pyramid:**
+
+```
+                    ┌─────────────┐
+                    │    UAT      │  ← User Acceptance Testing
+                    │  (2 weeks)  │
+                   ┌┴─────────────┴┐
+                   │      FAT      │  ← Factory Acceptance Testing
+                   │   (1 week)    │
+                  ┌┴───────────────┴┐
+                  │       SIT       │  ← System Integration Testing
+                  │    (3 weeks)    │
+                 ┌┴─────────────────┴┐
+                 │   Security Test   │  ← Penetration Testing
+                 │    (1 week)       │
+                ┌┴───────────────────┴┐
+                │    Unit Testing     │  ← Continuous during sprints
+                │   (Throughout)      │
+                └─────────────────────┘
+```
+
+**Test Phase Details:**
+
+| Phase | Duration | Focus | Participants |
+|-------|----------|-------|--------------|
+| Unit Testing | Continuous | Code-level validation | Development Team |
+| Security Testing | 1 week | Vulnerability assessment | 3rd Party Security Firm |
+| SIT | 3 weeks | System integration | QA Team, Integration Team |
+| UAT | 2 weeks | Business scenario validation | MCMC Users, DUSPs |
+| FAT | 1 week | Production readiness | MCMC IT, Project Team |
+
+#### Phase 5: Deployment (Months 19-20)
+
+**Deployment Strategy:**
+
+```
+┌─────────────────────────────────────────────────────────────┐
+│              PHASED DEPLOYMENT APPROACH                      │
+├─────────────────────────────────────────────────────────────┤
+│                                                              │
+│  Stage 1: Environment Preparation                            │
+│  ├── Production hardware provisioning                       │
+│  ├── Network and security configuration                     │
+│  ├── Database setup and tuning                              │
+│  └── Application server configuration                       │
+│                                                              │
+│  Stage 2: Data Migration                                     │
+│  ├── Historical data extraction                             │
+│  ├── Data cleansing and transformation                      │
+│  ├── Data loading and validation                            │
+│  └── Migration reconciliation                               │
+│                                                              │
+│  Stage 3: System Deployment                                  │
+│  ├── Application deployment                                 │
+│  ├── Configuration activation                               │
+│  ├── Integration activation                                 │
+│  └── Security hardening                                     │
+│                                                              │
+│  Stage 4: Go-Live                                            │
+│  ├── User training completion                               │
+│  ├── Cutover execution                                      │
+│  ├── Go-Live support                                        │
+│  └── Hypercare (2 weeks)                                    │
+│                                                              │
+└─────────────────────────────────────────────────────────────┘
+```
+
+#### Phase 6: Warranty (Months 20-31)
+
+**Warranty Activities:**
+
+| Quarter | Focus Area | Activities |
+|---------|------------|------------|
+| Q1 (20-22) | Hypercare | Intensive support post go-live |
+| Q2 (23-25) | Optimization | Performance tuning and enhancements |
+| Q3 (26-28) | Feature Enhancement | Minor feature additions |
+| Q4 (29-31) | Stabilization | System maturity and documentation |
+
+#### Phase 7: Extended Support (Months 32-67)
+
+**Support Framework:**
+
+| Activity | Frequency | Description |
+|----------|-----------|-------------|
+| Help Desk Support | 24/7 | Incident logging and resolution |
+| System Monitoring | Continuous | Proactive monitoring and alerting |
+| Patch Management | Monthly | Security and bug fix deployment |
+| Enhancement Releases | Quarterly | Feature additions and improvements |
+| DR Testing | Bi-annual | Disaster recovery validation |
+| Health Checks | Quarterly | System performance assessment |
 
 ---
 
-## 4. QUALITY ASSURANCE
+## 4.0 PROJECT GOVERNANCE
 
-### 4.1 Quality Gates
+### 4.1 Governance Structure
 
-| Gate | Criteria | Owner |
-|------|----------|-------|
-| Code Complete | 100% unit test coverage | Tech Lead |
-| Integration Ready | All interfaces tested | QA Lead |
-| UAT Ready | Zero critical defects | PM |
-| Production Ready | Security scan passed | Security Lead |
+```
+┌─────────────────────────────────────────────────────────────┐
+│              PROJECT GOVERNANCE STRUCTURE                    │
+├─────────────────────────────────────────────────────────────┤
+│                                                              │
+│  ┌─────────────────────────────────────────────────────┐    │
+│  │           STEERING COMMITTEE                         │    │
+│  │  (Monthly - Strategic Decisions & Issue Escalation)  │    │
+│  │                                                      │    │
+│  │  • MCMC Director/Commissioner                        │    │
+│  │  • Our Company Managing Director                     │    │
+│  │  • MCMC Department Heads                             │    │
+│  │  • Key Stakeholders                                  │    │
+│  └────────────────────┬────────────────────────────────┘    │
+│                       │                                      │
+│  ┌────────────────────▼────────────────────────────────┐    │
+│  │           PROJECT MANAGEMENT BOARD                   │    │
+│  │  (Fortnightly - Project Oversight)                   │    │
+│  │                                                      │    │
+│  │  • Project Manager (Our Company)                     │    │
+│  │  • MCMC Project Sponsor                              │    │
+│  │  • Solution Architect                                │    │
+│  │  • Business Analyst Lead                             │    │
+│  └────────────────────┬────────────────────────────────┘    │
+│                       │                                      │
+│  ┌────────────────────▼────────────────────────────────┐    │
+│  │           PROJECT MANAGER                            │    │
+│  │  (Daily - Operational Management)                    │    │
+│  └────────────────────┬────────────────────────────────┘    │
+│           ┌───────────┼───────────┬───────────┐             │
+│           ▼           ▼           ▼           ▼             │
+│  ┌─────────────┐ ┌─────────┐ ┌─────────┐ ┌─────────┐       │
+│  │   Technical │ │ Business│ │  Quality│ │  Change │       │
+│  │    Team     │ │  Analyst│ │ Assurance│ │  Management│    │
+│  └─────────────┘ └─────────┘ └─────────┘ └─────────┘       │
+│                                                              │
+└─────────────────────────────────────────────────────────────┘
+```
 
-### 4.2 Definition of Done
+### 4.2 Meeting Cadence
 
-For each user story:
-- [ ] Code developed and reviewed
-- [ ] Unit tests passing (>80% coverage)
-- [ ] Integration tests passing
-- [ ] Documentation updated
-- [ ] PO acceptance
-- [ ] No critical/major defects
-
----
-
-## 5. CHANGE MANAGEMENT
-
-### 5.1 Change Control Process
-
-| Change Type | Authority | Timeline |
-|-------------|-----------|----------|
-| Sprint scope | Product Owner | Within sprint |
-| Technical design | Tech Lead | 2 days |
-| Requirements | Change Control Board | 1 week |
-| Budget/Schedule | Project Board | 2 weeks |
-
-### 5.2 Change Request Form
-
-All changes require:
-1. Change description
-2. Business justification
-3. Impact assessment
-4. Approval signature
-
----
-
-## 6. RISK MANAGEMENT
-
-### 6.1 Risk Approach
-
-| Risk Level | Response Strategy | Review Frequency |
-|------------|-------------------|------------------|
-| High | Mitigate/Transfer | Weekly |
-| Medium | Mitigate/Accept | Bi-weekly |
-| Low | Accept/Monitor | Monthly |
-
-### 6.2 Top Project Risks
-
-| Risk | Probability | Impact | Mitigation |
-|------|-------------|--------|------------|
-| USPFS integration issues | Medium | High | Early POC, dedicated integration team |
-| Resource availability | Medium | Medium | Backup resources, cross-training |
-| Scope creep | High | Medium | Strict change control, MVP focus |
-| Performance issues | Low | High | Performance testing from sprint 1 |
+| Meeting | Frequency | Duration | Participants | Purpose |
+|---------|-----------|----------|--------------|---------|
+| Steering Committee | Monthly | 2 hours | Senior Leadership | Strategic decisions |
+| Project Board | Fortnightly | 1.5 hours | Project Leadership | Progress review |
+| Sprint Planning | Every 2 weeks | 4 hours | Project Team | Sprint commitment |
+| Daily Stand-up | Daily | 15 minutes | Core Team | Status update |
+| Sprint Review | Every 2 weeks | 2 hours | Team + MCMC | Demo and feedback |
+| Sprint Retrospective | Every 2 weeks | 1 hour | Project Team | Process improvement |
+| Technical Review | Weekly | 1 hour | Technical Team | Technical decisions |
+| Risk Review | Weekly | 30 minutes | PM + Leads | Risk mitigation |
 
 ---
 
-## 7. COMMUNICATION PLAN
+## 5.0 QUALITY MANAGEMENT
 
-| Stakeholder | Communication | Frequency | Method |
-|-------------|---------------|-----------|--------|
-| Project Board | Status report | Monthly | Meeting + Report |
-| MCMC PMO | Sprint demo | Bi-weekly | Demo + Slides |
-| End Users | Training updates | Monthly | Email + Portal |
-| Development Team | Daily stand-up | Daily | Meeting |
+### 5.1 Quality Assurance Framework
+
+```
+┌─────────────────────────────────────────────────────────────┐
+│           QUALITY MANAGEMENT APPROACH                        │
+├─────────────────────────────────────────────────────────────┤
+│                                                              │
+│  PREVENTION                                                  │
+│  ├── Coding Standards Enforcement                           │
+│  ├── Code Review Process                                    │
+│  ├── Architecture Guidelines                                │
+│  └── Security Best Practices                                │
+│                                                              │
+│  DETECTION                                                   │
+│  ├── Automated Unit Testing                                 │
+│  ├── Static Code Analysis (SonarQube)                       │
+│  ├── Integration Testing                                    │
+│  └── Security Scanning                                      │
+│                                                              │
+│  CORRECTION                                                  │
+│  ├── Defect Tracking (JIRA)                                 │
+│  ├── Root Cause Analysis                                    │
+│  ├── Regression Testing                                     │
+│  └── Continuous Improvement                                 │
+│                                                              │
+└─────────────────────────────────────────────────────────────┘
+```
+
+### 5.2 Quality Gates
+
+| Gate | Stage | Criteria | Approval Authority |
+|------|-------|----------|-------------------|
+| QG1 | Requirements | SRS approved, scope baselined | Project Board |
+| QG2 | Design | SDD approved, architecture validated | Solution Architect |
+| QG3 | Development | Code review passed, unit tests >80% | Tech Lead |
+| QG4 | Integration | SIT passed, integration validated | QA Lead |
+| QG5 | User Acceptance | UAT passed, sign-off obtained | MCMC Sponsor |
+| QG6 | Deployment | FAT passed, go-live approved | Steering Committee |
 
 ---
 
-## 8. TOOLS & TECHNOLOGY
+## 6.0 RISK MANAGEMENT
+
+### 6.1 Risk Management Process
+
+```
+┌─────────────────────────────────────────────────────────────┐
+│            RISK MANAGEMENT LIFECYCLE                         │
+├─────────────────────────────────────────────────────────────┤
+│                                                              │
+│  IDENTIFY ──► ASSESS ──► PLAN ──► IMPLEMENT ──► MONITOR    │
+│      ▲                                            │         │
+│      └────────────────────────────────────────────┘         │
+│                                                              │
+│  • Weekly Risk Reviews                                      │
+│  • Risk Register Maintenance                                │
+│  • Escalation Protocols                                     │
+│  • Contingency Planning                                     │
+│                                                              │
+└─────────────────────────────────────────────────────────────┘
+```
+
+### 6.2 Key Risk Categories
+
+| Category | Example Risks | Mitigation Strategy |
+|----------|---------------|---------------------|
+| **Technical** | Integration complexity | Early prototyping, API testing |
+| **Schedule** | Requirements changes | Agile approach, change control |
+| **Resource** | Key personnel availability | Cross-training, backup resources |
+| **External** | Third-party dependencies | Early engagement, SLAs |
+| **Business** | User adoption | Change management, training |
+
+---
+
+## 7.0 CHANGE MANAGEMENT
+
+### 7.1 Change Control Process
+
+```
+┌─────────────────────────────────────────────────────────────┐
+│           CHANGE CONTROL WORKFLOW                            │
+├─────────────────────────────────────────────────────────────┤
+│                                                              │
+│  ┌───────────┐                                              │
+│  │  Change   │                                              │
+│  │  Request  │                                              │
+│  └─────┬─────┘                                              │
+│        ▼                                                     │
+│  ┌───────────┐     ┌───────────┐                            │
+│  │  Impact   │────►│  Change   │                            │
+│  │  Analysis │     │  Board    │                            │
+│  └───────────┘     └─────┬─────┘                            │
+│                          │                                   │
+│           ┌──────────────┼──────────────┐                   │
+│           ▼              ▼              ▼                   │
+│      ┌────────┐    ┌────────┐    ┌────────┐                │
+│      │Approved│    │Deferred│    │Rejected│                │
+│      └───┬────┘    └────────┘    └────────┘                │
+│          │                                                   │
+│          ▼                                                   │
+│  ┌───────────┐    ┌───────────┐                             │
+│  │Implement  │───►│  Verify   │                             │
+│  │  Change   │    │  Change   │                             │
+│  └───────────┘    └───────────┘                             │
+│                                                              │
+└─────────────────────────────────────────────────────────────┘
+```
+
+### 7.2 Change Categories
+
+| Category | Authority | Timeline |
+|----------|-----------|----------|
+| Minor (Low impact) | Project Manager | 2 days |
+| Moderate (Medium impact) | Project Board | 1 week |
+| Major (High impact) | Steering Committee | 2 weeks |
+
+---
+
+## 8.0 COMMUNICATION MANAGEMENT
+
+### 8.1 Communication Matrix
+
+| Stakeholder | Information Needs | Frequency | Channel |
+|-------------|-------------------|-----------|---------|
+| Steering Committee | Strategic status, risks | Monthly | Formal Meeting |
+| Project Sponsor | Progress, issues | Weekly | Email + Meeting |
+| MCMC Users | Updates, training | Bi-weekly | Workshops |
+| Technical Team | Technical decisions | Daily | Stand-ups |
+| External Vendors | Dependencies, issues | As needed | Email + Calls |
+
+---
+
+## 9.0 TOOLS AND TECHNOLOGIES
+
+### 9.1 Project Management Tools
 
 | Category | Tool | Purpose |
 |----------|------|---------|
-| Project Management | JIRA | Sprint management |
-| Documentation | Confluence | Wiki, specs |
-| Code Repository | GitHub | Version control |
-| CI/CD | Jenkins | Build automation |
-| Testing | Selenium | Test automation |
-| Collaboration | MS Teams | Communication |
+| Project Management | JIRA / Azure DevOps | Task tracking, sprint management |
+| Documentation | Confluence / SharePoint | Knowledge management |
+| Collaboration | Microsoft Teams | Communication and meetings |
+| Version Control | Git / Azure Repos | Source code management |
+| CI/CD | Azure DevOps / Jenkins | Build and deployment automation |
+| Testing | Selenium, JMeter | Automated testing |
 
 ---
 
-*This Project Methodology Statement is part of TSH-2607 tender submission.*
+## 10.0 SUCCESS CRITERIA
+
+### 10.1 Project Success Metrics
+
+| Category | Metric | Target |
+|----------|--------|--------|
+| **Schedule** | On-time delivery | 100% milestones met |
+| **Budget** | Cost variance | < 5% |
+| **Quality** | Defect density | < 5 critical defects |
+| **Scope** | Requirements coverage | 100% |
+| **Stakeholder** | User satisfaction | > 85% |
+
+---
+
+## CERTIFICATION
+
+We commit to following the methodology outlined in this document and adapting it as necessary to ensure successful project delivery.
+
+**Prepared by:**
+
+_______________________________  
+Project Manager
+
+Date: ___________________________
+
+**Approved by:**
+
+_______________________________  
+Steering Committee Representative
+
+Date: ___________________________
