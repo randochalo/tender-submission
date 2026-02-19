@@ -1,5 +1,5 @@
 # TSH-2607: COMPLIANCE TECHNICAL SCHEDULE
-## Statement of Compliance to Scope of Work and Specification
+## Statement of Compliance to Terms and Conditions of Scope of Work and Specification
 
 **Tender Reference:** MCMC/FD/UFMD(01)/UCMS/TC/01/2026(02)  
 **Project:** Universal Service Provision (USP) Claims Management System (UCMS)  
@@ -7,316 +7,142 @@
 
 ---
 
-## SECTION 40: BACKGROUND
-
-| Para | Requirement | Response | Remarks | Annex |
-|------|-------------|----------|---------|-------|
-| 40.1 | MCMC manages USP projects and financials involving internal departments and external DUSP entities | **COMPLY** | Understood. Our solution is designed specifically for multi-stakeholder environments with role-based access distinguishing internal MCMC users from external DUSP/contractor users. | - |
-| 40.2 | UCMS shall be Oracle-based, integrated with USP Financial System, featuring Digital Signature, RPA, and OCR capabilities | **COMPLY** | We propose an Oracle-based middleware architecture with certified digital signature integration (e.g., MSC TrustSign/Docusign), RPA automation using UiPath/Blue Prism, and OCR processing via Tesseract/AWS Textract for document validation. The system supports 60 internal and 120 external users as specified. | Annex T1: Architecture Diagram |
-| 40.3 | Proposed UCMS overview diagram | **COMPLY** | Our proposed architecture follows the high-level diagram structure with web-based frontend, Oracle middleware layer, and secure API integration to USPFS/Oracle EBS. Please refer to system architecture documentation. | Annex T2: System Architecture |
-| 40.4 | UCMS serves as single customer-facing digital gateway via MCMC website for end-to-end lifecycle management | **COMPLY** | We will deliver a responsive web application accessible via MCMC portal with SSO integration, providing complete project tracking, submission, verification, approval workflows, and payment processing with full audit trails. | Annex T3: Portal Interface Mockups |
+**Note:** Tenderer shall provide justifications or attach supporting evidence for each item proposed to the Statement of Compliance to Section 5 at "Tenderer's Response / Proposal" column in the table below.
 
 ---
 
-## SECTION 41: SCOPE OF WORK
-
-### 41.1.1 SYSTEM ANALYSIS AND DESIGN
-
-| Para | Requirement | Response | Remarks | Annex |
-|------|-------------|----------|---------|-------|
-| 41.1.1.a | Conduct requirements gathering workshops with MCMC (functional and non-functional) | **COMPLY** | Our PRINCE2-based approach includes structured requirements workshops using JAD (Joint Application Development) sessions, documented in approved SRS. We assign a dedicated Business Analyst with 5+ years claims system experience. | Annex T4: Requirements Methodology |
-| 41.1.1.b | Develop process flowcharts (swimlane) for each major module | **COMPLY** | We will deliver comprehensive swimlane diagrams for all 10 system modules using BPMN 2.0 notation, validated with MCMC during requirements phase and updated per approved SRS. | Annex T5: Sample Process Flowcharts |
-| 41.1.1.c | Develop and submit SRS and SDD | **COMPLY** | Our deliverables include comprehensive System Requirements Specification (SRS) and System Design Document (SDD) following KRISA documentation standards with full traceability matrix. | Annex T6: SRS/SDD Templates |
-| 41.1.1.d | Design system architecture with modularity, scalability, integration readiness | **COMPLY** | We propose microservices-based architecture on Oracle Cloud Infrastructure with containerized deployment (Docker/Kubernetes), supporting horizontal scaling and API-first integration design. | Annex T2: Architecture Diagram |
-| 41.1.1.e | Define approval workflows and user interface | **COMPLY** | Our solution includes configurable multi-layer approval workflows (min 3 layers as required) with drag-and-drop workflow designer and responsive UI built on React/Angular framework. | Annex T7: Workflow Configurations |
-
-### 41.1.2 SYSTEM DEVELOPMENT (AGILE)
-
-| Para | Requirement | Response | Remarks | Annex |
-|------|-------------|----------|---------|-------|
-| 41.1.2.a | Develop using Agile methodology with sprint iterations | **COMPLY** | We employ SCRUM methodology with 2-week sprints, daily standups, sprint planning/reviews with MCMC participation, and backlog grooming sessions. | Annex T8: Agile Project Plan |
-| 41.1.2.b | Conduct sprint planning and reviews with MCMC | **COMPLY** | Each sprint includes planning session, mid-sprint review, and sprint demo with MCMC stakeholders. Sprint retrospectives drive continuous improvement. | Annex T8: Sprint Schedule |
-| 41.1.2.c | Ensure traceability of business requirements through user stories | **COMPLY** | We maintain full requirements traceability using JIRA/Azure DevOps linking user stories to acceptance criteria and test cases with automated traceability reports. | Annex T9: Traceability Matrix |
-| 41.1.2.d | Include processing efficiency, reduced manual workload, data accuracy, transparency, compliance | **COMPLY** | Our solution targets 70% reduction in manual processing, 99.5% data accuracy through automated validations, and full compliance with Malaysian financial regulations and audit requirements. | Annex T10: Efficiency Metrics |
-| 41.1.2.e | Full bilingual support (Bahasa Malaysia and English) | **COMPLY** | Complete i18n implementation with language toggle across all modules. All UI labels, reports, notifications, and documentation available in both languages with Malaysian date/number formats. | Annex T11: Bilingual Interface Samples |
-
-### 41.1.3 SYSTEM MODULES (WEB APPLICATION)
-
-#### 1. MASTER DATA (Digital Signature, RPA and OCR)
-
-| Para | Requirement | Response | Remarks | Annex |
-|------|-------------|----------|---------|-------|
-| 41.1.3.1.a-d | Master Data Module with centralized framework, data ownership, validation rules, USPFS integration | **COMPLY** | Centralized master data hub with Oracle EBS integration via secure APIs, featuring data governance workflows, validation rules engine, and automated synchronization with USPFS. | Annex T12: Master Data Architecture |
-| 41.1.3.1.d.i | Approved Universal Service Plan/Project ID creation | **COMPLY** | Automated Project ID generation with hierarchical structure (4-tier: Project → Sub-Project → Cluster → Site) with digital repository and cross-referencing capabilities. | Annex T13: ID Structure Diagram |
-| 41.1.3.1.d.ii | NOA/Contract/Sub Project ID management | **COMPLY** | NOA recording with automated validation against USPFS, contract document management with OCR extraction, and Sub Project ID creation linked to parent Project ID. | Annex T14: NOA Workflow |
-| 41.1.3.1.d.iii | Variation Order (VO) tracking | **COMPLY** | VO ID creation with scope/cost/timeline tracking, USPFS-linked validation for controlled variations, and integration with claims processing. | Annex T15: VO Process Flow |
-| 41.1.3.1.d.iv | Cluster ID generation | **COMPLY** | Unique Cluster ID generation for USP project clusters with streamlined claims tracking and consolidated reporting across related projects. | - |
-| 41.1.3.1.d.v | Site ID management | **COMPLY** | Individual site identifier creation within clusters, detailed activity tracking, and consolidated roll-up reporting for cluster-level visibility. | - |
-| 41.1.3.1.d.vi | Item ID definition | **COMPLY** | Project deliverable/billable unit definition for budget allocation with claim validation and cost control auditing. | - |
-| 41.1.3.1.d.vii | Performance Bonds management | **COMPLY** | Performance bond recording with automated monitoring for expiration/EOT/renewal, validation check integration with USPFS prior to disbursement, and cross-checking against claims. | Annex T16: Bond Management Screen |
-| 41.1.3.1.d.viii | Technical Self Declaration | **COMPLY** | DUSP self-declaration capture with validation against NOA milestones, integrated approval workflows, and secure storage for governance/audit. | - |
-| 41.1.3.1.d.ix | Extension of Time (EOT) | **COMPLY** | EOT request capture with EOT ID creation, structured approval workflows, and integration with project progress/milestones and claims processing. | - |
-| 41.1.3.1.d.x | Litigation tracking | **COMPLY** | Legal dispute recording for all USP projects with status tracking, resolution monitoring, and integration with project/claims modules for legal risk reporting. | - |
-
-#### 2. DUSP, SUBCONTRACTORS & USER MANAGEMENT
-
-| Para | Requirement | Response | Remarks | Annex |
-|------|-------------|----------|---------|-------|
-| 41.1.3.2.xi | Secure Account Creation, Delegation & Monitoring | **COMPLY** | Role-based secure account provisioning with MFA, delegation tracking with audit logs, and governance compliance monitoring dashboards. | Annex T17: User Management Module |
-| 41.1.3.2.xii | DUSP Account Maintenance | **COMPLY** | DUSP profile management including business registration, bank account info, key personnel records with USPFS integration for payment transactions. | - |
-| 41.1.3.2.xiii | Subcontractor Account Maintenance | **COMPLY** | Unique subcontractor ID creation with invoice capture and salient details recording for downstream processing. | - |
-| 41.1.3.2.xiv | User Account Maintenance (Internal/External) | **COMPLY** | Comprehensive user lifecycle management (create, update, suspend, terminate) with workflow continuity assurance and approval matrix integration. | - |
-| 41.1.3.2.xv | User Matrix | **COMPLY** | Comprehensive role-based access control (RBAC) matrix defining all internal/external user permissions with segregation of duties enforcement and governance audit capabilities. | Annex T18: RBAC Matrix |
-
-#### 3. BUDGET MANAGEMENT (Digital Signature, RPA and OCR)
-
-| Para | Requirement | Remarks | Response | Annex |
-|------|-------------|---------|----------|-------|
-| 41.1.3.3.a-d | Budget Module with approved budgets, capped costs, site costing, BOQ, USPFS integration | **COMPLY** | Comprehensive budget management with Oracle EBS integration, automated variance monitoring, and workflow-governed budget changes. | Annex T19: Budget Module Design |
-| 41.1.3.3.d.i | Financial Control | **COMPLY** | Automated financial control enforcement comparing approved capped cost vs proposed expenditure, physical vs financial milestones with integrated alerts. | - |
-| 41.1.3.3.d.ii | Approved Capped Cost | **COMPLY** | Capped cost listing with automated validation against USPFS, claim submission validation, and alert generation for approaching/exceeding limits. | - |
-| 41.1.3.3.d.iii | Site Costing | **COMPLY** | Detailed site-level cost capture with reconciliation capabilities between budget and subsidiary ledgers. | - |
-| 41.1.3.3.d.iv | Bill of Quantity (BOQ) | **COMPLY** | Itemized BOQ maintenance with quantity/cost definitions, claim validation against BOQ, and automated linkage to project deliverables. | - |
-| 41.1.3.3.d.v | Cost Component | **COMPLY** | Standardized cost category tracking (preliminaries, CME works, software cost, shared cost) with allocation capabilities and analysis reporting. | - |
-
-#### 4. CLAIMS MANAGEMENT (Digital Signature, RPA and OCR)
-
-| Para | Requirement | Response | Remarks | Annex |
-|------|-------------|----------|---------|-------|
-| 41.1.3.4.a-d | Claims Module for major contributors, advance, quarterly, yearly claims with automated validations | **COMPLY** | End-to-end claims processing with automated rule-based validation, milestone verification, and integration with Oracle/banking for advance claims. | Annex T20: Claims Workflow |
-| 41.1.3.4.d.i | Invoice to MCMC (USPFS) | **COMPLY** | Submission ID generation upon master invoice submission with USPFS integration, validation against approved capped cost, and real-time status reconciliation. | - |
-| 41.1.3.4.d.ii | Financial Self Declaration / CEO Declaration | **COMPLY** | CEO declaration capture for claim authenticity with integrated approval workflows and secure storage as governance records. | - |
-| 41.1.3.4.d.iii | Advance/Quarterly/Major Contributor Claim | **COMPLY** | Processing with contractual validation, performance bond safeguards, consolidated quarterly reporting, and automated advance recovery tracking. | - |
-| 41.1.3.4.d.iv | Yearly Claim | **COMPLY** | Subsidiary ledger concept for annual claim tracking with built-in auditor template, verification against supporting documents, and EOT request processing with official letter generation. | Annex T21: Yearly Claim Template |
-| 41.1.3.4.d.v | Auditors' Declaration | **COMPLY** | Independent auditor verification capture as compliance checkpoint before disbursement with secure storage and retrieval. | - |
-| 41.1.3.4.d.vi | Auditors' Working Template | **COMPLY** | Standardized template for audit review with consistency across projects and linkage to claims for traceability. | - |
-| 41.1.3.4.d.vii | Supporting Document | **COMPLY** | Upload and management of POs, invoices, payment advice, receipts, reports with validation, secure archival, and audit retrieval. | - |
-
-#### 5. PAYMENT PROCESSING (Digital Signature)
-
-| Para | Requirement | Response | Remarks | Annex |
-|------|-------------|----------|---------|-------|
-| 41.1.3.5.a-d | Payment Processing with memo approvals, voucher generation, digital signatures, Oracle integration | **COMPLY** | Secure payment workflow with embedded digital signatures (min 3 layers), automated voucher posting to Oracle EBS, and complete audit trails. | Annex T22: Payment Workflow |
-| 41.1.3.5.d.i | Memorandum – Payment Requisition (Preparation) | **COMPLY** | Built-in configurable templates for Advance, Quarterly/Major Contribution, and Yearly Claims with customization capabilities. | - |
-| 41.1.3.5.d.ii | Memorandum – Approval (Digital Signature) | **COMPLY** | Multi-layer approval workflow (minimum 3 layers) with digital signature integration for secure authentication and non-repudiation. | - |
-| 41.1.3.5.d.iii | Payment Voucher (USPFS) | **COMPLY** | USPFS integration for voucher generation and accounting entries with real-time reconciliation and secure archival. | - |
-| 41.1.3.5.d.iv | Letter to DUSP | **COMPLY** | Built-in acknowledgement letter template with register maintenance, payment advice extraction from principal bank via API, and email delivery with audit logging. | Annex T23: Letter Templates |
-
-#### 6. REPORTS (Digital Signature and RPA)
-
-| Para | Requirement | Response | Remarks | Annex |
-|------|-------------|----------|---------|-------|
-| 41.1.3.6.a-d | Reporting Module with operational/financial/management reporting, dashboards, exception reporting | **COMPLY** | Comprehensive reporting with real-time dashboards, RPA-powered exception detection, and automated report distribution. | Annex T24: Report Catalog |
-| 41.1.3.6.d.i | DUSP Reports | **COMPLY** | Key financial and performance reports for DUSP with integration to overall project/fund dashboards. | - |
-| 41.1.3.6.d.ii | Subcontractor Reports | **COMPLY** | Subcontractor performance reports with detailed invoice breakdowns by unique identifiers. | - |
-| 41.1.3.6.d.iii | Payment Reports | **COMPLY** | Approved/executed payment reports with USPFS reconciliation and status tracking for audit. | - |
-| 41.1.3.6.d.iv | Project Progress Reports | **COMPLY** | Project status, deliverables, and milestone completion reporting for monitoring purposes. | - |
-| 41.1.3.6.d.v | Financial Progress Reports | **COMPLY** | Fund utilization and financial performance reports with budget vs actual comparison. | - |
-| 41.1.3.6.d.vi | Budget Reports | **COMPLY** | Budget allocation, usage, and remaining capped cost reports with 5-year forecast template and variance analysis. | - |
-| 41.1.3.6.d.vii | Exception Reports | **COMPLY** | Automated exception highlighting with RPA-powered anomaly detection and escalation workflows. | - |
-
-#### 7. DASHBOARD FUNCTION (RPA)
-
-| Para | Requirement | Response | Remarks | Annex |
-|------|-------------|----------|---------|-------|
-| 41.1.3.7.a-b | Dashboard with real-time operational/financial/compliance views, RPA consolidation | **COMPLY** | RPA-powered dashboards consolidating multi-source data with actionable insights and proactive monitoring. | Annex T25: Dashboard Designs |
-| 41.1.3.7.b.i-xii | All 12 dashboard features | **COMPLY** | All required dashboards implemented: Fund Position, Project Delivery, Payment Disbursement, Compliance & Exception, Integration & System, Project & Site Monitoring, Claims & Payment Status, Budget Utilisation, DUSP/Subcontractor Performance, Security & Backup, Exception & Workflow, Dynamic Excel Export. | - |
-
-#### 8. AUDIT TRAIL
-
-| Para | Requirement | Response | Remarks | Annex |
-|------|-------------|----------|---------|-------|
-| 41.1.3.8.a-f | Complete secure timestamped log of all activities | **COMPLY** | Comprehensive audit trail capturing all user/system activities with immutable timestamps, metadata capture, protected records, and search/reporting capabilities for governance and compliance verification. | Annex T26: Audit Trail Design |
-
-#### 9. SELF SERVICE APPLICATION
-
-| Para | Requirement | Response | Remarks | Annex |
-|------|-------------|----------|---------|-------|
-| 41.1.3.9.a-f | Self-service for DUSPs, subcontractors, internal users | **COMPLY** | Secure role-based self-service portal with claim submission, document upload, approval/payment tracking, real-time notifications, guided workflows, and centralized authentication with full audit capture. | Annex T27: Self-Service Portal |
-
-#### 10. VALUE ADDED FUNCTION
-
-| Para | Requirement | Response | Remarks | Annex |
-|------|-------------|----------|---------|-------|
-| 41.1.3.10.a-g | Intelligent analytics, automation, governance capabilities | **COMPLY** | Advanced analytics with trend analysis, predictive insights, risk detection, RPA automation, smart validations, exception handling, and configurable business rules for long-term scalability. | Annex T28: Value-Added Features |
-
-### 41.1.4 SYSTEM INTEGRATION
-
-| Para | Requirement | Response | Remarks | Annex |
-|------|-------------|----------|---------|-------|
-| 41.1.4.a-c | USPFS integration, secure API, Azure AD SSO, Digital Signature, data integrity | **COMPLY** | Secure RESTful API integration with USPFS/Oracle EBS, Azure AD SSO implementation, certified digital signature integration, and end-to-end encryption for data integrity and synchronization. | Annex T29: Integration Architecture |
-
-### 41.1.5 AI-POWERED DOCUMENT VALIDATION AND FRAUD DETECTION
-
-| Para | Requirement | Response | Remarks | Annex |
-|------|-------------|----------|---------|-------|
-| 41.1.5.a-j | AI/ML document analysis, OCR, fraud detection, tampering detection | **COMPLY** | AI-powered document validation using ML models for OCR extraction, tampering/forgery detection, duplicate identification, and fraud pattern recognition with configurable thresholds and audit logging. | Annex T30: AI/ML Architecture |
-
-### 41.1.6 SECURITY AND COMPLIANCE
-
-| Para | Requirement | Response | Remarks | Annex |
-|------|-------------|----------|---------|-------|
-| 41.1.6.a | Azure AD SSO, multi-level access control, encryption | **COMPLY** | Enterprise security with Azure AD SSO, role-based access control (RBAC), AES-256 encryption at rest, TLS 1.3 in transit, and compliance with Malaysian data protection regulations. | Annex T31: Security Framework |
-
-### 41.1.7 SYSTEM TESTING AND ACCEPTANCE
-
-| Para | Requirement | Response | Remarks | Annex |
-|------|-------------|----------|---------|-------|
-| 41.1.7.a-c | UAT, FAT, SIT phases with bug fixing | **COMPLY** | Comprehensive 3-phase testing approach with documented test plans, MCMC participation, defect tracking, and resolution within agreed timelines. | Annex T32: Testing Strategy |
-
-### 41.1.8 PENETRATION TESTING
-
-| Para | Requirement | Response | Remarks | Annex |
-|------|-------------|----------|---------|-------|
-| 41.1.8.a-d | Pentest by recognized company, Blackbox/Whitebox, WAPT, signed report | **COMPLY** | Third-party penetration testing by certified CREST/OWASP testing firm including Blackbox and Whitebox testing, WAPT with full vulnerability assessment, and signed executive report with remediation evidence. | Annex T33: VAPT Plan |
-
-### 41.1.9 CHANGE MANAGEMENT
-
-| Para | Requirement | Response | Remarks | Annex |
-|------|-------------|----------|---------|-------|
-| 41.1.9.a-c | Change plan documentation, Steering Committee/CAB approval, as-is/to-be analysis | **COMPLY** | Structured change management with documentation, checklist, and reports. Pre Go-Live: Steering Committee approval. Post Go-Live: CAB approval. Includes as-is/to-be process mapping and resource allocation planning. | Annex T34: Change Management Plan |
-
-### 41.1.10 DEPLOYMENT
-
-| Para | Requirement | Response | Remarks | Annex |
-|------|-------------|----------|---------|-------|
-| 41.1.10.a-b | Staging/production deployment, Go-Live commissioning | **COMPLY** | Phased deployment on MCMC-compliant hosting with staging environment for UAT, production deployment with zero-downtime approach, and Go-Live commissioning with data validation. | Annex T35: Deployment Plan |
-
-### 41.1.11 DOCUMENTATION AND HANDOVER
-
-| Para | Requirement | Response | Remarks | Annex |
-|------|-------------|----------|---------|-------|
-| 41.1.11.a-c | Technical documentation, user manuals, training materials, source code handover | **COMPLY** | Complete documentation package including technical docs, administrator/end-user manuals, training materials, and full source code handover upon CFA issuance as per intellectual property requirements. | Annex T36: Documentation Plan |
-
-### 41.1.12 BACKUP AND RESTORE REQUIREMENTS
-
-| Para | Requirement | Response | Remarks | Annex |
-|------|-------------|----------|---------|-------|
-| 41.1.12.a-c | Backup storage recommendation, procedures, daily/weekly/monthly/yearly schedules | **COMPLY** | Comprehensive backup strategy with automated daily incremental, weekly full, monthly archival, and yearly retention backups. Includes documented restoration procedures with RPO/RTO definitions. | Annex T37: Backup & Recovery Plan |
-
-### 41.1.13 TRAINING
-
-| Para | Requirement | Response | Remarks | Annex |
-|------|-------------|----------|---------|-------|
-| 41.1.13.a-e | User manuals, training materials, end-user training, feedback collection, knowledge transfer | **COMPLY** | Comprehensive training program with manuals, materials, hands-on sessions for administrators and end-users, feedback-driven enhancements during warranty, and full knowledge transfer including product, system admin, and infrastructure training. | Annex T38: Training Plan |
-
-### 41.1.14 LICENSE MANAGEMENT
-
-| Para | Requirement | Response | Remarks | Annex |
-|------|-------------|----------|---------|-------|
-| 41.1.14.a-f | Software licensing, 60 internal + 180-250 external user licenses, application server, reporting tool, integration tools, customization | **COMPLY** | Complete licensing proposal including Oracle database, application server (WebLogic/Tomcat), reporting tool (Oracle BI/Power BI), integration middleware, digital signature licenses, and 250 user licenses (60 internal + 190 external) with customization feasibility. | Annex T39: License Schedule |
-
-### 41.1.15 POST-IMPLEMENTATION SUPPORT
-
-| Para | Requirement | Response | Remarks | Annex |
-|------|-------------|----------|---------|-------|
-| 41.1.15.a-c | 12 months warranty + 36 months extended support, Resident Engineer, SLA compliance | **COMPLY** | 48-month total support (12 months warranty + 36 months extended) with Resident Engineer stationed at MCMC HQ, 24/7 on-call support, and adherence to specified SLAs: 99.9% uptime, 30-min response for Critical/High, 4-hour resolution Critical, with monthly performance reports. | Annex T40: Support Plan |
-
----
-
-## SECTION 42-50: OTHER REQUIREMENTS
-
-| Para | Requirement | Response | Remarks | Annex |
-|------|-------------|----------|---------|-------|
-| 42.1 | Project kick-off and progress meetings, MoM | **COMPLY** | Structured project governance with kick-off session, weekly sprint reviews, monthly steering committee meetings, and documented minutes of meeting for all sessions. | - |
-| 42.2 | Dedicated Project Manager | **COMPLY** | PMP/PRINCE2 certified Project Manager with 7+ years IT/financial system experience assigned full-time for coordination, stakeholder engagement, and issue escalation. | Annex H: CV |
-| 43.1 | Key personnel (PM, Solution Architect, System Analyst, UI/UX, Developer, QA, Security) | **COMPLY** | All required key personnel provided with qualifications and experience as specified in Table 4. Full CVs attached in Appendix H. | Annex H: Personnel CVs |
-| 43.2-43.3 | Qualified personnel, CV submission | **COMPLY** | All personnel meet minimum experience requirements. Comprehensive CVs provided in Appendix H. | Annex H |
-| 44.1 | Equipment and software supply | **COMPLY** | All development, testing, and deployment equipment, licensed software, cloud infrastructure, and third-party services provided at our cost. | - |
-| 45.1 | Past project experience (last 5 years) | **COMPLY** | Detailed project experience provided in Appendix H with client references, project values, and relevance to claims/financial systems. | Annex H: Experience |
-| 46.1-46.3 | Reports and presentations, detailed documentation | **COMPLY** | All required reports, presentations, and component documentation (timeline, design, hardware, software, license) delivered within specified timelines. | - |
-| 47.1-47.2 | 67 months duration, milestones | **COMPLY** | Project delivery within 67 months: 16 months development, 3 months testing, 12 months warranty, 36 months extended support. Detailed timeline with milestones provided. | Annex T41: Project Timeline |
-| 48.1-48.3 | Indicative price acknowledgment | **NOTED** | Indicative price of RM3,500,000 noted as reference only. Our comprehensive quotation provided in Financial Submission (Appendix D). | Appendix D |
-| 49.1-49.2 | Intellectual property assignment | **COMPLY** | Full assignment of all customizations, source code, and documentation to MCMC upon CFA issuance. All IP rights transferred as stipulated. | - |
-| 50.1-50.2 | Standby availability, comprehensive quotation | **COMPLY** | Team available for ad-hoc queries with timely response. Comprehensive 67-month implementation and support quotation provided in Appendix D. | Appendix D |
-
----
-
-## VALUE ADDED SERVICES (VAS) FRAMEWORK
-
-In addition to core requirements, we propose the following **10+10 Value Added Services** at **No Additional Cost**:
-
-### Part 1: Software & Innovation (10 Items)
-
-| # | VAS Item | Description | Value (RM) |
-|---|----------|-------------|------------|
-| 1 | AI-Powered Document Intelligence | Advanced ML models for document classification and data extraction beyond basic OCR | 45,000 |
-| 2 | Predictive Analytics Dashboard | Trend forecasting for claims patterns and budget utilization using historical data | 35,000 |
-| 3 | Mobile Responsive Self-Service | Native mobile app or PWA for DUSP on-the-go access | 40,000 |
-| 4 | Chatbot Virtual Assistant | AI-powered chatbot for user queries and guided claim submission | 30,000 |
-| 5 | Advanced Data Visualization | Interactive charts, graphs, and geospatial mapping for project monitoring | 25,000 |
-| 6 | Automated Reconciliation Engine | RPA-powered automated reconciliation between UCMS and USPFS | 35,000 |
-| 7 | Document Version Control | Full versioning for all uploaded documents with comparison capabilities | 20,000 |
-| 8 | Bulk Upload Capability | Excel/CSV bulk upload for mass data entry with validation | 15,000 |
-| 9 | Notification Engine | Multi-channel alerts (email, SMS, in-app) for deadlines and approvals | 25,000 |
-| 10 | API Gateway Management | Centralized API management portal for integration monitoring | 30,000 |
-| | **Part 1 Subtotal** | | **300,000** |
-
-### Part 2: Support & Consultative (10 Items)
-
-| # | VAS Item | Description | Value (RM) |
-|---|----------|-------------|------------|
-| 1 | Executive Dashboard | C-level summary dashboard with KPIs and trend indicators | 25,000 |
-| 2 | Change Management Workshop | Structured organizational change management program | 35,000 |
-| 3 | Process Optimization Review | Quarterly business process improvement recommendations | 20,000 |
-| 4 | System Health Monitoring | 24/7 proactive system monitoring with alerting | 30,000 |
-| 5 | User Adoption Metrics | Analytics on user engagement and system utilization | 15,000 |
-| 6 | Knowledge Base Portal | Self-service knowledge base with FAQs and guides | 20,000 |
-| 7 | Annual System Health Check | Comprehensive annual technical assessment | 25,000 |
-| 8 | Disaster Recovery Testing | Bi-annual DR drill and failover testing | 30,000 |
-| 9 | Regulatory Compliance Updates | Updates to maintain compliance with changing regulations | 25,000 |
-| 10 | Strategic Consultation | Quarterly strategic review sessions with senior architects | 35,000 |
-| | **Part 2 Subtotal** | | **260,000** |
-| | **TOTAL VAS VALUE** | | **RM560,000** |
-
----
-
-## ANNEXURE CROSS-REFERENCE INDEX
-
-| Annex ID | Description | Location |
-|----------|-------------|----------|
-| T1 | Architecture Diagram | Part 2, Section 3 |
-| T2 | System Architecture | Part 2, Section 3 |
-| T3 | Portal Interface Mockups | Part 2, Section 4 |
-| T4 | Requirements Methodology | Part 2, Section 5 |
-| T5 | Sample Process Flowcharts | Part 2, Section 5 |
-| T6 | SRS/SDD Templates | Part 2, Section 5 |
-| T7 | Workflow Configurations | Part 2, Section 6 |
-| T8 | Agile Project Plan | Part 2, Section 7 |
-| T9 | Traceability Matrix | Part 2, Section 5 |
-| T10 | Efficiency Metrics | Part 2, Section 8 |
-| T11 | Bilingual Interface Samples | Part 2, Section 4 |
-| T12 | Master Data Architecture | Part 2, Section 9 |
-| T13 | ID Structure Diagram | Part 2, Section 9 |
-| T14 | NOA Workflow | Part 2, Section 9 |
-| T15 | VO Process Flow | Part 2, Section 9 |
-| T16 | Bond Management Screen | Part 2, Section 9 |
-| T17 | User Management Module | Part 2, Section 9 |
-| T18 | RBAC Matrix | Part 2, Section 9 |
-| T19 | Budget Module Design | Part 2, Section 9 |
-| T20 | Claims Workflow | Part 2, Section 9 |
-| T21 | Yearly Claim Template | Part 2, Section 9 |
-| T22 | Payment Workflow | Part 2, Section 9 |
-| T23 | Letter Templates | Part 2, Section 9 |
-| T24 | Report Catalog | Part 2, Section 9 |
-| T25 | Dashboard Designs | Part 2, Section 9 |
-| T26 | Audit Trail Design | Part 2, Section 9 |
-| T27 | Self-Service Portal | Part 2, Section 9 |
-| T28 | Value-Added Features | Part 2, Section 10 |
-| T29 | Integration Architecture | Part 2, Section 11 |
-| T30 | AI/ML Architecture | Part 2, Section 11 |
-| T31 | Security Framework | Part 2, Section 12 |
-| T32 | Testing Strategy | Part 2, Section 13 |
-| T33 | VAPT Plan | Part 2, Section 13 |
-| T34 | Change Management Plan | Part 2, Section 14 |
-| T35 | Deployment Plan | Part 2, Section 15 |
-| T36 | Documentation Plan | Part 2, Section 16 |
-| T37 | Backup & Recovery Plan | Part 2, Section 17 |
-| T38 | Training Plan | Part 2, Section 18 |
-| T39 | License Schedule | Part 2, Section 19 |
-| T40 | Support Plan | Part 2, Section 20 |
-| T41 | Project Timeline | Part 2, Section 21 |
-| H | Personnel CVs & Experience | Appendix H |
+| Paragraph/Subparagraph | Paragraph/Subparagraph Item | Tenderer's Response/Proposal (Complied / Not Complied) | Remarks | References to Annexures (If Any) |
+|:---|:---|:---|:---|:---|
+| **(1)** | **(2)** | **(3)** | **(4)** | **(5)** |
+| **40** | **BACKGROUND** | | | |
+| 40.1 | MCMC manages USP projects and financials, which involve internal departments and external entities – the DUSP, also referred to as Contractors, Vendors, or Suppliers in the commercial context. | **COMPLY** | Our solution is designed specifically for multi-stakeholder environments with role-based access distinguishing internal MCMC users from external DUSP/contractor users. | Annex T17, T18 |
+| 40.2 | MCMC intends to produce claims processing platform for USP project namely UCMS. The UCMS shall be Oracle-based and will be fully integrated with the USP Financial System and to be designed to include digital signature, Robotic Processing Automation ("RPA") and Optical Character Recognition ("OCR") features as part of the verification process. UCMS platform offers essential technical features to support end-to-end claims processing and involve both internal departments as internal users and DUSPs as external users as shown in the table below. | **COMPLY** | We propose an Oracle-based middleware architecture with certified digital signature integration (MSC TrustSign/Docusign), RPA automation using UiPath/Blue Prism, and OCR processing via Tesseract/AWS Textract. The system supports 60 internal and 180-250 external users as specified. | Annex T1, T2 |
+| 40.3 | Proposed overview of UCMS: | **COMPLY** | Our proposed architecture follows the high-level diagram structure with web-based frontend, Oracle middleware layer, and secure API integration to USPFS/Oracle EBS. Please refer to system architecture documentation. | Annex T2 |
+| 40.4 | As per Diagram 1 above, UCMS will serve as a single customer-facing digital gateway via the MCMC website, enabling users to submit, monitor and manage USP projects and related financial transactions in a structured and transparent manner. The system will deliver a fully integrated end-to-end lifecycle, covering project tracking, submissions, verification, approvals, payments and regulatory compliance through automated workflows and digital controls. Through seamless integration with financial systems and enterprise data platforms, UCMS will strengthen operational efficiency, governance and management oversight across the USP ecosystem. | **COMPLY** | We will deliver a responsive web application accessible via MCMC portal with SSO integration, providing complete project tracking, submission, verification, approval workflows, payment processing and regulatory compliance with full audit trails. | Annex T3 |
+| **41** | **SCOPE OF WORK** | | | |
+| | The Successful Tenderer is required to carry out the detailed scope of work as follows: | **COMPLY** | We understand and accept all scope of work requirements as detailed in the following subsections. | - |
+| **41.1.1** | **SYSTEM ANALYSIS AND DESIGN** | | | |
+| 41.1.1.a | Conduct requirements gathering workshops with MCMC (functional and non-functional requirements). | **COMPLY** | Our PRINCE2-based approach includes structured requirements workshops using JAD (Joint Application Development) sessions, documented in approved SRS. We assign a dedicated Business Analyst with 5+ years claims system experience. | Annex T4 |
+| 41.1.1.b | Develop and submit process flowcharts (swimlane or equivalent) for each major module to illustrate key workflows, user interactions, decision points and system integrations. The flowcharts must be validated with MCMC during the requirements analysis phase and updated in alignment with the approved System Requirements Specification ("SRS"). | **COMPLY** | We will deliver comprehensive swimlane diagrams for all 10 system modules using BPMN 2.0 notation, validated with MCMC during requirements phase and updated per approved SRS. | Annex T5 |
+| 41.1.1.c | Develop and submit the SRS and System Design Document ("SDD"). | **COMPLY** | Our deliverables include comprehensive System Requirements Specification (SRS) and System Design Document (SDD) following KRISA documentation standards with full traceability matrix. | Annex T6 |
+| 41.1.1.d | Design system architecture with consideration for modularity, scalability and integration readiness. | **COMPLY** | We propose microservices-based architecture on Oracle Cloud Infrastructure with containerized deployment (Docker/Kubernetes), supporting horizontal scaling and API-first integration design. | Annex T2 |
+| 41.1.1.e | Define approval workflows and user interface. | **COMPLY** | Our solution includes configurable multi-layer approval workflows (min 3 layers as required) with drag-and-drop workflow designer and responsive UI built on React/Angular framework. | Annex T7 |
+| **41.1.2** | **SYSTEM DEVELOPMENT (AGILE)** | | | |
+| 41.1.2.a | Develop the system using Agile software development methodology, including sprint-based iterations and continuous feedback loops. | **COMPLY** | We employ SCRUM methodology with 2-week sprints, daily standups, sprint planning/reviews with MCMC participation, and backlog grooming sessions. | Annex T8 |
+| 41.1.2.b | Conduct sprint planning and reviews in collaboration with MCMC. | **COMPLY** | Each sprint includes planning session, mid-sprint review, and sprint demo with MCMC stakeholders. Sprint retrospectives drive continuous improvement. | Annex T8 |
+| 41.1.2.c | Ensure traceability of business requirements through user stories and acceptance criteria. | **COMPLY** | We maintain full requirements traceability using JIRA/Azure DevOps linking user stories to acceptance criteria and test cases with automated traceability reports. | Annex T9 |
+| 41.1.2.d | Ensure include improving processing efficiency, reducing manual workload, increasing data accuracy, enhancing transparency and ensuring compliance with financial policies. The system integrates workflow automation, user-friendly interfaces and real-time monitoring features to support timely and accurate claim handling. | **COMPLY** | Our solution targets 70% reduction in manual processing, 99.5% data accuracy through automated validations, workflow automation, user-friendly interfaces, real-time monitoring and full compliance with Malaysian financial regulations and audit requirements. | Annex T10 |
+| 41.1.2.e | Ensure full bilingual language support throughout the system in both Bahasa Malaysia and English. The language toggle must be available and consistently applied across all modules for both internal and external users. | **COMPLY** | Complete i18n implementation with language toggle across all modules. All UI labels, reports, notifications, and documentation available in both Bahasa Malaysia and English with Malaysian date/number formats. | Annex T11 |
+| **41.1.3** | **SYSTEM MODULES (WEB APPLICATION)** | | | |
+| **1** | **MASTER DATA (DIGITAL SIGNATURE, RPA AND OCR)** | | | |
+| 41.1.3.1.a-d | a. The Master Data Module establishes a centralized and governed framework for managing core enterprise data across UCMS. It defines clear data ownership, validation rules and controlled update workflows to ensure data accuracy, consistency and accountability throughout its lifecycle. b. The module enables master data referencing across UCMS project and financial modules, ensuring a single source of truth and seamless data alignment between operational and financial processes. c. Additionally, it supports integration between UCMS and USPFS/Oracle E-Business Suite (EBS) to facilitate automated data exchange for financial and vendor-related processes, reducing manual intervention, improving data integrity and ensuring synchronization across systems. d. The submodules under Master Data comprised of the below: | **COMPLY** | Centralized master data hub with Oracle EBS integration via secure APIs, featuring data governance workflows, validation rules engine, automated synchronization with USPFS and single source of truth across all modules. | Annex T12 |
+| 41.1.3.1.d.i | **APPROVED UNIVERSAL SERVICE PLAN/PROJECT ID** - Has the ability to create a Project ID for the approved Universal Service Plan/s (Plan) and digitally centralize the plan in UCMS repository for cross referencing for technical/physical implementation phases/milestones and financial milestones of USP projects. To allow integration of Draft Plans with other UCMS modules (e.g., budgeting, claims processing, performance monitoring) to ensure consistency and traceability across the system. To support secure storage, retrieval and archival of Draft Plans and scope documents within the UCMS environment. The Draft Plan comprises the relevant proposals, summary cost per site, Bill of Quantities and other related documents. Project ID is the first-tier unique identifier of the USP Projects. | **COMPLY** | Automated Project ID generation with hierarchical structure (4-tier: Project → Sub-Project → Cluster → Site) with digital repository, cross-referencing capabilities, integration with budgeting/claims/performance modules, and secure storage/retrieval of Draft Plans with proposals, cost summaries, BOQ and related documents. | Annex T13 |
+| 41.1.3.1.d.ii | **NOA (NOTIFICATION OF APPROVAL) / CONTRACT/SUB PROJECT ID** - Has the ability to create a Sub Project ID and record the salient NOA details in the UCMS. To support system integration with USPFS for validation and cross-checking of NOA. To allow automated referencing of NOA during claims processing – verification, review and approval. The NOA includes the main document (contract) together with its appendices. Sub Project ID is the second-tier unique identifier of the USP Projects. | **COMPLY** | NOA recording with automated validation against USPFS, contract document management with OCR extraction, Sub Project ID creation linked to parent Project ID, automated referencing during claims verification/review/approval. | Annex T14 |
+| 41.1.3.1.d.iii | **NOTICE OF APPROVAL OF THE VARIATION / VARIATION ORDER (VO)** - Has the ability to create VO ID and the track scope, cost, or timeline changes for the NOA for reference of the subsequent processes (validation, update and approval). To support USPFS-linked validation to ensure variations are controlled and authorised. To allow integration of variation records with claims and project progress for audit and reporting. | **COMPLY** | VO ID creation with scope/cost/timeline tracking, USPFS-linked validation for controlled variations, integration with claims processing and project progress for audit and reporting. | Annex T15 |
+| 41.1.3.1.d.iv | **CLUSTER ID** - Has the ability to create/generate/assign a unique identifier for USP cluster ID for structured database referencing. To support streamlined tracking for claims and reporting across related project clusters. To allow linkage of claims, variations and deliverables to a common cluster reference. Cluster ID is the third-tier unique identifier of the USP Projects. | **COMPLY** | Unique Cluster ID generation for USP project clusters with streamlined claims tracking, consolidated reporting across related projects, and linkage of claims/variations/deliverables to common cluster reference. | Annex T13 |
+| 41.1.3.1.d.v | **SITE ID** - Has the ability to create/generate/assign a unique identifier for individual sites within a USP project cluster. To support detailed tracking of project activities, claims and deliverables at site level. To allow consolidated reporting and roll-up of site-level data (BOQ) for cluster level. Site ID is the fourth-tier unique identifier in USP projects. | **COMPLY** | Individual site identifier creation within clusters, detailed activity tracking, consolidated roll-up reporting for cluster-level visibility with BOQ data. Site ID as fourth-tier unique identifier. | Annex T13 |
+| 41.1.3.1.d.vi | **ITEM ID** - Has the ability to define project deliverables or billable units for budget/cost allocation. To support accurate validation of claims, invoices and payments against Item IDs. To allow cost control and auditing of deliverables. | **COMPLY** | Project deliverable/billable unit definition for budget allocation with claim validation, cost control auditing, and payment validation against Item IDs. | - |
+| 41.1.3.1.d.vii | **PERFORMANCE BONDS** - Has the ability to record, monitor and validate performance bond submitted by DUSPs. Able to prompt addition, expiration, EOT, renewal, variation for control and reporting of performance bond periodically/real time. Able to integrate/validation check with USPFS prior to disbursement of claims. Has the ability to cross-check performance bond validity against claims submitted by DUSP. | **COMPLY** | Performance bond recording with automated monitoring for expiration/EOT/renewal/variation, periodic/real-time control and reporting, validation check integration with USPFS prior to disbursement, cross-checking against claims. | Annex T16 |
+| 41.1.3.1.d.viii | **TECHNICAL SELF DECLARATION** - Has the ability to capture DUSP self-declarations of project technical compliance. To support validation of declarations as part of claims submission, cross-referencing with NOA's payment milestone and approval workflow. To allow storage and retrieval of compliance evidence for governance and audit purposes. | **COMPLY** | DUSP self-declaration capture with validation against NOA milestones, integrated approval workflows, cross-referencing with payment milestones, secure storage for governance/audit. | - |
+| 41.1.3.1.d.ix | **EOT (EXTENSION OF TIME)** - Has the ability to capture requests and create EOT ID for project timeline extensions from DUSP. To support structured approval workflows for EOT requests within the UCMS. To allow integration of approved EOT with USP project progress/milestone and claims. | **COMPLY** | EOT request capture with EOT ID creation, structured approval workflows, integration with project progress/milestones and claims processing. | - |
+| 41.1.3.1.d.x | **LITIGATION** - Has the ability to record disputes or legal cases associated with all USP projects for all DUSP. To support governance and audit functions by tracking litigation status and resolution. To allow integration of litigation records with project, claims and compliance modules for legal risk reporting. | **COMPLY** | Legal dispute recording for all USP projects with status tracking, resolution monitoring, integration with project/claims/compliance modules for legal risk reporting. | - |
+| **2** | **DUSP, SUBCONTRACTORS & USER MANAGEMENT** | | | |
+| 41.1.3.2.xi | **SECURE ACCOUNT CREATION, DELEGATION & MONITORING** - Has the ability to ensure secure creation and management of accounts for DUSPs, subcontractors and users within the UCMS. To support monitoring and audit of delegated access, ensuring compliance with governance requirements. To allow role-based delegation and traceability of user activities for accountability. | **COMPLY** | Role-based secure account provisioning with MFA, delegation tracking with audit logs, governance compliance monitoring dashboards, traceability of user activities. | Annex T17 |
+| 41.1.3.2.xii | **DUSP ACCOUNT MAINTENANCE** - Has the ability to create, record, maintain and update new/existing DUSP key information namely business registration number, bank account information, list of key management/personnel. To allow integration with USPFS for key information and payment transactions. | **COMPLY** | DUSP profile management including business registration, bank account info, key personnel records with USPFS integration for payment transactions. | - |
+| 41.1.3.2.xiii | **SUBCONTRACTOR ACCOUNT MAINTENANCE** - Has the ability to capture and create unique ID for DUSP's subcontractor. Has the ability to capture subcontractor invoices and the relevant salient details. | **COMPLY** | Unique subcontractor ID creation with invoice capture and salient details recording for downstream processing. | - |
+| 41.1.3.2.xiv | **USER ACCOUNT MAINTENANCE (INTERNAL / EXTERNAL)** - Has the ability to manage system user accounts including creation, updates, suspension and termination. To support workflow continuity by assigning replacement access where authorised. To allow integration of user account data with the UCMS approval matrix for access control. | **COMPLY** | Comprehensive user lifecycle management (create, update, suspend, terminate) with workflow continuity assurance, approval matrix integration. | - |
+| 41.1.3.2.xv | **USER MATRIX** - Has the ability to define all internal and external user roles, access levels and permissions within the UCMS. To support segregation of duties to ensure no conflict in approval, submission, or verification processes. To allow governance, auditability and compliance checks on all user role assignments. | **COMPLY** | Comprehensive role-based access control (RBAC) matrix defining all internal/external user permissions with segregation of duties enforcement and governance audit capabilities. | Annex T18 |
+| **3** | **BUDGET MANAGEMENT (DIGITAL SIGNATURE, RPA AND OCR)** | | | |
+| 41.1.3.3.a-d | a. The Budget Module provides a structured mechanism for managing approved budgets and capped costs for USP projects. It supports detailed site costing, bill of quantities and cost component breakdowns aligned with approved plans and NOA. b. This module ensures that all claims are validated against approved budget limits, enabling effective budget control, variance monitoring and compliance with funding conditions. Any changes to approved budgets are governed through defined approval workflows to maintain financial discipline. c. The Budget Module integrates with Oracle EBS to ensure alignment between UCMS budget data and financial records, supporting accurate financial reporting and downstream payment processing. d. The submodules under Budget Management comprised of the below: | **COMPLY** | Comprehensive budget management with Oracle EBS integration, automated variance monitoring, workflow-governed budget changes, and validation of claims against approved budget limits. | Annex T19 |
+| 41.1.3.3.d.i | **FINANCIAL CONTROL** - Has the ability to enforce financial control and compliance (e.g approved capped cost vs proposed expenditure, project physical milestone vs financial milestone). To allow integration of budgetary controls with claims and project monitoring modules. | **COMPLY** | Automated financial control enforcement comparing approved capped cost vs proposed expenditure, physical vs financial milestones with integrated alerts and integration with claims/project monitoring modules. | - |
+| 41.1.3.3.d.ii | **APPROVED CAPPED COST** - Has the ability to list, tabulate, define and update approved capped cost. To be able to validate with USPFS for budget monitoring purposes. To automatically validate claims submitted against approved capped cost upon submission. To be able to prompt alerts, reporting and controls when submissions approach or exceed capped amounts. | **COMPLY** | Capped cost listing with automated validation against USPFS, claim submission validation, alert generation for approaching/exceeding limits, reporting and controls. | - |
+| 41.1.3.3.d.iii | **SITE COSTING** - Has the ability to capture detailed costing at site level. To support reconciliation between modules within UCMS (e.g. budget vs subsidiary ledgers) for site expenditure validation. To allow site-level cost reporting consolidated at project and cluster level. | **COMPLY** | Detailed site-level cost capture with reconciliation between budget and subsidiary ledgers, site-level cost reporting consolidated at project and cluster level. | - |
+| 41.1.3.3.d.iv | **BILL OF QUANTITY (BOQ)** - Has the ability to maintain itemized lists of works, services and materials with defined quantities and costs. To support validation of claims and payments against the BOQ for approved capped cost / budget control purposes. To allow automated linkage of BOQ line items to project deliverables and claims milestone. | **COMPLY** | Itemized BOQ maintenance with quantity/cost definitions, claim validation against BOQ, automated linkage to project deliverables and claims milestones. | - |
+| 41.1.3.3.d.v | **COST COMPONENT** - Has the ability to define and track cost categories (e.g., preliminaries, CME works, etc) for full tracking, monitoring and transparency. To support allocation of claims and expenditure into standardised cost components (e.g software cost / shared cost). To allow generation of cost analysis reports for decision-making and audit purposes. | **COMPLY** | Standardized cost category tracking (preliminaries, CME works, software cost, shared cost) with allocation capabilities, cost analysis reports for decision-making and audit. | - |
+| **4** | **CLAIMS MANAGEMENT (DIGITAL SIGNATURE, RPA AND OCR)** | | | |
+| 41.1.3.4.a-d | a. The Claims Module manages the end-to-end process of USP claims, covering major contributors, advance, quarterly and yearly claims. It facilitates structured claim submissions supported by mandatory required documentations from issuance of reminder/alert/notice until the submission of claims. b. Automated validations and rule-based checks are applied to ensure claims comply with approved budgets, milestones and contractual conditions before progressing for verification and approval. This significantly reduces reliance on manual checks and spreadsheet-based verification. c. The module supports integration with Oracle and banking-related processes for advance claims and bank guarantees, providing traceability, audit readiness and compliance with governance requirements. d. The submodules under Claim Management comprised of the below: | **COMPLY** | End-to-end claims processing with automated rule-based validation, milestone verification, integration with Oracle/banking for advance claims, traceability and audit readiness. | Annex T20 |
+| 41.1.3.4.d.i | **INVOICE TO MCMC (USPFS)** - Has the ability to create Submission ID upon submission of master invoices (and the sub documents) from DUSP through UCMS-USPFS integration. To support validation of master invoice data against approved capped cost for budgeting control and monitoring purposes. To allow real-time status update / reconciliation between UCMS and USPFS financial records. | **COMPLY** | Submission ID generation upon master invoice submission with USPFS integration, validation against approved capped cost, real-time status reconciliation. | - |
+| 41.1.3.4.d.ii | **FINANCIAL SELF DECLARATION / CEO DECLARATION** - Has the ability to capture declarations by CEO for claim authenticity, accuracy and compliance. To support integration of self-declarations into approval workflows. To store the declarations as governance records within the UCMS. | **COMPLY** | CEO declaration capture for claim authenticity, integrated approval workflows, secure storage as governance records. | - |
+| 41.1.3.4.d.iii | **ADVANCE CLAIM / QUARTERLY CLAIM / MAJOR CONTRIBUTOR CLAIM** - Has the ability to process requests for Advance/Quarterly/Major Contributor Claim, subject to the terms as per the NOA. To support validation of advance claims against contractual and financial safeguards (Performance Bonds). To allow consolidated reporting of quarterly disbursements at project and fund level. To allow automated tracking of recovery or settlement of advance claims. | **COMPLY** | Processing with contractual validation, performance bond safeguards, consolidated quarterly reporting, automated advance recovery tracking. | - |
+| 41.1.3.4.d.iv | **YEARLY CLAIM** - Has the ability to record, track and monitor Advanced, Quarterly and Yearly claims in a subsidiary ledger concept, ensuring all claims captured and tracked annually. To develop the built-in auditor yearly claim template to accommodate with the requirements of the submissions. It shall enable verification, reconciliation and reporting of all claim transactions to ensure accuracy, completeness and compliance with financial governance and audit requirements. To verify the subsidiary ledger against the yearly claim submitted with required supporting documents (Auditor Working Template and Auditor Declaration). To notify and produce reminders to DUSPs for timely submissions. Able to receive and process EOT request for Yearly Claim submission and reply with official letter to DUSP approving the request. | **COMPLY** | Subsidiary ledger concept for annual claim tracking, built-in auditor template, verification/reconciliation/reporting, EOT processing with official letter generation. | Annex T21 |
+| 41.1.3.4.d.v | **AUDITORS' DECLARATION** - Has the ability to capture independent auditor verification on claim accuracy. To support integration of auditor declarations as a compliance checkpoint before disbursement. To allow storage and retrieval of declarations for governance and audit. | **COMPLY** | Independent auditor verification capture as compliance checkpoint before disbursement, secure storage and retrieval. | - |
+| 41.1.3.4.d.vi | **AUDITORS' WORKING TEMPLATE** - Has the ability to provide a standardised template for audit review of claims. To support consistency and comparability of audit checks across projects. To allow linkage of completed templates with claims for traceability. | **COMPLY** | Standardized template for audit review, consistency across projects, linkage to claims for traceability. | - |
+| 41.1.3.4.d.vii | **SUPPORTING DOCUMENT** - Has the ability to upload and manage claim supporting evidence such as purchase orders, invoices, payment advice/vouchers, official receipts and reports. To support validation of claims by attaching mandatory supporting documents. To allow secure archival and retrieval of supporting evidence for audits. | **COMPLY** | Upload and management of POs, invoices, payment advice, receipts, reports with validation, secure archival, audit retrieval. | - |
+| **5** | **PAYMENT PROCESSING (DIGITAL SIGNATURE)** | | | |
+| 41.1.3.5.a-d | a. The Payment Processing Module governs the approval and execution of payments arising from approved USP claims. It supports memo approvals, payment voucher generation and disbursement processing through secure and auditable workflows. b. Digital signatures are embedded within the approval processes to ensure authenticity, non-repudiation and compliance with internal governance and regulatory requirements. All payment-related activities are logged to provide a complete audit trail. c. Integration with Oracle EBS enables automated posting of approved payment vouchers, reducing manual re-entry, minimizing errors and ensuring synchronization between UCMS and the financial system. d. The submodules under Claim Management comprised of the below: | **COMPLY** | Secure payment workflow with embedded digital signatures (min 3 layers), automated voucher posting to Oracle EBS, complete audit trails. | Annex T22 |
+| 41.1.3.5.d.i | **MEMORANDUM – PAYMENT REQUISITION (PREPARATION)** - To develop the built-in payment memorandum template for Advance, Quarterly/Major Contribution and Yearly Claim and customisations of the template. | **COMPLY** | Built-in configurable templates for Advance, Quarterly/Major Contribution, and Yearly Claims with customization capabilities. | - |
+| 41.1.3.5.d.ii | **MEMORANDUM – APPROVAL FOR THE PAYMENT REQUISITION (DIGITAL SIGNATURE)** - Has the ability to manage approvals and execution of claim payments through the UCMS. (min: 3 layers). To establish digital workflow including preparation, verification and approval of the payment memos using Digital Signature for secure signing and authentication. To support compliance with financial governance by validating payments against approved claims and budgets. To allow integration of payment approvals with USPFS and banking systems for traceability. | **COMPLY** | Multi-layer approval workflow (minimum 3 layers) with digital signature integration for secure authentication and non-repudiation, validation against approved claims/budgets, USPFS and banking system integration. | - |
+| 41.1.3.5.d.iii | **PAYMENT VOUCHER (USPFS)** - Has the ability to integrate with USPFS to generate the payment voucher for disbursement and the accounting entries. To ensure real-time reconciliation of payment vouchers (approved payment memorandums vs USPFS financial records). To allow secure archival and retrieval of payment vouchers for audit and compliance reporting. | **COMPLY** | USPFS integration for voucher generation and accounting entries, real-time reconciliation, secure archival and retrieval. | - |
+| 41.1.3.5.d.iv | **LETTER TO DUSP** - To develop the built-in payment acknowledgement letter template to DUSP. Able to record and maintain register of letters generated to DUSP. Able to retrieve payment advices from the USP Fund's principal bank via system integration or API connection and record the details in UCMS. Able to generate an acknowledgement letter using the standard UCMS template, with relevant payment information upon extraction. Able to send the acknowledgement letter via email to the respective recipient using the registered email address stored in UCMS, with all actions recorded for audit purposes. | **COMPLY** | Built-in acknowledgement letter template, register maintenance, payment advice retrieval via API, email delivery with audit logging. | Annex T23 |
+| **6** | **REPORTS (DIGITAL SIGNATURE AND RPA)** | | | |
+| 41.1.3.6.a-d | a. The Reporting Module provides comprehensive operational, financial and management reporting across UCMS. It delivers real-time visibility into project progress, financial utilization, claim status, payment execution and exceptions. b. Standardized dashboards and reports are available for DUSP performance, subcontractor progress, budget utilization and payment tracking, supporting informed decision-making and effective oversight. c. In addition, the module supports exception reporting and analytics powered by automation tools (e.g. RPA), enabling early detection of anomalies, risks and compliance gaps to strengthen governance and control. d. The submodules under Claim Management comprised of the below: | **COMPLY** | Comprehensive reporting with real-time dashboards, RPA-powered exception detection, automated report distribution. | Annex T24 |
+| 41.1.3.6.d.i | **DUSP REPORTS** - Able to develop and generate key financial and performance reports. To allow integration of DUSP reports with overall project and fund reporting dashboards. | **COMPLY** | Key financial and performance reports for DUSP with integration to overall project/fund dashboards. | - |
+| 41.1.3.6.d.ii | **SUBCONTRACTOR REPORTS** - Has the ability to produce subcontractor key reports based on key unique identifiers. Has the ability to detail breakdowns of subcontractor invoices. | **COMPLY** | Subcontractor performance reports with detailed invoice breakdowns by unique identifiers. | - |
+| 41.1.3.6.d.iii | **PAYMENT REPORTS** - Has the ability to provide reports on approved and executed payments within UCMS. To support reconciliation of disbursements with USPFS records. To allow payment status tracking for audit and compliance. | **COMPLY** | Approved/executed payment reports with USPFS reconciliation and status tracking for audit. | - |
+| 41.1.3.6.d.iv | **PROJECT PROGRESS REPORTS** - Has the ability to generate reports on project status, deliverables and completion milestones. Able to report the project progress for monitoring purposes. | **COMPLY** | Project status, deliverables, and milestone completion reporting for monitoring purposes. | - |
+| 41.1.3.6.d.v | **FINANCIAL PROGRESS REPORTS** - Has the ability to produce reports on fund utilisation and financial performance of projects. To support comparison of actual claim submission against budget and approved capped cost. To allow fund-level reporting for management. | **COMPLY** | Fund utilization and financial performance reports with budget vs actual comparison, fund-level reporting. | - |
+| 41.1.3.6.d.vi | **BUDGET REPORTS** - Has the ability to generate reports on budget allocations, usage and remaining approved capped cost balances. To support financial governance by linking budget reports with claims and payments. To develop the built-in USP 5 years forecast template and variance analysis tools. | **COMPLY** | Budget allocation, usage, remaining capped cost reports, 5-year forecast template, variance analysis. | - |
+| 41.1.3.6.d.vii | **EXCEPTION REPORTS** - Has the ability to automatically generate exception reports highlighting anomalies or compliance breaches. To support robotic process automation for exception detection and escalation. | **COMPLY** | Automated exception highlighting with RPA-powered anomaly detection and escalation workflows. | - |
+| **7** | **DASHBOARD FUNCTION** | | | |
+| 41.1.3.7.a-b | a. The Dashboard Function provides a centralized, real-time view of operational, financial, compliance and system performance across UCMS. Leveraging Robotic Process Automation (RPA) and system integrations, the dashboards consolidate data from multiple modules and external systems to deliver actionable insights, proactive monitoring and data-driven decision support for management and operational users. b. Dashboard features required in UCMS included: i. Fund Position Dashboard (High Level) ii. Project Delivery/milestone Dashboard (High Level) iii. Payment Disbursement Dashboard (High Level) iv. Compliance & Exception Dashboard v. Integration & System Dashboard vi. Project & Site Monitoring Dashboard vii. Claims & Payment Status Dashboard viii. Budget Utilisation Dashboard ix. DUSP/Subcontractor Performance Dashboard x. Security & Backup Monitoring Dashboard xi. Exception & Workflow Dashboard xii. Dynamic Data Export Report (Excel (.xlsx downloadable) | **COMPLY** | RPA-powered dashboards consolidating multi-source data with all 12 required dashboard features implemented. | Annex T25 |
+| **8** | **AUDIT TRAIL** | | | |
+| 41.1.3.8.a-f | a. The Audit Trail function records a complete, secure and time-stamped log of all user and system activities within UCMS, ensuring transparency, accountability and traceability across all modules. b. It captures key actions such as data changes, approvals, payments, integrations and automated processes, together with essential metadata for audit and compliance purposes. c. This function supports governance, risk and compliance by enabling activity review, transaction reconstruction and regulatory verification, with protected records and search and reporting capabilities for audits and management oversight. d. Has the ability to automatically log and timestamp all user activities, transactions and system changes for accountability. e. To enable traceability of actions, ensuring transparency and compliance with governance and regulatory requirements. f. To support audit reviews and investigations by providing a chronological record of activities for verification and reporting purposes. | **COMPLY** | Comprehensive audit trail capturing all user/system activities with immutable timestamps, metadata capture, protected records, and search/reporting capabilities. | Annex T26 |
+| **9** | **SELF SERVICE APPLICATION** | | | |
+| 41.1.3.9.a-f | a. The Self-Service Application enables authorized users, including DUSPs, subcontractors and internal MCMC users, to independently submit, manage and track USP-related transactions within UCMS through secure, role-based access. b. It supports claim submissions, document uploads, approval and payment tracking, real-time notifications and guided workflows with built-in validations to ensure accuracy and compliance. c. All activities are secured through centralized authentication, governed by role-based permissions and fully captured in the audit trail, reducing manual intervention and enabling a standardized, efficient and scalable digital operating model. d. Provides a secure and user-friendly interface for users to access, update and submit claim or required documents/information. e. Provides a secure and user-friendly interface for users to access, update and submit claim or required documents/information. f. To support real-time validations and automated feedback to users, enhancing accuracy and turnaround time. | **COMPLY** | Secure role-based self-service portal with claim submission, document upload, approval/payment tracking, real-time notifications, guided workflows, and full audit capture. | Annex T27 |
+| **10** | **VALUE ADDED FUNCTION** | | | |
+| 41.1.3.10.a-g | a. The Value-Added Function enhances UCMS beyond core transactions by introducing intelligent analytics, automation and governance capabilities that support better decision-making and operational efficiency. b. It leverages historical claims, payment and project data to provide trend analysis, predictive insights and early detection of risks, anomalies, cost overruns and compliance issues, enabling proactive management and timely intervention. c. Automation features such as RPA, smart validations and exception handling reduce manual effort, improve turnaround time and strengthen control through automated reconciliations, alerts and performance monitoring. d. The function also supports long-term sustainability by enabling scalability, configurable business rules, performance benchmarking and future system enhancements, ensuring UCMS remains adaptive to evolving regulatory, operational and technological requirements. e. Incorporates intelligent features such as analytics, dashboards, or predictive tools to improve decision-making and operational efficiency. f. To enhance the overall functionality of the system by integrating capabilities that go beyond core requirements. g. To provide flexibility for future enhancements, ensuring the system remains relevant and adaptable to evolving needs. | **COMPLY** | Advanced analytics with trend analysis, predictive insights, risk detection, RPA automation, smart validations, exception handling, and configurable business rules. | Annex T28 |
+| **41.1.4** | **SYSTEM INTEGRATION** | | | |
+| 41.1.4.a-c | a. Integrate the platform with internal system which is USP Financial System (Oracle Platform) b. Ensure secure API exchange and data validation mechanisms. c. Centralized authentication via Active Directory with seamless integration to Oracle, and Digital Signature, ensuring data integrity and synchronization. | **COMPLY** | Secure RESTful API integration with USPFS/Oracle EBS, Azure AD SSO implementation, certified digital signature integration, and end-to-end encryption for data integrity and synchronization. | Annex T29 |
+| **41.1.5** | **AI-POWERED DOCUMENT VALIDATION AND FRAUD DETECTION** | | | |
+| 41.1.5.a-j | a. Develop and implement an intelligent document analysis engine that uses AI and machine learning ("ML") algorithms to validate supporting documents submitted by end-users. b. Automate the verification of document information and data consistency using Optical Character Recognition ("OCR"). c. Extract key information from uploaded documents. d. Detect document tampering, duplication or forgery. e. Identify expired, altered, or mismatched documents. f. Develop machine learning models to detect fraudulent claims. g. Support configurable fraud thresholds. h. Integrate AI validation into claim submission and approval workflows. i. Enable real-time and batch processing. j. Provide AI-generated insights and record all AI decisions in audit logs. | **COMPLY** | AI-powered document validation using ML models for OCR extraction, tampering/forgery detection, duplicate identification, fraud pattern recognition with configurable thresholds, and audit logging. | Annex T30 |
+| **41.1.6** | **SECURITY AND COMPLIANCE** | | | |
+| 41.1.6.a | Implement strong access control such as Azure AD Single Sign-On (SSO), multi-level access control and encryption of data at rest and transit. | **COMPLY** | Enterprise security with Azure AD SSO, role-based access control (RBAC), AES-256 encryption at rest, TLS 1.3 in transit, and compliance with Malaysian data protection regulations. | Annex T31 |
+| **41.1.7** | **SYSTEM TESTING AND ACCEPTANCE** | | | |
+| 41.1.7.a-c | a. To conduct three (3) phases of testing: i. User Acceptance Test (UAT). ii. Final Acceptance Test (FAT). iii. System Integration Testing (SIT). b. To fix any bugs and errors captured during the UAT and FAT will need to be fixed within the agreed project timeline. To ensure the application and system meet the requirements, specification, functionality and performance needs. | **COMPLY** | Comprehensive 3-phase testing approach (UAT, FAT, SIT) with documented test plans, MCMC participation, defect tracking, and resolution within agreed timelines. | Annex T32 |
+| **41.1.8** | **PENETRATION TESTING** | | | |
+| 41.1.8.a-d | a. The Tenderer shall perform Pentest by a recognised PENTEST company and remediate all the findings prior to any go-live or production deployment. b. Must include both Blackbox and Whitebox testing. c. Web Application Penetration Test (WAPT) that includes: i. Web Services Identification ii. Application Process Flow Assessment iii. Web Application Vulnerabilities Tests & Findings iv. Exploit Test & Verification d. To provide sign-off report (Final Report) i. Must be signed by the Pentester and the Developer ii. Items to be included in the report: • Executive Summary • Introduction • Scope • Vulnerability Summary: o Assessment Summary (no. of Critical, High, Medium and Low) o Post Review Summary (no. of Critical, High, Medium and Low) • Conclusion | **COMPLY** | Third-party penetration testing by certified CREST/OWASP testing firm including Blackbox and Whitebox testing, WAPT with full vulnerability assessment, and signed executive report with remediation evidence. | Annex T33 |
+| **41.1.9** | **CHANGE MANAGEMENT** | | | |
+| 41.1.9.a-c | a. To propose and provide change plan documentation, checklist and report. b. To adhere to the change management procedure: (i) During Project Implementation – Steering Committee (consisted of MCMC and Successful Tenderer) approval (ii) After Go Live – Change Advisory Board (CAB) approval c. The Successful Tenderer to propose and analyse the as-is and the to-be processes, generate the process mapping and the new structure on resources allocation. | **COMPLY** | Structured change management with documentation, checklist, and reports. Pre Go-Live: Steering Committee approval. Post Go-Live: CAB approval. Includes as-is/to-be process mapping and resource allocation planning. | Annex T34 |
+| **41.1.10** | **DEPLOYMENT** | | | |
+| 41.1.10.a-b | a. Deploy the system on staging and production environments compliant with MCMC's hosting policy. b. Conduct Go-Live commissioning and final data validation. | **COMPLY** | Phased deployment on MCMC-compliant hosting with staging environment for UAT, production deployment with zero-downtime approach, and Go-Live commissioning with data validation. | Annex T35 |
+| **41.1.11** | **DOCUMENTATION AND HANDOVER** | | | |
+| 41.1.11.a-c | a. Prepare and deliver technical documentation, user manuals and training materials for the administrator. b. Conduct administrator training sessions. c. The source code should be handed over to MCMC once the development is completed. | **COMPLY** | Complete documentation package including technical docs, administrator/end-user manuals, training materials, and full source code handover upon CFA issuance. | Annex T36 |
+| **41.1.12** | **BACKUP AND RESTORE REQUIREMENTS** | | | |
+| 41.1.12.a-c | a. The Tenderer shall recommend the backup storage and propose a backup & restore procedure for the system application and database and the dimensioning used for the duration of the backup and restoration process. b. The Tenderer shall provide comprehensive documentation on backup and restore procedures. c. System backup and restore plan must be comprehensive with daily, weekly, monthly and yearly backup schedules. | **COMPLY** | Comprehensive backup strategy with automated daily incremental, weekly full, monthly archival, and yearly retention backups. Includes documented restoration procedures with RPO/RTO definitions. | Annex T37 |
+| **41.1.13** | **TRAINING** | | | |
+| 41.1.13.a-e | a. Prepare and deliver user manuals and training materials for the end-user. b. Conduct end-user training sessions. c. Collect feedback and perform system enhancements during warranty support period with no additional charges if required. d. The Tenderer must provide sufficient training to ensure effective knowledge transfer, enabling MCMC personnel, service providers, and outsourcing partners to fully maintain, fine-tune, configure, and enhance the solution after the Go-Live date. e. Knowledge transfer must include, but is not limited to, product training (e.g., software, development tools), project team training, helpdesk training/briefing, system administration training, and infrastructure training. | **COMPLY** | Comprehensive training program with manuals, materials, hands-on sessions for administrators and end-users, feedback-driven enhancements during warranty, and full knowledge transfer. | Annex T38 |
+| **41.1.14** | **LICENSE MANAGEMENT** | | | |
+| 41.1.14.a-f | a. The successful Tenderer must quote any related software that is part of the UCMS solution (e.g. digital signature license, database license, application server, reporting tool, etc.) b. The Successful Tenderer shall provide UCMS Administrator licenses subscriptions for a minimum of 60 users (internal) and UCMS licenses subscriptions for approximately 180 – 250 users (external) per year. c. Application Server: Specify the application server software needed to host and run the UCMS effectively. Mention any additional licensing or setup costs associated with the application server. d. Reporting Tool: Propose a reporting tool that enables comprehensive and customisable reporting capabilities for UCMS data analysis and decision-making. Provide information on licensing and integration costs, if any. e. Integration Tools: If there are any specific integration tools required for integrating the UCMS with other systems (USPFS & Digital Signature), the Tenderer should specify them and include relevant pricing details. f. Customisation Services: If any additional customisation or development work is required for the UCMS to meet MCMC's future needs, the Tenderer should be able to specify feasibility details on allowed customisation of the system. | **COMPLY** | Complete licensing proposal including Oracle database, application server (WebLogic/Tomcat), reporting tool (Oracle BI/Power BI), integration middleware, digital signature licenses, and 250 user licenses (60 internal + 190 external) with customization feasibility. | Annex T39 |
+| **41.1.15** | **POST-IMPLEMENTATION SUPPORT** | | | |
+| 41.1.15.a-c | a. Provide 12 months of warranty support with defect rectification and performance monitoring continue with the 36 months of extended Support & Maintenance services. b. Assign a support focal point during the warranty period. c. Adhere to the following minimum SLA standards throughout the support period: (i) System Availability: Minimum 99.9% uptime per calendar month (ii) Incident Response Time: • Critical (System down): Response within 30 minutes, resolution within 4 hours. • High (Major functionality issue): Response within 30 minutes, resolution within 6 hours. • Medium (Minor issues or intermittent errors): Response within 30 minutes, resolution within 12 hours. • Low (Cosmetic/ UI/ non-urgent): Response within 4 hours, resolution within 24 hours. (iii) Support coverage: 24 hours / 7 days a week (iv) Escalation procedures: Clear process for issue escalation, including points of contact, timelines and tracking. (v) Reporting: Submit a monthly support performance report detailing system uptime, incidents, response and resolution metrics and improvement actions taken. | **COMPLY** | 48-month total support (12 months warranty + 36 months extended) with Resident Engineer stationed at MCMC HQ, 24/7 on-call support, and adherence to specified SLAs: 99.9% uptime, 30-min response for Critical/High, 4-hour resolution Critical, with monthly performance reports. | Annex T40 |
+| **42** | **OTHER WORK REQUIREMENTS** | | | |
+| 42.1 | The Successful Tenderer shall carry out project kick-off and progress meetings (e.g., weekly sprints, monthly reviews), including documentation, prepare meeting minutes (MoM) and provide accurate and timely inputs to MCMC as and when required. | **COMPLY** | Structured project governance with kick-off session, weekly sprint reviews, monthly steering committee meetings, and documented minutes of meeting for all sessions. | - |
+| 42.2 | The Successful Tenderer shall provide a dedicated Project Manager to coordinate every aspect of the Work, including internal coordination, stakeholder engagement, documentation management and issue escalation. | **COMPLY** | PMP/PRINCE2 certified Project Manager with 7+ years IT/financial system experience assigned full-time for coordination, stakeholder engagement, and issue escalation. | Annex H |
+| **43** | **PERSONNEL** | | | |
+| 43.1 | a. The Tenderer shall comprise at least the following key personnel: | **COMPLY** | All required key personnel provided with qualifications and experience as specified in Table 4. Full CVs attached in Appendix H. | Annex H |
+| 43.2 | The Tenderer shall provide qualified and competent personnel to undertake the Work. | **COMPLY** | All personnel meet minimum experience requirements. Comprehensive CVs provided in Appendix H. | Annex H |
+| 43.3 | The Tenderer shall list all personnel involved in the Work, including their curriculum vitae ("CV") in Appendix H. | **COMPLY** | Comprehensive CVs for all personnel provided in Appendix H. | Annex H |
+| **44** | **EQUIPMENT** | | | |
+| 44.1 | All equipment required for the Work, including licensed software, development and testing tools, workstations, test servers, communication devices and any third-party services required for integration testing, shall be supplied or made available by the Successful Tenderer, including any cloud based in infrastructure or services proposed as part of the solution, with all associated costs and payments to be borne by the Successful Tenderer. | **COMPLY** | All development, testing, and deployment equipment, licensed software, cloud infrastructure, and third-party services provided at our cost. | - |
+| **45** | **PAST PROJECT EXPERIENCES** | | | |
+| 45.1 | The Tenderer shall provide detailed information on past project experience within the last 5 years. | **COMPLY** | Detailed project experience provided in Appendix H with client references, project values, and relevance to claims/financial systems. | Annex H |
+| **46** | **REPORTS AND PRESENTATIONS** | | | |
+| 46.1 | MCMC may require the Successful Tenderer to prepare reports and/or presentations in relation to the Work for internal briefing, stakeholder consultations and management updates. | **COMPLY** | All required reports, presentations, and component documentation delivered within specified timelines. | - |
+| 46.2 | All reports and presentations that are required to be prepared by the Successful Tenderer shall be duly submitted within the specified timeline. | **COMPLY** | All reports and presentations submitted within agreed timelines. | - |
+| 46.3 | The Tenderer is also required to provide detailed documentation of each component (timeline, design, hardware, software, licence, etc.) | **COMPLY** | Detailed component documentation (timeline, design, hardware, software, license) provided. | - |
+| **47** | **DURATION** | | | |
+| 47.1 | The Work (as a whole) shall be completed within 67 months from the date of the Letter of Award ("LOA"), unless the timeline is further extended by MCMC accordingly. Tenderer to provide a detailed project timeline, including a delivery schedule and implementation plan. The detail of The Work as per table below: | **COMPLY** | Project delivery within 67 months: 16 months development, 3 months testing, 12 months warranty, 36 months extended support. Detailed timeline with milestones provided. | Annex T41 |
+| 47.2 | In this respect, the Work may be subject to milestones, which may have specific timelines that the Successful Tenderer needs to comply with. | **COMPLY** | All milestones with specific timelines will be complied with as per agreed project schedule. | Annex T41 |
+| **48** | **INDICATIVE PRICE** | | | |
+| 48.1 | The indicative price for the Work is Ringgit Malaysia Three Million Five Hundred Thousand Only (RM3,500,000.00) inclusive of any duties or taxes imposed by the Government of Malaysia. | **NOTED** | Indicative price of RM3,500,000 noted as reference only. Our comprehensive quotation provided in Financial Submission (Appendix D). | Appendix D |
+| 48.2 | The indicative price stated above is only an estimated value and does not bind MCMC or any other party so as to clear any confusion or doubt that may arise. | **NOTED** | Understood that indicative price is not binding. | Appendix D |
+| 48.3 | MCMC does not guarantee that the Tenderer will be selected or be able to complete the Work by mere reliance on the indicative price. | **NOTED** | Understood. Our comprehensive proposal stands on its own merits. | Appendix D |
+| **49** | **INTELLECTUAL PROPERTY** | | | |
+| 49.1 | MCMC shall be the sole and absolute owner of any customisation for the application, and all source code and documentation should be handed over to MCMC upon the issuance of Certificate of Final Acceptance sign off. | **COMPLY** | Full assignment of all customizations, source code, and documentation to MCMC upon CFA issuance. All IP rights transferred as stipulated. | - |
+| 49.2 | Tenderer must ensure that all intellectual property rights in and to UCMS are fully assigned to the MCMC upon the date stipulated. | **COMPLY** | Full IP assignment to MCMC upon date stipulated in contract. | - |
+| **50** | **ADDITIONAL REQUIREMENTS** | | | |
+| 50.1 | The Successful Tenderer shall be available on standby to address any ad hoc queries related to the scope of work and shall provide the necessary response in a timely manner. | **COMPLY** | Team available for ad-hoc queries with timely response. | - |
+| 50.2 | The Successful Tenderer shall submit the comprehensive quotation detailing the cost for implementation and the extended support services for the whole Work duration of 67 months. MCMC has absolute discretion in deciding whether to accept, reject or amend the price quoted during proposal submission. | **COMPLY** | Comprehensive 67-month implementation and support quotation provided in Appendix D. MCMC's discretion acknowledged. | Appendix D |
 
 ---
 
@@ -334,7 +160,7 @@ We hereby certify that:
 
 **Submitted by:**
 
-_______________________________
+_______________________________  
 Authorized Signatory
 
 Company Name: _______________________________
@@ -342,3 +168,7 @@ Company Name: _______________________________
 Date: _______________________________
 
 Company Stamp:
+
+---
+
+*This Compliance Technical Schedule is prepared based on the exact format and requirements from the Tender Document Section 5.*
