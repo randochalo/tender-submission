@@ -1,0 +1,6092 @@
+
+--- Page 1 ---
+
+
+UMPSA
+اونيورسيتي مليسيا فهع السلطان عبد الله
+
+## Universiti Malaysia Pahang
+
+
+## Al-Sultan Abdullah
+
+
+## Universiti Malaysia Pahang
+
+
+## Al-Sultan Abdullah
+
+
+## 26600 Pekan
+
+
+## Pahang Darul Makmur
+
+1
+No. Siri:
+
+## Dokumen Sebut Harga
+
+
+## No. Sebut Harga:
+
+
+## Umpsa/Bend/Sh/2026(2)
+
+
+## Membekal, Membangun, Menghantar, Memasang,
+
+
+## Mengintegrasi, Menguji Dan Mentauliah Sistem
+
+
+## Pengurusan Mesyuarat Di Universiti Malaysia
+
+
+## Pahang Al-Sultan Abdullah
+
+
+## Tarikh Buka : 12 Februari 2026
+
+
+## Tarikh Tutup : 26 Februari 2026
+
+
+## 12.00 Tengahari
+
+
+## Peringatan Penting
+
+
+## Syarikat Dikehendaki Membaca Dan Memahami Keseluruhan Butir-Butir Yang
+
+
+## Terkandung Di Dalam Dokumen Sebut Harga. Pembida Yang Membuat Kesilapan Dan
+
+
+## Tidak Mematuhi Mana-Mana Fasa Di Dalam Dokumen Ini Boleh Menyebabkan Sebut
+
+
+## Harga/Tender Tersebut Tidak Dipertimbangkan
+
+
+## Jabatan Bendahari
+
+UMPSA
+
+
+--- Page 2 ---
+
+
+
+## Bahagian A :
+
+1.
+Notis Pelawaan
+2.
+KANDUNGAN
+Arahan Dan Syarat-Syarat Kepada Penyebut harga
+3. Pegawai Bertanggungjawab Untuk Dihubungi
+
+## Bahagian B : Dokumen Penilaian Kewangan
+
+1.
+2.
+Maklumat Umum Kewangan Penyebut Harga/Petender
+Borang Semakan Dokumen (BEND/UP/001)
+3. Jadual Kadar Harga (BEND/UP/003 )
+4. Borang Jaminan Pembekal (BEND/UP/002)
+Surat Akuan Syarikat Dalam Menangani Jenayah Pemerdagangan Orang dan
+Buruh Paksa
+Surat Perwakilan Kuasa
+Maklumat Aset Dan Liabiliti. Lengkapkan Lampiran 8 dan 9
+Maklumat Syarikat Dan Sijil-Sijil:
+Maklumat Syarikat (BEND/UP/0004)
+5.
+Surat Akuan Pembida (BEND/UP/013)
+6.
+7.
+8.
+9.
+(i)
+(ii)
+Senarai Kontrak Semasa Dan Terdahulu
+(iii)
+Borang Kebenaran Mengakses Data Syarikat
+(iv)
+(v)
+Laporan Bank / Penyata Mengenai Maklumat Simpanan Seperti Deposit
+Tetap / Amanah Saham / Tabung Haji Atas Nama Syarikat Atau Individu
+Surat Overdraf / Overdraft Bercagar, Pembiayaan Bank @ Institusi
+Kewangan, Talian Kredit / Pembiayaan Bank/ Kad Kredit
+(vi)
+Penyata Caruman Majikan Dalam EPF/SOCSO / EIS
+(vii) Salinan Sijil Pendaftaran Syarikat (SSM/ROC)
+(viii) Salinan Sijil Kementerian Kewangan (MOF)
+(ix)
+Salinan Sijil Taraf Bumiputera (Jika ada)
+(x)
+Salinan Sijil Pematuhan Cukai (TCC)
+(xi)
+Salinan Sijil MySTI
+(xii) Salinan Penyata Bank bagi tiga (3) bulan terakhir
+(terkini dan disahkan oleh Pegawai Bank)
+(xiii) Salinan Laporan Penyata Kewangan (Audit) dan/atau Penyata Kewangan
+Pengurusan terkini yang telah disahkan (Tender Sahaja)
+
+## Bahagian C: Dokumen Penilaian Teknikal
+
+1. Jadual Penentuan Teknikal (BEND/UP/007) yang dilengkapkan dan
+disertakan dokumen sokongan berikut:
+Cadangan Teknikal Pembekal (sekiranya ada)
+a.
+b.
+Katalog Produk
+C.
+d.
+Carta Aliran Penyempurnaan Pembekalan (jika berkaitan)
+Cadangan Kandungan Latihan
+e.
+Sampel (jika berkaitan)
+f.
+Dokumen-dokumen lain yang berkaitan.
+
+## Bendahari/Ketua Pegawai Kewangan
+
+
+## Universiti Malaysia Pahang Al-Sultan Abdullah
+
+
+
+--- Page 3 ---
+
+
+KANDUNGAN:
+
+## Bahagian A:
+
+1.
+Notis Pelawaan
+2.
+Arahan Dan Syarat-Syarat Kepada Penyebut harga
+3. Pegawai Bertanggungjawab Untuk Dihubungi
+
+
+--- Page 4 ---
+
+
+UMPSA
+اونيورسيتي مليسيا فهم السلطان عبدالله
+
+## Universiti Malaysia Pahang
+
+
+## Al-Sultan Abdullah
+
+
+## 1. Notis Pelawaan
+
+Tawaran adalah dipelawa daripada syarikat /pembekal yang berdaftar dengan Kementerian Kewangan Malaysia dan Universiti
+Malaysia Pahang Al-Sultan Abdullah untuk membuat tawaran bagi sebut harga/tender seperti berikut:
+Bil
+1.
+Tajuk
+
+## Umpsa/Bend/Sh/2026(2)
+
+Membekal, Membangun, Menghantar,
+Memasang, Mengintegrasi, Menguji
+Dan Mentauliah Sistem Pengurusan
+Mesyuarat Di Universiti Malaysia
+Pahang Al-Sultan Abdullah
+Kod Bidang
+Harga
+Dokumen
+Tarikh Buka / Tarikh Tutup
+Kementerian Kewangan
+RM50.00
+Malaysia
+Kod Bidang:
+210104
+Mulai 12 Februari 2026
+Hingga 26 Februari 2026
+Tarikh Tutup:
+26 Februari 2026 (Khamis)
+Jam 12.00 tengahari
+Pegawai
+Bertanggungjawab:
+En. Hanizam bin Abdul
+Kassim
+09-431 5232
+
+## Arahan Dan Maklumat Kepada Pembekal / Kontraktor / Syarikat
+
+1) Syarikat/Pembekal boleh membuat pembelian naskah dengan membuat pembayaran dan perlu mematuhi syarat yang
+dinyatakan di atas. Emelkan maklumat berikut ke perolehan@umpsa.edu.my:
+a. Salinan Sijil SSM, Sijil Kementerian Kewangan dan Sijil Pematuhan Cukai (TCC);
+b.
+Resit pembayaran secara atas talian ke akaun Bendahari UMPSA seperti berikut:
+
+## Nama Akaun : Bendahari Umpsa
+
+
+## No. Akaun : 556235304242 (Maybank)
+
+
+## Recipient Reference: Bend/Sh/2026(2)
+
+
+## Payment Detail: Nama Syarikat
+
+C.
+Pembayaran yang dibuat tidak akan dikembalikan.
+d. Dokumen sebut harga/tender ini akan di emel kepada syarikat/pembekal;
+e.
+Sebarang pertanyaan, boleh berhubung dengan En. Faris di talian atau WhatsApp 09-431 5085
+Dokumen sebut harga/tender yang telah disempurnakan hendaklah dimasukkan ke dalam sampul surat berlakri dan
+ditandakan dengan jelas nombor, tajuk dan tarikh tutup sebut harga/tender tersebut disudut sebelah kiri atas sampul surat
+berkenaan dan dimasukkan sendiri ke dalam Peti Sebut Harga/Tender sebelum atau pada tarikh dan masa yang telah
+ditetapkan seperti di atas. Sebut harga/tender yang lewat dikemukakan tidak akan dipertimbangkan.
+3) Pihak Universiti tidak terikat untuk menerima tawaran terendah atau sebarang tawaran.
+(Notis pelawaan ini juga dipaparkan di laman web rasmi UMPSA. Sila layari https://apps.ump.edu.my/vendor/vendor/
+
+## Bendahari/Ketua Pegawai Kewangan
+
+
+## Universiti Malaysia Pahang Al-Sultan Abdullah
+
+
+## Universaalaysi
+
+*
+ANG
+
+## An Abdullay
+
+
+
+--- Page 5 ---
+
+
+LAMPIRAN Q
+
+## (Arahan Perbendaharaan 170)
+
+(Kew. 284-Pin. 5/94)
+
+## Universiti Malaysia Pahang
+
+
+## Al-Sultan Abdullah
+
+
+## 1. Sebut Harga/Tender Untuk Bekalan/Perkhidmatan
+
+Dokumen ini hendaklah disifatkan menjadi dan dibaca dan ditaksirkan sebagai sebahagian
+daripada Perjanjian Sebut Harga.
+Kepada (Nama Syarikat)
+No. Telefon........
+No. Pendaftaran dengan Kementerian
+Kewangan
+Kod bidang pendaftaran yang relevan
+dengan pembelian ini.
+1.
+| Pelawaan sebut harga dikeluarkan
+| oleh:
+| Unit Perolehan
+Bahagian Khidmat Pengurusan Kewangan,
+Jabatan Bendahari,
+Aras 1, Bangunan Canseleri Tun Abdul Razak,
+| Universiti Malaysia Pahang Al-Sultan Abdullah,
+| 26600 Pekan, Pahang
+| No. Telefon: 09-431 5085
+|Tarikh:
+Sila beri sebut harga/tender untuk bekalan/perkhidmatan yang disenaraikan di
+bawah tertakluk kepada syarat-syarat yang ditetapkan:
+1.1. Syarat penyerahan/penyempurnaan. Arahan dan Syarat-syarat Penyebut
+Harga.
+1.2. Tarikh penyerahan/penyempurnaan dikehendaki berdasarkan tempoh
+serahan yang ditetapkan dalam Surat Setuju Terima.
+1.3. Arahan pengiriman serahan tangan ke alamat di atas.
+1.4. Sebut harga/tender/ebidding hendaklah dimasukkan ke dalam suatu sampul
+berlakri dan dan bertanda nombor sebut harga/tender/ebidding yang
+diiklankan.
+1.5. Sebut harga/tender/ebidding hendaklah di hantar ke alamat di atas tidak lewat
+pada jam 12.00 tengah hari pada tarikh tutup.
+1.6. Tempoh sah laku sebut harga hendaklah 90 hari selepas tarikh tutup.
+ходо
+Tarikh:
+11/2/2026
+Tandatangan:
+Nama Pegawai:
+
+## ..Nursyaihan Bin Ab Halim******
+
+
+## Pengurus Kewangan
+
+Jawatan:
+
+
+--- Page 6 ---
+
+
+1.
+AM
+
+## Universiti Malaysia Pahang
+
+
+## Al-Sultan Abdullah
+
+
+## 2. Arahan Dan Syarat-Syarat Kepada Penyebut Harga
+
+1.1
+1.2
+1.3
+1.4
+1.5
+1.6
+1.7
+1.8
+1.9
+Universiti Malaysia Pahang Al-Sultan Abdullah (UMPSA) mempelawa kepada
+syarikat-syarikat yang telah berdaftar dengan Kementerian Kewangan Malaysia
+(KKM) atau CIDB dengan kod bidang seperti di notis pelawaan serta
+pendaftarannya masih lagi berkuatkuasa bagi menyempurnakan
+bekalan/perkhidmatan tersebut. Syarikat-syarikat wajib mendaftar sebagai
+pembekal di UMPSA seperti di pautan : https://apps.ump.edu.my/vendor/vendor/
+Syarikat yang menggunakan naskah sebut harga/tender rasmi dan mematuhi
+syarat-syarat sebut harga/tender sahaja yang akan dipertimbangkan untuk
+penilaian.
+Setiap syarikat hanya dibenarkan untuk membeli dan mengemukakan satu tawaran
+sahaja bagi setiap sebut harga/tender.
+Borang Jaminan Pembekal dan Surat Akaun Pembida wajib ditandatangani oleh
+pegawai yang diberi kuasa di dalam Sijil Kementerian Kewangan (MOF). Sekiranya
+penama di dalam Sijil Kementerian Kewangan tiada maka hendaklah disertakan
+bersama dengan surat perwakilan kuasa. Kegagalan mematuhi syarat ini akan
+mengakibatkan syarikat tidak akan dinilai dalam proses Penilaian sebut harga
+Universiti.
+Syarikat yang membeli naskah sebut harga/tender perlu mengemukakan resit
+pembayaran sebelum menyertai sebut harga/tender ini.
+Naskah sebut harga/tender Universiti yang tercatat nombor siri sahaja yang akan
+diterima. Lain-lain naskah tidak diterima kecuali sebagai tambahan kepada naskah
+yang asal.
+Pelawaan adalah terikat kepada Arahan dan Syarat-Syarat (sekiranya berkaitan)
+yang dikembarkan bersama-sama ini dan syarat-syarat khas yang akandikeluarkan
+bersama-sama dengan dokumen sebut harga/tender berkaitan.
+Semua syarikat hendaklah mematuhi sepenuhnya syarat-syarat ini apabila
+menyertai sebut harga/tender. Kegagalan mematuhi mana-mana syarat yang telah
+ditetapkan membolehkan sebut harga/tender tersebut tidak dipertimbangkandan
+terus ditolak.
+Jika terdapat kesilapan (discrepancy) di dalam Dokumen Sebut Harga/Tender yang
+dibekalkan kepada syarikat, adalah menjadi kewajipan dan tanggungjawab syarikat
+memohon kepada pegawai yang menerima sebut harga/tender untuk membetulkan
+kesilapan tersebut sebelum tarikh penyerahan sebut harga/tender seperti yang
+ditetapkan dalam Notis Pelawaan.
+1.10 Sebarang pindaan ke atas mana-mana maklumat mestilah dipotong dan
+ditandatangan ringkas semua pembetulan berserta tarikh. Penggunaan apa-apa
+bentuk pemadam adalah tidak dibenarkan sama sekali.
+1.11 Sebut harga/tender hendaklah sah laku selama sembilan puluh (90) hari daripada
+tarikh penyerahan sebut harga/tender seperti yang ditetapkan dalam Notis
+Pelawaan dan seseorang syarikat tidak boleh menarik balik sebut harga/ tendernya
+dalam tempoh tersebut.
+
+
+--- Page 7 ---
+
+
+2.
+3.
+4.
+1.12 Syarikat diwajibkan menghadiri taklimat sebut harga/tender sepertimana tarikh,
+tempat dan masa yang dinyatakan dalam notis sebut harga/tender. Dokumen sebut
+harga/tender hanya dijual kepada syarikat yang menghadiri taklimat sebut
+harga/tender sahaja (sekiranya berkaitan).
+1.13 Syarikat adalah dinasihatkan untuk membuat lawatan dan pemeriksaan kawasan
+pembekalan/pemasangan untuk memastikan skop pembekalan/pemasanganyang
+sebenar.
+1.14 Syarikat adalah disifatkan telah menerima dan meneliti tapak
+pembekalan/pemasangan dan sekitarnya dan telah berpuashati sebelum
+menyerahkan sebut harga/tendernya tentang bentuk dan jenis kawasan
+pembekalan/ pemasangan, takat dan jenis pembekalan/pemasangan, bahan dan
+barangan yang perlu bagi menyiapkan pembekalan/pemasangan,
+perhubungan dengan dan akses kawasan pembekalan/perkhidmatan dan pada
+amnya hendaklah mendapatkan sendiri semua maklumat yang perlu tentang risiko,
+perkara luar jangkaan dan semua hal keadaan yang mempengaruhi dan
+menjejaskan sebut harga/tendernya.
+
+## Sijil Pematuhan Cukai
+
+2.1
+2.2
+2.3
+cara
+Sijil Pematuhan Cukai (Tax Compliance Certificate TCC) diwajibkan bagi
+perolehan UMPSA.
+Syarikat boleh membuat semakan dan cetakan TCC secara kendiri melalui menu
+Status MyTax di Portal MyTax iaitu https:\\mytax.hasil.gov.my
+Pelaksanaan TCC bertujuan memperkemas operasi percukaian yang memberi
+kesan positif kepada tahap integriti dan ketelusan dalam tadbir urus pentadbir
+cukai dan pentadbiran fiskal negara.
+
+## Tarikh Tutup
+
+3.1 Sebut harga/tender ini ditutup seperti tarikh dan masa yang ditetapkan dalam
+Notis Pelawaan.
+
+## Penyerahan Dokumen Sebut Harga/Tender
+
+4.1 Tawaran hendaklah diberi kepada semua perkara yang dinyatakan di Jadual
+Penentuan Teknikal dan Jadual Kadar Harga.
+4.2
+Dokumen sebut harga/tender yang telah diisi dengan lengkap hendaklah
+dikemukakan dalam satu (1) sampul surat yang diasingkan Bahagian B
+(Dokumen Penilaian Kewangan) dan Bahagian C (Dokumen Penilaian
+Teknikal) serta berlakri.
+
+## Dokumen Penilaian Kewangan (Sampul 1)
+
+1. Borang Semakan Dokumen (BEND/UP/001)
+2. Maklumat Umum Kewangan Penyebut Harga/Petender
+3. Jadual Kadar Harga (BEND/UP/003)
+4. Borang Jaminan Pembekal (BEND/UP/002)
+5. Surat Akuan Pembida (BEND/UP/013)
+6. Surat Perwakilan Kuasa
+7. Maklumat Syarikat Dan Sijil-Sijil
+
+
+--- Page 8 ---
+
+
+5.
+4.3
+4.4
+4.5
+4.6
+HARGA
+5.1
+5.2
+5.3
+5.4
+5.5
+
+## Dokumen Penilaian Teknikal (Sampul 2)
+
+Jadual Penentuan Teknikal (BEND/UP/007) yang dilengkapkan dan
+disertakan dokumen sokongan berikut:
+a.
+Cadangan Teknikal Pembekal (sekiranya ada)
+b. Katalog Produk
+C.
+Carta Aliran Penyempurnaan Pembekalan (jika berkaitan)
+d. Cadangan Kandungan Latihan
+e.
+f.
+Sampel (jika berkaitan)
+Dokumen-dokumen lain yang berkaitan.
+Sampul surat ini hendaklah dialamatkan kepada alamat seperti yang dinyatakan didalam
+notis sebut harga/tender, serta dituliskan dengan tajuk, nombor dan tarikh sebut
+harga/tender ditutup yang berkenaan disebelah atas bahagian kiri sampul surat
+berkenaan.
+Sebut harga/tender hendaklah dimasukkan sendiri melalui pos ke alamat berikut:
+Unit Perolehan
+Jabatan Bendahari,
+Aras 1, Canseleri Tun Abdul Razak,
+Universiti Malaysia Pahang Al-Sultan Abdullah,
+26600 Pekan, Pahang Darul Makmur.
+UMPSA tidak akan bertanggungjawab secara langsung atau secara tidak
+langsung, jika berlaku kelewatan, kehilangan atau lain-lain semasa sebut
+harga/tender diposkan. Sebut harga/tender yang diterima selepas tarikh tutup tidak
+akan dipertimbangkan.
+Syarikat tidak boleh memasukkan apa-apa perbelanjaan berkaitan dengan
+penyediaan sebut harga/tender ini ke dalam harga sebut harga/tender yang
+ditawarkan.
+Tawaran harga mestilah dalam Ringgit Malaysia (RM) sahaja dan harga adalah
+tetap.
+Jumlah keseluruhan tawaran harga di dalam jadual kadar harga hendaklah dibawa
+ke Borang Jaminan Pembekal. Pihak syarikat hendaklah memastikan pengiraan
+harga per item serta keseluruhan harga tersebut adalah betul. Pihak UMPSA
+berhak menolak tawaran syarikat sekiranya berlaku kesilapan dalam mengisi
+borang tersebut.
+Syarikat yang berjaya tidak boleh mengubah harga tawarannya melainkan
+dipersetujui secara bertulis oleh pihak Universiti kerana sesuatu sebab di luar
+kawalan.
+Harga yang ditawarkan mestilah tidak melebihi dua angka perpuluhan. Sebagai
+contoh: RM0.15/ unit.
+Bagi ruangan yang kosong, misalnya tidak ada apa-apa maklumat yang hendak
+dicatatkan mestilah ditulis dengan perkataan "Tidak Berkenaan".
+
+
+--- Page 9 ---
+
+
+6.
+5.6
+Syarikat boleh mengemukakan tawaran berasaskan kepada harga CIF bagi
+- peralatan latihan, penyelidikan dan perubatan yang diimport. Penjelasan mengenai
+terma-terma ini adalah seperti berikut:
+i. CIF (Cost, Insuran & Freight)
+ii.
+Syarikat mesti membayar kos dan tambang untuk membawa masuk
+barangan ke destinasi pengkalan dan insurans perlu ditanggung oleh
+syarikat. Syarikat boleh melantik MTO yang berdaftar/ mempunyai kod
+bidang pengangkutan yang mempunyai nilai tidak lebih daripada RM5 juta
+bagi sebut harga dan tidak lebih daripada RM10 juta bagi tender.
+Pembekal dikenakan syarat wajib menggunakan perkhidmatan MTO dan
+insurans daripada syarikat MTO dan insuran tempatan bertaraf Bumiputera
+yang dilantik disenaraikan oleh Kementerian Kewangan. Perkhidmatan
+MTO dan insurans hendaklah bermula daripada port ofloading sehingga ke
+destinasi terakhir yang dinamakan oleh Universiti.
+
+## Jadual Penentuan Teknikal
+
+6.1
+6.2
+6.3
+6.4
+6.5
+6.6
+6.7
+6.8
+Spesifikasi jabatan adalah seperti yang dinyatakan dalam Jadual Penentuan
+Teknikal. Syarikat adalah wajib memenuhi kesemua spesifikasi umum yang
+dinyatakan.
+Penentuan barang yang hendak dibeli adalah seperti di dalam Jadual Penentuan
+Teknikal yang dilampirkan. Sila nyatakan cadangan spesifikasi dibawah tajuk
+"Spesifikasi Syarikat”. Sekiranya ruang yang diberikan tidak mencukupi, syarikat
+boleh mengemukakan lampiran dengan menggunakan format borang yang sama.
+Kuantiti, jenama, nombor model (jika ada) dan negara pembuat hendaklah
+dinyatakan dengan jelas, jika tidak sebut harga/tender tidak akan dipertimbangkan.
+Semua syarikat DIMESTIKAN mengisi jadual penentuan teknikal ini. Kegagalan
+mengisi jadual ini dengan lengkap boleh mengakibatkan syarikat di tolak terus
+daripada menyertai sebut harga/tender ini.
+Universiti tidak akan melayan tuntutan bagi bayaran tambahan harga akibat dari
+perbezaan antara tafsiran syarikat dengan tafsiran UMPSA mengenai penentuan
+ini.
+Sila pastikan syarikat tidak menulis nama atau cop nama syarikat dimana-mana
+bahagian di dalam jadual penentuan teknikal tersebut.
+Syarikat dikehendaki (apabila diminta) mengemukakan Salinan ASAL/ diakui dah
+dokumen-dokumen bagi bekalan yang dibekalkan:-
+a. 'National Quality Certification' dari 'National Authority' yang berkenaan;
+b. Manufacturer's/Supplier's Guarantee Certificate;
+c. Inspection Certificate issued by the nominated inspection agency and the
+Supplier's factory inspection report;
+d. Certificate of Origin.
+Syarikat dikehendaki memperakui bahawa bekalan/perkhidmatan yang dibekalkan
+oleh mereka adalah mengikut spesifikasi atau piawai (jika ada) yang dinyatakan di
+dalam pelawaan ini.
+
+
+--- Page 10 ---
+
+
+7.
+8.
+9.
+
+## Bantahan Ke Atas Spesifikasi
+
+7.1
+7.2
+7.3
+Syarikat boleh membuat bantahan ke atas spesifikasi sebut harga/tender sekiranya
+didapati spesifikasi sebut harga/tender menjurus kepada sesuatu jenama sahaja.
+Bantahan boleh dibuat secara bertulis kepada Jabatan Bendahari, UMPSA
+dengan mengemukakan bukti-bukti yang jelas.
+Surat bantahan ini hendaklah dikemukakan dalam tempoh empat belas (14) hari
+dari tarikh iklan sebut harga/tender.
+Walaubagaimanapun Universiti tidak terikat untuk menerima bantahan ini.
+WARRANTI
+8.1 Tempoh minimum warranti bagi alat-alat yang dibekalkan adalah tiga (3) tahun
+daripada tarikh dibekal atau dipasang dan ditauliahkan (jika berkaitan).
+8.2
+8.3
+Sekiranya di dalam tempoh warranti, Universiti mendapati barang-barang tersebut
+tidak memuaskan atau rosak bukan disebabkan oleh penyalahgunaan atau
+kecuaian Universiti, syarikat hendaklah membaiki dan jika perlu mengganti mana-
+mana alat atau alat-alat yang tidak berfungsi dengan memuaskan dalam tempoh
+yang ditetapkan oleh Universiti tanpa apa-apa bayaran tambahan. Laporan-
+laporan mengenai kerosakan itu termasuk kerja-kerja pembaikan dan penggantian
+hendaklah dikemukakan kepada Universiti dalam dua (2) salinan.
+Sekiranya syarikat gagal mengganti/membaiki alat-alat berkenaan dengan
+memuaskan maka Universiti boleh sama ada:
+i) Mendapatkan mana-mana orang berkelayakan bagi mengganti/
+membaiki alat-alat itu di mana semua kos yang kena bayar bagi
+tujuan tersebut hendaklah ditanggung oleh syarikat;
+atau
+ii) Memulangkan alat berkenaan dan syarikat hendaklah membayar
+denda, pampasan dan kos-kos yang terlibat dengan pemulangan
+itu.
+
+## Penentuan Barang
+
+9.1
+9.2
+9.3
+9.4
+9.5
+Semua barang yang dipesan hendaklah dihantar ke tempat yang dinyatakan dalam
+Pesanan Tempatan UMPSA. Penerimaan barang hanya akan di buat setelah
+barang-barang diperiksa oleh pihak Bendahari, dan/atau wakil-wakil yang telah
+diberi kuasa.
+Bendahari atau wakil yang diberi kuasa berhak membuat penolakan terhadap
+bekalan barang-barang yang rosak atau yang tidak mengikut penentuan penentuan
+itu. Kos yang berkaitan hendaklah ditanggung oleh syarikat sendiri.
+Barang yang dibekal hendaklah dijamin dari kecacatannya untuk tempoh 3
+tahun dari tarikh pembekalan dan dalam tempoh itu pembekal hendaklah memberi
+perkhidmatan menyelenggara, servis dan alat-alat ganti denganpercuma.
+Syarikat hendaklah melampirkan tiga (3) salinan surat penyerahan pada tiap-tiap
+satu penyerahan barang.
+Sebut harga/tender boleh ditawarkan bagi barang setara yang sesuai dengan
+syarat butir-butir penuh diberi.
+
+
+--- Page 11 ---
+
+
+10.
+
+## Katalog Dan Contoh
+
+11.
+10.1 Apabila diminta, contoh barang-barang atau pembungkusan hendaklah diberiuntuk
+diperiksa atau dianalisa. Contoh yang diterima hendaklah dikirim mengikut bilangan
+dan pada masa yang ditentukan. Contoh-contoh ini hendaklah ditanda dengan
+butiran barang seperti yang terdapat dalam sebut harga. Syarikat yang tidak
+mengemukakan contoh-contoh yang berkenaan, tidak akan dipertimbangkan.
+Penghantaran contoh adalah atas tanggungan syarikat sendiri.
+10.2
+10.3
+10.4
+10.5
+Bagi setiap item yang ditawarkan, hendaklah menggunakan katalog asal. Semua
+katalog/risalah mestilah di dalam Bahasa Malaysia atau Bahasa Inggeris sahaja.
+Sekiranya salinan fotostat dikemukakan, salinan berkenaan hendaklah jelas,
+terang dan boleh dibaca.
+Semua katalog atau risalah mestilah ditulis nombor tender dan kod item yang
+dimasukinya. Nama syarikat tidak boleh dicatatkan di atas katalog atau risalah yang
+disertakan. Pihak Universiti berhak menolak tawaran syarikat sekiranya didapati
+tercatat nama ataupun cop syarikat di atas katalog atau risalah yang disertakan.
+Semua tawaran yang dikemukakan mestilah mempunyai jenama/'trademark'dan
+tanda negara asal pada item tersebut. Item-item yang tidak mempunyai tanda-
+tanda berkenaan tidak akan dipertimbangkan.
+Tawaran yang tidak disertai dengan katalog atau contoh item (apabila diminta)
+tidak akan dipertimbangkan
+
+## Penyempurnaan Pembekalan/Perkhidmatan
+
+11.1
+11.2
+11.3
+11.4
+11.5
+Tempoh penghantaran dan penyempurnaan pembekalan/ perkhidmatan
+hendaklah dinyatakan dengan jelas di dalam sebut harga/ tender. Tempoh yang
+dinyatakan hendaklah merangkumi kesemua kerja-kerja pembekalan,
+penghantaran, pemasangan, pengujian dan latihan yang dicadangkan.
+Bekalan untuk satu-satu butiran tidak boleh di buat berperingkat. Tiap-tiap satu
+butiran (iaitu kuantiti yang dipesan) mestilah dibekalkan dengan satu penyerahan
+sahaja
+Barang yang rendah mutunya atau yang berlainan daripada bekalan yang telah
+dipersetujui sebut harga/tendernya boleh ditolak;
+Apabila diminta, syarikat hendaklah menyebabkan barang yang ditolak itu
+dipindahkan atas tanggungan dan perbelanjaannya sendiri, dan ia hendaklah
+membayar balik kepada Universiti segala perbelanjaan yang telah dilakukan
+mengenai bekalan yang ditolak itu; dan
+Fasal (11.3) dan (11.4) di atas ini tidaklah memudaratkan apa-apa hak Universiti
+untuk mendapatkan ganti rugi kerana kegagalan memenuhi obligasi kontrak.
+11.6
+Bila-bila
+dikehendaki, syarikat mestilah sanggup untuk
+persembahan/demontrasi alat-alat yang ditawarkan
+mengadakan
+11.7 Kerajaan sentiasa berhak melantik seseorang pegawai untuk memeriksa dan
+menguji bekalan itu semasa tempoh pembuatan atau pada bila-bila masa lain
+sebelum penyerahan bekalan tersebut; dan
+11.8
+Syarikat hendaklah memberi kemudahan pemeriksaan atau pengujian apabila
+dikehendaki.
+
+
+--- Page 12 ---
+
+
+12.
+13.
+14.
+
+## Tawaran Pilihan (Alternative Offer)
+
+Syarikat tidak dibenarkan membuat tawaran pilihan (alternative offer) bagi mana-mana
+item yang dimasukinya. Mana-mana syarikat yang tidak mematuhi syarat ini, Universiti
+akan membuat penilaian terhadap tawaran terendah daripada senarai tawaran-tawaran
+yang diberikannya.
+
+## Penerimaan Sebut Harga/Tender
+
+13.1
+13.2
+13.3
+13.4
+13.5
+UMPSA tidak terikat menerima sebut harga/tender terendah atau mana-mana
+sebut harga/tender. Universiti juga berhak memilih lebih dari satu syarikat mengikut
+kepentingannya.
+Sekiranya sesuatu sebut harga/tender dibuat mengikut pakej-pakej tertentu,
+syarikat hendaklah mencatatkan harga bagi semua item yang tersenarai didalam
+mana-mana pakej yang dimasukinya. Kegagalan mematuhi syarat ini dengan
+sendirinya menjadikan tawarannya tidak lengkap dan boleh ditolak.
+Syarikat boleh menyertai semua pakej atau mana-mana pakej pilihan.
+Semua syarikat dikehendaki menyatakan harga seunit tiap-tiap item di samping
+memberi jumlah harga keseluruhan bagi mana-mana pakej yang dimasuki.
+Penilaian harga antara syarikat akan diasaskan kepada jumlah harga sepakej.
+Tawaran ini akan dipertimbangkan berasaskan daya saing harga, keupayaan
+kewangan syarikat, pengalaman syarikat dalam bidang kerja, rekod prestasi dan
+faktor-faktor tambahan lain yang mungkin berkaitan. Walau bagaimanapun
+Universiti tidak akan terikat untuk menawarkan kontrak kepada syarikat yang
+menawarkan harga terendah.
+
+## Setujuterima Sebut Harga/Tender
+
+14.1
+14.2
+14.3
+14.4
+14.5
+Surat Setuju Terima (SST) akan dihantar oleh Universiti kepada syarikat yang
+berjaya dan Pengakuan Penerimaan Surat Setuju Terima akan dianggap sebagai
+kontrak yang mengikat di antara Universiti dan syarikat tanpa mengambil kira sama
+ada kontrak sebenar akan disempurnakan atau tidak.
+Universiti adalah berhak menyetuju terima sebut harga/tender tersebut sama ada
+kesemuanya ataupun sebahagian daripadanya. Universiti tidak terikat untuk
+menerima tawaran yang paling murah atau sebarang tawaran.
+Universiti juga berhak untuk memilih lebih daripada satu syarikat untuk satu-satu
+kontrak jika difikirkan memberi faedah kepada Universiti.
+Keputusan Universiti adalah muktamad. Universiti tidak akan melayan sebarang
+surat menyurat yang berupa rayuan dari syarikat mengenai sebab-sebab tawaran
+mereka tidak berjaya.
+Universiti berhak untuk membatalkan SST jika perkara-perkara berikut tidak
+dipatuhi:
+(a)
+(b)
+Syarikat gagal mematuhi mana-mana terma di perenggan 4 dalam Surat
+SST dalam tempoh masa yang ditetapkan.
+Syarikat gagal mematuhi mana-mana terma yang dinyatakan dalam Surat
+Akuan Pembida Berjaya.
+
+
+--- Page 13 ---
+
+
+(c)
+(d)
+(e)
+(f)
+(g)
+(h)
+(i)
+Syarikat telah membuat salah nyataan (misrepresentation) atau
+mengemukakan maklumat palsu semasa berurusan dengan Universiti bagi
+perolehan ini atau melakukan apa-apa perbuatan lain seperti memalsukan
+maklumat dalam Sijil Akuan Pendaftaran Syarikat, mengemukakan bon
+pelaksanaan atau dokumen lain yang palsu atau yang telah diubah suai.
+Syarikat membenarkan Sijil Akaun Pendaftaran Syarikat disalahgunakan
+oleh individu/syarikat lain.
+Syarikat terlibat dalam membuat pakatan harga dengan syarikat-syarikat
+lain atau apa-apa pakatan sepanjang proses sebut harga sehingga
+dokumen kontrak ditandatangani.
+Syarikat telah memberikan subkontrak sama ada sepenuhnya atau
+sebahagiannya pembekalan barang tanpa kelulusan Universiti terlebih
+dahulu.
+Syarikat gagal membekalkan barang dan menyempurnakan perkhidmatan
+dalam tempoh yang ditetapkan.
+Syarikat gagal mematuhi mana-mana terma/arahan di dalam dokumen
+sebutharga.
+Syarikat tuan/ pemilik rakan kongsi pengarah telah disabitkan atas
+kesalahanjenayah di dalam atau luar Malaysia.
+(j)
+Syarikat digulungkan.
+(k)
+Syarikat gagal mematuhi spesifikasi pembekalan yang ditetapkan.
+(1)
+Terdapat perkara yang melibatkan kepentingan awam atau keselamatan
+dankepentingan negara.
+15.
+16.
+
+## Bon Pelaksanaan
+
+15.1
+15.2
+Syarikat yang berjaya dikehendaki mengemukakan BON PELAKSANAAN (dalam
+bentuk Jaminan Bank sahaja) yang berjumlah seperti berikut :-
+a. Nilai Bon Pelaksanaan adalah dikira berdasarkan harga kontrak
+b. Kontrak Bekalan/Perkhidmatan kurang RM200,000 - dikecualikan daripada
+Bon Pelaksanaan selaras dengan Pekeliling Perbendaharaan PK4.2.
+c. Kontrak Bekalan/Perkhidmatan RM200,001-RM500,000 - 2.5% daripada
+harga kontrak
+d. Kontrak Bekalan/Perkhidmatan RM 500,001 ke atas - 5% daripada harga
+kontrak
+Tempoh sahlaku Bon Pelaksanaan hendaklah dari tarikh kontrak dimulakan
+sehingga dua belas (12) bulan selepas tarikh tamat kontrak atau selepas
+penghantaran terakhir mengikut mana yang terkemudian.
+
+## Kontrak Perjanjian
+
+16.1
+Syarikat yang berjaya dikehendaki menandatangani Kontrak dengan UMPSA dan
+kena membayar ganti rugi jika tidak mematuhi kontrak. Sebarang bantahan kepada
+syarat-syarat sebut hargal tender hendaklah dibuat semasa mengemukakan
+dokumen sebut harga/ tender.
+
+
+--- Page 14 ---
+
+
+17.
+16.2
+16.3
+16.4
+16.5
+Syarikat yang berjaya adalah diwajibkan mengikat suatu kontrak perjanjian dengan
+Universiti yang akan disediakan dalam 4 salinan bagi perolehan bermasa dan
+perolehan bukan bermasa yang melebihi RM500,000.00 termasuk perolehan-
+perolehan yang rumit.
+Syarat-syarat dalam Penentuan Teknikal sebut harga/ tender dan syarat-syarat
+dalam surat tawaran adalah menjadi sebahagian daripada syarat-syarat kontrak.
+Apa-apa juga duti setem serta kos guaman (jika ada) yang harus dibayar
+berkenaan dengan persetujuan ini akan ditanggung oleh syarikat tersebut.
+Segala duti setem dan kos guaman (jika ada) hendaklah diselesaikan oleh syarikat
+tersebut sebelum sebarang tuntutan bayaran dibuat kepada UMPSA. Draf
+perjanjian adalah seperti yang terkandung di Bahagian D.
+PEMBAYARAN
+17.1
+17.2
+Semua pembayaran adalah dibuat dalam Ringgit Malaysia.
+Pembayaran bagi tiap-tiap penyerahan akan dibuat oleh Jabatan Bendahari,
+UMPSA dalam tempoh satu bulan (30 hari) selepas barang diterima dan dipasang
+dengan memuaskan dan setelah inbois dikemukakan oleh Jabatan/Fakulti.
+17.3 Borang-borang yang dikemukakan hendaklah diisi dengan lengkap dan
+ditandatangani sewajarnya.
+17.4
+Pembayaran kepada syarikat tidak boleh dianggap sebagai perakuan bahawa
+barang-barang itu adalah mengikut kualiti yang dikehendaki. Bayaran oleh
+Universiti tidak melepaskan syarikat atas tanggungjawab yang berkaitan di dalam
+kontrak.
+17.5 Pembayaran untuk tiap-tiap pesanan yang telah disempurnakan seboleh-bolehnya
+akan dibuat dalam tempoh yang munasabah. Bayaran akan dibayar menurut kadar
+sepertimana yang telah dipersetujui dan yang telah ditentukan di dalam Jadual
+Kadar Harga. Apabila syarikat mengemukakan tuntutan tertakluk kepada syarat-
+syarat berikut:
+(i) Inbois asal yang lengkap
+(ii) Pesanan Tempatan yang asal
+(iii) Sijil Akuan Penerimaan (SAP) yang telah ditandatangani oleh penerima bagi
+Barang-Barang yang tidak memerlukan pemasangan.
+(iv) Sijil Pemasangan dan Ujilari (SPU) bagi Barang-Barang yang memerlukan
+pemasangan dan ujilari. Sijil ini hendaklah ditandatangani oleh penerima.
+(v) Pembayaran kepada syarikat tidak boleh dianggap sebagai perakuan bahawa
+barang-barang itu adalah mengikut kualiti yang dikehendaki. Bayaran oleh
+Universiti tidak melepaskan syarikat atas tanggungjawab yang berkaitan di
+dalam kontrak.
+
+
+--- Page 15 ---
+
+
+18.
+
+## Kenaan *Denda/ Tolakani Liquidated & Ascertained Damages (Lad)
+
+(Mana-mana yang berkenaan)
+18.1 Jika syarikat gagal memenuhi obligasi kontrak, denda/ganti rugi hendaklah dituntut
+daripada syarikat.
+18.2
+18.3
+18.4
+18.5
+Jika syarikat gagal membayarnya, denda/ganti rugi hendaklah dituntut daripada
+bayaran kemajuan atau daripada sebarang baki bayaran yang syarikat berhak
+menerima.
+Sekiranya perkara 18.1 dan 18.2 tidak dapat dilaksanakan, tuntutan hendaklah
+dibuat melalui penolakan bon pelaksanaan yang diserahkan kepada UMPSA.
+Penangguhan bertulis bagi perkhidmatan atau kelewatan disebabkan oleh pihak
+UMPSA adalah tidak dikenakan sebarang denda.
+Denda akan dikenakan bagi perkhidmatan yang dilaksanakan selepas tamat
+tempoh kontrak atas kegagalan pihak syarikat seperti berikut :
+Nilai kontrak
+
+## Rm50,001.00 - Rm100,000.00
+
+
+## Rm100,001.00 – Rm200,000.00
+
+Melebihi RM200,000.00
+Denda kelewatan
+RM100.00/hari dan terhad kepada 5%
+nilai kontrak
+RM200.00/hari dan terhad kepada 5%
+nilai kontrak
+Sehari: (BLR x Harga Kontrak)/365
+hari dan terhad kepada 5% nilai
+kontrak
+
+## 19. Denda Lewat Menyelenggara
+
+20.
+Jika syarikat yang berjaya, gagal mematuhi syarat-syarat penyelenggaraan, maka
+Universiti berhak menyewa alat yang sama dan segala kos penyewaan akan di potong dari
+mana-mana bayaran yang akan di buat kepada syarikat yang berkenaan.
+
+## Pencegahan Rasuah Dalam Dokumen Perolehan Kerajaan
+
+20.1
+20.2
+20.3
+20.4
+Sebarang perbuatan atau percubaan rasuah untuk menawar atau memberi,
+meminta atau menerima apa-apa suapan secara rasuah kepada dan daripada
+mana-mana orang berkaitan perolehan ini merupakan suatu kesalahan jenayah di
+bawah Akta Suruhanjaya Pencegahan Rasuah Malaysia 2009 (Akta 694).
+Sekiranya mana-mana pihak ada menawar atau memberi apa-apa suapan kepada
+pegawai Universiti, maka pihak yang ditawar atau diberi suapan dikehendaki
+membuat aduan dengan segera ke pejabat Suruhanjaya Pencegahan Rasuah
+Malaysia atau Balai Polis berhampiran. Kegagalan berbuat demikian adalah
+merupakan suatu kesalahan di bawah Akta Suruhanjaya Pencegahan Rasuah
+Malaysia 2009 (Akta 694).
+Tanpa prejudis kepada tindakan-tindakan lain, tindakan tatatertib terhadap pegawai
+Universiti dan menyenarai hitam syarikat boleh diambil sekiranya pihak-pihak
+terlibat dengan kesalahan rasuah di bawah Akta Suruhanjaya Pencegahan Rasuah
+Malaysia 2009 (Akta 694).
+Mana-mana syarikat yang membuat tuntutan bayaran berkaitan perolehan ini
+awalaupun tiada kerja dibuat mengikut spesifikasi yang ditetapkan dan pegawai
+Universiti yang mengesahkan tuntutan berkenaan adalah melakukan kesalahan di
+bawah Akta Suruhanjaya Pencegahan Rasuah Malaysia 2009 (Akta 694).
+
+
+--- Page 16 ---
+
+
+21.
+22.
+23.
+
+## "Integrity Pact"
+
+21.1 Syarikat wajib mengemukakan Surat Akaun Pembida seperti di Lampiran F dimana
+ia berjanji untuk tidak menawar atau memberi rasuah kepada mana-manaindividu
+lain sebagai sogokan untuk dipilh dalam tawaran ini.
+21.2
+Surat Akaun pembida tersebut adalah menjadi salah satu dokumen wajib dalam
+penilaian sebut harga/ tender peringkat pertama. Sekiranya pembida gagal
+mengemukakan Surat Akaun tersebut yang telah ditandatangani oleh pegawai
+syarikat yang bertauliah, pembida tersebut akan dinilai sebagai gagal dalam
+penilaian peringkat pertama dan penilaian seterusnya tidak akan dilaksanakan.
+21.3 Syarikat yang berjaya wajib mengemukakan Surat Akuan Pembida Berjaya seperti
+di Lampiran G berserta dengan Borang Jaminan Pembekal yang telah
+ditandatangani di mana berjanji tidak akan memberi rasuah sebagai ganjaran
+kerana mendapatkan kontrak.
+
+## Barang-Barang "Ex-Stock” Atau Barang-Barang Keluaran Dalam
+
+NEGERI
+22.1 Cukai
+Melainkan jika ditunjukkan berasingan, harga hendaklah diertikan sebagai
+termasuk semua jenis cukai berkaitan.
+Pembungkusan
+22.2
+(i)
+22.3
+(ii)
+Melainkan jika ditunjukkan berasingan, harga hendaklah diertikan sebagai
+termasuk belanja pembungkusan.
+Kehilangan atau kerosakan akibat pembungkusan yang tidak cukup atau
+cacat, hendaklah diganti oleh pembekal.
+Pengenalan
+Nama pembuat, jenama, nombor perniagaan atau nombor katalog dan negeri
+tempat asal barang-barang itu hendaklah ditunjukkan (jika berkenaan).
+
+## Barang-Barang Yang Diimport Daripada Luar Negeri
+
+23.1 Cukai
+23.2
+23.3
+23.4
+Harga hendaklah diertikan sebagai termasuk semua cukai yang berkaitan. Jenis-
+jenis cukai hendaklah ditunjukkan secara berasingan.
+Matawang
+Harga hendaklah dinyatakan dalam Ringgit Malaysia (RM).
+Punca Bekalan
+Jika barang-barang tidak dibeli terus dari pengilang/pengeluar, sila nyatakan
+nama dan alamat pembekal di mana barang-barang itu akan diperolehi.
+Pembungkusan
+(i)
+(ii)
+(iii)
+Barang-barang hendaklah dibungkus dan sesuai untuk dieksport ke
+Malaysia melainkan jika mengikut kelaziman perdagangan barang-barang
+itu dieksport dengan tidak dibungkus.
+Melainkan jika ditunjukkan berasingan, harga hendaklah diertikan sebagai
+termasuk belanja pembungkusan.
+Kehilangan atau kerosakan akibat dari pembungkusan yang tidak cukup
+atau cacat hendaklah diganti oleh petender.
+
+
+--- Page 17 ---
+
+
+24.
+25.
+26.
+27.
+23.5 Syarikat boleh mengemukakan tawaran berasaskan kepada harga CIF bagi
+peralatan latihan, penyelidikan dan perubatan yang diimport. Penjelasan mengenai
+terma-terma ini adalah seperti berikut:
+İ.
+ii.
+CIF (Cost, Insuran & Freight)
+Syarikat mesti membayar kos dan tambang untuk membawa masuk
+barangan ke destinasi pengkalan dan insurans perlu ditanggung oleh
+syarikat. Syarikat boleh melantik MTO yang berdaftar mempunyai kod
+bidang pengangkutan yang mempunyai nilai tidak lebih daripada RM5 juta
+bagi sebut harga dan tidak lebih daripada RM10 juta bagi tender.
+Pembekal dikenakan syarat wajib menggunakan perkhidmatan MTO dan
+insurans daripada syarikat MTO dan insuran tempatan bertaraf Bumiputera
+yang dilantik disenaraikan oleh Kementerian Kewangan. Perkhidmatan
+MTO dan insurans hendaklah bermula daripada port of loading sehingga ke
+destinasi terakhir yang dinamakan oleh Universiti.
+
+## Larangan Publisiti
+
+Tiada apa-apa iklan mengenai persetujuan terhadap mana-mana sebut harga/tender boleh
+disiarkan dalam mana-mana akhbar, majalah, atau lain-lain saluran iklan tanpa kelulusan
+Ketua Setiausaha Perbendaharaan atau Pegawai Kewangan Negeri terlebih dahulu.
+TAFSIRAN
+Sebut harga/tender ini dan apa-apa kontrak yang timbul daripadanya hendaklah diertikan
+mengikut dan dikawal oleh undang-undang Malaysia, dan syarikat bersetuju tertakluk
+hanya kepada bidang kuasa Mahkamah Malaysia sahaja dalam apa-apa pertikaian atau
+perselisihan jua pun yang mungkin timbul mengenai sebut harga/tender ini atau apa-apa
+kontrak yang timbul daripadanya.
+INSURANS
+Insurans/takaful atas barang dalam perjalanan adalah tidak dibenarkan dimasukkan ke
+dalam sebut harga/tender.
+
+## Tindakan Tatatertib
+
+27.1 Selaras dengan usaha Universiti untuk mewujudkan komuniti perniagaan yang
+berdisiplin, bertanggungjawab, berintegriti serta mengamalkan tadbir urus korporat
+yang baik semasa berurusan dengan Universiti, maka Universiti telah menggubal
+satu pekeliling bagi mencapai maksud di atas.
+27.2 Pekeliling Perbendaharaan PK 8 – Ketidakpatuhan Dalam Perolehan Kerajaan bagi
+perkara tindakan tatatertib ke atas syarikat dan firma perunding yang berdaftar
+dengan kementerian kewangan telah menyatakan dengan jelas akan kesalahan-
+kesalahan dan tindakan tatatertib yang boleh diambil ke atas syarikat dan firma
+perunding yang telah melakukan kesalahan tersebut.
+27.3 Jenis-jenis kesalahan yang dilakukan oleh syarikat adalah seperti berikut:
+a) Kesalahan kerana melanggar syarat pendaftaran
+800
+b)
+Kesalahan kerana melanggar syarat tender/kontrak
+c) Kesalahan jenayah dan tanggungan sivil
+
+
+--- Page 18 ---
+
+
+27.4 Jenis-jenis tindakan/hukuman tatatertib adalah seperti berikut:
+f)
+Surat amaran
+Batal kod bidang
+Gantung pendaftaran
+Batal pendaftaran
+Pemilikmodal/ahli Lembaga Pengarah bagi syarikat/firma perunding
+disenaraihitamkan
+Pembatalan taraf Bumiputera/pembuat
+27.5 Tanpa prejudis kepada tindakan-tindakan lain, tindakan tatatertib boleh diambil
+sekiranya didapati pihak syarikat atau firma perunding yang berdaftar dengan
+Kementerian Kewangan terlibat dengan mana-mana kesalahan di bawahpekeliling
+ini.
+
+
+--- Page 19 ---
+
+
+
+## 3. Pegawai Bertanggungjawab Untuk Dihubungi
+
+Pertanyaan berkaitan dengan penentuan teknikal sebut harga/tender ini bolehlah
+diajukan kepada:-
+
+## En. Hanizam Bin Abdul Kassim
+
+Eksekutif Kanan Teknologi Maklumat
+Pusat Teknologi Digital
+Universiti Malaysia Pahang Al-Sultan Abdullah
+Tel: 09-431 5230
+Email: hanizam@umpsa.edu.my
+
+
+--- Page 20 ---
+
+
+
+## Bahagian B:
+
+
+## Dokumen Penilaian Kewangan
+
+1.
+2.
+3.
+KANDUNGAN:
+Borang Semakan Dokumen Kewangan
+Maklumat Umum Kewangan Penyebut Harga/Petender
+Jadual Kadar Harga
+4.
+Borang Jaminan Pembekal
+5.
+Surat Akuan Pembida
+6.
+7.
+8.
+9.
+Surat Akuan Syarikat Dalam Menangani Jenayah Pemerdagangan Orang dan Buruh Paksa
+Surat Perwakilan Kuasa
+Maklumat Aset Dan Liabiliti. Lengkapkan Lampiran 8 dan 9
+Maklumat Syarikat Dan Salinan Sijil-Sijil :
+(i)
+Maklumat Syarikat
+(ii)
+Senarai Kontrak Semasa Dan Terdahulu
+(iii)
+Borang Kebenaran Mengakses Data Syarikat
+(iv) Laporan Bank / Penyata Mengenai Maklumat Simpanan Seperti Deposit Tetap /
+Amanah Saham / Tabung Haji Atas Nama Syarikat Atau Individu
+(v)
+Surat Overdraf/Overdraft Bercagar, Pembiayaan Bank @ Institusi Kewangan,
+Talian Kredit/Pembiayaan Bank/ Kad Kredit
+Penyata Caruman Majikan Dalam EPF/SOCSO / EIS
+(vi)
+(vii)
+Salinan Sijil Pendaftaran Syarikat (SSM/ROC)
+(viii)
+Salinan Sijil Kementerian Kewangan (MOF)
+(ix)
+Salinan Sijil Taraf Bumiputera (Jika ada)
+(x)
+(xi)
+(xi)
+Salinan Sijil Pematuhan Cukai (Tax Compliance Certificate – TCC)
+Salinan Sijil MYSTI
+*
+(xii)
+Salinan Penyata Bank terkini yang lengkap bulanan bagi tiga (3) bulan
+terakhir:
+a) Sila lampirkan muka surat pertama dan terakhir yang menunjukkan nilai
+baki akhir setiap bulan; dan
+b) Penyata hendaklah dicop dan ditandatangani asal (original) oleh Pegawai
+Bank.
+Salinan Laporan Penyata Kewangan (Audit) dan/atau Penyata Kewangan Pengurusan
+terkini yang telah disahkan (Tender Sahaja)
+Syarikat hendaklah mengemukakan dokumen bahagian B dan C secara berasingan serta
+dimasukkan dalam satu (1) sampul surat ketika mengemukakan ke Universiti.
+
+
+--- Page 21 ---
+
+
+
+## Universiti Malaysia Pahang
+
+
+## Al-Sultan Abdullah
+
+
+## 1. Borang Semakan Dokumen Kewangan
+
+Sila tandakan (/) bagi dokumen-dokumen yang disertakan :-
+
+## Senarai Semak
+
+
+## Bahagian B (Penilaian Dokumen Kewangan)
+
+1. Borang Semakan Dokumen
+**
+2. Maklumat Umum Kewangan Penyebut Harga/Petender**
+3. Jadual Kadar Harga
+**
+4. Borang Jaminan Pembekal
+5. Surat Akuan Pembida **
+**
+6. Surat Akuan Syarikat Dalam Menangani Jenayah Pemerdagangan Orang dan
+Buruh Paksa**
+7. Surat Perwakilan Kuasa
+8.
+**
+Maklumat Aset Dan Liabiliti. Lengkapkan Lampiran 8 dan 9
+9. Sijil-sijil dan Maklumat Syarikat
+i.
+Maklumat Syarikat
+ii.
+Senarai Kontrak Semasa Dan Terdahulu
+
+## Bend/Up/001
+
+Semakan
+Pihak Syarikat
+Semakan
+Urusetia
+iii. Borang Kebenaran Mengakses Data Syarikat
+**
+iv. Laporan Bank/Penyata Mengenai Maklumat Simpanan Seperti
+Deposit Tetap / Amanah Saham / Tabung Haji Atas Nama Syarikat
+Atau Individu **
+V.
+vi.
+Surat Overdraf / Overdraft Bercagar, Pembiayaan Bank @ Institusi
+Kewangan, Talian Kredit / Pembiayaan Bank/ Kad Kredit **
+Penyata Caruman Majikan Dalam EPF/SOCSO / EIS
+vii. Salinan Sijil Pendaftaran Syarikat (SSM/ROC)
+viii. Salinan Sijil Kementerian Kewangan (MOF)
+ix. Salinan Sijil Taraf Bumiputera (Jika ada)
+X. Salinan Sijil Pematuhan Cukai (Tax Compliance Certificate - TCC)
+xi. Salinan Sijil MySTI
+xii. Salinan Penyata Bank terkini yang lengkap bulanan bagi tiga (3)
+bulan terakhir:
+a.
+b.
+Sila lampirkan muka surat pertama dan terakhir yang
+menunjukkan nilai baki akhir setiap bulan; dan
+Penyata hendaklah dicap dan ditandatangani asal (original)
+oleh Pegawai Bank.**
+xiii. Salinan Laporan Penyata Kewangan (Audit) dan/atau Penyata
+Kewangan Pengurusan terkini yang telah disahkan (Tender Sahaja)
+
+## Peringatan:
+
+Segala pengesahan dokumen berkaitan, WAJIB disahkan dengan tandatangan dan cap asal. (**)
+
+## Pengesahan Oleh Syarikat
+
+Dengan ini saya mengesahkan bahawa saya telah
+membaca dan memahami semua syarat-syarat dan
+terma yang dinyatakan di dalam dokumen sebut harga
+tender. Semua maklumat yang dikemukakan adalah
+benar.
+Tandatangan:
+Nama:
+Jawatan:
+
+## Untuk Kegunaan Jabatan
+
+Jawatankuasa Pembuka Sebut harga/ Tender
+mengesahkan penerimaan dokumen bertanda kecuali
+(jika ada).
+bagi perkara bil.
+Tandatangan:
+Nama Pengerusi:
+Jawatan:
+Tarikh:
+Tarikh:
+
+
+--- Page 22 ---
+
+
+
+## 2. Maklumat Umum Kewangan Syarikat
+
+Bil.
+Perkara
+1.
+Nama Syarikat
+2.
+Harga Tawaran
+3.
+Tempoh Menyempurnakan
+4.
+5.
+Bekalan/Perkhidmatan
+No Sijil Pendaftaran Syarikat (SSM/ROC)
+Tempoh Berkuatkuasa
+No Sijil Kementerian Kewangan
+Sila Lengkapkan :
+:
+Tempoh Berkuatkuasa
+6.
+No Sijil Taraf Bumiputera
+Tempoh Berkuatkuasa
+7.
+Rujukan Bukti Bayaran Penyertaan Sebut
+Harga/ Tender
+:
+8.
+Penama Surat Perwakilan Kuasa
+9.
+Lawatan Tapak (jika ada)
+:
+YA/TIDAK
+10.
+Tiga (3) Bulan Penyata Bank Terkini :
+(RM):
+i) Bulan:
+ii) Bulan:
+iii) Bulan:
+11.
+Penyata Bank Ditandatangani Dan Disahkan
+Asal?
+12.
+Jumlah kemudahan Overdraft (RM)
+:
+13. Jumlah kemudahan Pinjaman (RM)
+Saya/Kami mengaku maklumat yang diberikan adalah benar.
+Nama:
+Cop Syarikat:
+(Wajib diisi)
+YA/TIDAK
+
+
+--- Page 23 ---
+
+
+
+## Universiti Malaysia Pahang Al-Sultan Abdullah
+
+
+## 3. Jadual Kadar Harga
+
+
+## Tajuk: Membekal, Membangun, Menghantar, Memasang, Mengintegrasi, Menguji Dan Mentauliah Sistem
+
+
+## Pengurusan Mesyuarat Di Universiti Malaysia Pahang Al-Sultan Abdullah
+
+Sila rujuk jadual penentuan teknikal
+BIL.
+
+## Nama & Alat-Alat Penentuan
+
+
+## (Bend/Up/003)
+
+KUANTITI
+
+## Jumlah Harga Tawaran
+
+
+## Tanpa Cukai
+
+(RM)
+1.0
+Membekal, Membangun, Menghantar, Memasang, Mengintegrasi,
+1 Lot
+Menguji Dan Mentauliah Sistem Pengurusan Mesyuarat Di Universiti
+Malaysia Pahang Al-Sultan Abdullah
+
+## Jumlah Keseluruhan Di Bawa Ke Borang Jaminan Pembekal (Rm)
+
+JUMLAH HARGA CUKAI (8%) (Jika Ada)
+
+## Jumlah Harga Keseluruhan Termasuk Cukai (8%)
+
+Nama Dan
+Cop
+Syarikat
+Alamat
+Ditandatangani Bagi Pihak
+Syarikat
+Jawatan
+Nama Penuh
+
+
+--- Page 24 ---
+
+
+
+## Bend/Up/002
+
+
+## Universiti Malaysia Pahang Al-Sultan Abdullah
+
+
+## 4. Jaminan Pembekal (Supplier'S Undertaking)
+
+Syarikat
+Alamat
+No. Pendaftaran :..
+(Salinan Sijil Pendaftaran disertakan)
+E-mell
+
+## Universiti Malaysia Pahang
+
+
+## Al-Sultan Abdullah
+
+26660 Pekan
+Pahang Darul Makmur
+Tarikh
+Tuan,
+No. Sebut Harga
+
+## Umpsa/Bend/Sh/2026(2)
+
+Tajuk Sebut Harga MEMBEKAL, MEMBANGUN, MENGHANTAR, MEMASANG, MENGINTEGRASI,
+
+## Menguji Dan Mentauliah Sistem Pengurusan Mesyuarat Di
+
+
+## Universiti Malaysia Pahang Al-Sultan Abdullah
+
+Saya/kami yang bertandatangan di bawah ini adalah dengan ini menawarkan untuk membekal, menghantar,
+barang/perkhidmatan dengan menepati segala penentuan dalam Jadual Teknikal dan Jadual Harga
+berlampir
+Malaysia
+(RM..
+Perkataan:.
+dengan
+harga
+tawaran
+tanpa
+cukai
+sebanyak
+Ringgit
+.) dan Cukai Perkhidmatan 8% sebanyak Ringgit Malaysia (Dengan
+.(RM.
+..)
+2.
+Saya/kami dengan ini mengesahkan bahawa akan menyempurnakan bekalan/perkhidmatan tersebut
+dalam masa
+.* MINGGU/ BULAN/ TAHUN dari tarikh dokumen tawaran.
+3.
+4.
+Tempoh sah laku sebutharga juga ini akan dibuka selama 90 hari dari tarikh sebutharga ini ditutup.
+Saya/kami bersetuju untuk memperbaiki/mengganti, dengan tiada apa-apa bayaran tambahan, mana-
+mana barang yang telah saya/kami bekalkan yang didapati rosak di dalam tempohgerenti.
+( Tandatangan & Cop Syarikat)
+Nama
+No K/P
+Alamat:.
+(Tandatangan Saksi)
+Nama:..
+No K/P :.
+Alamat :.
+
+
+--- Page 25 ---
+
+
+
+## (Bend/Up/013)
+
+LAMPIRAN F (Integrity Pact)
+
+## 5. Surat Akuan Pembida
+
+Bagi
+Tajuk: MEMBEKAL, MEMBANGUN, MENGHANTAR, MEMASANG, MENGINTEGRASI,
+
+## Menguji Dan Mentauliah Sistem Pengurusan Mesyuarat Di Universiti
+
+
+## Malaysia Pahang Al-Sultan Abdullah
+
+No. Sebut harga/ Tender: UMPSA/BEND/SH/2026(2)
+Saya
+mewakili
+...nombor K.P
+yang
+.no.pendaftaran
+dengan ini mengisytiharkan bahawa saya atau mana-mana individu
+yang mewakili syarikat ini tidak akan menawar atau memberi rasuah kepada mana-mana individu
+dalam Universiti Malaysia Pahang Al-Sultan Abdullah atau mana-mana individu lain, sebagai
+sogokan untuk dipilih dalam sebut harga/ tender seperti di atas. Bersama-sama ini dilampirkan
+Surat Perwakilan Kuasa bagi saya mewakili syarikat seperti tercatat di atas untuk membuat
+pengisytiharan ini.
+2. Sekiranya saya atau mana-mana individu yang mewakili syarikat ini didapati bersalah
+menawar atau memberi rasuah kepada mana-mana individu dalam Universiti Malaysia Pahang
+Al-Sultan Abdullah atau mana-mana individu lain sebagai sogokan untuk dipilih dalam sebut
+harga/tender seperti di atas, maka saya sebagai wakil syarikat bersetuju tindakan-tindakan berikut
+diambil:
+3.
+2.1
+2.2
+2.3
+penarikan balik tawaran kontrak bagi sebut harga/tender di atas, atau
+penamatan kontrak bagi sebut harga di atas, dan
+lain-lain tindakan tatatertib mengikut peraturan Perolehan Kerajaan yang berkuat-
+kuasa.
+Sekiranya terdapat mana-mana individu cuba meminta rasuah daripada saya atau mana-
+mana individu yang berkaitan dengan syarikat ini sebagai sogokan untuk dipilih dalam sebut harga
+seperti di atas, maka saya berjanji akan dengan segera melaporkan perbuatan tersebut kepada
+pejabat Suruhanjaya Perkhidmatan Rasuah Malaysia (SPRM) atau balai polis yang berhampiran.
+Yang benar,
+Tandatangan Pembida:
+Nama Penuh:
+No. Kad Pengenalan:
+Cop Syarikat:
+
+
+--- Page 26 ---
+
+
+
+## 6. Surat Akuan Syarikat Dalam Menangani Jenayah Pemerdagangan
+
+
+## Orang Dan Buruh Paksa
+
+Tajuk: MEMBEKAL, MEMBANGUN, MENGHANTAR, MEMASANG, MENGINTEGRASI,
+
+## Menguji Dan Mentauliah Sistem Pengurusan Mesyuarat Di Universiti
+
+
+## Malaysia Pahang Al-Sultan Abdullah
+
+No. Sebut harga/ Tender: UMPSA/BEND/SH/2026(2)
+Saya,
+No. Kad Pengenalan
+(Nama Wakil Syarikat)
+yang Mewakili
+(Nama Syarikat) nombor
+...... (MOF/PKK/CIDB/ROS/ROC/ROB) dengan ini
+Pendaftaran
+mengisytiharkan bahawa saya atau mana-mana orang yang mewakili syarikat ini akan:
+i.
+Mendidik pekerja dan ahli organisasi mengenai cara mengenal pasti dan melaporkan tanda-tanda
+pemerdagangan orang dan buruh paksa;
+ii. Meningkatkan kesedaran tentang hak pekerja, perlindungan dan akses kepada remedi; dan
+iii. Memastikan pematuhan kepada undang-undang mengenai jenayah pemerdagangan orang dan buruh
+paksa selaras dengan Akta Antipemerdagangan Orang dan Antipenyeludupan Migran 2007 [Akta 670]
+dan Akta Kerja 1955 [Akta 265] serta mana-mana peruntukan undang-undang yang berkuat kuasa di
+Malaysia.
+2. Sekiranya saya, atau mana-mana individu yang mewakili syarikat ini didapati terlibat
+dalam jenayah pemerdagangan orang dan buruh paksa, maka saya sebagai wakil syarikat
+bersetuju tindakan boleh dikenakan ke atas syarikat di bawah Akta Antipemerdagangan Orang
+dan Antipenyeludupan Migran 2007 [Akta 670] dan Akta Kerja 1955 [Akta 265] serta mana-mana
+peruntukan undang-undang yang berkuat kuasa di Malaysia.
+Yang benar,
+Tandatangan
+Nama
+No.KP
+Tarikh
+Cap Syarikat
+
+
+--- Page 27 ---
+
+
+
+## 7. Contoh Surat Perwakilan Kuasa
+
+..Kepala Surat Syarikat…….....
+
+## Perwakilan Kuasa Menandatangani Bagi Pihak Syarikat
+
+Dengan hormatnya saya merujuk kepada perkara di atas.
+2.
+Dimaklumkan bahawa saya,*.
+Pengenalan :.
+syarikat.......
+dokumen berkaitan dengan urusan perolehan**.
+No Kad
+.selaku pemilik
+.akan menandatangan semua
+.dengan
+UMPSA atau mewakilkan kuasa untuk menandatangani bagi pihak syarikat untuk urusan
+perolehan tersebut iaitu:
+Nama
+Jawatan
+No. I/C
+Alamat
+No. Telefon
+No. Faks
+Emel
+3.
+Sehubungan itu, dikemukan untuk makluman/ rujukan pihak tuan selanjutnya. Pihak kami
+akan memaklumkan kepada pihak Universiti sekiranya terdapat perubahan penama bagi perkara
+ini secara rasmi.
+Sekian, terima kasih.
+
+## (Nama Pemilik Syarikat)
+
+Jawatan
+Cop Syarikat
+Nota:
+*
+**
+Penandatangan surat pewakilan kuasa ini hendaklah pihak yang sama tertera dalam Sijil Kementerian
+Kewangan Malaysia.
+Tajuk Sebut Harga/Tender
+
+
+--- Page 28 ---
+
+
+
+## Tajuk Tender
+
+LAMPIRAN 8
+
+## 8. Keperluan Aset Dan Liabiliti
+
+
+## : Membekal, Membangun,
+
+
+## Menghantar, Memasang,
+
+
+## Mengintegrasi, Menguji Dan Mentauliah Sistem
+
+
+## Pengurusan Mesyuarat Di Universiti Malaysia Pahang Al-
+
+
+## Sultan Abdullah
+
+NO. TENDER
+
+## Nama Syarikat
+
+:
+:
+
+## Umpsa/Bend/Sh/2026(2)
+
+*Maklumat di dalam jadual hendaklah dilengkapkan oleh pembekal
+Aset Semasa
+Liabiliti Semasa
+Pengesahan Pembekal:
+Tandatangan Pembekal
+Nama
+Pegawai
+Jawatan
+No.
+Telefon
+Tarikh
+Nota:.
+Aset Semasa &
+:
+Liabiliti Semasa
+Amaun yang diisi di atas hendaklah sama dengan kandungan yang dinyatakan
+di dalam Penyata Kewagan
+Bagi pembekal yang tidak mempunyai maklumat Aset & Liabiliti, sila nyatakan "TIADA" pada borang ini
+
+
+--- Page 29 ---
+
+
+LAMPIRAN 9
+
+## Umpsa/Bend/Sh/2026(2)
+
+SULIT
+
+## Surat Akuan Sumpah Syarikat
+
+(untuk tujuan penyerahan penyata kewangan tidak beraudit bagi syarikat berstatus
+Registration of Business (ROB) dan mana-mana syarikat yang diberi pengecualian di bawah
+Akta Syarikat 2016)
+Saya...
+Nombor kad pengenalan
+yang mewakili syarikat.
+.nombor pendaftaran
+(*MOF/CIDB/SSM) dengan sesungguhnya dan sebenarnya mengaku bahawa:
+tahun iaitu
+a) Penyata Kewangan Syarikat bagi
+kepada Kerajaan adalah sesungguhnya benar; dan
+yang dikemukan
+b) Syarikat TIDAK membauat salah nyataan (misrepresentation) atau mengemukakan
+maklumat palsu semasa berurusan dengan Kerajaan bagi perolehan ini atau melakukan apa-
+apa perbuatan lain, seperti memalsukan maklumat dalam Penyata Kewangan Syarikat.
+Sekiranya pada bila-bila masa, dibuktikan bahawa pengisytiharan perenggan di atas adalah
+tidak benar, Kerajaan berhak menarik balik tawaran kontrak atau menamatkan perkhidmatan
+syarikat bagi projek ini.
+Dan saya membuat Surat Akuan Bersumpah ini dengan kepercayaan bahawa apa-apa yang
+tersebut di dalamnya adalah benar serta menurut Akta Akuan Berkanun 1960.
+Diperbuat dan dengan
+Sebenar-benarnya diakui
+oleh
+di...
+)
+)
+Tandatangan...
+Pada......
+Di hadapan saya
+(Pesuruhjaya Sumpah)
+Catatan:
+i.*Potong mana yang tidak berkenaan.
+ii.Surat akuan ini hendaklah ditandatangani oleh hanya penama di sijil pendaftaran MOF/CID
+
+
+--- Page 30 ---
+
+
+
+## 8. Maklumat Syarikat Dan Salinan Sijil-Sijil
+
+Sila lengkapkan dan lampirkan :
+i.
+Maklumat Syarikat (BEND/UP/0004);
+ii.
+Senarai Kontrak Semasa Dan Terdahulu;
+iii.
+Borang Kebenaran Mengakses Data Syarikat;
+iv.
+V.
+Laporan Bank/Penyata Mengenai Maklumat Simpanan Seperti
+Deposit Tetap / Amanah Saham / Tabung Haji Atas Nama Syarikat
+Atau Individu
+Surat Overdraf / Overdraft Bercagar, Pembiayaan Bank @ Institusi
+Kewangan, Talian Kredit / Pembiayaan Bank/ Kad Kredit
+vi.
+Penyata Caruman Majikan Dalam EPF/SOCSO / EIS
+vii.
+Salinan Sijil Pendaftaran Syarikat (SSM/ROC);
+viii.
+Salinan Sijil Kementerian Kewangan (MOF);
+ix.
+Salinan Sijil Taraf Bumiputera (Jika ada);
+X.
+Salinan Sijil Pematuhan Cukai (Tax Compliance Certificate - TCC)
+xi.
+Salinan Sijil MySTI
+xii.
+Salinan Penyata Bank terkini yang lengkap bulanan bagi tiga (3)
+bulan terakhir:
+a.
+b.
+Sila lampirkan muka surat pertama dan terakhir yang
+menunjukkan nilai baki akhir setiap bulan; dan
+Penyata hendaklah dicap dan ditandatangani asal (original)
+oleh Pegawai Bank.
+
+
+--- Page 31 ---
+
+
+1.
+Nama Syarikat
+2.
+Alamat Surat Menyurat
+No. Telefon Pejabat
+3.
+(wajib isi)
+No. Telefon Bimbit
+4.
+(wajib isi)
+No. Faks
+5.
+(wajib isi)
+E-Mel
+6.
+(wajib isi)
+7.
+Modal Perniagaan
+
+## 9.1 Maklumat Syarikat
+
+a) Dibenarkan
+b) Dibayar
+8. Komposisi Modal Dibayar
+9.
+a) Bumiputera
+b) Bukan bumiputera
+Senarai nama syarikat cawangan dan anak syarikat
+10. Maklumat bank
+a) Nama
+b) No. Akaun
+c) Cawangan
+Saya/Kami mengaku maklumat yang diberikan adalah benar.
+Nama:
+Cop Syarikat:
+(Wajib diisi)
+
+
+--- Page 32 ---
+
+
+9.2 SENARAI KONTRAK SEMASA DAN TERDAHULU (termasuk kontrak di UMPSA)
+Senaraikan semua kontrak semasa/terdahulu/belum selesai termasuk kontrak yang baharu
+ditawarkan untuk rujukan.
+BIL
+NO.
+KONTRAK
+NILAI
+KONTRAK
+(RM)
+AGENSI
+
+## Nama Kontrak
+
+TEMPOH
+KONTRAK
+*Pengalaman yang dinyatakan hendaklah disokong dengan menyertakan Salinan
+Kontrak/Salinan Surat Setuju Terima/Salinan Perakuan/Pengesahan Siap Kontrak
+Laporan atas prestasi kontrak semasa hendaklah disertakan. Sekiranya tiada kontrak
+semasa, sila nyatakan 'TIADA'
+*tempoh kontrak hendaklah termasuk lanjutan masa yang diluluskan.
+Saya/Kami mengakui bahawa maklumat yang diberikan adalah benar:
+Nama bagi pihak syarikat :.
+Jawatan
+Cop Syarikat
+
+
+--- Page 33 ---
+
+
+
+## 9.3 Borang Kebenaran Mengakses Data Syarikat
+
+
+## Universiti Malaysia Pahang
+
+
+## Al-Sultan Abdullah
+
+26600 Pekan, Pahang Darul Makmur
+Tuan,
+
+## Tajuk Sebut Harga : Membekal, Membangun, Menghantar, Memasang,
+
+
+## Mengintegrasi, Menguji Dan Mentauliah Sistem
+
+
+## Pengurusan Mesyuarat Di Universiti Malaysia
+
+
+## Pahang Al-Sultan Abdullah
+
+
+## No. Sebut Harga
+
+
+## : Umpsa/Bend/Sh/2026(2)
+
+Saya yang bertandatangan di bawah ini adalah memberi kebenaran kepada pihak Universiti
+Malaysia Pahang Al-Sultan Abdullah untuk mendapatkan maklumat syarikat ini daripada pihak-
+pihak berikut:
+a) Kerajaan Malaysia, pemberi dana, kementerian atau lain-lain pihak berkuasa;
+b) Juruaudit, peguam atau penasihat-penasihat professional; dan
+c) Pihak bank yang berkaitan sepertimana yang dikehendaki oleh Bank Negara Malaysia
+(Tandatangan & Cop Syarikat)
+Nama :..
+Alamat :
+Tarikh :.
+
+
+--- Page 34 ---
+
+
+SULIT
+
+## 9.4 Laporan Bank/Institusi Kewangan Mengenai
+
+
+## Kedudukan Kewangan Petender
+
+(Borang ini hendaklah dilengkapkan oleh pihak bank atau institusi kewangan lain dan disertakan kepada petender
+dalam satu sampul berlakri untuk disertakan bersama-sama tendernya sekiranya mempunyai kemudahan kredit
+dengan Bank / Institusi Kewangan yang berkenaan)
+Kepada :-
+Unit Perolehan
+Jabatan Bendahari,
+Canseleri Tun Abdul Razak,
+Universiti Malaysia Pahang Al-Sultan Abdullah,
+26600 Pekan, Pahang Darul Makmur
+Nama Petender :
+Projek
+(A) Kemudahan kredit yang boleh digunakan untuk perlaksanaan projek :
+Kemudahan kredit yang telah diluluskan dan kemudahan kredit tambahan minimum yang layak diperolehi oleh
+petender seperti berikut:
+Baki daripada yang
+Bentuk Kemudahan Kredit
+telah diluluskan
+/belum digunakan
+* Tambahan
+minima yang akan
+diluluskan
+i) Overdraf
+RM
+RM
+RM
+ii) Overdraf bercagar
+RM
+RM
+RM
+iii) Talian Kredit
+RM
+RM
+RM
+iv)
+Pinjaman Tetap yang akan/
+RM
+layak diperolehi untuk Projek
+RM
+RM
+Jumlah
+RM
+RM
+RM
+(*Jika Projek: ditawarkan kepada Petender)
+(B) Ulasan-ulasan mengenai kedudukan kewangan dan akaun petender:
+Tandatangan untuk dan bagi pihak bank:
+Nama Bank
+Materi Bank
+Nama Pegawai :_
+Jawatan:
+Tarikh
+Jumlah
+
+
+--- Page 35 ---
+
+
+
+## Bahagian C:
+
+
+## Dokumen Penilaian Teknikal
+
+KANDUNGAN:
+1. Jadual Penentuan Teknikal (BEND/UP/007)
+(i)
+(ii)
+(iii)
+(iv)
+Cadangan Teknikal Pembekal (sekiranya ada)
+Katalog Produk
+Carta Aliran Penyempurnaan Pembekalan
+Cadangan Kandungan Latihan
+(v) Sampel (jika berkaitan)
+Nota:
+1. Syarikat tidak dibenarkan menyatakan nama atau maklumat
+syarikat di dalam dokumen-dokumen di bahagian C ini.
+2. Syarikat hendaklah mengemukakan dokumen bahagian B dan C
+secara berasingan serta dimasukkan dalam satu (1) sampul surat
+ketika mengemukakan ke Universiti.
+
+
+--- Page 36 ---
+
+
+
+## No. Jtict: Jtict/2025 (29)
+
+JABATAN: DiTec
+
+## Universiti Malaysia Pahang Al-Sultan Abdullah
+
+
+## Jadual Penentuan Teknikal
+
+Muka Surat | 1
+
+## (Form/Bend/Up/007)
+
+TAJUK:
+Spesifikasi ini merangkumi keperluan MEMBEKAL, MEMBANGUN, MENGHANTAR, MEMASANG, MENGINTEGRASI, MENGUJI DAN
+MENTAULIAH SISTEM PENGURUSAN MESYUARAT, DI UNIVERSITI MALAYSIA PAHANG AL-SULTAN ABDULLAH termasuk semua
+ujian seperti yang sewajarnya, demonstrasi peralatan dan penyediaan manual dan arahan pengguna.
+SKOP:
+
+## Bekalan Dan Penghantaran Barang/Item Yang Dinyatakan Dalam Seksyen 2.0 (Spesifikasi Teknikal)
+
+
+## Dokumen Ini
+
+
+## Pemasangan, Ujian Dan Pentauliahan Barang/Item
+
+
+## Spesifikasi:
+
+1.0
+
+## Spesifikasi Umum
+
+
+## 1.1 Bekalan Dan Penghantaran
+
+Tawaran ini hendaklah merangkumi bekalan, penghantaran, pengangkutan, dan pentauliahan aplikasi Sistem Portal Staf
+(eCommunity) untuk Universiti Malaysia Pahang Al-Sultan Abdullah, termasuk semua ujian yang sesuai, demonstrasi peralatan,
+dan penyediaan manual serta arahan pengguna.
+Syarikat perlu mematuhi semua keperluan yang dinyatakan di bawah spesifikasi umum.
+1.1.1 Syarikat diminta untuk menetapkan tarikh penghantaran dan pentauliahan seawal mungkin. Selain itu, syarikat perlu
+mengemukakan jadual kerja yang terperinci yang menunjukkan bagaimana projek akan dilaksanakan untuk
+memenuhi jangka waktu yang ditetapkan. Walau bagaimanapun, UMPSA berhak menentukan tarikh pemasangan
+peralatan tersebut.
+TandataDUL KASSIM.
+Pegawai yaaanggungjawab
+Pusat Teknologi Digital
+Universiti Malaysia Pahang Al-Sultan Abdullah
+Tel: 09-4315232
+TS.Tandatangan & CopBAKAR
+Pen Dekan/Ketua Jabatan
+Pusat Teknologi Digital
+Universiti Malaysia Pahang Al-Sultan Abdullah
+Tel: 09-4315238
+
+
+--- Page 37 ---
+
+
+
+## No. Jtict: Jtict/2025 (29)
+
+JABATAN: DiTec
+
+## Universiti Malaysia Pahang Al-Sultan Abdullah
+
+
+## Jadual Penentuan Teknikal
+
+Muka Surat | 2
+
+## (Form/Bend/Up/007)
+
+1.1.2 Peralatan seharusnya baru, asli, dan mempunyai kualiti yang dapat diterima dan tinggi untuk kegunaan pengeluaran
+normal. Peralatan demonstrasi atau terpakai tidak akan diterima.
+1.1.3
+Semua keperluan aksesori atau pencantuman asas, piawai, tambahan, dan pilihan yang diperlukan hendaklah dinyatakan
+dengan lengkap, termasuk item tambahan yang diperlukan bagi memastikan peralatan itu mempunyai sistem yang boleh
+digunakan mengikut fungsinya.
+1.1.4 Peralatan sepatutnya boleh beroperasi tanpa sebarang kesukaran selepas pemasangan dan pentauliahan, seperti yang
+dinyatakan oleh pengeluar dan jaminan syarikat.
+1.1.5 Jika syarikat yang berjaya tidak menyelesaikan pembekalan, pemasangan, pengujian, dan penyerahan peralatan dalam
+tempoh yang dinyatakan, dan jika UMPSA masih tidak membatalkan kontrak di bawah kuasa yang diberikan kepadanya
+oleh Syarat-Syarat Tender Am spesifikasi, syarikat yang berjaya harus membayar ganti rugi yang ditetapkan, berdasarkan
+formula yang diberikan dalam syarat tender. Jumlah yang dikira boleh ditolak daripada sebarang wang yang perlu dibayar
+kepada vendor yang berjaya oleh UMPSA.
+1.1.6 UMPSA berhak menerima atau menolak sebarang lanjutan tempoh yang diperlukan untuk penghantaran dan/atau
+penyelesaian kerja.
+1.1.7 Jika syarikat adalah pembekal peralatan dan bukan pengeluar peralatan, pembekal dan pengeluar utama akan bersama-
+sama dan secara berasingan bertanggungjawab untuk memenuhi semua terma, syarat, dan jaminan yang dinyatakan
+dalam kontrak pembekalan.
+1.1.8 Syarikat dikehendaki menyediakan salinan asli sijil jaminan pengeluaran/pembekalan untuk perisian/perkakasan yang
+disediakan.
+1.1.9 Syarikat perlu memberikan justifikasi mengenai kecekapan mereka dalam melaksanakan tugas dan menyediakan bukti
+pengalaman mereka dalam menguruskan pekerjaan yang serupa.
+Tandatangan & Cop
+Pegawai / Pensyarah
+
+## Hanizam Bin Abdul Kassim
+
+bertanggungjawab Maklumat
+Pusat Teknologi Digital
+Universiti Malaysia Pahang Al-Sultan Abdullah
+Tel : 09-4315232
+TS. Moandatangani &BCO KAR
+PengarDekan / Ketua Jabatan
+Pusat Teknologi Digital
+Universiti Malaysia Pahang Al-Sultan Abdullah
+
+## T: 09-4315236
+
+
+
+--- Page 38 ---
+
+
+
+## No. Jtict: Jtict/2025 (29)
+
+JABATAN: DiTec
+1.2
+
+## Universiti Malaysia Pahang Al-Sultan Abdullah
+
+
+## Jadual Penentuan Teknikal
+
+Muka Surat | 3
+
+## (Form/Bend/Up/007)
+
+1.1.10 Semua peraturan kerajaan dan undang-undang yang berkaitan dengan import, pembekalan, dan penghantaran peralatan
+hendaklah dipatuhi oleh syarikat.
+
+## Pemasangan, Pengujian & Pentauliahan
+
+1.2.1 Semua peralatan hendaklah dipasang di tempat yang dipersetujui oleh syarikat yang berjaya tanpa sebarang kos
+tambahan kepada UMPSA.
+1.2.2 Syarikat yang berjaya perlu memastikan kerja-kerja pemasangan dan pentauliahan peralatan dilaksanakan oleh
+kakitangan yang berkelayakan. Pentauliahan tersebut merangkumi kerja pemasangan peralatan, ujian mengikut standard,
+serta ujian awal dan ujian percubaan. Semua kos yang berkaitan dengan kerja-kerja di atas hendaklah ditanggung oleh
+syarikat.
+1.2.3 Jika kerja yang dinyatakan dalam Perkara 1.2.2 di atas tidak memuaskan, UMPSA mempunyai hak untuk TIDAK menerima
+proses penyerahan projek. UMPSA mempunyai hak untuk mendapatkan khidmat pihak profesional lain untuk
+menyelesaikan kerja dengan lebih memuaskan, dan kos tersebut akan ditanggung oleh syarikat.
+1.2.4 Semua peraturan dan prosedur kerajaan mesti dipatuhi semasa kerja pembangunan, pemasangan, dan pentauliahan.
+Kelulusan daripada mana-mana pihak berkuasa kerajaan yang berkaitan akan menjadi tanggungjawab syarikat.
+1.3
+
+## Tempoh Jaminan
+
+1.3.1 Syarikat hendaklah menyatakan tempoh jaminan bagi semua peralatan yang dibekalkan.
+1.3.2 Tempoh jaminan hendaklah mengikut spesifikasi teknikal yang dinyatakan dalam Seksyen 2.0. Sebarang kecacatan
+peralatan/bahan atau kerosakan fungsi yang disebabkan oleh pengeluar atau pemasangan hendaklah menjadi
+Tandatangan & CopANIZAM BIN ABDUL KASSIM
+Fan bertanggungjawab
+Pegawai / Pensyarah
+Pusat Teknologi Digital
+Universiti Malaysia Pahang Al-Sultan Abdullah
+Tel : 09-4315232
+
+## Ts. Mohd Rash Bin Abu Bakar
+
+Penganandatangan & Cop
+Pusat Dekan Ketua Jabatan
+Universiti Malaysia Pahang Al-Sultan Abdullah
+Tel : 09-4315236
+
+
+--- Page 39 ---
+
+
+
+## No. Jtict: Jtict/2025 (29)
+
+JABATAN: DiTec
+1.4
+
+## Universiti Malaysia Pahang Al-Sultan Abdullah
+
+
+## Jadual Penentuan Teknikal
+
+Muka Surat | 4
+
+## (Form/Bend/Up/007)
+
+tanggungjawab pembekal yang perlu segera membaikinya dan/atau menggantikan sebarang komponen yang rosak atau
+cacat.
+1.3.3 Semua tenaga kerja dan bahan (bahagian, perkhidmatan) yang diperlukan semasa tempoh jaminan akan dibekalkan tanpa
+kos tambahan. Sebarang pengecualian hendaklah dinyatakan dengan jelas dalam tender.
+
+## Latihan Staf
+
+1.4.1 Syarikat yang berjaya perlu menyediakan Latihan di Tempat Kerja atau On-the-Job Training (OJT) yang sesuai dan
+memuaskan. Semua kos yang berkaitan dengan latihan perlu ditanggung oleh syarikat. Semua kos latihan yang berkaitan
+harus dinyatakan secara berasingan daripada peralatan yang dibekalkan tetapi dimasukkan dalam harga tender.
+Latihan di tapak di UMPSA bagi kakitangan UMPSA yang terpilih hendaklah sekurang-kurangnya tiga (3) orang.
+Tempoh latihan hendaklah termasuk, tetapi tidak terhad kepada yang berikut:
+Latihan cara pengendalian dan pengoperasian dengan betul,
+Latihan penyelenggaraan berkala, penyelesaian masalah umum dan pembaikan,
+Latihan penggunaan perisian untuk keseluruhan sistem.
+1.4.2 Bahasa pengajaran, termasuk semua bahan latihan yang perlu disediakan sepanjang tempoh latihan, hendaklah bahasa
+Inggeris atau bahasa Melayu.
+1.4.3 Syarikat hendaklah menyediakan cadangan jadual latihan untuk Perkara 1.4.1 di atas bagi setiap peralatan yang
+ditawarkan.
+Tandatangan & OIL KASSIM
+Pegawai Pensyarah bertanggungjawab
+Pusat Teknologi Digital
+Universiti Malaysia Pahang Al-Sultan Abdullah
+Tel : 09-4315232
+&
+Cop
+TS. MOHTandatans &BAKAR.
+Pengarah Dekan / Ketua Jabatan
+Pusat Teknologi Digital
+Universiti Malaysia Pahang Al-Sultan Abdullah
+Tel : 09-4315236
+
+
+--- Page 40 ---
+
+
+
+## No. Jtict: Jtict/2025 (29)
+
+JABATAN: DiTec
+
+## Universiti Malaysia Pahang Al-Sultan Abdullah
+
+
+## Jadual Penentuan Teknikal
+
+1.5
+Muka Surat | 5
+
+## (Form/Bend/Up/007)
+
+
+## Penyelenggaraan
+
+Sokongan penyelenggaraan menyeluruh bagi peralatan harus tersedia secara fizikal di UMPSA. Sokongan kejuruteraan/
+penyelenggaraan perlu disediakan oleh kakitangan yang kompeten. Syarikat perlu menyatakan bagaimana mereka merancang
+untuk memenuhi keperluan ini, termasuk menyenaraikan fasiliti dan ejen tempatan.
+1.6
+
+## Dokumentasi & Pembentangan
+
+1.6.1 Syarikat yang berjaya harus menyediakan sekurang-kurangnya dua (2) set salinan fizikal (terdiri daripada satu (1) set asal
+dan satu (1) set salinan) dan salinan lembut (format Microsoft Office atau PDF) untuk dokumen-dokumen berikut:
+Manual Operasi
+Manual Pengaturcaraan
+Panduan Penggunaan peralatan
+Piawaian dan Tentu Ukur
+Panduan Penyelesaian Masalah
+Manual Penyelenggaraan/Teknikal
+Manual Eksperimen Pelajar
+Manual Pengajar (dengan data dan analisis eksperimen yang telah dibuktikan)
+Manual Pemasangan Peralatan
+Jadual penyelenggaraan Pencegahan
+Manual lain yang berkaitan (sila nyatakan)
+Semua dokumen yang disenaraikan di atas mesti dalam Bahasa Inggeris atau Bahasa Melayu.
+بو
+Tandatangan & CORIL KASSIM
+Pegawai Pensyarah bertanggungjawab
+Pusat Teknologi Digital
+Universiti Malaysia Pahang Al-Sultan Abdullah
+Tel : 09-4315232
+
+## Ts. Mohd.Rabin Abu Bakar
+
+PengaTandatangan & Cop
+Pusal Dekan Ketua
+Universit Malaysia Palda Jabatanah
+Tel : 09-4315238
+
+
+--- Page 41 ---
+
+
+
+## No. Jtict: Jtict/2025 (29)
+
+JABATAN: DiTec
+1.7
+
+## Universiti Malaysia Pahang Al-Sultan Abdullah
+
+
+## Jadual Penentuan Teknikal
+
+Muka Surat | 6
+
+## (Form/Bend/Up/007)
+
+1.6.2 Syarikat hendaklah menyediakan pembentangan dan demonstrasi di tapak atau di mana-mana tempat yang dipersetujui
+oleh kedua-dua pihak.
+
+## Pematuhan Terhadap Piawaian Iso/Iec 27001:2022 Sistem Pengurusan Keselamatan Maklumat (Isms)
+
+
+## Dan Polisi Keselamatan Siber Umpsa
+
+Syarikat yang berjaya perlu memberikan komitmen penuh bagi mematuhi kesemua piawaian ISO/IEC 27001:2022 Sistem
+Pengurusan Keselamatan Maklumat (ISMS) dan Polisi Keselamatan Siber UMPSA, termasuk semua peraturan, tataamalan, dan
+prosedur berkaitan sepanjang pelaksanaan projek. Ia termasuk, tetapi tidak terhad kepada, perkara-perkara berikut:
+1.7.1 Kerahsian dan Keselamatan Data
+Semua maklumat dan data yang dibekalkan oleh UMPSA kepada syarikat pembekal adalah kekal sulit sepanjang proses
+pembangunan berjalan.
+1.7.2 Klasifikasi Maklumat
+1.7.2.1 Dokumen Spesifikasi Teknikal dan semua dokumen berkaitan yang tersenarai dalam Perkara 1.6.1 yang telah
+dicetak oleh syarikat pembekal mesti diberi label 'SULIT' sebelum dikemukakan kepada UMPSA.
+1.7.2.2 Semua pemilikan data adalah tertakluk sepenuhnya di bawah pihak UMPSA.
+Pihak syarikat perlu menandatangani surat akujanji kerahsiaan dan keselamatan maklumat yang akan disediakan oleh pihak
+UMPSA sebelum memulakan projek.
+Д
+Tandatangan &CORM BIN ABDUL KASSIM
+Pegawai Pensyarah bertanggungjawab
+Pusat Teknologi Digital
+Universiti Malaysia Pahang Al-Sultan Abdullah
+Tel : 09-4315232
+
+## Ts. Mohd Rabin Abu Bakar
+
+Pengarah
+Tandatangan & Cop
+Pusa Teknologr
+Dekan / Ketua Jabatan ullah
+Univelsid Malays
+
+## T: 09-4315236
+
+
+
+--- Page 42 ---
+
+
+
+## No. Jtict: Jtict/2025 (29)
+
+JABATAN: DiTec
+1.8.
+
+## Universiti Malaysia Pahang Al-Sultan Abdullah
+
+
+## Jadual Penentuan Teknikal
+
+Muka Surat | 7
+
+## (Form/Bend/Up/007)
+
+
+## Pematuhan Terhadap Perundangan Berkaitan Keselamatan, Kesihatan Pekerjaan Dan Alam
+
+SEKITAR
+Pengurusan syarikat yang berjaya perlu memberikan komitmen penuh bagi mematuhi kesemua perundangan berkaitan
+keselamatan, kesihatan pekerjaan dan alam sekitar seperti Akta Keselamatan dan Kesihatan Pekerjaan 1994, Akta Kualiti Alam
+Sekeliling 1974, dan termasuklah semua peraturan, tataamalan, dan prosedur berkaitan yang dikeluarkan oleh Jabatan
+Keselamatan dan Kesihatan Pekerjaan (JKKP), Jabatan Alam Sekitar (JAS), dan Bahagian Pengurusan Keselamatan dan
+Kesihatan Pekerjaan (OSHMED), UMPSA. Ia termasuk tetapi tidak terhad kepada perkara-perkara berikut:
+1.8.1 Mematuhi Seksyen 15: Akta Keselamatan dan Kesihatan Pekerjaan 1994
+i.
+ii.
+Pengurusan syarikat yang berjaya perlu memastikan, setakat yang praktik, keselamatan, kesihatan dan kebajikan
+semasa bekerja bagi semua pekerjanya.
+Tanpa menjejaskan keluasan makna perkara (i), perkara yang diliputi oleh kewajipan itu termasuklah terutamanya:
+a. Membuat perkiraan bagi menjamin keselamatan dan ketiadaan risiko kepada kesihatan berkaitan dengan
+penggunaan atau pengendalian, penanganan, penyimpanan dan pengangkutan loji dan bahan.
+b. Pengadaan maklumat, arahan, latihan dan penyeliaan sebagaimana yang perlu untuk memastikan setakat yang
+praktik, keselamatan dan kesihatan pekerjanya yang sedang bekerja.
+c. Pengadaan dan penyenggaraan persekitaran pekerjaan bagi pekerjanya yang, setakat yang praktik, selamat, tanpa
+risiko kepada kesihatan, dan memadai berkenaan dengan kemudahan bagi kebajikan mereka yang sedang
+bekerja.
+Tandatangan &COPI ABDUL KASSIM
+Pegawai Pensyarah bertanggungjawab
+Pusat Teknologi Digital
+Universiti Malaysia Pahang Al-Sultan Abdullah
+Tel : 09-4315232
+
+## Ts. Mohd Raad Bin Abu Bakar
+
+PenTandatangan & Cop
+PusDekan Ketua Jabatanullah
+Universia Malaysia and
+Tel: 09-4315236
+
+
+--- Page 43 ---
+
+
+
+## No. Jtict: Jtict/2025 (29)
+
+JABATAN: DiTec
+
+## Universiti Malaysia Pahang Al-Sultan Abdullah
+
+
+## Jadual Penentuan Teknikal
+
+Muka Surat | 8
+
+## (Form/Bend/Up/007)
+
+1.8.2 Pengurusan syarikat yang berjaya perlu mengikuti dengan jayanya Program Pengurusan Keselamatan Kontraktor
+secara atas talian yang telah disediakan oleh pihak OSHMED UMPSA.
+1.8.3 Kelengkapan Perlindungan Diri
+Menyedia dan menyelenggara kelengkapan perlindungan diri kepada semua pekerja dibawah seliaan dengan
+menyediakan kelengkapan perlindungan diri dengan kuantiti yang mencukupi dan telah diluluskan oleh JKKP Malaysia.
+Kelengkapan hendaklah termasuk tetapi tidak terhad kepada:
+i. Kasut keselamatan
+ii. Topi Keselamatan
+iii. Abah-abah badan penuh (dengan lanyard berganda)
+iv. Sarung tangan
+v. Cermin mata keselamatan
+vi. Penutup/penyumbat telinga (ear plug/muff)
+vii. Topeng habuk (dust mask)
+viii. Alat pernafasan (respirator)
+ix. Jaket keselamatan (hijau limau) dengan pita pemantul.
+De
+Tandatangan
+-KASSIM
+Pegawai Pensyarah bertanggungjawab
+Pusat Teknologi Digital
+Maklumat
+Universiti Malaysia Pahang Al-Sultan Abdullah
+Tel : 09-4315232
+8
+
+## Binabi Bakar
+
+TS. MTandatangan & Cop
+PengaDekan Ketua Jabatan
+Pusat Teknologi Digital
+Universiti Malaysia Pahang Al-Sultan Abdullah
+Tel: 09-4310230
+
+
+--- Page 44 ---
+
+
+
+## No. Jtict: Jtict/2025 (29)
+
+JABATAN: DiTec
+
+## Universiti Malaysia Pahang Al-Sultan Abdullah
+
+
+## Jadual Penentuan Teknikal
+
+Muka Surat | 9
+
+## (Form/Bend/Up/007)
+
+1.8.4 Kerja yang Melibatkan Ruang Terkurung dan/atau Kerja di Tempat Tinggi (3 meter dan ke atas)
+Pengurusan syarikat yang berjaya perlu mematuhi sepenuhnya kod amalan dan/atau garis panduan yang dikeluarkan oleh
+JKKP Malaysia jika pekerjaan tersebut melibatkan kerja di ruang terkurung dan/atau kerja di tempat tinggi (3 meter dan ke
+atas).
+i. Ruang Terkurung: Tataamalan Industri Bekerja Selamat di Ruang Terkurung, 2010
+ii. Kerja di tempat Tinggi: Guidelines for the Prevention of Falls at Workplaces, 2007
+1.8.5 Kelulusan Permit Kerja
+Pengurusan syarikat yang berjaya perlu mendapatkan Permit Kerja (PTW) daripada PTJ yang terlibat sebelum
+dibenarkan untuk melaksanakan kerja yang diarahkan. Pengurusan syarikat yang berjaya perlu mengisi borang PTW
+tersebut dan perlu mematuhi semua peraturan melibatkan skop keselamatan dan kesihatan pekerjaan. Pihak UMPSA
+berhak untuk mengambil apa-apa tindakan jika terdapat ketidakpatuhan terhadap Akta Keselamatan dan Kesihatan
+Pekerjaan 1994.
+1.8.6 Sijil Perakuan Kelayakan (CF)
+Tandatangan &GOPKASSIM.
+Pegawai Pensyarah bertanggungjawab
+Pusat Teknologi Digital
+Universiti Malaysia Pahang Al-Sultan Abdullah
+Tel : 09-4315232
+
+## Ts. Mohd Rash Abu Bakar
+
+PengaTandatangan &
+Fusat Dekan Ketua Jabatan
+Taknpicy!
+Univesid May
+Tel : 09-4315236
+
+
+--- Page 45 ---
+
+
+
+## No. Jtict: Jtict/2025 (29)
+
+JABATAN: DiTec
+
+## Universiti Malaysia Pahang Al-Sultan Abdullah
+
+
+## Jadual Penentuan Teknikal
+
+Muka Surat | 10
+
+## (Form/Bend/Up/007)
+
+Pengurusan syarikat yang berjaya hendaklah memastikan bahawa mana-mana dandang stim, bejana tekanan atau
+jentera mengangkat yang dibekalkan hendaklah mempunyai sijil perakuan kelayakan (CF) yang sah daripada JKKP
+Malaysia kecuali jentera yang disenaraikan dalam Jadual Kedua dan Jadual Ketiga, Peraturan-Peraturan Keselamatan
+Dan Kesihatan Pekerjaan (Loji Yang Menghendaki Perakuan Kelayakan) 2024.
+1.8.7 Helaian Data Keselamatan (SDS)
+Pengurusan syarikat yang berjaya hendaklah menyediakan helaian data keselamatan (SDS) bagi setiap bahan kimia
+yang dibekalkan seperti mana dikehendaki dalam Peraturan-peraturan Keselamatan dan Kesihatan Pekerjaan
+(Penggunaan dan Standard Pendedahan Bahan Kimia Berbahaya kepada Kesihatan) 2000. SDS tersebut hendaklah
+disediakan dalam bahasa kebangsaan dan Bahasa Inggeris.
+1.8.8 Keperluan Keselamatan dan Kesihatan Pekerjaan bagi Kerja Pembinaan, Kerja Kejuruteraan dan Aktiviti
+Berkaitan
+Bagi sebarang kerja yang melibatkan kerja-kerja pembinaan atau kerja kejuruteraan, termasuk kerja-kerja
+pengubahsuaian, pembaikan, penyelenggaraan atau pembersihan, pengurusan syarikat yang berjaya adalah
+diwajibkan mematuhi keperluan berikut:
+i.
+II.
+Sekiranya tempoh kerja melebihi 30 hari bekerja atau melibatkan lebih daripada 500 hari orang bekerja, kontraktor
+yang berjaya dikehendaki mengemukakan pemberitahuan kepada JKKP Malaysia secepat mungkin sebelum kerja
+dimulakan.
+Bagi kontrak bernilai kurang daripada RM20 juta, kontraktor yang berjaya dikehendaki melantik Penyelia
+Keselamatan Tapak Bina (3S) yang kompeten dan memiliki kelayakan sebagaimana yang ditetapkan di bawah
+Tandatanga&Bs SIM
+Pegawai Rensyarah bertanggungjawab
+Pusat Teknologi Digital
+Universiti Malaysia Pahang Al-Sultan Abdullah
+Tel : 09-4315232
+
+## Qin Abu Bakar
+
+TS. MTandatangan & Cop
+Penga Dekan / Ketua Jabatan
+Pusat Teknologi Digital
+Universiti Malaysia Pahang Al-Sultan Abdullah
+Tel : 09-4315238
+
+
+--- Page 46 ---
+
+
+
+## No. Jtict: Jtict/2025 (29)
+
+JABATAN: DiTec
+III.
+
+## Universiti Malaysia Pahang Al-Sultan Abdullah
+
+
+## Jadual Penentuan Teknikal
+
+Muka Surat | 11
+
+## (Form/Bend/Up/007)
+
+Peraturan-Peraturan Keselamatan dan Kesihatan Pekerjaan (Kerja Pembinaan) (Reka Bentuk dan Pengurusan)
+2024.
+Bagi kontrak bernilai melebihi RM20 juta, kontraktor yang berjaya diwajibkan melantik Pegawai Keselamatan dan
+Kesihatan (SHO) sepenuh masa yang berdaftar dengan JKKP Malaysia bagi memantau pelaksanaan langkah-
+langkah keselamatan dan kesihatan pekerjaan di tempat kerja.
+1.8.9 Prosedur Pengurusan Keselamatan Kontraktor
+1.9
+LAIN-LAIN
+Untuk sebarang butiran lanjut mengenai Prosedur Pengurusan Keselamatan Kontraktor, pengurusan syarikat yang
+berjaya boleh merujuk ke Portal OSHMED:
+https://oshmo.umpsa.edu.my/index.php/en/contractor
+Pihak syarikat yang berjaya hendaklah menyediakan set peralatan lengkap untuk penyelenggaraan umum, penyelarasan dan
+pembaikan peralatan. Syarikat tersebut hendaklah menjamin ketersediaan perkhidmatan selepas jualan yang baik untuk semua
+peralatan yang dibekalkan. UMPSA berhak untuk tidak mempertimbangkan dan menolak tawaran syarikat yang gagal
+membekalkan mana-mana item yang dinyatakan di atas secara automatik.
+D
+
+## ..Hazam Bin Abdul Kassim
+
+Tandatanganka Teknologi Maklumat
+Pegawai / Pensyarah bertanggungjawab
+Universiti Malaysia Pahang Al-Sultan Abdullah
+Tel: 09-4315232
+TS. MTandatangan & CopKAR
+Pengar Dekan/Ketua Jabatan
+Pusat Teknologi Digital
+Universiti Malaysia Pahang Al-Sultan Abdullah
+Tel : 09-4315238
+
+
+--- Page 47 ---
+
+
+
+## No. Jtict: Jtict/2025 (29)
+
+JABATAN: DiTec
+
+## Universiti Malaysia Pahang Al-Sultan Abdullah
+
+
+## Jadual Penentuan Teknikal
+
+Muka Surat | 12
+
+## (Form/Bend/Up/007)
+
+
+## Tajuk: Membekal, Membangun, Menghantar, Memasang, Mengintegrasi, Menguji Dan Mentauliah
+
+
+## Sistem Pengurusan Mesyuarat, Di Universiti Malaysia Pahang Al-Sultan Abdullah
+
+Latar Belakang Projek
+Universiti mempunyai sistem sedia ada dalam pengurusan mesyuarat yang usang dan kurang bersepadu oleh yang demikian
+satu sistem bersepadu perlu dibangunkan untuk menguruskan mesyuarat rasmi di peringkat universiti, fakulti, jabatan dan
+jawatankuasa. Proses semasa yang bergantung kepada dokumen fizikal menyebabkan ketidakcekapan dalam penjejakan
+kertas kerja, keputusan, pelaksanaan tindakan, dan pemantauan susulan. Justeru, satu sistem digital yang menyeluruh moden
+dan bersesuaian dengan keperluan semasa diperlukan untuk menambah baik pengurusan mesyuarat.
+Sistem sedia ada menggunakan teknologi berikut:
+a) Oracle Database
+b) JavaServer Pages (JSP)
+c) Backend API (PHP dan JSP)
+Objektif Projek
+Menilai dan mengkaji sistem sedia ada
+Menyediakan platform berpusat bagi pengurusan semua jenis mesyuarat rasmi.
+Memudahkan proses pendaftaran, semakan, edaran, dan arkib kertas kerja.
+Tandatangan &COPABDUL KASSIM
+Pegawai / Pensyarah bertanggungjawab
+Fusst Teknologi Digital
+Universiti Malaysia Pahang Al-Sultan Abdullah
+Tel 09-4315232
+Tandatangan & CopBU BAKAR
+Dekan / Ketua Jabatan
+Pusat Teknologi Digital
+Universiti Malaysia Pahang Al-Sultan Abdullah
+Tel: 09-4315238
+
+
+--- Page 48 ---
+
+
+
+## No. Jtict: Jtict/2025 (29)
+
+JABATAN: DiTec
+
+## Universiti Malaysia Pahang Al-Sultan Abdullah
+
+
+## Jadual Penentuan Teknikal
+
+Meningkatkan kecekapan dalam merekod minit dan keputusan mesyuarat.
+Muka Surat | 13
+
+## (Form/Bend/Up/007)
+
+Menyediakan fungsi pemantauan maklum balas dan pelaksanaan tindakan susulan.
+Menyokong carian, penapisan, dan laporan secara sistematik dan telus.
+Mengintegrasi dengan sistem sedia ada seperti SSO, e-mel rasmi dan direktori staf.
+Migrasi data sedia ada
+Mengunakan rangka kerja PHP Laravel yang moden dan bersesuai dengan keperluan semasa.
+Menyediakan rekabentuk antara muka pengguna (UI/UX) mesra pengguna dan responsif.
+Д.
+Tandatangan & CODUL KASSIM
+Exsekutif Kanejarah bertanggungjawab
+Pegawa
+Digital
+Universiti Malaysia Pahang Al-Sultan Abdullah
+Tel : 09-4315232
+
+## Ts. Mohd Ras Bin Abu Bakar
+
+Pengarah...
+PuTandatangan & Cop
+UnDekan Ketua Jabatandullah
+Tel : 09-4315236
+
+
+--- Page 49 ---
+
+
+
+## No. Jtict: Jtict/2025 (29)
+
+JABATAN: DiTec
+
+## Universiti Malaysia Pahang Al-Sultan Abdullah
+
+
+## Jadual Penentuan Teknikal
+
+2.0
+
+## Spesifikasi Teknikal
+
+Muka Surat | 14
+
+## (Form/Bend/Up/007)
+
+Dalam menjawab kepada spesifikasi teknikal ini, perkataan seperti "OK", "MAKLUM", "SETUJU", "PATUH", "NOTED",
+"AGREED", "COMPLY" semata-mata atau yang seumpamanya tidak boleh digunakan. Walau bagaimanapun, jika perkataan
+berkenaan perlu digunakan, rujukan yang jelas hendaklah diberikan. Jika ruangan yang disediakan tidak mencukupi, syarikat
+boleh mengemukakan lampiran tambahan.
+Petender perlu menyediakan katalog/brosur/risalah/dokumen untuk mengesahkan semua kenyataan pematuhan terhadap
+spesifikasi teknikal peralatan sebagai dokumen sokongan. Tawaran akan dianggap sebagai tidak mematuhi atau tidak sah jika
+dokumen sokongan yang berkenaan tidak disertakan.
+Cadangan kontraktor yang dikemukakan semasa fasa penyerahan dokumen harus selaras dengan spesifikasi teknikal asal.
+Ketidakpatuhan akan menyebabkan penyingkiran. UMPSA berhak untuk tidak menilai sebarang cadangan yang tidak
+mengandungi spesifikasi teknikal asal.
+Petender dinasihatkan untuk menyertakan hubungkait spesifikasi yang dicadangkan dengan dokumen sokongan bagi
+memudahkan pengesahan dan penilaian.
+Petender dinasihatkan untuk menjawab/memberi maklumbalas dalam setiap ruangan 'spesifikasi syarikať (kecuali yang
+berlorek) bagi memastikan setiap tawaran petender dapat dinilai.
+Tandatangan &CODUL KASSIM
+Pegawan Pensyarah bertanggungjawab
+Pusat Teknologi Digital
+Universiti Malaysia Pahang Al-Sultan Abdullah
+Tel: 09-4315232
+
+## Ts. Mo Rashid Bin Abu Bakar
+
+Dongarah
+Pencarar
+Tandatangan & Cop
+Dekan / Ketua Jabatan ultan Abdullah
+Tel : 09-4315238
+
+
+--- Page 50 ---
+
+
+
+## No. Jtict: Jtict/2025 (29)
+
+JABATAN: DiTec
+
+## Universiti Malaysia Pahang Al-Sultan Abdullah
+
+
+## Jadual Penentuan Teknikal
+
+BIL
+
+## Butiran Kerja / Spesifikasi Jabatan
+
+2.1
+SKOP KERJA
+2.1.1
+Petender hendaklah melaksanakan perkara berikut:
+A. Petender MESTI membangunkan semua modul/menu yang
+dinyatakan di dalam perkara 2.1.2, merupakan kajian keperluan
+awal. Dokumen kajian keperluan (user requirement
+specification) yang akan dimuktamadkan dalam bengkel
+merupakan dokumen akhir yang akan dijadikan rujukan di
+dalam pembangunan sistem. Rujuk perkara 2.2.2
+B. Petender MESTI menggunakan teknologi Laravel framework
+(https://laravel.com) versi terkini untuk membangun dan
+menyediakan modul dan API (application programming
+interface) untuk setiap modul. Ini termasuk penggunaan
+Eloquent ORM.
+C. Melanggan Laravel Shift (https://laravelshift.com) edisi Shifty
+Plan (Latest Single) untuk tempoh tiga (3) tahun dan
+mengkonfigurasinya di repo sistem dan API berkaitan.
+Tandatangan&NCOPUL KASSIM
+Pegawai Pensyarah bertanggungjawab
+Pusat Teknologi Digital
+Universiti Malaysia Pahang Al-Sultan Abdullah
+Tel : 09-4315232
+Muka Surat | 15
+
+## (Form/Bend/Up/007)
+
+
+## Maklumbalas / Spesifikasi Syarikat
+
+Tandatangan & CopU BAKAR
+Dekan / Ketua Jabatan
+Pusat Teknologi Digital
+Universiti Malaysia Pahang Al-Sultan Abdullah
+Tel: 09-4315236
+
+
+--- Page 51 ---
+
+
+
+## No. Jtict: Jtict/2025 (29)
+
+JABATAN: DiTec
+
+## Universiti Malaysia Pahang Al-Sultan Abdullah
+
+
+## Jadual Penentuan Teknikal
+
+BIL
+
+## Butiran Kerja / Spesifikasi Jabatan
+
+D. Integrasi daripada sistem Java JSP kepada PHP Laravel terkini
+serta ditambahbaik dengan ciri-ciri moden selaras dengan
+teknologi semasa.
+i) Sistem baru mampu memaparkan jadual mesyuarat dari
+sistem E Takwim
+ii) Integrasi dengan keputusan E Voting sedia ada.
+E. Membangunkan antara muka pengguna dalam bentuk
+responsive web design menggunakan Bootstrap, Tailwind, atau
+teknologi setara, serta menambah ciri-ciri kebolehgunaan
+(usability features) seperti searchable menu, navigasi yang lebih
+intuitif, dan paparan mesra peranti mudah alih.
+F. Menggunakan pangkalan data Oracle yang sedia ada di
+UMPSA.
+G. Menggunakan seni bina MVVM, MVC, atau setara dalam
+pembangunan sistem dan aplikasi, dengan mengutamakan
+reliability dan scalability sistem serta aplikasi pada masa akan
+datang.
+HA
+Tandatangan
+
+## Anizam Bin & Pod Kassim
+
+Pegawai Pensyarah bertanggungjawab
+Dignel
+Universiti Malaysia Pahang Al-Sultan Abdullah
+Tel: 09-4315232
+Muka Surat | 16
+
+## (Form/Bend/Up/007)
+
+
+## Maklumbalas / Spesifikasi Syarikat
+
+
+## Ts. Mohd. Rashidan Abu Bakar
+
+PengaraTandatangan & Cop
+Pusat TeDekan Ketua Jabatan
+Universiti Malaysia Pahang Al-Sultan Abdulrah
+Tel : 09-4315238
+
+
+--- Page 52 ---
+
+
+
+## No. Jtict: Jtict/2025 (29)
+
+JABATAN: DiTec
+
+## Universiti Malaysia Pahang Al-Sultan Abdullah
+
+
+## Jadual Penentuan Teknikal
+
+BIL
+
+## Butiran Kerja / Spesifikasi Jabatan
+
+H. Menggunakan container technology sebagai asas dalam
+pembangunan sistem bagi memastikan kebolehskalaan,
+kebolehgunaan semula, dan kemudahan penyelenggaraan
+I.
+sistem.
+Melaksanakan konfigurasi dan pemasangan pada persekitaran
+Production, Staging, Development, dan Disaster Recovery yang
+terdapat di UMPSA.
+J. Petender perlu menyediakan persekitaran pembangunan sistem
+sendiri bagi tujuan pelaksanaan projek ini.
+K. Konfigurasi hendaklah mematuhi piawaian keselamatan,
+keperluan ISMS, dan amalan DevOps terbaik.
+L. Mempunyai fungsi memuat naik dokumen dan berupaya
+menjana laporan.
+M. Menggunakan Power BI dengan memanfaatkan lesen institusi
+sedia ada, bagi tujuan pembangunan dashboard tanpa
+melibatkan sebarang kos pelesenan tambahan kepada pihak
+UMPSA.
+Д
+Tandatangan &GPKASSIM.
+Pegawai Pensyarah bertanggungjawab
+Pusat Teknologi Digital
+Universiti Malaysia Pahang Al-Sultan Abdullah
+Tel : 09-4315232
+Muka Surat | 17
+
+## (Form/Bend/Up/007)
+
+
+## Maklumbalas / Spesifikasi Syarikat
+
+
+## Ts.Mohd Robin Abu Bakar
+
+PerTandatangan & Cop
+Pu Dekan Ketua Jabatan
+Universiti Malaysia Pahang Al-Sultan Abdullah
+Tel : 09-4315236
+
+
+--- Page 53 ---
+
+
+
+## No. Jtict: Jtict/2025 (29)
+
+JABATAN: DiTec
+
+## Universiti Malaysia Pahang Al-Sultan Abdullah
+
+
+## Jadual Penentuan Teknikal
+
+BIL
+
+## Butiran Kerja / Spesifikasi Jabatan
+
+N. Petender hendaklah melaksanakan proses migrasi data daripada
+sistem sedia ada ke sistem baharu bagi memastikan
+kesinambungan operasi tanpa gangguan
+O. Melaksanakan integrasi dengan sistem dalaman berikut :
+i. MyUMPSA-ID Single Sign-On (SSO)
+ii. Redis
+iii. Email gateway
+iv. File storage
+v. API
+vi. Notification
+vii. Modul Executive Approval
+P. Menjalankan UAT (User Acceptance Test) dan FAT (Final
+Acceptance Test). Pelan UAT/FAT serta pelaporan mestilah
+disediakan.
+Tandatangan & CASSIM
+Pegawai
+Pensyarah bertanggungjawab
+Pusat Teknologi Digital
+Universiti Malaysia Pahang Al-Sultan Abdullah
+Tel : 09-4315232
+Muka Surat | 18
+
+## (Form/Bend/Up/007)
+
+
+## Maklumbalas / Spesifikasi Syarikat
+
+8
+Tandatangen & CoPAKAR
+TS. Dekan/K
+/ Ketua Jabatan
+Pengaran
+Pusat Teknologi Digital
+Universiti Malaysia Pahang Al-Sultan Abdullah
+Tel: 09-4315238
+
+
+--- Page 54 ---
+
+
+
+## No. Jtict: Jtict/2025 (29)
+
+JABATAN: DiTec
+
+## Universiti Malaysia Pahang Al-Sultan Abdullah
+
+
+## Jadual Penentuan Teknikal
+
+BIL
+
+## Butiran Kerja / Spesifikasi Jabatan
+
+Q. Menyediakan dokumentasi teknikal penuh termasuk seni bina
+sistem, manual pengguna, manual pentadbir, dan dokumen
+konfigurasi pelayan.
+R. Menyediakan latihan:
+i. Latihan kepada pentadbir sistem (IT)
+ii. Latihan kepada pengguna akhir (end-users)
+S. Membangun, menguji dan mentauliah sistem yang
+dibangunkan.
+T. Menyerahkan kod sumber penuh (full source code) sistem
+beserta dokumentasi berkaitan bagi tujuan pemilikan penuh
+oleh pihak UMPSA.
+U. Menyediakan dan mengkonfigurasi persekitaran pelayan bagi
+staging, development, disaster recovery (DR), dan production,
+mengikut spesifikasi yang ditetapkan.
+V. Melaksanakan proses migrasi dan pelaksanaan penuh sistem
+baharu sehingga siap sedia untuk operasi secara langsung (go-
+live), termasuk pengesahan akhir bersama pihak UMPSA.
+Д
+Tandatangan &BOOKASSIM
+Pegawai pensyara
+bertanggungjawab
+versiti Malaysia Pahang Al-Sultan Abdullah
+Tel : 09-4315232
+Muka Surat | 19
+
+## (Form/Bend/Up/007)
+
+
+## Maklumbalas / Spesifikasi Syarikat
+
+TS.
+Tandatangan & COBAKAR
+Peng Dekan / Ketua Jabatan
+Pusal Teknologi Digitar
+Universiti Malaysia Pahang Al-Sultan Abdullah
+Tel : 09-4315238
+
+
+--- Page 55 ---
+
+
+
+## No. Jtict: Jtict/2025 (29)
+
+JABATAN: DiTec
+
+## Universiti Malaysia Pahang Al-Sultan Abdullah
+
+
+## Jadual Penentuan Teknikal
+
+BIL
+2.1.2
+
+## Butiran Kerja / Spesifikasi Jabatan
+
+Keperluan Fungsian Modul/Menu
+Petender dikehendaki membangunkan modul-modul berikut;
+Rujuk LAMPIRAN A-01
+2.1.2.1 Login
+2.1.2.2
+Modul ini mengesahkan identiti pengguna melalui SSO
+server (Keycloak). Selain itu pengguna boleh juga log
+masuk aplikasi melalui pengesahan Google.
+E Authorization
+Modul ini bertujuan bagi memberi akses kepada
+keseluruhan sistem mesyuarat.
+i. Set-up/ Review & Approval
+a. Memberikan akses kepada pengguna dan
+pentadbir secara berperingkat (tiering).
+b. Sistem mempunyai keupayaan untuk audit trail.
+c. Integrasi dengan Executive approval / notifikasi /
+tindakan di dalam ecomm UMPSA bagi semua
+modul sistem ini yang memerlukan tindakan ahli /
+staff UMPSA berkaitan mesyuarat
+Tandatangan & OPKASSIM
+Pegawai Pensyarah bertanggungjawab
+Pusat Teknologi Digital
+Loiversiti Malaysia Pahang Al-Sultan Abdullah
+Tel: 09-4315232
+Muka Surat | 20
+
+## (Form/Bend/Up/007)
+
+
+## Maklumbalas / Spesifikasi Syarikat
+
+&
+
+## Ts. Mohd Rash Bin Abu Bakar
+
+Peng Tandatangan & Cop
+Pusa Dekan Ketua Jabatan
+Universiti Malaysia Pahang Al-Sultan Abdullah
+Tel : 09-4315236
+
+
+--- Page 56 ---
+
+
+
+## No. Jtict: Jtict/2025 (29)
+
+JABATAN: DiTec
+
+## Universiti Malaysia Pahang Al-Sultan Abdullah
+
+
+## Jadual Penentuan Teknikal
+
+BIL
+
+## Butiran Kerja / Spesifikasi Jabatan
+
+2.1.2.3
+d. Menu kebenaran berkaitan pemantauan, kelulusan
+mesyuarat dan penyelenggaraan mesyuarat di
+bawahnya
+Meeting Registration
+i Set up tier of meeting
+Modul ini bertujuan bagi penetapan pengurusan
+semua mesyuarat-mesyuarat di dalam universiti.
+ii Meeting Set-Up: Lazim / Khas & Edaran
+a. Permohonan pendaftaran mesyuarat
+b. Kelulusan pendaftaran
+c. Penetapan peringkat mesyuarat (peringkat 1, 2,..
+n)
+d. Pendaftaran sesi mesyuarat
+e. Memberikan akses kepada pengguna dan
+pentadbir
+Tandatangan & Cop
+bertanggungjawab
+Pegawai Pensyarah berfaing
+Kutil Kanan Teknologi Maklumat
+Pusat Teknologi Digital
+Universiti Malaysia Pahang Al-Sultan Abdullah
+Tel: 09-4315232
+Muka Surat | 21
+
+## (Form/Bend/Up/007)
+
+
+## Maklumbalas / Spesifikasi Syarikat
+
+TS.
+
+## Rashinabu Bakar
+
+& Cop
+MOHangar
+Pengalan
+Dekan Ketua Jabatan
+Pusal k
+Universiti Malaysia Pahang Al-Sultan Abdullah
+Tel : 09-4315238
+
+
+--- Page 57 ---
+
+
+
+## No. Jtict: Jtict/2025 (29)
+
+JABATAN: DiTec
+
+## Universiti Malaysia Pahang Al-Sultan Abdullah
+
+
+## Jadual Penentuan Teknikal
+
+BIL
+
+## Butiran Kerja / Spesifikasi Jabatan
+
+iii. Panggilan Mesyuarat (Lazim/Khas)
+Modul ini bertujuan bagi pemakluman kepada
+ahli mesyuarat dan majlis/jk berkenaan
+cadangan tarikh, tempat dan maklumat lain
+berkenaan mesyuarat yang akan diadakan
+melalui e-mel.
+iv. Mesyuarat Secara Edaran
+Memudahkan proses mesyuarat tanpa
+kehadiran secara fizikal, membolehkan
+dokumen diedarkan kepada ahli, dan
+membolehkan ahli memberi maklum balas,
+komen atau keputusan dalam tempoh masa
+ditetapkan secara dalam talian.
+a. Pemakluman Mesyuarat Secara Edaran dan
+dapatkan keputusan ahli.
+b. Paparan pada modul executive approval sedia
+ada bagi tindakan ahli Senat / Mesyuarat.
+Tandatangan &[CbPASSIM
+Pegawai Pensyarah Bertanggungjawab
+Pusat Teknologi Digital
+Universiti Malaysia Pahang Al-Sultan Abdullah
+Tel : 09-4315232
+Muka Surat | 22
+
+## (Form/Bend/Up/007)
+
+
+## Maklumbalas / Spesifikasi Syarikat
+
+
+## Ts. Mohd Rashid Binabu Bakar
+
+PengTandatangan & Cop
+Pusa Dekan Ketua Jabatan
+Universiti Malaysia Pahang Al-Sultan Abdullah
+Tel : 09-4315236
+
+
+--- Page 58 ---
+
+
+
+## No. Jtict: Jtict/2025 (29)
+
+JABATAN: DiTec
+
+## Universiti Malaysia Pahang Al-Sultan Abdullah
+
+
+## Jadual Penentuan Teknikal
+
+BIL
+
+## Butiran Kerja / Spesifikasi Jabatan
+
+c. Peringatan tempoh maklumbalas dan tindakan
+mengikut ketetapan tadbir urus mesyuarat.
+v. Meeting Notice
+Pengeluaran notis panggilan mesyuarat
+berdasarkan tempoh yang telah ditetapkan
+mengikut tadbir urus mesyuarat.
+2.1.2.4 e-Takwim
+Kekal menggunakan sistem sedia ada, walau
+bagaimanapun perlu ada integrasi sistem sedia ada dan
+sistem baru yang akan dibangunkan.
+Sistem baru mampu memaparkan jadual mesyuarat dari
+sistem E Takwim
+i. Taqwim Set up
+a. Sumber data dari etakwim ecomm/ appointment
+dalam ecomm.(sistem sedia ada)
+b. Paparan di dalam dashboard Menu mesyuarat
+Д
+Tandatangan &ASSIM
+Pegawai
+Laki Kanarbertanggungjawab
+Pusat Teknologi Digital
+Universiti Malaysia Pahang Al-Sultan Abdullah
+Tel: 09-4315232
+Muka Surat | 23
+
+## (Form/Bend/Up/007)
+
+
+## Maklumbalas / Spesifikasi Syarikat
+
+
+## Ts..Mohd Robin Abu Bakar
+
+Tandatangan & Cop
+Dekan / Ketua
+Universiti Malaysia Penyabatan dulloh
+Tel : 09-4315230
+
+
+--- Page 59 ---
+
+
+
+## No. Jtict: Jtict/2025 (29)
+
+JABATAN: DiTec
+
+## Universiti Malaysia Pahang Al-Sultan Abdullah
+
+
+## Jadual Penentuan Teknikal
+
+BIL
+
+## Butiran Kerja / Spesifikasi Jabatan
+
+2.1.2.5 Module E-Committee
+Menguruskan maklumat keahlian mesyuarat secara
+berpusat, termasuk daftar, kemas kini, penamatan, rekod
+sejarah pelantikan dan penjanaan laporan berkaitan.
+i. Appointment (Perlantikan)
+a. Mendaftarkan keahlian mesyuarat mengikut
+tempoh pelantikan
+b. Integrasi data staf bagi tujuan mendaftarkan
+keahlian mengikut tempoh pelantikan;
+c. Perkara yang diperlukan antaranya
+Nama,
+Jawatan Hakiki & Jawatan Giliran, ID Staf, Fakulti,
+Kelulusan Akademik, Tempoh Jawatan dan lain-
+lain
+d. Membantu sekretariat dalam memantau tempoh
+pelantikan dan penamatan dengan sistem alert
+e. Statistik kehadiran / tidak hadir ahli mesyuarat
+bulanan / tahunan
+Janaan nama ahli bagi pembangunan minit
+mesyuarat berdasarkan format minit mesyuarat
+
+## •Hanizam Bin Abdul Kassim
+
+Tandatangan &
+Maklumat
+Pegawai Pensyarah bertanggungjawab
+Universiti Malaysia Pahang Al-Sultan Abdullah
+Tel : 09-4315232
+Muka Surat | 24
+
+## (Form/Bend/Up/007)
+
+
+## Maklumbalas / Spesifikasi Syarikat
+
+
+## Ts.Mohd. Hud Bin Abu Bakar
+
+PTandatangan & Cop
+PDekan / Ketua
+Universiti Malaysia Jabatan bdullah
+Tel : 09-4315238
+
+
+--- Page 60 ---
+
+
+
+## No. Jtict: Jtict/2025 (29)
+
+JABATAN: DiTec
+
+## Universiti Malaysia Pahang Al-Sultan Abdullah
+
+
+## Jadual Penentuan Teknikal
+
+BIL
+
+## Butiran Kerja / Spesifikasi Jabatan
+
+g. Integrasi data sistem HoD UMPSA bagi Paparan
+rujukan didalam Ecomm Sistem HoD.
+h. Paparan tempoh lantikan
+i.
+Menu yang diperlukan, menyimpan rekod keahlian
+mesyuarat untuk rujukan masa hadapan. Contoh
+bagi tujuan audit pematuhan tadbir urus Senat.
+j. Boleh menjana dan menghantar surat kepada
+semua ahli mesyuarat. Penyediaan surat keahlian
+antaranya pelantikan, penamatan dan
+penghargaan dan lain-lain secara E-Letter digital.
+ii. Committee Set-Up
+a. Modul ini menetapkan keahlian sesuatu mesyuarat
+berdasarkan ToR Mesyuarat tersebut
+b. Antara ciri-ciri perlu ada ialah: nama, jawatan, id
+no, tempoh pelantikan dalam jawatankuasa,
+jawatan gilliran pentadbiran yang disandang dan
+lain-lain
+Tandatangan &
+
+## Arinacool Kassim”
+
+EKSGRUM Kanan Teknoid, Maklumat
+Pensyarah bertanggungjawab
+Pegawateknolog
+Universiti Malaysia Pahang Al-Sultan Abdullah
+Tel : 09-4315232
+Muka Surat | 25
+
+## (Form/Bend/Up/007)
+
+
+## Maklumbalas / Spesifikasi Syarikat
+
+
+## Ts. Mohd Rabin Abu Bakar
+
+Perarad
+PTandatanga & Cop
+UDekan Ketua Jabatan dullah
+Tel : 09-431523
+
+
+--- Page 61 ---
+
+
+
+## No. Jtict: Jtict/2025 (29)
+
+JABATAN: DiTec
+
+## Universiti Malaysia Pahang Al-Sultan Abdullah
+
+
+## Jadual Penentuan Teknikal
+
+BIL
+بو
+
+## Butiran Kerja / Spesifikasi Jabatan
+
+c. Integrasi data dengan modul minit mesyuarat dan
+sistem sediada (HoD Ecomm).
+iii. Attendance
+a. Pengiraan cukup kuorum keahlian mesyuarat bagi
+1/3 ahli untuk mengadakan mesyuarat.
+b. Maklumbalas kehadiran mesyuarat melalui sistem
+oleh Ahli; hadir/tidak hadir berserta sebab
+ketidakhadiran
+c. Janaan laporan kehadiran mesyuarat mengikut
+jawatan hieraki tertinggi berdasarkan tadbir urus.
+2.1.2.6 Module E-Paper Meeting
+Menyediakan satu platform berpusat untuk menghantar,
+mendaftar, menyimpan, mencari, menapis, dan menjejak
+sejarah kertas kerja yang dibentangkan atau
+dikemukakan.
+i. Call for Paper
+a. Mudah diakses melalui fungsi carian
+b. Sesi saringan kertas kerja bagi menentukan
+dibawa masuk ke mesyuarat semasa atau akan
+Tandatangan & Cop
+
+## Abdul Kassim
+
+Pegawai Pensyarah benanggungjawab
+Pusat Teknologi Digital
+Universiti Malaysia Pahang Al-Sultan Abdullah
+Tel : 09-4315232
+Muka Surat | 26
+
+## (Form/Bend/Up/007)
+
+
+## Maklumbalas / Spesifikasi Syarikat
+
+
+## Ts. Mohd Raad Bin Abu Bakar
+
+Pe
+Pusat tekanan & Cop
+UniDekan Ketua Jabatandullah
+Tel : 09-4315238
+
+
+--- Page 62 ---
+
+
+
+## No. Jtict: Jtict/2025 (29)
+
+JABATAN: DiTec
+
+## Universiti Malaysia Pahang Al-Sultan Abdullah
+
+
+## Jadual Penentuan Teknikal
+
+BIL
+
+## Butiran Kerja / Spesifikasi Jabatan
+
+datang atau kemaskini status KIV / digugurkan
+dan sebagainya
+c. Carian melalui authorize yang dibuka kepada
+pemohon dan fakulti/pusat yang dibenarkan
+d. Arkib dokumen
+ii. Paper submission
+a. Pemohon / PTJ / Sekretariat menghantar kertas
+kerja dengan memuatnaik dalam pelbagai bentuk
+antaranya documents, imej, pdf, video dan
+sebagainya bagi permohonan untuk dibentangkan
+kepada mesyuarat
+b. Sistem hendaklah membolehkan kertas kerja
+daripada Majlis atau Jawatankuasa lain dibawa
+ke peringkat kelulusan melalui proses mesyuarat
+yang diintegrasikan seperti peringkat proses
+mesyuarat:
+(i). Perakuan
+(ii). Kelulusan
+(iii). Pemakluman
+Tandatangan & CODUL KASSIM
+Kapan.
+Pegawai Pensyarah bertanggungjawab
+Pusat Teknologi Digital
+Universiti Malaysia Pahang Al-Sultan Abdullah
+Tel : 09-4315232
+Muka Surat | 27
+
+## (Form/Bend/Up/007)
+
+
+## Maklumbalas / Spesifikasi Syarikat
+
+
+## Ts. Mohd Rash-Nabu Bakar
+
+Tandatangan & Cop
+Penger
+Pusat Dekan Ketua Jabatan
+Universiti Malaysia Pahang Al-Sultan Abdullah
+Tel : 09-431523
+
+
+--- Page 63 ---
+
+
+
+## No. Jtict: Jtict/2025 (29)
+
+JABATAN: DiTec
+
+## Universiti Malaysia Pahang Al-Sultan Abdullah
+
+
+## Jadual Penentuan Teknikal
+
+BIL
+
+## Butiran Kerja / Spesifikasi Jabatan
+
+c. Kertas kerja dari pelbagai peringkat (tier
+mesyuarat) antaranya:
+(i) Mesyuarat Unit / Jabatan / Pusat
+(ii) Jawatankuasa
+(iii) Majlis
+(iv) Senat JKPU/LPU
+(v) Dan lain-lain
+d. Integrasi Mesyuarat Utama/Induk dan Majlis/
+Jawatankuasa dibawahnya
+(i) Sistem hendaklah membolehkan kertas
+kerja daripada Majlis atau
+Jawatankuasa lain dibawa ke peringkat
+atasan untuk dibentangkan melalui
+proses yang diintegrasikan.
+(ii) Penyelenggaraan jejak audit (audit
+trail) bagi setiap pergerakan dan
+pindaan dokumen.
+Tandatangan & COOL KASSIM
+Teknologi
+Pegawat pensyarah bertanggungjawab
+Universiti Malaysia Pahang Al-Sultan Abdullah
+Tel : 09-4315232
+Muka Surat | 28
+
+## (Form/Bend/Up/007)
+
+
+## Maklumbalas / Spesifikasi Syarikat
+
+ABU BAKAR
+Tandatangin & Cop
+Dekan / Ketua Jabatan
+Pusal Teknologi Digital
+Universiä Malaysia Pahang Al-Sultan Abdullah
+Tel: 09-4315236
+
+
+--- Page 64 ---
+
+
+
+## No. Jtict: Jtict/2025 (29)
+
+JABATAN: DiTec
+
+## Universiti Malaysia Pahang Al-Sultan Abdullah
+
+
+## Jadual Penentuan Teknikal
+
+BIL
+
+## Butiran Kerja / Spesifikasi Jabatan
+
+(iii) Penyelarasan tarikh, agenda, dan item
+mesyuarat mengikut peringkat proses
+kelulusan yang ditetapkan.
+iii. Meeting Agenda Notice
+Proses penyampaian maklumat berkaitan perkara-
+perkara yang akan dibincangkan dalam sesuatu
+mesyuarat kepada semua ahli yang terlibat.
+a. Pengeluaran notis agenda mesyuarat yang telah
+dimuktamadkan selepas Mesyuarat Pra
+berdasarkan tempoh yang telah ditetapkan
+berdasarkan tadbir urus mesyuarat.
+b. Penghantaran kertas kerja melalui platform
+sistem oleh pemohon / sekretariat majlis /
+Jawatankuasa
+c. Sistem hendaklah menghantar notifikasi bagi
+setiap perubahan status kertas kerja, termasuk
+KIV, digugurkan, ditangguh, diluluskan dan status
+lain.
+
+## Hanizam Bin Abdul Kassim
+
+Tandatangan Maklumat
+Pegawaick Rensyarah bertanggungjawab
+Universiti Malaysia Pahang Al-Sultan Abdullah
+Tel : 09-4315232
+Muka Surat | 29
+
+## (Form/Bend/Up/007)
+
+
+## Maklumbalas / Spesifikasi Syarikat
+
+TS. Tandatangan & CoрAKAR
+Peng Dekan / Ketua Jabatan
+Pusat Teknologi Digital
+Universiti Malaysia Pahang Al-Sultan Abdullah
+Tel : 09-4315236
+
+
+--- Page 65 ---
+
+
+
+## No. Jtict: Jtict/2025 (29)
+
+JABATAN: DiTec
+
+## Universiti Malaysia Pahang Al-Sultan Abdullah
+
+
+## Jadual Penentuan Teknikal
+
+BIL
+
+## Butiran Kerja / Spesifikasi Jabatan
+
+2.1.2.7
+Module E-Decision Meeting
+i.
+Modul ini melibatkan sekretariat, ahli mesyuarat dan
+staf yang perlu mengambil tindakan dari keputusan
+mesyuarat.
+a. Semua keputusan direkod dalam minit mesyuarat
+sebagai rujukan rasmi.Digunakan untuk
+memantau tindakan susulan dan tanggungjawab
+ahli. Boleh dirujuk semula untuk audit, laporan,
+atau penyelesaian pertikaian.
+b. Bagi menu keputusan mesyuarat yang akan
+dikeluarkan oleh secretariat kepada pemohon
+kertas kerja atau PIC yang perlu mengambil
+Tindakan atas keputusan tersebut, ianya adalah
+bersifat edaran sahaja. Jika berlaku sebarang
+pindaan (contoh secretariat terkhilaf membuat
+catatan keputusan, pihak secretariat mempunyai
+akses bagi meminda di menu keputusan dan
+akan menghantar semula keputusan yang
+dipinda)
+
+## Hanizam Bin Abdul Kassim..
+
+• Eksekutif Kanan ke Maklumat
+Tandatangani
+Pensyarah bertanggungjawab
+Pegawai Mia Pahang Al-Sultan Abdullah
+Tel: 09-4315232
+Muka Surat | 30
+
+## (Form/Bend/Up/007)
+
+
+## Maklumbalas / Spesifikasi Syarikat
+
+Tandatanga & Cop
+Pencaran
+BU BAKAR
+Dekan / Ketua Jabatan
+Pusat Teknologignen
+Universiti Malaysia Pahang Al-Sultan Abdullah
+: 09-4315236
+
+
+--- Page 66 ---
+
+
+
+## No. Jtict: Jtict/2025 (29)
+
+JABATAN: DiTec
+
+## Universiti Malaysia Pahang Al-Sultan Abdullah
+
+
+## Jadual Penentuan Teknikal
+
+BIL
+
+## Butiran Kerja / Spesifikasi Jabatan
+
+2.1.2.8
+ii. Distribute (Edaran)
+a. Penyediaan keputusan 3 hari berkerja
+selepas mesyuarat diadakan bagi ahli mesyuarat
+mengambil tindakan dengan efektif.
+b. Edaran kepada pic / ptj yang perlu menjalankan
+tugasan/tindakan tersebut.
+c. Format & template berdasarkan format minit
+yang ditetapkan
+d. Paparan terus kepada Dekan / HOD pemohon
+e. Format & template berdasarkan format yang
+akan ditetapkan
+Module E-Minutes
+Minit mesyuarat adalah dokumen catatan yang
+direkodkan hasil mesyuarat yang telah diadakan.
+Modul ini mengurus dan merekod keputusan mesyuarat
+secara tersusun, dengan keupayaan untuk menjejak
+status pelaksanaan tindakan, menghasilkan laporan, dan
+memudahkan capaian oleh pihak berkepentingan.
+Tandatangan & ObbKASSIM
+Pegawai Pensyarah bertanggungjawab
+Pusat Teknologi Digital
+Universiti Malaysia Pahang Al-Sultan Abdullah
+Tel : 09-4315232
+Muka Surat | 31
+
+## (Form/Bend/Up/007)
+
+
+## Maklumbalas / Spesifikasi Syarikat
+
+
+## Ts Mond Rad Binabu Bakar
+
+PTandatangan & Cop
+Pi Dekani Ketua Jabatan
+Universiti Malaysia Pahang Al-Sultan Abdullah
+
+## T: 09-4315236
+
+
+
+--- Page 67 ---
+
+
+
+## No. Jtict: Jtict/2025 (29)
+
+JABATAN: DiTec
+
+## Universiti Malaysia Pahang Al-Sultan Abdullah
+
+
+## Jadual Penentuan Teknikal
+
+BIL
+
+## Butiran Kerja / Spesifikasi Jabatan
+
+i. Draft Minutes
+a. Merekod / mencatat minit secara terus ke dalam
+sistem
+dan paparan dapat dilihat seperti format minit
+mesyuarat
+(word document) dengan diintegrasikan input bagi
+perkara no 6 iaitu keputusan mesyuarat.
+proses
+b. Catatan minit mesyuarat penuh adalah
+penggabungan dari modul keputusan dan minit
+mesyuarat:
+format catatan minit mesyuarat yang akan
+ditetapkan.
+c. Catatan Mesyuarat mengambil maklum (input
+perbincangan, isi kandungan kertas kerja, tajuk, no
+perkara dalam minit dan pic/ptj tindakan.
+
+## ...Hanizam Bin Abdul Kassim
+
+Tandatanganaklumat
+Pegawai Pensyarah bertanggungjawab
+Universiti Malaysia Pahang Al-Sultan Abdullah
+Tel: 09-4315232
+Muka Surat | 32
+
+## (Form/Bend/Up/007)
+
+
+## Maklumbalas / Spesifikasi Syarikat
+
+Pengarah
+&
+andatangan & COBU BAKAR
+Dekan / Ketua Jabatan
+Pusat Teknologi Digital
+Universiti Malaysia Pahang Al-Sultan Abdullah
+Tel : 09-4315238
+
+
+--- Page 68 ---
+
+
+
+## No. Jtict: Jtict/2025 (29)
+
+JABATAN: DiTec
+
+## Universiti Malaysia Pahang Al-Sultan Abdullah
+
+
+## Jadual Penentuan Teknikal
+
+BIL
+
+## Butiran Kerja / Spesifikasi Jabatan
+
+2.1.2.9
+ii. Review by Comm
+a. Proses semakan draf minit mesyuarat selama 3
+hari,
+iii. Amendments
+b, Menu Tindakan dapat dihantar kepada pegawai
+bertanggungjawab untuk tindakan seterusnya
+(Dekan/Pengarah/etc)
+iv. Distribute
+a. Edaran kepada ahli selepas semakan adalah 14
+hari bekerja selepas mesyuarat
+Module E-Progress Minutes
+Menghantar, Memantau, mengumpul, meminda dan
+menyelaras maklum balas serta pelaksanaan tindakan
+daripada lebih dari 1 pihak bertanggungjawab terhadap
+melakukan tindakan kepada sesuatu keputusan, minit
+atau arahan mesyuarat.
+
+## Hanizam Bin Abdul Kassim
+
+Tandatangan & Cop
+sekuul Kanali eknologi Maklumat
+Pegawai Pensyarah bertanggungjawab
+Universiti Malaysia Pahang Al-Sultan Abdullah
+Tel : 09-4315232
+Muka Surat | 33
+
+## (Form/Bend/Up/007)
+
+
+## Maklumbalas / Spesifikasi Syarikat
+
+Tandatangan & CoBU BAKAR
+Dekan / Ketua Jabatan
+Pusat Texhologi Digital
+Universiti Malaysia Pahang Al-Sultan Abdullah
+Tel : 09-4315238
+
+
+--- Page 69 ---
+
+
+
+## No. Jtict: Jtict/2025 (29)
+
+JABATAN: DiTec
+
+## Universiti Malaysia Pahang Al-Sultan Abdullah
+
+
+## Jadual Penentuan Teknikal
+
+BIL
+
+## Butiran Kerja / Spesifikasi Jabatan
+
+a.
+Paparan edaran maklum balas mesyuarat
+Mengedarkan permohonan
+maklumbalas
+mesyuarat kepada pic /ptj
+C.
+PIC/PTJ memberikan maklumbalas kepada
+laporan tersebut. Maklum balas boleh dibuat
+melebih satu orang dan tidak terhad kepada ahli
+mesyuarat.
+d.
+e.
+Sistem mempunyai fungsi muatnaik dokumen
+sebagai lampiran kepada maklum balas
+Sistem hendaklah membolehkan pemohon
+memberikan maklum balas secara langsung
+melalui pautan atau arahan yang diterima dalam
+alert/notification yang dihantar oleh sistem
+f.
+Sekretariat mesyuarat akan menyelaras penulisan
+maklumbalas bagi dokumen rasmi
+mesyuarat
+minit
+g.
+Sekretariat mengumpul jawapan maklum balas
+yang diterima dan disatukan. Serta dimurnikan
+
+## Hanizam Bin Abdul Kassim
+
+Tandatangan
+paklumat
+Pegawaid Pensyarah bertanggungjawab
+Universiti Malaysia Pahang Al-Sultan Abdullah
+Tel : 09-4315232
+Muka Surat | 34
+
+## (Form/Bend/Up/007)
+
+
+## Maklumbalas / Spesifikasi Syarikat
+
+
+## Is: Mohd Rashid Bin Abu Bakar
+
+Tandatanga & Cop
+Dekan / Ketua Jabatan
+Universiti Malaysia Pahang Al-Sultan Abdullah
+Tel : 09-4315236
+
+
+--- Page 70 ---
+
+
+
+## No. Jtict: Jtict/2025 (29)
+
+JABATAN: DiTec
+
+## Universiti Malaysia Pahang Al-Sultan Abdullah
+
+
+## Jadual Penentuan Teknikal
+
+BIL
+
+## Butiran Kerja / Spesifikasi Jabatan
+
+bagi menjadikan dokumen minit yang rasmi bagi
+mesyuarat yang seterusnya / hadapan
+h. Sistem hendaklah membolehkan maklum balas
+daripada pihak berkaitan diintegrasikan secara
+automatik ke dalam minit mesyuarat bagi Perkara
+Berbangkit.
+i. Sistem hendaklah menyediakan fungsi penjejakan
+(tracking) bagi setiap tindakan susulan yang timbul
+daripada setiap kertas kerja yang dibentangkan
+dalam mesyuarat.
+j. Laporan penuh bagi perkara berbangkit boleh dijana
+mengikut format yang ditetapkan.
+i. Call For Progress
+a. Paparan edaran maklum balas mesyuarat
+b. Mengedarkan permohonan maklumbalas
+mesyuarat kepada pic / ptj
+c. Paparan terus integrasi maklum balas di
+dalam minit mesyuarat di perkara berbangkit
+D
+Tandatangan &BOUKASSIM
+gawai Pensyarah bertanggungjawab
+Pusat Teknologi Digitál
+Universiti Malaysia Pahang Al-Sultan Abdullah
+Tel : 09-4315232
+Muka Surat | 35
+
+## (Form/Bend/Up/007)
+
+
+## Maklumbalas / Spesifikasi Syarikat
+
+
+## Ts. Mohd Rash Bin Abu Bakar
+
+Tandatangan & Cop
+Pengat
+Pusat Dekan Ketua
+Universiä Malaysia Pahang Al-Sultan Abdullah
+Tel : 09-4315236
+
+
+--- Page 71 ---
+
+
+
+## No. Jtict: Jtict/2025 (29)
+
+JABATAN: DiTec
+
+## Universiti Malaysia Pahang Al-Sultan Abdullah
+
+
+## Jadual Penentuan Teknikal
+
+BIL
+
+## Butiran Kerja / Spesifikasi Jabatan
+
+بو
+d. Penjejakan tindakan susulan bagi setiap
+kertas kerja daripada setiap mesyuarat yang
+dibentangkan.
+ii. Progress submission
+a. PIC/PTJ memberikan maklumbalas kepada
+laporan tersebut secara web based
+b. Pemohon terus memberikan maklum balas melalui
+alert/notification melalui
+iii. Amendments
+a. Sekretariat mesyuarat menyelaras penulisan
+maklumbalas bagi dokumen rasmi minit mesyuarat
+b. Sekretariat mengumpul jawapan maklum balas
+yang diterima dan disatukan. Serta dimurnikan
+bagi menjadikan dokumen minit yang rasmi bagi
+mesyuarat yang seterusnya / hadapan
+c. Laporan-laporan penuh mengikut format yang
+akan diberikan
+
+## Hanizam Bin Abdul Kassim ********
+
+Tandatangan & Paklumat
+Pegawai Pensyarah bertanggungjawab
+Universiti Malaysia Pahang Al-Sultan Abdullah
+Tel : 09-4315232
+Muka Surat | 36
+
+## (Form/Bend/Up/007)
+
+
+## Maklumbalas / Spesifikasi Syarikat
+
+TTandatangan & Cop BAKAR
+P Dekan / Ketua Jabatan
+Pusat Teknologi Digita!
+Universiti Malaysia Pahang Al-Sultan Abdullah
+Tel : 09-4315238
+
+
+--- Page 72 ---
+
+
+
+## No. Jtict: Jtict/2025 (29)
+
+JABATAN: DiTec
+
+## Universiti Malaysia Pahang Al-Sultan Abdullah
+
+
+## Jadual Penentuan Teknikal
+
+vv
+BIL
+
+## Butiran Kerja / Spesifikasi Jabatan
+
+2.1.2.10
+Module E-Cabutan
+Modul ini membolehkan pengguna memohon,
+mengakses, mencari, dan menjana cabutan minit
+mesyuarat berdasarkan kategori, tarikh, kata kunci, dan
+jenis keputusan bagi tujuan pelaksanaan atau dokumen
+rujukan rasmi.
+i. Application
+a. Pemohon mengisi permohonan di dalam sistem
+b. Sekretariat menyemak dan meluluskan permohonan
+Pemohon boleh melihat cabutan minit melalui
+paparan sistem dan janaan PDF
+C.
+d. Carian cabutan minit mesyuarat adalah berdasarkan
+minit mesyuarat dan rekod daftar kertas kerja senat
+lepas.
+ii. Distribute
+Pemohon boleh melihat cabutan minit melalui paparan
+sistem dan janaan PDF
+
+## ..Hanizam Bin Abdul Kassim.
+
+Tandatangan &@dipklumat
+Pegawai Pensyarah bertanggungjawab
+Universiti Malaysia Pahang Al-Sultan Abdullah
+Tel : 09-4315232
+Muka Surat | 37
+
+## (Form/Bend/Up/007)
+
+
+## Maklumbalas / Spesifikasi Syarikat
+
+
+## .Ts. Mohe Hid Bin Abu Bakar
+
+Tandatang & Cop
+Dekan / Ketua Jabatan
+Universiu Malayalu i altarly Salah Abdullah
+Tel : 09-4315236
+
+
+--- Page 73 ---
+
+
+
+## No. Jtict: Jtict/2025 (29)
+
+JABATAN: DiTec
+
+## Universiti Malaysia Pahang Al-Sultan Abdullah
+
+
+## Jadual Penentuan Teknikal
+
+BIL
+2.2
+
+## Butiran Kerja / Spesifikasi Jabatan
+
+
+## Pematuhan & Perkhidmatan Profesional
+
+Item-item di bawah Perkara 2.2 ini adalah merangkumi pematuhan dan
+perkhidmatan profesional yang diperlukan daripada petender untuk
+melengkapkan pelaksanaan pembangunan keseluruhan sistem aplikasi
+di dalam Spesifikasi Teknikal ini.
+2.2.1
+2.2.2
+Sesi Taklimat Secara 'Online'
+UMPSA berhak untuk memanggil petender untuk sesi taklimat
+secara 'online' (Google Meet, MS Teams atau seumpamanya)
+sekiranya perlu. Tarikh dan masa (hari bekerja) yang
+ditetapkan oleh UMPSA mestilah dipatuhi oleh petender.
+UMPSA berhak tidak menilai tawaran petender jika petender
+gagal hadir (online) dalam sesi tersebut.
+Bengkel Kajian Keperluan Projek
+Petender yang berjaya/dipilih hendaklah melaksanakan
+bengkel bagi membangunkan pelan pelaksanaan projek ini
+termasuklah meneliti keperluan sistem, proses yang terlibat
+serta keperluan persekitaran sistem. Bengkel ini melibatkan
+pemilik proses, staf teknikal dan petender yang dilantik.
+
+## ...Hanizam Bin Abdul-Kassim
+
+Tandatangank&l@opklumat
+Pusal
+Pegawai Pensyarah bertanggungjawab
+Universiti Malaysia Pahang Al-Sultan Abdullah
+Tel: 09-4315232
+Muka Surat | 38
+
+## (Form/Bend/Up/007)
+
+
+## Maklumbalas / Spesifikasi Syarikat
+
+
+## Ts. Mohd Rashi Abu Bakar
+
+Pengarah
+Pusat Tekniku
+Unive
+Tandatangan & Cop Abdullah
+Tel: Dekan Ketua Jabatan
+
+
+--- Page 74 ---
+
+
+
+## No. Jtict: Jtict/2025 (29)
+
+JABATAN: DiTec
+
+## Universiti Malaysia Pahang Al-Sultan Abdullah
+
+
+## Jadual Penentuan Teknikal
+
+BIL
+(i)
+(ii)
+
+## Butiran Kerja / Spesifikasi Jabatan
+
+Bengkel
+a. Tujuan bengkel diadakan untuk mengenalpasti
+spesifikasi secara terperinci berkenaan sistem/modul
+yang terlibat.Kekerapan bengkel adalah mengikut
+keperluan sehingga draf dokumen selesai.
+b. Dokumen kajian keperluan (user requirement
+specification) yang akan dimuktamadkan merupakan
+dokumen akhir yang akan dijadikan rujukan di dalam
+pembangunan sistem. Maklumat khusus berkaitan
+sistem dan modul yang dinyatakan di dalam tender ini
+merupakan kajian keperluan awal.
+Bengkel perlu dilakukan secara on-site (dalam UMPSA)..
+(iii) Kos pelaksanaan bengkel akan ditanggung oleh petender
+sepanjang projek berjalan.
+Penyediaan Pelan Pelaksanaan
+2.2.3
+(i)
+Satu pelan pelaksanaan bertulis yang muktamad perlu
+dihasilkan oleh petender yang berjaya/dipilih selepas
+bengkel
+
+## ..Hanizam.Bin.Abdul Kassim-
+
+Tandatangank&lc@opklumat
+Pegawai Pensyarah bertanggungjawab
+Universiti Malaysia Pahang Al-Sultan Abdullah
+Tel: 09-4315232
+Muka Surat | 39
+
+## (Form/Bend/Up/007)
+
+
+## Maklumbalas / Spesifikasi Syarikat
+
+
+## Ts. Mohd Hid Bin Abu Bakar
+
+Tandatangan & Cop
+Dekan / Ketua Jabatan Abdullah
+UTTI VRASINI Malaysia
+Tel : 09-4315238
+
+
+--- Page 75 ---
+
+
+
+## No. Jtict: Jtict/2025 (29)
+
+JABATAN: DiTec
+
+## Universiti Malaysia Pahang Al-Sultan Abdullah
+
+
+## Jadual Penentuan Teknikal
+
+BIL
+(ii)
+2.2.4
+
+## Butiran Kerja / Spesifikasi Jabatan
+
+Pelan ini perlu turut meliputi aspek organisasi projek,
+penjadualan pelaksanaan aktiviti projek, 'work breakdown
+structure (WBS)', 'critical path method (CPM)' diagram,
+jadual PERT serta metodologi pembangunan. Item-item
+lain yang perlu dikemukakan akan dibincang bersama
+dalam bengkel
+(iii) Dokumen pelan pelaksanaan perlu dihantar kepada pihak
+UMPSA dalam tempoh dua (2) minggu dari tarikh selesai
+bengkel
+(iv) UMPSA berhak menolak atau mengarah pemindaan
+pelan pelaksanaan oleh petender yang didapati tidak
+bertepatan dengan objektif tender ini atau mempunyai
+kesilapan.
+Penyediaan Cadangan Rekabentuk UI/UX
+(i)
+Petender yang berjaya/dipilih perlu mencadangkan
+konsep rekabentuk antaramuka pengguna (user interface
+UI) yang terkini dan moden. Konsep rekabentuk
+antaramuka ini perlu dihantar dalam tempoh tiga (3)
+minggu dari tamat bengkel.
+
+## ...Hanizam Bin Abdul Kassim******
+
+Tandatangan&ol@opklumat
+Pegawai Pensyarah bertanggungjawab
+Universiti Malaysia Pahang Al-Sultan Abdullah
+Tel : 09-4315232
+Muka Surat | 40
+
+## (Form/Bend/Up/007)
+
+
+## Maklumbalas / Spesifikasi Syarikat
+
+Tandatarkan & CABU BAKAR
+Cop
+Dekan Ketua Jabatan
+PUBGE PRICIogi Digital-
+Universiti Malaysia Pahang Al-Sultan Abdullah
+Tel : 09-4315236
+
+
+--- Page 76 ---
+
+
+
+## No. Jtict: Jtict/2025 (29)
+
+JABATAN: DiTec
+
+## Universiti Malaysia Pahang Al-Sultan Abdullah
+
+
+## Jadual Penentuan Teknikal
+
+BIL
+2.2.5
+
+## Butiran Kerja / Spesifikasi Jabatan
+
+(ii) Fungsi aplikasi dalam pembangunan modul mestilah
+bersesuaian dengan kehendak pengguna atau
+pengalaman pengguna (user experience - UX) supaya
+setiap modul berfungsi dengan baik dan mesra pengguna.
+Penerapan Standard
+(i)
+Pelaksanaan kerja-kerja pembangunan aplikasi dan
+sistem mestilah mengikut standard terbaik industri dan
+dan memenuhi persekitaran UMPSA.
+(ii) Petender perlu menerapkan UMPSA Standard Coding
+Convention dalam pengaturcaraan semua modul sistem
+aplikasi yang dipersetujui dalam tender ini. UMPSA akan
+membekalkan dokumen panduan berkenaan.
+(iii) Sebarang pewujudan 'table' baru atau 'column' baru untuk
+menyimpan data rekod yang ingin diwujudkan dalam
+pangkalan data UMPSA perlulah menggunakan 'naming
+standard' yang betul serta mendapat kelulusan secara
+bertulis oleh Pentadbir Pangkalan Data UMPSA.
+Penggunaan 'sequence number sebagai ID rujukan
+dalam 'table' perlulah diminimakan.
+
+## Banizam Bin Abdul. Kassim..
+
+Tandatangan & Copimat
+Eusat
+Pegawai / Pensyarah bertanggungjawab
+Universiu Malaysia Pahang Al-Sultan Abdullah
+Tel : 09-4315232
+Muka Surat | 41
+
+## (Form/Bend/Up/007)
+
+
+## Maklumbalas / Spesifikasi Syarikat
+
+
+## Ts. Mohd Ras Bin Abu Bakar
+
+Penjajah
+Tandatangan & Cop
+Dekan / Ketua Jabatan duilah
+Tal : 09-4315236
+Un
+
+
+--- Page 77 ---
+
+
+
+## No. Jtict: Jtict/2025 (29)
+
+JABATAN: DiTec
+
+## Universiti Malaysia Pahang Al-Sultan Abdullah
+
+
+## Jadual Penentuan Teknikal
+
+BIL
+
+## Butiran Kerja / Spesifikasi Jabatan
+
+(iv) Sebarang 'table' baharu yang ingin diwujudkan dalam
+pangkalan data UMPSA perlulah telah siap
+dinormalisasikan (normalization).
+(v) Petender perlu memastikan perisian atau sistem aplikasi
+yang dibangunkan atau dibekalkan mematuhi standard
+terbuka (open standard) semasa dan garis panduan
+Kerajaan Malaysia seperti Kejuruteraan Sistem Aplikasi
+Sektor Awam (KRISA), Electronic Government
+Information Technology Policy and Standards (EGIT),
+Data Dictionary Sektor Awam (DDSA), Management of
+Information & Communication Technology Security
+Handbook (MyMIS), Malaysian Government
+Interoperability Framework (MyGIF), Malaysian
+Government Interoperability Framework for Open Source
+Software (MyGIFOSS) dan Garis Panduan IT Outsourcing
+Agensi - Agensi Sektor Awam.
+Pengurusan Kod Sumber
+Semua kod sumber (source code) dan hak cipta sistem
+aplikasi yang dibangunkan untuk setiap sistem aplikasi
+melalui tender ini adalah menjadi HAKMILIK UMPSA
+sepenuhnya.
+2.2.6
+(i)
+
+## Hanizam.Bin Abdul Kassim-
+
+Tandatangan & Copmat
+Pegawai Pensyarah bertanggungjawab
+Universiti Malaysia Pahang Al-Sultan Abdullah
+Tel : 09-4315232
+Muka Surat | 42
+
+## (Form/Bend/Up/007)
+
+
+## Maklumbalas / Spesifikasi Syarikat
+
+s
+TS. Tandatangan CopAKAR
+Peng Dekan/Ketua Jabatan
+Pucal Teknologi Digital
+Universiti Malaysia Pahang Al-Sultan Abdullah
+Tel : 09-431523b
+
+
+--- Page 78 ---
+
+
+
+## No. Jtict: Jtict/2025 (29)
+
+JABATAN: DiTec
+
+## Universiti Malaysia Pahang Al-Sultan Abdullah
+
+
+## Jadual Penentuan Teknikal
+
+BIL
+
+## Butiran Kerja / Spesifikasi Jabatan
+
+(ii) Petender TIDAK dibenarkan membuat edaran, salinan
+atau salin cetak kepada pihak lain atau; disimpan di
+tempat yang tidak berkaitan projek/perolehan ini; tanpa
+apa-apa kebenaran rasmi secara bertulis dari pihak
+UMPSA.
+(iii) Petender wajib meletakkan/menghoskan kod sumber
+terkini yang sedang dibangunkan serta kod sumber yang
+siap dibangunkan untuk pengujian di repository GitLab
+UMPSA. Kegagalan petender atau sekutu mematuhi
+terma ini dianggap sebagai pelanggaran syarat kontrak
+tender ini.
+UMPSA berhak mengukur status pencapaian kerja dan
+perkhidmatan petender termasuk bagi tujuan pembayaran
+berdasarkan tahap kematangan, kesediaan atau keaktifan
+kod sumber yang diletakkan oleh petender di repository
+GitLab UMPSA itu.
+(iv) 'Deployment' sebarang sistem aplikasi atau modul dalam
+tender ini ke server-server aplikasi UMPSA mestilah
+hanya melalui GitLab UMPSA. 'Deployment sistem
+
+## Hanizam Bin Abdul Kassim
+
+Tandatangankologklumat
+Pegawai Pensyarah bertanggungjawab
+Universiti Malaysia Pahang Al-Sultan Abdullah
+Tel : 09-4315232
+Muka Surat | 43
+
+## (Form/Bend/Up/007)
+
+
+## Maklumbalas / Spesifikasi Syarikat
+
+TS.
+Tandatangan & CoPAKAR
+Ропо
+Dekan / Ketua Jabatan
+Pusat Teknologi Digital
+Universiti Malaysia Pahang Al-Sultan Abdullah
+1:09-4315238
+
+
+--- Page 79 ---
+
+
+
+## No. Jtict: Jtict/2025 (29)
+
+JABATAN: DiTec
+
+## Universiti Malaysia Pahang Al-Sultan Abdullah
+
+
+## Jadual Penentuan Teknikal
+
+BIL
+
+## Butiran Kerja / Spesifikasi Jabatan
+
+يو
+aplikasi secara terus ke server aplikasi tanpa melalui
+GitLab UMPSA adalah tidak dibenarkan.
+(v) Petender wajib memastikan kod sumber yang
+dibangunkan atau dibekalkan adalah selamat, berfungsi
+dan bebas ralat.
+(vi) Pengurusan repositori GitLab UMPSA adalah di bawah
+kuasa UMPSA serta petender tertakluk mematuhi syarat-
+syarat semasa penggunaan repository GitLab UMPSA
+ataupun syarat-syarat baru dari masa ke semasa.
+(vii) UMPSA tidak mengganggu kod sumber yang sedang
+dibangunkan oleh petender namun UMPSA berhak
+melantik wakil penyemak dan penguji kod sumber dalam
+repositori yang berkaitan bagi tujuan pengujian, kawalan
+kualiti serta kesinambungan pengetahuan.
+(viii) Apa-apa isu yang timbul berhubung penggunaan atau
+pengoperasian GitLab UMPSA dalam projek tender ini
+hendaklah dirujuk kepada Pengurus GitLab UMPSA atau
+Pengurus Projek tender ini. Pengurus GitLab UMPSA
+
+## ... Hanizam Bin Abdul Kassim.
+
+TandatanganT&Coplaklumat
+Pussy
+Pegawai Pensyarah bertanggungjawab
+Chiversiti Malaysia Pahang Al-Sultan Abdullah
+Tel : 09-4315232
+Muka Surat | 44
+
+## (Form/Bend/Up/007)
+
+
+## Maklumbalas / Spesifikasi Syarikat
+
+
+## Or Sd Binabu Bakar
+
+Tandatangan & Cop
+Dekan / Ketua Jabatan
+Universiti Malaysia Pahang Al-Sultan Abdullah
+Tel : 09-4315236
+
+
+--- Page 80 ---
+
+
+
+## No. Jtict: Jtict/2025 (29)
+
+JABATAN: DiTec
+
+## Universiti Malaysia Pahang Al-Sultan Abdullah
+
+
+## Jadual Penentuan Teknikal
+
+BIL
+
+## Butiran Kerja / Spesifikasi Jabatan
+
+2.2.7
+(i)
+berhak dan boleh memutuskan tatacara atau perubahan
+tatacara yang perlu diikuti oleh kedua-dua belah pihak.
+(ix) Selepas tempoh jaminan tamat petender perlu
+menghapuskan segala data, maklumat dan kod sumber
+(source code) projek/tender ini yang berada di dalam
+simpanan petender atau sekutu.
+Pemasangan, Konfigurasi dan Integrasi
+dibekalkan
+Server (Linux) untuk hos API dan sistem aplikasi sebenar
+akan
+oleh UMPSA. Petender
+bertanggungjawab memasang dan menyediakan 'system
+environment yang diperlukan dan sesuai bagi
+membolehkan sistem aplikasi berfungsi dengan betul
+serta berkesan.
+(ii) Petender perlu mempunyai 'development environment'
+server sendiri untuk tujuan pembangunan aplikasi sebagai
+alternatif sekiranya petender tidak dapat mengakses atau
+menggunakan server di UMPSA untuk tujuan
+pembangunan aplikasi-aplikasi dalam projek ini atas
+sebab-sebab yang diperakui UMPSA. Ini supaya fasa
+
+## _ Hanizam Bin Abdul Kassim.......
+
+Tandatangan & Coplaklumat
+Pegawai Pensyarah bertanggungjawab
+Shiversiti Malaysia Pahang Al-Sultan Abdullah
+Tel : 09-4315232
+Muka Surat | 45
+
+## (Form/Bend/Up/007)
+
+
+## Maklumbalas / Spesifikasi Syarikat
+
+Tandata
+&
+TS.
+Penekan /
+Pusat Teknologi Digital
+Universiti Malaysia Pahang Al-Sultan Abdullah
+Tel : 09-4315236
+
+
+--- Page 81 ---
+
+
+
+## No. Jtict: Jtict/2025 (29)
+
+JABATAN: DiTec
+
+## Universiti Malaysia Pahang Al-Sultan Abdullah
+
+
+## Jadual Penentuan Teknikal
+
+BIL
+
+## Butiran Kerja / Spesifikasi Jabatan
+
+proses pembangunan aplikasi tidak tergendala. Fasa
+pengujian dan 'production deployment' aplikasi tetap wajib
+dijalankan/dilakukan di server UMPSA.
+(iii) Petender perlu menyempurnakan kerja-kerja
+pemasangan dan konfigurasi API di server UMPSA
+sekiranya ada.
+(iv) Kos pemasangan untuk semua perisian atau 'package'
+perisian adalah di bawah tanggungjawab pihak petender.
+(V)
+Petender perlu patuh dan mengikuti semua peraturan dan
+prosedur yang ditetapkan oleh UMPSA ketika kerja-kerja
+proses pembangunan, pemasangan, konfigurasi,
+integrasi, pengujian dan pentauliahan dijalankan.
+(vi) Petender mesti menyempurnakan proses integrasi
+melibatkan pemasangan dan konfigurasi API bagi setiap
+modul berkaitan tender ini di server UMPSA sekiranya
+ada.
+(vii) Sebarang kerja, pemasangan, konfigurasi dan integrasi
+sistem aplikasi yang tidak dinyatakan di dalam dokumen
+
+## ....Hanizam Bin Abdul Kassim¨¨
+
+Tandatangan & Maklumat
+Pegawai Pensyarah bertanggungjawab
+Universiti Malaysia Pahang Al-Sultan Abdullah
+Tel: 09-4315232
+Muka Surat | 46
+
+## (Form/Bend/Up/007)
+
+
+## Maklumbalas / Spesifikasi Syarikat
+
+TS. MOTandatangan & CoPAR
+Pengarah Dekan / Ketua Jabatan
+Pusat Teknologi Digital
+Universiti Malaysia Pahang Al-Sultan Abdullah
+Tel : 09-4315230
+
+
+--- Page 82 ---
+
+
+
+## No. Jtict: Jtict/2025 (29)
+
+JABATAN: DiTec
+
+## Universiti Malaysia Pahang Al-Sultan Abdullah
+
+
+## Jadual Penentuan Teknikal
+
+BIL
+
+## Butiran Kerja / Spesifikasi Jabatan
+
+2.2.8
+tender ini, tetapi perlu ada bagi melengkapkan proses
+keseluruhan sistem di dalam projek ini dan dianggap perlu
+oleh pihak UMPSA, pihak petender mesti menyelesaikan
+skop tersebut tanpa sebarang kos tambahan.
+viii) Kerja-kerja integrasi komponen baharu mestilah serasi
+dan boleh berkomunikasi dengan komponen sedia ada
+tanpa menjejaskan fungsi yang sedang digunakan di
+UMPSA.
+Lesen Perisian
+Sebarang perisian yang dibekalkan, dipasang atau digunakan
+mestilah sah, asli serta mendapat kebenaran (licensed) untuk
+digunakan di UMPSA daripada penerbitnya. UMPSA tidak
+bertanggungjawab terhadap sebarang penggunaan perisian
+'proprietary' tidak berlesen atau perisian 'public license' yang
+tidak mematuhi/mendapat kebenaran penerbitnya oleh pihak
+petender atau sekutu.
+Sebarang perbekalan, pemasangan atau penggunaan perisian
+yang melibatkan langganan kos secara bulanan, tahunan atau
+
+## Hanizam Bin Abdul Kassim..
+
+Tandatangan & Copmat
+Musat.?
+Pegawai Pensyarah bertanggungjawab
+Universiti Malaysia Pahang Al-Sultan Abdullah
+Tel : 09-4315232
+Muka Surat | 47
+
+## (Form/Bend/Up/007)
+
+
+## Maklumbalas / Spesifikasi Syarikat
+
+
+## Hid Bin Abu Bakar
+
+Tandatangan & Cop
+Pengaran
+Dekan / Ketua Jabatan
+Pusat teki
+Universiti Malaysia Pahang Al-Sultan Abdullah
+Tel : 09-4315238
+
+
+--- Page 83 ---
+
+
+
+## No. Jtict: Jtict/2025 (29)
+
+JABATAN: DiTec
+
+## Universiti Malaysia Pahang Al-Sultan Abdullah
+
+
+## Jadual Penentuan Teknikal
+
+BIL
+
+## Butiran Kerja / Spesifikasi Jabatan
+
+berkala yang lain perlulah terlebih dahulu dimaklumkan dan
+mendapat persetujuan bertulis UMPSA.
+2.2.9
+Versi Perisian
+Bagi keadaan di mana versi perisian yang disyaratkan dalam
+perolehan perkhidmatan ini telah dikira sebagai 'outdated' atau
+menjadi 'not supported, maka versi yang lebih baru, stabil dan
+bersesuaian dengan keperluan UMPSA perlu dibekalkan
+dengan mendapat persetujuan bertulis daripada UMPSA.
+Penukaran versi adalah tanpa sebarang kos tambahan.
+2.2.10 Kerja Panggil Balik
+Petender dikehendaki menyediakan perkhidmatan "panggil
+balik" bagi skop "Corrective Maintenance" tanpa sebarang
+bayaran tambahan bagi perkhidmatan/kerja yang kurang
+memuaskan dalam tempoh jaminan/waranti.
+
+## Boul Kassim ·
+
+Tandatangan & Cop
+sekutif Kanan Teknologi Maklumat
+Pegawal Pensyarah bertanggungjawab
+Universiti Malaysia Pahang Al-Sultan Abdullah
+Tel : 09-4315232
+Muka Surat | 48
+
+## (Form/Bend/Up/007)
+
+
+## Maklumbalas / Spesifikasi Syarikat
+
+
+## Bin Abu Bakar
+
+TS. Tandatangan & Cop
+Peng Dekan / Ketua Jabatan
+Pusat Texhong Digitar
+Universiti Malaysia Pahang Al-Sultan Abdullah
+Tel : 09-4315236
+
+
+--- Page 84 ---
+
+
+
+## No. Jtict: Jtict/2025 (29)
+
+JABATAN: DiTec
+
+## Universiti Malaysia Pahang Al-Sultan Abdullah
+
+
+## Jadual Penentuan Teknikal
+
+BIL
+
+## Butiran Kerja / Spesifikasi Jabatan
+
+2.2.11 Pengujian
+(i)
+(ii)
+Petender dikehendaki menjalankan dan melepasi ujian-
+ujian berikut sehingga diperakui oleh pengguna dan
+pegawai UMPSA yang dipertanggungjawabkan:
+(a) Ujian Penerimaan Pengguna (User Acceptance Test,
+UAT) di UMPSA sekurang-kurangnya dua (2) kali.
+(b) Semakan 'compliance of server setup' bagi mana-
+mana server yang dipasang atau dikonfigurasi oleh
+petender.
+(c) Ujian Penembusan Keselamatan (Security
+Penetration Test) UMPSA.
+(d) Ujian Penerimaan Akhir (Final Acceptance Test,
+FAT)
+Petender dikehendaki menyediakan skrip pengujian (test
+script) bagi tujuan pelaksanaan pengujian UAT setiap
+modul sistem aplikasi di dalam tender/projek ini. Skrip
+
+## Hanizam Bin Abdul Kassim
+
+Eksekutif Kanah Teknologi Maklumat
+Tandatangan & Cop
+Digital
+Pegawai Pensyarah bertanggungjawab
+Tel : 09-4315232
+Muka Surat | 49
+
+## (Form/Bend/Up/007)
+
+
+## Maklumbalas / Spesifikasi Syarikat
+
+
+## Ts. Mohd Rash Abinabu Bakar
+
+PengTandatangan & Cop
+Pusa Dekan/Ketua Jabatan
+Universiti Malaysia Pahang Al-Sultan Abdullah
+Tel : 09-4315236
+
+
+--- Page 85 ---
+
+
+
+## No. Jtict: Jtict/2025 (29)
+
+JABATAN: DiTec
+
+## Universiti Malaysia Pahang Al-Sultan Abdullah
+
+
+## Jadual Penentuan Teknikal
+
+BIL
+
+## Butiran Kerja / Spesifikasi Jabatan
+
+perlu dalam Bahasa Melayu.
+(iii)
+User Acceptance Test (UAT) mesti dilakukan sekurang-
+kurangnya dua (2) kali. Lokasi UAT ialah di UMPSA dan
+pasukan pembangunan petender mesti hadir.
+(iv) Final Acceptance Test (FAT) mestilah dijalankan di
+production server dengan jayanya. Jika gagal, petender
+mesti bersedia untuk menjalankan pengujian semula.
+(v)
+Petender bertanggungjawab untuk membangun,
+mengimplementasi dan menguruskan semua prosedur
+semasa melaksanakan UAT dan FAT.
+(vi) Semua dokumen peringkat pengujian mestilah
+dipersetujui, disahkan dan ditandatangani oleh pihak
+UMPSA.
+2.2.12 Pelaksanaan dan Pentauliahan
+(i) Petender mesti memastikan semua sistem aplikasi yang
+telah dibangunkan dan diintegrasi dapat berfungsi dengan
+
+## Hanizam Bin Abdul Kassim
+
+Tandatangan&Copumat
+Pegawai Pensyarah bertanggungjawab
+Universiti Malaysia Pahang Al-Sultan Abdullah
+Tel : 09-4315232
+Muka Surat | 50
+
+## (Form/Bend/Up/007)
+
+
+## Maklumbalas / Spesifikasi Syarikat
+
+
+## Ts. Mohd Ras
+
+Pen Tandatangan &
+& COPAKAR
+PusaDekan Ketua Jabatan
+Universiti Malaysia Pahang Al-Sultan Abdullah
+Tel : 09-4315230
+
+
+--- Page 86 ---
+
+
+
+## No. Jtict: Jtict/2025 (29)
+
+JABATAN: DiTec
+
+## Universiti Malaysia Pahang Al-Sultan Abdullah
+
+
+## Jadual Penentuan Teknikal
+
+BIL
+
+## Butiran Kerja / Spesifikasi Jabatan
+
+baik sebelum proses pemasangan (deployment)
+dijalankan. la merangkumi:
+(a) Bebas ralat
+(b) Keselamatan sistem dan data
+(c) Pelan sokongan sekiranya berlaku kegagalan
+semasa instalasi di server UMPSA.
+(ii) Petender mesti bertanggungjawab memastikan sistem
+yang ditauliahkan terjamin dari segi prestasi dan
+keselamatannya dalam tempoh jaminan.
+(iii) Petender mesti memastikan sistem yang dibangunkan
+mempunyai tahap 'interoperability' dan 'scalability' yang
+baik bagi menyokong perkembangan penggunaannya
+pada masa hadapan.
+2.2.13 Latihan
+2
+Skop latihan yang diperlukan merangkumi:
+
+## Anizam Bin Abdul Kassim.
+
+Tandatangan&oplaklumat
+Pegawai Pensyarah bertanggungjawab
+Universiti Malaysia Pahang Al-Sultan Abdullah
+Tel : 09-4315232
+Muka Surat | 51
+
+## (Form/Bend/Up/007)
+
+
+## Maklumbalas / Spesifikasi Syarikat
+
+TS.
+Tanda Jabatan
+& Cop
+Peng Dekan /
+Pusat Teknologi Digital
+Universiti Malaysia Pahang Al-Sultan Abdullah
+Tel : 09-4315236
+
+
+--- Page 87 ---
+
+
+
+## No. Jtict: Jtict/2025 (29)
+
+JABATAN: DiTec
+
+## Universiti Malaysia Pahang Al-Sultan Abdullah
+
+
+## Jadual Penentuan Teknikal
+
+BIL
+Muka Surat | 52
+
+## (Form/Bend/Up/007)
+
+
+## Butiran Kerja / Spesifikasi Jabatan
+
+
+## Maklumbalas / Spesifikasi Syarikat
+
+(i)
+Tatacara penggunaan sistem bagi setiap modul dalam
+sistem yang diintegrasikan (berkonsep train-the-trainer)
+secara dalaman.
+(ii) Petender perlu melakukan pemindahan kepakaran
+(Transfer of Technology) kepada pasukan teknikal
+UMPSA bagi setiap modul. Ia akan melibatkan:
+(iii)
+(a) Aliran Sistem (System Flow)
+(b) Data Flow Diagram (DFD) dan Entiti Relationship
+Diagram (ERD)
+(c) Teknologi dan tools yang digunakan
+(d) Sumber rujukan
+(e) Nota lengkap
+Petender perlu menjadual, menganjur dan melaksanakan
+aktiviti latihan yang berkaitan dengan pembangunan
+aplikasi dan sistem secara 'on-site' bagi tujuan
+penyelenggaraan aplikasi dan sistem yang dibangunkan
+atau dibekalkan melalui sebutharga ini. Staf yang terlibat
+akan dinamakan oleh pihak UMPSA.
+Latihan ini meliputi penyelenggaraan berikut:
+
+## Nizam Bin Abdul-Kassim· ·
+
+Tandatangan &glopimat
+Pegawai Pensyarah bertanggungjawab
+inversib Malaysia Pahang Al-Sultan Abdullah
+Tel: 09-4315232
+
+## Ts. Mohd Raabin Abu.Bakar
+
+PTandatangan & Cop
+P 1.
+Dekan/Ketua Jabatan
+Universiti Malaysia Pahang Al-Sultan Abdullah
+Tel : 09-4315238
+
+
+--- Page 88 ---
+
+
+
+## No. Jtict: Jtict/2025 (29)
+
+JABATAN: DiTec
+
+## Universiti Malaysia Pahang Al-Sultan Abdullah
+
+
+## Jadual Penentuan Teknikal
+
+BIL
+
+## Butiran Kerja / Spesifikasi Jabatan
+
+(a) Latihan penyelenggaraan sistem dan pelayan(server).
+(b) Latihan pembangunan dan penyelenggaraan API
+(Laravel).
+2.2.14 Dokumentasi
+(i)
+(ii)
+|(iii)
+Manual dan dokumentasi hendaklah disediakan dalam
+bentuk hard-copy dan soft-copy. Manual dan dokumentasi
+perlulah dalam Bahasa Melayu. Istilah-istilah teknikal
+dalam Bahasa Inggeris boleh digunakan mengikut
+keperluan untuk penerangan maksud/konsep lebih baik.
+Semua dokumen teknikal perlu mendapat kelulusan pihak
+teknikal UMPSA sebelum segala kerja-kerja
+pembangunan sistem bermula.
+Petender yang berjaya mesti menyerahkan semua
+dokumentasi berikut kepada UMPSA sebagai salah satu
+keperluan dan rujukan projek:
+
+## Anizam Bin Abdul Kassim ...
+
+Tandatangam &ek@op Maklumat
+Pegawar Pensyarah bertanggungjawab
+Universiti Malaysia Pahang Al-Sultan Abdullah
+Tel : 09-4315232
+Muka Surat | 53
+
+## (Form/Bend/Up/007)
+
+
+## Maklumbalas / Spesifikasi Syarikat
+
+TS. MTandatangan & Cop
+ABU BAKAR
+Pengar Dekan / Ketua Jabatan
+Pusat Teknologi Digital
+Universiti Malaysia Pahang Al-Sultan Abdullah
+Tel: 09-4315236
+
+
+--- Page 89 ---
+
+
+
+## No. Jtict: Jtict/2025 (29)
+
+JABATAN: DiTec
+
+## Universiti Malaysia Pahang Al-Sultan Abdullah
+
+
+## Jadual Penentuan Teknikal
+
+BIL
+
+## Butiran Kerja / Spesifikasi Jabatan
+
+(a) Pelan pelaksanaan projek
+(b) Cadangan rekabentuk UI/UX
+(c) System Requirement Specification (SRS)
+(d) User Acceptance Test (UAT)
+(e) Final Acceptance Test (FAT)
+(f) Manual Pengguna
+(g) Lain-lain dokumen yang tidak dinyatakan di atas
+(yang berkaitan)
+2.2.15 Pengurusan Projek
+(i)
+Petender mesti sedia, komited dan mampu menghadiri
+mesyuarat pengurusan projek di UMPSA sekurang-
+kurangnya pada tempoh sebulan sekali ataupun pada
+mana-mana tarikh dan masa yang ditetapkan oleh
+UMPSA. Kehadiran ini termasuk bagi mana-mana
+keperluan pemasangan (setup), pengujian sistem aplikasi
+mahupun 'production deployment' sistem aplikasi di dalam
+projek ini.
+Petender atau ahli pasukan petender yang menghadiri
+mesyuarat pengurusan projek perlulah berkelayakan,
+berkemampuan dalam komunikasi
+profesional,
+
+## Hanizam Bin Abdul Kassim
+
+Tandatangan & klumat
+Pegawai Pensyarah bertanggungjawab
+Universiti Malaysia Pahang Al-Sultan Abdullah
+Tel : 09-4315232
+Muka Surat | 54
+
+## (Form/Bend/Up/007)
+
+
+## Maklumbalas / Spesifikasi Syarikat
+
+Tandatangan & Cop
+Dekan / Ketua Jabatan
+
+## Ts. Mohd Rashid Bin Abu Bakar
+
+Pengarah
+Pusat Teknologi Digital
+Universiti Malaysia Pahang Al-Sultan Abdullah
+
+
+--- Page 90 ---
+
+
+
+## No. Jtict: Jtict/2025 (29)
+
+JABATAN: DiTec
+
+## Universiti Malaysia Pahang Al-Sultan Abdullah
+
+
+## Jadual Penentuan Teknikal
+
+BIL
+
+## Butiran Kerja / Spesifikasi Jabatan
+
+(ii)
+memahami teknikal projek, dapat melapor serta boleh
+membuat keputusan terus (wakil kuasa penuh) apabila
+diminta dalam mesyuarat.
+Kegagalan petender atau sekutu mematuhi terma ini
+dianggap sebagai pelanggaran kritikal syarat kontrak
+tender ini dan boleh didenda.
+Petender mesti menyediakan senarai lengkap pasukan
+projek yang terlibat beserta peranan setiap ahli. Ahli
+pasukan mestilah sama atau setara keupayaan
+kompetensinya sepertimana dalam tawaran dan struktur
+awal di LAMPIRAN A-02.
+Sebarang pertukaran ahli pasukan petender semasa
+projek telah bermula atau sedang berjalan perlu
+dimaklumkan oleh petender secara rasmi dan mendapat
+persetujuan bertulis UMPSA.
+(iii) Pengurus projek petender mesti mempunyai
+pengalaman mengurus sekurang-kurangnya tiga (3)
+projek yang setara dalam teknologi yang sama dengan
+tender ini.
+
+## ...Hanizam Bin Abdul Kassim"
+
+Tandatangangaklumat
+Pegawan Pensyarah bertanggungjawab
+Universiti Malaysia Pahang Al-Sultan Abdullah
+Tel: 09-4315232
+Muka Surat | 55
+
+## (Form/Bend/Up/007)
+
+
+## Maklumbalas / Spesifikasi Syarikat
+
+
+## Ash Dhin Abubakar
+
+TS. Tandatangan & Cop
+Peng Dekan / Ketua Jabatan
+Pusat Teknologi
+Universiti Malaysia Pahany Al-Sultan Abdullah
+Tel : 09-4315236
+
+
+--- Page 91 ---
+
+
+
+## No. Jtict: Jtict/2025 (29)
+
+JABATAN: DiTec
+
+## Universiti Malaysia Pahang Al-Sultan Abdullah
+
+
+## Jadual Penentuan Teknikal
+
+BIL
+
+## Butiran Kerja / Spesifikasi Jabatan
+
+Sila senaraikan 2 projek berkenaan di sini atau melalui
+template profil staf/pengurus di LAMPIRAN A-03.
+(iv) Petender perlu menyediakan satu platform yang khusus
+secara atas talian untuk tujuan pemantauan dan
+pengurusan projek dan segala kos yang berkaitan adalah
+dibawah tanggungjawab Petender
+(v)
+UMPSA tidak menyediakan akses VPN kepada petender.
+Oleh itu petender mestilah merancang pelaksanaan
+projek ini mengikut kesesuaian perkara ini. Petender mesti
+menempatkan sekurang-kurangnya satu (1) unit komputer
+desktop (PC) di premis UMPSA bagi tujuan pengurusan
+projek atau 'remote access'. Sebarang bentuk kemudahan
+'remote access' atau peralatan di UMPSA adalah wajib
+tertakluk kepada syarat/peraturan penggunaannya di
+UMPSA yang petender perlu akur akannya.
+(vi) Segala surat-menyurat, mesyuarat serta minit mesyuarat
+dalam projek ini adalah dalam Bahasa Melayu. Salinan
+dalam Bahasa Inggeris boleh disediakan jika perlu.
+म
+
+## ..Hanizam Bin Abdul Kassim.
+
+Tandatangan & oplaklumat
+Kusat Tekno
+Pegawai Pensyarah bertanggungjawab
+Universit Malaysia Pahang Al-Sultan Abdullan
+Tel : 09-4315232
+Muka Surat | 56
+
+## (Form/Bend/Up/007)
+
+
+## Maklumbalas / Spesifikasi Syarikat
+
+& Cop
+TS. Ketua JabataAR
+Pengarah
+Pusat Teknologi Digital
+Universiti Malaysia Pahang Al-Sultan Abdullah
+Tel: 09-4318200
+
+
+--- Page 92 ---
+
+
+
+## No. Jtict: Jtict/2025 (29)
+
+JABATAN: DiTec
+
+## Universiti Malaysia Pahang Al-Sultan Abdullah
+
+
+## Jadual Penentuan Teknikal
+
+BIL
+
+## Butiran Kerja / Spesifikasi Jabatan
+
+2.2.16 Sokongan Teknikal
+(i)
+Petender mesti menyediakan sokongan teknikal untuk
+sebarang pertanyaan dan masalah yang dihadapi oleh
+UMPSA semasa dalam Tempoh Jaminan.
+(ii)
+Petender mesti menyediakan dokumen
+yang
+memperincikan cadangan Service Level Agreement (SLA)
+bersama dengan tatacara Pengurusan Aduan.
+(iii)
+SLA sokongan teknikal tidak terhad seperti berikut:
+(a) Kadar response time dalam tempoh 4 jam melalui
+telefon dan email.
+(b) Masa penyelesaian masalah dalam tempoh tiga
+(3) hari.
+(c) Lawatan On-site tanpa had bagi Severity 1
+(Mengikut keperluan)
+
+## Hanizam Bin Abdul·Kassim ***
+
+Tandatangan &e@opi Maklumat
+Pegawai Pensyarah bertanggungjawab
+Ouversiti Malaysia Pahang Al-Sultan Abdullah
+Tel : 09-4315232
+Muka Surat | 57
+
+## (Form/Bend/Up/007)
+
+
+## Maklumbalas / Spesifikasi Syarikat
+
+TBAKAR
+TS. MOTandatangan & Cop
+Pengarah Dekan/Ketua Jabatan
+Pusat Teknologi Digital
+Universiti Malaysia Pahang Al-Sultan Abdullah
+Tel : 09-4315238
+
+
+--- Page 93 ---
+
+
+
+## No. Jtict: Jtict/2025 (29)
+
+JABATAN: DiTec
+3.0
+
+## Universiti Malaysia Pahang Al-Sultan Abdullah
+
+
+## Jadual Penentuan Teknikal
+
+Muka Surat | 58
+
+## (Form/Bend/Up/007)
+
+
+## Keupayaan Teknikal Syarikat
+
+Merujuk kepada spesifikasi teknikal, perkataan seperti "OK", "MAKLUM", "SETUJU", "PATUH", "NOTED", "AGREED ",
+"COMPLY" semata-mata atau yang seumpamanya tidak boleh digunakan. Walau bagaimanapun jika perkataan itu perlu
+digunakan, syarikat perlu menyatakan rujukannya. Jika ruangan tidak mencukupi, syarikat boleh membuat lampiran lain.
+Petender perlu menyediakan katalog atau brosur atau risalah atau dokumen tanpa nama syarikat untuk mengesahkan semua
+kenyataan pematuhan terhadap maklumat latar belakang serta keupayaan syarikat sebagai dokumen sokongan. Tawaran akan
+dianggap sebagai tidak mematuhi atau tidak sah jika dokumen sokongan yang berkenaan tidak disertakan.
+Bahagian Keupayaan Teknikal Syarikat ini mengandungi komponen utama seperti berikut:
+3.1
+Pengalaman Syarikat
+Pengalaman syarikat dalam Laravel framework
+3.2
+3.1.1
+Struktur Organisasi Projek dan Pengalaman Ahli
+Petender perlu menjawab dan membekalkan maklumat yang BENAR dan tepat bagi semua komponen berkenaan.
+UMPSA berhak menjalankan semakan dengan pihak ketiga bagi setiap maklumat yang dijawab oleh petender.
+UMPSA berhak untuk menolak dan tidak menilai terus tawaran atau membatalkan kontrak mana-mana petender yang didapati
+mengemukakan maklumat yang palsu atau mengelirukan atau mengandungi unsur penipuan.
+
+## Anizam Bin Abdul Kassim..
+
+Tandatangan & Coplumat
+egawai Pensyarah bertanggungjawab
+Cersiu Malaysia Pahang Al-Sultan Abdullah
+Tel: 09-4315232
+
+## Ts. Mohd Rash Bin Abu Bakar
+
+Pen Tandatangan & Cop
+PustDekan/Ketua Jabatan
+Universiti Malaysia Pahang Al-Sultan Abdullah
+Tel : 09-4315238
+
+
+--- Page 94 ---
+
+
+
+## No. Jtict: Jtict/2025 (29)
+
+JABATAN: DiTec
+
+## Universiti Malaysia Pahang Al-Sultan Abdullah
+
+
+## Jadual Penentuan Teknikal
+
+Berikutnya adalah maklumat lanjut komponen-komponen berkenaan yang perlu DIJAWAB/DIKEMUKAKAN.
+BIL
+Muka Surat | 59
+
+## (Form/Bend/Up/007)
+
+
+## Butiran Kerja / Spesifikasi Jabatan
+
+
+## Maklumbalas / Spesifikasi Syarikat
+
+3.1
+
+## Pengalaman Syarikat
+
+3.1.1 Pengalaman Syarikat dalam Laravel framework.
+(i)
+Sila nyatakan:
+(a)
+Berapa tahun syarikat/petender telah terlibat
+dalam membangunkan sistem
+aplikasi
+berasaskan Laravel framework?
+Jawab ringkas di sini serta sila isikan juga dalam
+lampiran dokumen berasingan di LAMPIRAN A-
+03.
+
+## Hanizam Bin Abdul Kassim
+
+Tandatangan &@lapMaklumat
+awa pensyarah bertanggungjawab
+Pegawal
+Malaysia Pahang Al-Sultan Abdullah
+Tel: 09-4315232
+TS.
+Tandatangan & COPAKAR
+Dekan/Ketua
+Pengaran
+Pusat Teknologi Digital
+Universiti Malaysia Pahang Al-Sultan Abdullah
+Tel : 09-431523
+
+
+--- Page 95 ---
+
+
+
+## No. Jtict: Jtict/2025 (29)
+
+JABATAN: DiTec
+
+## Universiti Malaysia Pahang Al-Sultan Abdullah
+
+
+## Jadual Penentuan Teknikal
+
+BIL
+
+## Butiran Kerja / Spesifikasi Jabatan
+
+(b)
+Berapa jumlah projek pembangunan sistem
+aplikasi berasaskan Laravel framework yang
+telah dianugerahkan oleh pelanggan atau pihak
+lain kepada petender dalam tempoh lima (5)
+tahun lalu?
+Jawab ringkas di sini serta sila buktikan juga
+dalam lampiran dokumen berasingan di
+
+## Lampiran A-03.
+
+(c)
+Berapa jumlah kakitangan petender yang mahir
+dalam pembangunan aplikasi berasaskan
+Laravel framework?
+Jawab ringkas di sini serta sila buktikan juga
+dalam lampiran dokumen berasingan di
+
+## Lampiran A-02.
+
+
+## Hanizam.Bin Abdul Kasshm...
+
+Tandatangan &@opMaklumat
+Pusat Teki
+Pegawai Pensyarah bertanggungjawab
+Universiti Malaysia Pahang Al-Sultan Abdullah
+Tel : 09-4315232
+Muka Surat | 60
+
+## (Form/Bend/Up/007)
+
+
+## Maklumbalas / Spesifikasi Syarikat
+
+TS. McTandatangan & COPAR
+PengaraDekan / Ketua Jabatan
+Pusat Teknologi Digital
+Universiti Malaysia Pahang Al-Sultan Abdullah
+Tel : 09-431523
+
+
+--- Page 96 ---
+
+
+
+## No. Jtict: Jtict/2025 (29)
+
+JABATAN: DiTec
+
+## Universiti Malaysia Pahang Al-Sultan Abdullah
+
+
+## Jadual Penentuan Teknikal
+
+BIL
+
+## Butiran Kerja / Spesifikasi Jabatan
+
+
+## 3.2 Struktur Organisasi Projek Dan Pengalaman Ahli
+
+3.2.1 Struktur Organisasi Projek
+3.2.2
+(i)
+a) Sila isikan template LAMPIRAN A-04 dengan
+nama kakitangan/anggota pasukan petender
+yang akan melaksanakan projek di bawah tender
+ini nanti.
+Pengalaman Ahli Pasukan
+(i)
+a) Sila isi maklumat pengalaman SETIAP
+kakitangan/ahli pasukan petender
+dinyatakan di item 3.2.1) menggunakan
+template di LAMPIRAN A-02.
+(yang
+
+## Hanizam Bin Abdul Kassim
+
+Kanan Teknologi Maklumat
+Tandatangan & Cop
+bertanggungjawab
+Pegawai Pensyarah bertang
+Tel: 09-4315232
+Muka Surat | 61
+
+## (Form/Bend/Up/007)
+
+
+## Maklumbalas / Spesifikasi Syarikat
+
+
+## Ts Mohd Rashid Bin Abu Bakar
+
+Pevarah
+Peknologi Digital
+1.Malayala Bahang Al-Sultan Abdullah
+TS. MODekangan & CoDR
+Pengarah
+Pusa
+Uni
+/ Ketua Jabatan
+الحان
+A-Sulan Abdullah
+
+
+--- Page 97 ---
+
+
+
+## No. Jtict: Jtict/2025 (29)
+
+JABATAN: DiTec
+
+## Universiti Malaysia Pahang Al-Sultan Abdullah
+
+
+## Jadual Penentuan Teknikal
+
+4.0
+Muka Surat | 62
+
+## (Form/Bend/Up/007)
+
+
+## Penghantaran Dan Masa
+
+Merujuk kepada spesifikasi teknikal, perkataan seperti "OK", "MAKLUM", "SETUJU", "PATUH", "NOTED", "AGREED ",
+"COMPLY" semata-mata atau yang seumpamanya tidak boleh digunakan. Walau bagaimanapun jika perkataan itu perlu
+digunakan, syarikat perlu menyatakan rujukannya. Jika ruangan tidak mencukupi, syarikat boleh membuat lampiran lain.
+Petender perlu menyediakan katalog atau brosur atau risalah atau dokumen untuk mengesahkan semua kenyataan pematuhan
+terhadap maklumat latar belakang serta keupayaan syarikat sebagai dokumen sokongan. Tawaran akan dianggap sebagai tidak
+mematuhi atau tidak sah jika dokumen sokongan yang berkenaan tidak disertakan.
+Bahagian Penghantaran dan Masa ini mengandungi komponen utama seperti berikut:
+4.1 Technical Deliverables
+4.2
+Tempoh Siap
+4.3
+Denda
+4.4
+Tempoh Jaminan
+Petender perlu mematuhi semua komponen berkenaan.
+Berikutnya adalah maklumat lanjut komponen-komponen berkenaan yang diperlukan.
+
+## Hanlambin Abdul Kassim
+
+Kanan Teknologi Maklumat
+Tandatanga
+Pegawai dimensyarah bertanggungjawab
+Tel : 09-4315232
+
+## Ts. Mohd Raainabu Bakar
+
+Peng
+Tandatangan & Cop
+Dekan
+Ketua Jabatan
+Universh Many arially Al-Sultan Abdullah
+Tel: 09-4315236
+
+
+--- Page 98 ---
+
+
+
+## No. Jtict: Jtict/2025 (29)
+
+JABATAN: DiTec
+
+## Universiti Malaysia Pahang Al-Sultan Abdullah
+
+
+## Jadual Penentuan Teknikal
+
+BIL
+
+## Butiran Kerja / Spesifikasi Jabatan
+
+4.1
+Technical Deliverables
+Petender yang berjaya/dipilih mesti menyediakan suatu senarai
+'deliverables' teknikal projek/tender ini yang mestilah turut merangkumi:
+4.1.1
+Sistem Pengurusan Mesyuarat
+4.1.2
+Akaun dan credential Laravel Shift
+4.1.3
+Mesyuarat Kick-off projek/pelaksanaan
+4.1.4
+Bengkel
+4.1.5
+Pelan Pelaksanaan
+4.1.6
+Cadangan Rekabentuk UI/UX
+4.1.7
+Senarai latihan dan jadual latihan
+4.1.8
+Dokumen-dokumen kajian dan pematuhan keperluan
+seperti BRS, SRS dan SDS.
+4.1.9
+4.1.10
+Senarai dokumen berkaitan pengujian sistem aplikasi
+seperti 'test scripts', 'test case', UAT, PenTest, FAT dan
+seumpamanya.
+Senarai dokumentasi dan manual pengguna
+
+## Anizam Bin Abdul Kassim..
+
+pgi Maklumat
+Tandatangan & Cop
+nologi Digital
+Pegawai Pensyarah bertanggungjawab
+Malaysia Pahang Al-Sultan Abdullah
+Tel: 09-4315232
+Muka Surat | 63
+
+## (Form/Bend/Up/007)
+
+
+## Maklumbalas / Spesifikasi Syarikat
+
+
+## Ts. Mohd Rashanabu Bakar
+
+Penga Tandatangan & Cop
+Pusat Dekan Ketua Jabatan
+Universiti Malaysia Pahang Al-Sultan Abdullah
+Tel : 09-4315230
+
+
+--- Page 99 ---
+
+
+
+## No. Jtict: Jtict/2025 (29)
+
+JABATAN: DiTec
+
+## Universiti Malaysia Pahang Al-Sultan Abdullah
+
+
+## Jadual Penentuan Teknikal
+
+Muka Surat | 64
+
+## (Form/Bend/Up/007)
+
+BIL
+
+## Butiran Kerja / Spesifikasi Jabatan
+
+
+## Maklumbalas / Spesifikasi Syarikat
+
+4.1.11
+Dokumen/surat jaminan pematuhan terhadap 'Coding
+Standard & Convention' oleh petender beserta perincian
+contoh pelaksanaan.
+4.1.12
+4.1.13
+4.1.14
+Surat dan dokumen-dokumen pentauliahan.
+Surat dan dokumen sahjamin serta seumpamanya.
+Satu (1) unit komputer desktop ditempatkan di premis
+UMPSA.
+4.2
+4.1.15
+Lain-lain yang jika ada dinyatakan dalam dokumen tender
+ini atau diputuskan dalam bengkel tender dengan
+persetujuan bersama.
+Tempoh Siap
+4.2.1.
+4.2.2.
+Semua kerja-kerja yang terlibat mestilah dilaksanakan
+mengikut tempoh yang ditetapkan iaitu lapan bulan (8)
+bulan.
+Petender perlu menghantar pelan dan jadual pelaksanaan
+keseluruhan projek (menggunakan Gantt Chart) yang
+merangkumi kerja-kerja:
+Pelaksanaan projek.
+(i)
+(ii)
+Serahan dokumentasi projek.
+
+## Hanizam Bin Abdul Kassim.....
+
+Tandatangann&eGopi Maklumat
+Pegawai Pensyarah bertanggungjawab
+Universiti Malaysia Pahang Al-Sultan Abdullah
+Tel : 09-4315232
+TS. MOHTandatangan & Cop
+Pengarah Dekan / Ketua Jabatan
+Pusat Teknich gi Digital
+Universiti Malays. Pahang Al-Sultan Abdullah
+Tel : 09-43 15236
+
+
+--- Page 100 ---
+
+
+
+## No. Jtict: Jtict/2025 (29)
+
+JABATAN: DiTec
+
+## Universiti Malaysia Pahang Al-Sultan Abdullah
+
+
+## Jadual Penentuan Teknikal
+
+BIL
+4.2.3.
+
+## Butiran Kerja / Spesifikasi Jabatan
+
+(iii)
+(iv)
+Pelaksanaan latihan.
+Lain-lain perkara yang tidak dinyatakan di atas
+(yang berkaitan).
+Penetapan tarikh, masa, perlanjutan masa, penamatan
+tempoh atau seumpamanya berkaitan pelaksanaan projek
+dalam jadual penentuan teknikal ini mestilah berdasarkan
+surat rasmi atau dokumen rasmi yang dikeluarkan oleh
+Jabatan Bendahari UMPSA. Permohonan yang berkaitan
+perkara ini perlu dikemukakan oleh petender kepada
+Jabatan Bendahari UMPSA.
+4.3 Denda
+4.3.1
+UMPSA berhak mendenda petender jika berlaku kelewatan
+dalam penghantaran mana-mana item di
+projek/tender ini.
+dalam
+4.3.2
+Nilaian denda adalah tertakluk kepada pihak UMPSA.
+A
+
+## ……..Hinzam Bin Abdul Kassim.
+
+Tandatangan &noplaklumat
+Pegawai Pensyarah bertanggungjawab
+Siversiti Malaysia Pahang Al-Sultan Abdullan
+Tel : 09-4315232
+Muka Surat | 65
+
+## (Form/Bend/Up/007)
+
+
+## Maklumbalas / Spesifikasi Syarikat
+
+
+## Ts. Mohd Ra
+
+PengTandatangan & COPAKAR
+Pusat Dekan
+ekan/Ketua
+Jabatan
+Universiti Malaysia Pahang Al-Sultan Abdullah
+Tel : 09-4315230
+
+
+--- Page 101 ---
+
+
+
+## No. Jtict: Jtict/2025 (29)
+
+JABATAN: DiTec
+
+## Universiti Malaysia Pahang Al-Sultan Abdullah
+
+
+## Jadual Penentuan Teknikal
+
+BIL
+
+## Butiran Kerja / Spesifikasi Jabatan
+
+4.4 Tempoh Jaminan
+4.4.1
+4.4.2
+4.4.3
+Perkara ini perlu dibaca bersama item 1.3 dan meliputi
+segala aspek 'warranty', 'maintenance' dan 'support'.
+Tempoh jaminan bagi kerja-kerja, pemasangan dan
+konfigurasi, integrasi, pengujian, pelaksanaan dan
+pentauliahan adalah dua belas (12) bulan bermula setelah
+penerimaan akhir (Final Acceptance Test - FAT) telah
+dilakukan dengan jayanya.
+-
+Petender perlu menyediakan platform yang terurus secara
+online bagi tujuan pengurusan aduan dan isu-isu
+sepanjang tempoh jaminan.
+Muka Surat | 66
+
+## (Form/Bend/Up/007)
+
+
+## Maklumbalas / Spesifikasi Syarikat
+
+
+## Hanizam Bin Abdul Kassim
+
+Tandatangan &lumat
+Pegawai Pensyarah bertanggungjawab
+Universiti Malaysia Pahang Al-Sultan Abdullah
+Tel : 09-4315232
+
+## Ts. Mohd Rashid Abu Bakar
+
+PengaraiTandatangan & Cop
+Pusat Tel
+Dekan / Ketua Jabatan
+Universiti Malaysia Pahang Al-Sultan Abdullah
+Tel : 09-431523
+
+
+--- Page 102 ---
+
+
+
+## No. Jtict: Jtict/2025 (29)
+
+JABATAN: DiTec
+
+## Universiti Malaysia Pahang Al-Sultan Abdullah
+
+
+## Jadual Penentuan Teknikal
+
+Muka Surat | 67
+
+## (Form/Bend/Up/007)
+
+
+## Lampiran A-01
+
+1. Login
+2. Modul E-
+Authorization
+3. Meeting
+Registration
+4. Modul
+E-Takwim
+5. Modul
+E-Committee
+6. Modul E-Paper
+Meeting
+7. Module E-
+Decision Meeting
+8. Modul E-
+Minutes
+9. Module E-
+Progress Minutes
+
+## E-Meeting Depository Module
+
+2.1 All set-up
+
+## Overview Meeting Management
+
+Review & Approval
+3.1 Set up tier of meeting
+3.2 Meeting Set-Up:
+Lazim, khas dan Edaran
+3.2.1 Panggilan Mesyuarat
+(Lazim/Khas)
+3.2.2 Meeting Secara Edaran
+4.1 Taqwim Set-up
+3.3 Meeting Notice
+5.1 Appointment
+5.2 Committee Set-Up
+5.3 Attendance
+6.1 Call For Papers
+6.2 Paper submission
+6.3 Meeting Agenda Notice
+7.1 Distribute
+8.1 Draft Minutes
+8.2 Review by Comm
+8.3 Ammendments 8.4 Distribute
+9.1 Call For Progress
+9.2 Progress submission
+9.3 Ammendments
+10. Module E-
+Cabutan
+10.1 Application
+
+## Hanizam Bin Abdul Kassim. •
+
+Tandatangan&Copaklumat
+Pegawai Pensyarah bertanggungjawab
+Civersiti Malaysia Pahang Al-Sultan Abdullah
+Tel : 09-4315232
+10.2 Distribute
+-
+
+## Output Depository Is Input For
+
+
+## Meeting Document & References
+
+E- MEETING
+E-MINUTES
+E-PAPER
+E-RESPOND
+Tandatanga & Cop
+TS. MDekan Ketua Jabatan
+Pengarah
+Pusat Teknologi Digital
+Universiti Malaysia Pahang Al-Sultan Abdullah
+Tel : 09-4315230
+
+
+--- Page 103 ---
+
+
+
+## No. Jtict: Jtict/2025 (29)
+
+JABATAN: DiTec
+
+## Universiti Malaysia Pahang Al-Sultan Abdullah
+
+
+## Jadual Penentuan Teknikal
+
+Muka Surat | 68
+
+## (Form/Bend/Up/007)
+
+Sediakan dan sertakan maklumat ini bagi setiap kakitangan/ahli pasukan petender dalam tawaran petender.
+
+## Lampiran A-02
+
+[Untuk diisi oleh petender]
+Resume Ahli Pasukan Projek (Petender)
+Maklumat diperlukan
+Maklumbalas
+1.
+Nama pertama (First name):
+[mengikut kad pengenalan atau passport]
+2.
+Status warganegara:
+3.
+Usia pada tahun 2025:
+4.
+Adakah boleh memahami Bahasa Melayu?
+5.
+Tahap pendidikan/kelulusan akademik:
+6.
+Tempat pendidikan/kelulusan akademik:
+7.
+Jawatan di syarikat/organisasi petender:
+
+## Hanizam Bin Abdul Kassim.
+
+- Eksekutif k
+Tandatangan & Coaklumat
+Pusat teknolog Digital.
+Pegawai Pensyarah bertanggungjawab
+Tel : 09-4315232
+Al-Sultan Abdullah
+
+## Ts. Mohd Rashanabu Bakar
+
+Pengar Tandatangan & Cop
+Pusat Tekulani Dinik
+Dekan Ketua Jabatan
+Universit malayoise Panang 41 Sulton Abdullah
+Tel : 09-431523a
+
+
+--- Page 104 ---
+
+
+
+## No. Jtict: Jtict/2025 (29)
+
+JABATAN: DiTec
+
+## Universiti Malaysia Pahang Al-Sultan Abdullah
+
+
+## Jadual Penentuan Teknikal
+
+Maklumat diperlukan
+8.
+Tempoh bertugas di syarikat/organisasi petender:
+9.
+Tempoh (tahun) pengalaman dalam bidang tugas:
+10. Tempoh (tahun) pengalaman dalam pembangunan/projek aplikasi
+web:
+11. Tempoh (tahun) pengalaman dalam penggunaan Laravel
+framework:
+12. Persijilan profesional (professional certificate/credential) yang
+diperolehi:
+13. Kepakaran lain (jika ada):
+Maklumbalas
+Muka Surat | 69
+
+## (Form/Bend/Up/007)
+
+
+## Zam Bin Abdul Kassim****
+
+Tandatangan & Maklumat
+Pegawai Pensyarah bertanggungjawab
+Universiti Malaysia Pahang Al-Sultan Abdullah
+Tel: 09-4315232
+
+## Ts. Mohd Ras
+
+
+## Rin Abubakar
+
+PengeTandatangan & Cop
+Pusat texnalog D
+Dekan Ketua Jabatan
+Universi Wilayahang Ai Sultan Abdullah
+Tel : 09-4315238
+
+
+--- Page 105 ---
+
+
+
+## No. Jtict: Jtict/2025 (29)
+
+JABATAN: DiTec
+
+## Universiti Malaysia Pahang Al-Sultan Abdullah
+
+
+## Jadual Penentuan Teknikal
+
+No.
+Nama Projek
+Muka Surat | 70
+
+## (Form/Bend/Up/007)
+
+
+## Senarai Projek Berasaskan Laravel Yang Pernah Terlibat
+
+
+## Lampiran A-03
+
+[Untuk diisi oleh petender]
+Tahun
+Tempoh
+Projek
+Nilai Projek Teknologi Organisasi / Pelanggan /
+(RM)
+Pihak Yang
+Menganugerah Projek
+Rujukan untuk
+dihubungi
+(nama, nombor
+telefon, email)
+
+## Zam Bin Abdul Kassim
+
+Kanan Teknologi Maklumat
+Tandatangan & Cop
+Digital
+Pegawai / Pensyarah bertanggungjawab
+Tel : 09-4315232
+
+## Ts. Mohd Rash An Abubakar
+
+Pengar Tandatangan & Cop
+Pusat Dekan Ketua Jabatan
+Universiti Malaysia Pahang Al-Sultan Abdullah
+Tel : 09-4315236
+
+
+--- Page 106 ---
+
+
+
+## No. Jtict: Jtict/2025 (29)
+
+JABATAN: DiTec
+
+## Universiti Malaysia Pahang Al-Sultan Abdullah
+
+
+## Jadual Penentuan Teknikal
+
+Struktur Organisasi Pasukan Projek (Petender)
+Muka Surat | 71
+
+## (Form/Bend/Up/007)
+
+
+## Lampiran A-04
+
+[Untuk diisi oleh petender]
+
+## Hanizam Bin Abdul Kassim.
+
+Tandatangan & Cop
+•Exsekutif Kanan Teknologi Maklumat
+Pegawai Pensyarah b
+Tel : 09-4315232
+faran bertanggungjawab
+TS. Mandata BUBAKAR
+Pengarah
+gan & Cop
+Dekan/Ketua Jabatan
+Pusat Targe
+Universi Malaysia Shang A-Sultan Abdullah
+Tel : 09-4315236
+
+
+---
+
+## Document Information
+
+**Source:** DOKUMEN UMPSA BEND SH 2026 (2) - Jilid.pdf
+**Extraction Date:** 2026-02-21 06:23:16
+**OCR Engine:** Google Cloud Vision API
+
+*Extracted using pdf-extract skill with Google Vision*
